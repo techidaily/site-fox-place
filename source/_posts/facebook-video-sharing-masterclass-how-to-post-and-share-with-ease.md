@@ -1,7 +1,7 @@
 ---
 title: "Facebook Video Sharing Masterclass: How to Post and Share with Ease"
-date: 2024-09-18 15:52:32
-updated: 2024-09-20 11:45:26
+date: 2024-09-14T19:55:00.561Z
+updated: 2024-09-19T22:22:40.021Z
 tags:
   - product
 categories:
@@ -58,6 +58,13 @@ Action Tutorials
 
 ![Mirillis Action! - exporting video recordings to Facebook - export button](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_facebook_screen_recording_button.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Exporting settings 
 
 **"Facebook "** output profile should be automatically selected. For recordings in AVI format you can Adjust a few export settings if required. Action! automatically remembers exporting and uploading settings making things easy when you will export your video recordings to Facebook next time.
@@ -76,11 +83,32 @@ Action Tutorials
 
 ![Mirillis Action! - Accounts Manager -  Facebook - log in](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_account_manager_facebook.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Uploading to Facebook settings 
 
  Fill in "Title" and "Description", set your video Facebook "Privacy" and click **"START"** button. 
 
 ![Mirillis Action! - exporting video recordings to Facebook - start export](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_facebook_start.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Exporting 
 
@@ -94,6 +122,13 @@ Action Tutorials
 
 ![Mirillis Action! - exporting video recordings to Facebook - uploading](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_facebook_uploading.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Upload completed 
 
  Click **"Open in browser"** button to open web browser and watch your video recording on Facebook. Please note that your video recording may not be available instantly after the upload. Facebook may require some time to process uploaded video recording. 
@@ -105,8 +140,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
