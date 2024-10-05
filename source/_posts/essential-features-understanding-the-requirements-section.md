@@ -1,7 +1,7 @@
 ---
 title: "Essential Features: Understanding the Requirement's Section"
-date: 2024-09-27T19:10:33.206Z
-updated: 2024-09-30T11:37:05.842Z
+date: 2024-10-02T21:24:53.437Z
+updated: 2024-10-05T16:46:18.504Z
 tags:
   - user-guide
 categories:
@@ -78,6 +78,13 @@ Table of Contents
 
 In this section, you can specify the amount of time and space required by the program to run on the client machine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Estimated disk space
 
 In this field, you can specify the amount of disk space the program requires to run on the client computer.
@@ -91,10 +98,10 @@ This field allows you to specify the estimated time (in minutes) that the progra
 By default, this value is empty meaning the estimated time is**unknown** and can be set as a whole number greater than zero to specify an estimated time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Additional Requirements
@@ -102,44 +109,25 @@ By default, this value is empty meaning the estimated time is**unknown** and can
 In this field, you can write **optional** text that can include any other information or requirements for client computers.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Platforms
 
 In this section you can choose the platform and operating system on which the program will run.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### This program can run on any platform
 
 If this option is enabled the program will run both on 32 and 64-bits platforms and on **all** Microsoft Windows versions.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### This program can run only on the following platforms:
@@ -229,17 +217,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-content-on-youtube-a-detailed-tutorial/"><u>[Updated] Streamline Your Content on YouTube A Detailed Tutorial</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-affiliates-a-roadmap-to-financial-growth-for-2024/"><u>[Updated] Video Affiliates A Roadmap to Financial Growth for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-master-full-stack-development-with-vue-and-laravel-professional-edition-pro-level-integration-of-vue-laravel-and-json-api-by-creative-tim/"><u>1. Master Full Stack Development with Vue and Laravel Professional Edition: Pro-Level Integration of Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-personalized-page-count-to-your-pdf-books-with-flipbuilders-features/"><u>Adding Personalized Page Count to Your PDF Books with FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-place.techidaily.com/blackdashboard-pro-advanced-bootstrap-4-admin-panel-for-django-created-by-creative-tim/"><u>BlackDashboard Pro: Advanced Bootstrap 4 Admin Panel for Django - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi 13T Pro</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>In 2024, The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-mirilli-a-deep-dive-into-user-guides-and-end-user-license-agreements/"><u>Mastering Mirilli: A Deep Dive Into User Guides and End-User License Agreements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-outlook-responses-a-windows-fix-guide/"><u>Quick Outlook Responses: A Windows Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-resolving-keyboard-problems-on-hp-computers-fast/"><u>Troubleshoot & Repair: Resolving Keyboard Problems on HP Computers Fast!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>[New] A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-lenovo-screen-casting/"><u>[Updated] Effortless Lenovo Screen Casting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-voice-memo-recording-on-your-iphone-for-2024/"><u>[Updated] Effortless Voice Memo Recording on Your iPhone for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expert-strategies-for-enhanced-media-experience-with-vlc/"><u>2024 Approved Expert Strategies for Enhanced Media Experience with VLC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-nostalgia-revue-old-school-review-of-the-goofys/"><u>2024 Approved Nostalgia Revue Old-School Review of The Goofys</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>2024 Approved Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-methods-to-transform-ape-audio-files-into-mp3/"><u>Effortless Methods to Transform APE Audio Files Into MP3</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-filmless-to-film-rich-digitizing-yesteryears-images-for-2024/"><u>From Filmless to Film-Rich Digitizing Yesteryears' Images for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-set-up-apps-to-launch-at-boot-on-windows-desktops/"><u>How to Set Up Apps to Launch at Boot on Windows Desktops</u></a></li>
+<li><a href="https://fox-place.techidaily.com/managing-iis-collections-a-comprehensive-guide/"><u>Managing IIS Collections: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-and-simple-guide-converting-m4a-files-into-wma-format/"><u>Quick & Simple Guide: Converting M4A Files Into WMA Format</u></a></li>
+<li><a href="https://fox-place.techidaily.com/smart-techniques-for-extracting-video-content-from-telegram-channels/"><u>Smart Techniques for Extracting Video Content From Telegram Channels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-image-recognition-fail-in-your-iphones-visual-search/"><u>Why Does Image Recognition Fail in Your iPhone's Visual Search?</u></a></li>
 </ul></div>
 

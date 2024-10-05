@@ -1,7 +1,7 @@
 ---
 title: Advanced XAML Element Search Techniques
-date: 2024-09-24T19:54:46.833Z
-updated: 2024-09-29T16:54:08.345Z
+date: 2024-10-02T16:35:40.537Z
+updated: 2024-10-05T16:09:00.500Z
 tags:
   - user-guide
 categories:
@@ -125,32 +125,25 @@ Table of Contents
 ## IXmlElementSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IXmlElementSearch : IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface is meant to edit an XML element search.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +155,10 @@ This interface is meant to edit an XML element search.
 **Array<IXmlElementSearchLocator> Locators** \- Gets the collection of locators.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -181,6 +174,19 @@ Creates new child element.
 
 **DeleteLocator(IXmlElementSearchLocator \* aElement)**  
 Deletes locator.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -221,20 +227,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq-for-2024/"><u>[New] Monitor Metamorphosis From Standard to Stunning With ASUS MG28UQ for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-uncover-tiktoks-15-most-popular-movements/"><u>[Updated] 2024 Approved Uncover TikTok's 15 Most Popular Movements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-clear-recording-software-for-windows-10-users/"><u>[Updated] In 2024, Clear Recording Software for Windows 10 Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-master-full-stack-development-with-vue-and-laravel-professional-edition-pro-level-integration-of-vue-laravel-and-json-api-by-creative-tim/"><u>1. Master Full Stack Development with Vue and Laravel Professional Edition: Pro-Level Integration of Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cost-assessment-for-producing-track-driven-videos/"><u>2024 Approved Cost Assessment for Producing Track-Driven Videos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/activate-your-mirillis-account-with-ease-key-reminders-and-tips/"><u>Activate Your Mirillis Account with Ease: Key Reminders & Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/blackdashboard-pro-advanced-bootstrap-4-admin-panel-for-django-created-by-creative-tim/"><u>BlackDashboard Pro: Advanced Bootstrap 4 Admin Panel for Django - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/consistency-is-key-ensure-that-units-are-consistent-on-both-sides-of-your-scale-ratio-when-performing-calculations/"><u>Consistency Is Key; Ensure that Units Are Consistent on Both Sides of Your Scale Ratio when Performing Calculations.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/facebook-video-sharing-masterclass-how-to-post-and-share-with-ease/"><u>Facebook Video Sharing Masterclass: How to Post and Share with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/large-language-models-explained-unraveling-their-complex-algorithms-and-workflow-mechanisms/"><u>Large Language Models Explained: Unraveling Their Complex Algorithms & Workflow Mechanisms</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-mirilli-a-deep-dive-into-user-guides-and-end-user-license-agreements/"><u>Mastering Mirilli: A Deep Dive Into User Guides and End-User License Agreements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-integration-merging-hp-officejet-8720-with-pcs/"><u>Stepwise Integration: Merging HP Officejet 8720 with PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-mislabelled-memories-how-to-amend-incorrectly-identified-subjects-in-the-iphones-photos-application/"><u>Troubleshoot Mislabelled Memories: How to Amend Incorrectly Identified Subjects in the iPhone's Photos Application</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/untangling-aerial-vehicles-a-guide-to-drones-operation-for-2024/"><u>Untangling Aerial Vehicles A Guide to Drones' Operation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-du-recorder-features-and-review-for-2024/"><u>[New] Du Recorder Features and Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-teachers-guide-to-use-video-in-teaching/"><u>[New] Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-10-best-webcams-to-enhance-your-podcast-experience/"><u>2024 Approved 10 Best Webcams to Enhance Your Podcast Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ou-need-to-know-about-youtube-shorts-fund-for-2024/"><u>All You Need to Know About YouTube Shorts Fund for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customize-components-rules-and-preferences-through-admin-control-panel/"><u>Customize Components' Rules & Preferences Through Admin Control Panel</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-steps-transforming-your-audio-files-from-ogg-format-to-compatible-mp3/"><u>Easy Steps: Transforming Your Audio Files From OGG Format to Compatible MP3</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-techniques-to-restore-lost-footage-on-your-android-device/"><u>Easy Techniques to Restore Lost Footage on Your Android Device</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-your-programs-with-advanced-edit-parameter-options/"><u>Enhancing Your Programs with Advanced Edit Parameter Options</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-7-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 7 Plus?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-meizu-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Meizu Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-c53-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme C53 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-your-website-enhancing-security-with-ssl-configuration/"><u>Optimizing Your Website: Enhancing Security with SSL Configuration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-saves-the-day-resolving-minecraft-unresponsiveness/"><u>PC Gaming Saves the Day: Resolving Minecraft Unresponsiveness</u></a></li>
+<li><a href="https://fox-place.techidaily.com/practical-techniques-for-isolating-sound-from-visual-media/"><u>Practical Techniques for Isolating Sound From Visual Media</u></a></li>
+<li><a href="https://fox-place.techidaily.com/proven-techniques-efficiently-cleaning-up-your-photos-by-eliminating-unwanted-elements/"><u>Proven Techniques: Efficiently Cleaning Up Your Photos by Eliminating Unwanted Elements</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-to-converting-your-videos-from-webm-to-avi-format/"><u>Step-by-Step Guide to Converting Your Videos From WebM to AVI Format</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-and-setting-up-samsung-960-evo-m2-for-windows-systems/"><u>Step-by-Step Guide: Downloading & Setting Up Samsung ^960 EVO ^M.2 For Windows Systems</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-and-editing-isapi-filter-options-in-iis-manager/"><u>Understanding and Editing ISAPI Filter Options in IIS Manager</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-your-storytelling-potential/"><u>Unlock Your Storytelling Potential</u></a></li>
 </ul></div>
 

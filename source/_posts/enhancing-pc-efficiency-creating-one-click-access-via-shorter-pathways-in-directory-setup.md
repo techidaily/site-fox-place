@@ -1,7 +1,7 @@
 ---
 title: "Enhancing PC Efficiency: Creating One-Click Access via Shorter Pathways in Directory Setup"
-date: 2024-09-23T04:03:32.993Z
-updated: 2024-09-30T10:49:06.670Z
+date: 2024-10-02T18:08:30.365Z
+updated: 2024-10-05T18:21:30.561Z
 tags:
   - user-guide
 categories:
@@ -89,21 +89,22 @@ Table of Contents
 
  Advanced Installer supports three types of targets for its shortcuts: URLs, installed files and external files which are already present on the target machine (this includes Uninstall shortcuts). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new shortcut using a wizard
 
 ![New Shortcut Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Shortcut Wizard")Use the \[New Shortcut Wizard \] toolbar button, to quickly and easily create a new shortcut, following step-by-step directions.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to an installed file
@@ -114,50 +115,36 @@ The new shortcut will be created by default in the “Application Shortcut Folde
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of MSIX builds, shortcuts that are configured to be installed on Desktop will be created when the user launches the app for the first time.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a shortcut to an external file
 
 Use the “New Shortcut To > External File...” list context menu item. A special type of external file shortcuts (Uninstall Shortcuts) can be created from the same context sub menu as well.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this type of shortcut is being used, in the [Shortcut Properties View](https://tools.techidaily.com/advancedinstaller/products/), the _Shortcut Target_ field must begin with a property. Otherwise, the shortcut will **not** be created. The property can point to a location or a file. For example:\[WindowsVolume\]\\My\_App.exe
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a shortcut to a URL
 
 Use the “New Shortcut To > URL...” list context menu item. To change the shortcut properties use [Internet Shortcut Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a shortcut to a folder
 
 Use the \[New Shortcut... \] toolbar button, the “New Shortcut” list/tree context menu item. If a folder is selected in the tree , it will become the new shortcut's target, otherwise you will be prompted to select a folder to fulfill that role using the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting shortcut properties
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” list context menu item, press the Enter key while a shortcut is selected in the “Files” panel or double click on a shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Shortcuts can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
@@ -165,6 +152,13 @@ Use the \[New Shortcut... \] toolbar button, the “New Shortcut” list/tree co
 ### Duplicating shortcuts
 
 Drag and drop the shortcuts to the desired location, while theShift key is pressed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition the shortcut's installation
 
@@ -178,6 +172,13 @@ Another way to condition the installation of a shortcut is to use the "Shortcuts
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Name
 * Description
 * ShowCmd
@@ -186,13 +187,6 @@ Another way to condition the installation of a shortcut is to use the "Shortcuts
 * IconIndex
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see:[Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -234,24 +228,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-avoiding-compression-larger-youtube-videos/"><u>[Updated] Avoiding Compression Larger YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-streaming-elite-9-edition/"><u>2024 Approved Live Streaming Elite #9 Edition</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-innovative-ways-to-transform-e-books-using-flipbuilders-unique-features-flipbuildercom/"><u>Discover Innovative Ways to Transform E-Books Using FlipBuilder's Unique Features [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-steps-to-customize-shadows-on-pages-using-flipbuilder-protip/"><u>Easy Steps to Customize Shadows on Pages Using FlipBuilder ProTip</u></a></li>
-<li><a href="https://fox-place.techidaily.com/edit-your-pdfs-with-zero-cost-the-ultimate-guide-to-a-100-free-online-pdf-editor-for-simple-creation-and-modification/"><u>Edit Your PDFs with Zero Cost: The Ultimate Guide to a 100% FREE Online PDF Editor for Simple Creation & Modification</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-techniques-for-enhancing-flipbook-layouts-without-hiding-content-discover-tips-at-flipbuildercom/"><u>Effective Techniques for Enhancing Flipbook Layouts Without Hiding Content - Discover Tips at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-pdf-page-turning-with-bookmark-creation-discover-flipbuilders-guide/"><u>Effortless PDF Page-Turning with Bookmark Creation - Discover FlipBuilder's Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-sharing-of-your-flipbook-creations-via-email-a-step-by-step-guide-using-flipbuilder/"><u>Effortless Sharing of Your FlipBook Creations via Email - A Step-by-Step Guide [Using FlipBuilder]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/experience-exceptional-designs-with-free-premium-templates-and-advanced-sliding-thumbnails-try-flipbuilder-today/"><u>Experience Exceptional Designs with Free Premium Templates and Advanced Sliding Thumbnails - Try FlipBuilder Today!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-solo-to-synergy-the-pathway-to-linking-your-social-media-on-xbox/"><u>From Solo to Synergy: The Pathway to Linking Your Social Media on Xbox</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-7-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 7 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unifying-online-collaboration-tools-skype-and-zoom/"><u>In 2024, Unifying Online Collaboration Tools Skype & Zoom</u></a></li>
-<li><a href="https://fox-place.techidaily.com/integrating-multimedia-content-adding-flash-and-videos-into-flipbook-ebooks-with-flipbuilder/"><u>Integrating Multimedia Content: Adding Flash and Videos Into Flipbook eBooks with FlipBuilder</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/leveraging-imovie-content-on-the-vimeo-network/"><u>Leveraging iMovie Content on the Vimeo Network</u></a></li>
-<li><a href="https://extra-information.techidaily.com/retro-reflection-self-portraits-with-x-phone/"><u>Retro Reflection Self-Portraits with X Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-ace-2-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-7-hydro-resistant-camcorders-explored/"><u>Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-uhd-capture-the-15-leaders/"><u>[New] 2024 Approved Cutting-Edge UHD Capture – The 15 Leaders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-the-top-8-instagram-schedulers-for-iphone-and-android-users/"><u>[Updated] 2024 Approved Unveiling the Top 8 Instagram Schedulers for iPhone and Android Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-ultimate-guide-to-effortless-xbox-one-image-snaps-for-2024/"><u>[Updated] Your Ultimate Guide to Effortless Xbox One Image Snaps for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-software-solutions-for-capturing-your-android-devices-display/"><u>Best Software Solutions for Capturing Your Android Device's Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-bespoke-exerciplines-via-chatai/"><u>Crafting Bespoke Exerciplines via ChatAI</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialogues-beyond-distance-turkey-and-korea/"><u>Dialogues Beyond Distance: Turkey & Korea</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-tips-and-tricks-for-efficiently-inserting-comments-into-pdf-files/"><u>Expert Tips and Tricks for Efficiently Inserting Comments Into PDF Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-10-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 10 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/rapid-selection-tools-streamline-your-choices/"><u>Rapid Selection Tools - Streamline Your Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/risc-v-cpu-vulnerability-unveiled-the-ghostwrite-bug-enables-hackers-to-gain-elevated-privileges/"><u>RISC-V CPU Vulnerability Unveiled: The GhostWrite Bug Enables Hackers to Gain Elevated Privileges</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-tricks-to-remove-videos-from-your-ipad-without-hassle/"><u>Simple Tricks to Remove Videos From Your iPad Without Hassle</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-easy-peasy-guide-to-using-ifunnys-meme-app-for-2024/"><u>The Easy-Peasy Guide to Using iFunny's Meme App for 2024</u></a></li>
 </ul></div>
 

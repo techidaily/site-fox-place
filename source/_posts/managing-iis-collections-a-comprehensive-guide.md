@@ -1,7 +1,7 @@
 ---
 title: "Managing IIS Collections: A Comprehensive Guide"
-date: 2024-09-28T20:14:27.453Z
-updated: 2024-09-29T23:32:38.289Z
+date: 2024-10-02T20:20:35.172Z
+updated: 2024-10-05T21:58:10.529Z
 tags:
   - user-guide
 categories:
@@ -101,21 +101,7 @@ Table of Contents
 
 ![IIS Collection Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-collection.png "IIS Collection Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Property ID
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Section
 
@@ -124,23 +110,31 @@ The collection you want to modify must be a member of this IIS configuration sec
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct properties of the website/virtual directory/application pool.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
 Specify a name for the collection in which the new item will be added.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Collection Item
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear IIS Collection
 
@@ -151,10 +145,10 @@ The collection item's available fields are displayed in the list. Only those fie
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Value" column is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/); however, you need to insert the property references manually, due to development implementation constraints.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -190,20 +184,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-quick-pics-windows-11s-fast-photo-viewer-for-2024/"><u>[New] Quick Pics Windows 11'S Fast Photo Viewer for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-rhythmcapture-toolkit-a-critical-walkthrough-for-2024/"><u>[New] RhythmCapture Toolkit A Critical Walkthrough for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creating-dynamic-income-streams-adding-interactive-flash-ads-to-ebooks-using-flipbuilders-features/"><u>Creating Dynamic Income Streams: Adding Interactive Flash Ads to eBooks Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-templates-toolbar-position-on-the-top-with-flipbooks-floating-design-techniques/"><u>Customizing Your Template's Toolbar Position on the Top with FlipBook's Floating Design Techniques</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-innovative-ways-to-transform-e-books-using-flipbuilders-unique-features-flipbuildercom/"><u>Discover Innovative Ways to Transform E-Books Using FlipBuilder's Unique Features [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-steps-to-customize-shadows-on-pages-using-flipbuilder-protip/"><u>Easy Steps to Customize Shadows on Pages Using FlipBuilder ProTip</u></a></li>
-<li><a href="https://fox-place.techidaily.com/edit-your-pdfs-with-zero-cost-the-ultimate-guide-to-a-100-free-online-pdf-editor-for-simple-creation-and-modification/"><u>Edit Your PDFs with Zero Cost: The Ultimate Guide to a 100% FREE Online PDF Editor for Simple Creation & Modification</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-techniques-for-enhancing-flipbook-layouts-without-hiding-content-discover-tips-at-flipbuildercom/"><u>Effective Techniques for Enhancing Flipbook Layouts Without Hiding Content - Discover Tips at FlipBuilder.com</u></a></li>
-<li><a href="https://extra-information.techidaily.com/filters-through-windows-10-photos-extracting-picture-moments/"><u>Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-obtaining-canon-scandisk-drivers-at-zero-expense-for-windows-pcs/"><u>Guide to Obtaining Canon ScanDisk Drivers at Zero Expense for Windows PCs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-freestyle-producers-guide-2023s-no-cost-audio-mixing-leaders/"><u>New In 2024, The Freestyle Producers Guide 2023S No-Cost Audio Mixing Leaders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-issue-wpcapdll-file-cannot-be-located/"><u>Resolving the Issue: wpcap.dll File Cannot Be Located</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-on-transforming-vob-files-into-various-video-types-including-mp4-mov-avi-and-wmv/"><u>Step-by-Step Tutorial on Transforming VOB Files Into Various Video Types Including MP4, MOV, AVI & WMV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-step-by-step-tutorial-on-adding-captions-to-tiktok-videos-for-2024/"><u>[New] Step-by-Step Tutorial on Adding Captions to TikTok Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-iosandroid-leading-photo-writing-app-list-for-2024/"><u>[Updated] IOS/Android Leading Photo-Writing App List for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audible-mac-visual-record-functionality-for-2024/"><u>Audible Mac Visual Record Functionality for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/clubhouse-app-the-ultimate-guide-to-accessing-it-from-your-desktop/"><u>Clubhouse App: The Ultimate Guide to Accessing It From Your Desktop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/craft-your-dream-house-with-expert-custom-builder-services/"><u>Craft Your Dream House with Expert Custom Builder Services</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/eenzame-strategieen-om-je-hoe-fotos-samen-te-kombineren-kennis-voor-jouw-vrije-fotografie/"><u>Eenzame Strategieën Om Je Hoe Fotos Samen Te Kombineren - Kennis Voor Jouw Vrije Fotografie</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-level-installation-suite/"><u>Expert-Level Installation Suite</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-hub/"><u>Exploring Computer Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/fast-and-easy-steps-adding-soundtracks-to-mkv-videos/"><u>Fast & Easy Steps: Adding Soundtracks to MKV Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows-for-2024/"><u>The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-3-techniques-for-creating-an-engaging-birthday-video-tutorial-for-facebook/"><u>Top 3 Techniques for Creating an Engaging Birthday Video Tutorial for Facebook</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Effortless File Deletion: Say Goodbye with IRemoveFile"
-date: 2024-09-26T02:15:48.571Z
-updated: 2024-09-30T06:12:13.944Z
+date: 2024-10-03T19:02:55.400Z
+updated: 2024-10-05T18:32:06.143Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface is meant to edit a file removal operation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface is meant to edit a file removal operation.
 IRemoveFile : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -141,10 +141,10 @@ IRemoveFile : IDirectoryMember
 **Bool RemoveNonEmptyFolders** \- Gets or sets the option that enables the removal of non-empty folders that match the specified name.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -184,16 +184,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-look-at-the-top-ranking-1byone-digital-tv-antenna-perfect-for-indoor-use-and-your-budget/"><u>A Comprehensive Look at the Top-Ranking 1Byone Digital TV Antenna - Perfect for Indoor Use and Your Budget.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-disneyplus-entertainment-on-your-tv-using-chromecast/"><u>How to Cast Disney+ Entertainment on Your TV Using Chromecast</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-errors-in-google-nearby-share-app/"><u>Navigating Windows Errors in Google Nearby Share App</u></a></li>
-<li><a href="https://fox-place.techidaily.com/save-and-convert-your-videos-easily-using-viddler-supported-formats-include-mp4-wmv-avi-and-more-on-windows-or-macos/"><u>Save and Convert Your Videos Easily Using Viddler - Supported Formats Include MP4, WMV, AVI & More on Windows or macOS</u></a></li>
-<li><a href="https://fox-place.techidaily.com/save-fox-news-footage-as-mp4wmvavi-easy-download-tools-for-journalism-enthusiasts/"><u>Save Fox News Footage as MP4/WMV/AVI - Easy Download Tools for Journalism Enthusiasts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/seamless-music-shift-from-spotify-to-tidal-discover-two-easy-export-strategies-for-your-playlists/"><u>Seamless Music Shift From Spotify to Tidal: Discover Two Easy Export Strategies for Your Playlists</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-kathtube-content-into-popular-video-formats-like-mp4-mov-avi-flv-and-wmv/"><u>Step-by-Step Guide: Converting KathTube Content Into Popular Video Formats Like MP4, MOV, AVI, FLV & WMV</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-troubleshooting-the-most-elusive-win10-blues/"><u>Tactics for Troubleshooting the Most Elusive Win10 Blues</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-making-triggered-memes-with-filmora-video-editor/"><u>Updated Making Triggered Memes with Filmora Video Editor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>[New] 2024 Approved Aerial Sovereign Unpacking the GoPro Karma System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-social-media-savants-guide-to-stellar-instagram-posts/"><u>[New] In 2024, The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ext-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>[New] Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>[New] Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-popularity-ten-truths-you-need-to-know-about-instagram-reels/"><u>[Updated] 2024 Approved Beyond Popularity Ten Truths You Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://fox-place.techidaily.com/introducing-the-enhanced-apowermanager-v30-discover-its-latest-innovations/"><u>Introducing the Enhanced ApowerManager v3.0: Discover Its Latest Innovations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-writer-and-editorial-strategist-for-engaging-online-content/"><u>Master Writer & Editorial Strategist for Engaging Online Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/slash-your-image-size-top-free-programs-to-shrink-jpeg-files-below-100kb/"><u>Slash Your Image Size: Top Free Programs to Shrink JPEG Files Below 100KB</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-birth-of-meta-redefining-how-we-connect-and-share-online/"><u>The Birth of Meta: Redefining How We Connect and Share Online</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-list-of-elite-pc-maintenance-suites-for-tech-experts/"><u>The Ultimate List of Elite PC Maintenance Suites for Tech Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-techniques-for-successfully-broadcasting-pubg-mobile-gameplay-from-pc-or-smartphone-onto-youtube/"><u>Top Techniques for Successfully Broadcasting PUBG Mobile Gameplay From PC or Smartphone Onto YouTube</u></a></li>
 </ul></div>
 

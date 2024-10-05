@@ -1,7 +1,7 @@
 ---
 title: "Effortless File Deletion Process: Mastering the Remove Item Wizard"
-date: 2024-09-25T07:04:28.581Z
-updated: 2024-09-30T08:50:36.981Z
+date: 2024-10-01T22:25:48.537Z
+updated: 2024-10-05T21:55:18.862Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,16 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -142,17 +148,17 @@ You can specify a whole folder to be removed upon install or uninstall from the[
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The removal operation is extremely useful when the installed resources are modified post install and would not be removed otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Schedule
@@ -198,15 +204,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-add-fun-filters-and-graphics-to-your-snapchat-story-for-2024/"><u>[New] Step-by-Step Guide to Add Fun Filters and Graphics to Your Snapchat Story for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-sound-on-your-apple-device-top-picks/"><u>[Updated] 2024 Approved Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transform-your-youtube-experience-with-bespoeid-shorts-thumbnails/"><u>[Updated] In 2024, Transform Your YouTube Experience with Bespoeid Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-smart-with-wimp-downloader-seamlessly-transfer-vids-to-your-windows-or-mac-device/"><u>Get Smart with Wimp Downloader: Seamlessly Transfer Vids to Your Windows or Mac Device!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-your-favorite-cnn-footage-as-mp3-mp4-or-3gp-for-easy-viewing-and-sharing/"><u>Get Your Favorite CNN Footage as MP3, MP4 or 3GP for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-gyao-yahoo-videos-into-high-quality-mp4avi-format-on-pc-and-mac/"><u>Guide: Converting Your GyaO Yahoo Videos Into High-Quality MP4/AVI Format on PC & Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-xuite-video-files-into-mp4-or-avi-format-on-macos-and-windows/"><u>Guide: Converting Your Xuite Video Files Into MP4 or AVI Format on macOS & Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-improve-low-frames-per-second-in-farming-simulator-22-on-pc/"><u>How to Improve Low Frames Per Second in Farming Simulator 22 on PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-5-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 5</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-audio-device-irq-balancing/"><u>Mastering Audio Device IRQ Balancing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-inspiration-crafting-captivating-ig-posts-for-2024/"><u>[Updated] The Art of Inspiration Crafting Captivating IG Posts for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/choosing-project-settings-a-comprehensive-guide/"><u>Choosing Project Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
+<li><a href="https://facebook.techidaily.com/forums-demise-presented-by-social-media-advantages/"><u>Forums' Demise, Presented by Social Media Advantages</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-recover-from-damaged-itunes-backups-on-iphone-models-x-8-and-6s-expert-tips-and-tricks/"><u>How to Recover From Damaged iTunes Backups on iPhone Models X, 8, Ⅶ, and 6S - Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>In 2024, Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/learn-to-produce-fb-video-ads-using-free-kit-for-2024/"><u>Learn to Produce FB Video Ads Using Free Kit for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-streaming-league-of-legends-simple-recording-tips-for-gamers/"><u>Mastering the Art of Streaming League of Legends: Simple Recording Tips for Gamers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sony-bdp-s6500-review-updated-for-2024/"><u>Sony BDP-S6500 Review - Updated for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 8 Plus You Should Try Out</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-the-secrets-to-effective-youtube-video-uploads/"><u>Unlocking the Secrets to Effective YouTube Video Uploads</u></a></li>
 </ul></div>
 

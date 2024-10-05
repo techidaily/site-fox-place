@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Java Runtime Environment (JRE) Pack: The Ultimate Software Toolkit"
-date: 2024-09-29T10:09:08.090Z
-updated: 2024-09-30T09:46:47.677Z
+date: 2024-09-28T21:55:06.712Z
+updated: 2024-10-05T22:07:17.985Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Here you can select a JRE to be bundled with your application. The JRE files wil
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If your package installs a JRE bundle, any Java Product installed by the package will use the bundle over any JRE installed on the target machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 64-bit JRE Bundle
@@ -107,19 +107,19 @@ In this field, you can specify where the bundle will be placed/installed (you wi
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can specify this folder only the first time you select a JRE bundle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Source
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -128,14 +128,14 @@ In this field, you can select the location of the JRE you want to be bundled wit
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Builds with the same destination folder use the same JRE bundle. If you change the JRE bundled, that change will apply to all the builds that use the same destination folder. The content of the destination folder will be removed, and the files from the specified source folder will be added.
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The files from the JRE bundle are included only in the current build and in any other build with the same destination folder.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The files from the JRE bundle are included only in the current build and in any other build with the same destination folder.
 
 #### Did you find this page useful?
 
@@ -170,15 +170,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-one-stop-solution-mastering-gif-downloads-across-all-devices-and-systems/"><u>[New] 2024 Approved One-Stop Solution Mastering GIF Downloads Across All Devices & Systems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-time-markers-for-youtube-videos-expert-tips-desktopmobile/"><u>[New] In 2024, Time Markers for YouTube Videos Expert Tips (Desktop/Mobile)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-craft-crisp-composites-online-with-top-frameer-tools/"><u>[Updated] 2024 Approved Craft Crisp Composites Online with Top Frameer Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-comprehensive-guide-to-capturing-lol-games/"><u>2024 Approved Comprehensive Guide to Capturing LOL Games</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-pdf-page-turning-with-bookmark-creation-discover-flipbuilders-guide/"><u>Effortless PDF Page-Turning with Bookmark Creation - Discover FlipBuilder's Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-sharing-of-your-flipbook-creations-via-email-a-step-by-step-guide-using-flipbuilder/"><u>Effortless Sharing of Your FlipBook Creations via Email - A Step-by-Step Guide [Using FlipBuilder]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/experience-exceptional-designs-with-free-premium-templates-and-advanced-sliding-thumbnails-try-flipbuilder-today/"><u>Experience Exceptional Designs with Free Premium Templates and Advanced Sliding Thumbnails - Try FlipBuilder Today!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi Redmi Note 12 Pro 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/integrating-multimedia-content-adding-flash-and-videos-into-flipbook-ebooks-with-flipbuilder/"><u>Integrating Multimedia Content: Adding Flash and Videos Into Flipbook eBooks with FlipBuilder</u></a></li>
-<li><a href="https://video-capture.techidaily.com/stepwise-process-for-high-quality-screen-captures-from-dell/"><u>Stepwise Process for High-Quality Screen Captures From Dell</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-calculating-podcasters-annual-earnings-for-2024/"><u>[Updated] Calculating Podcasters' Annual Earnings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-green-screen-systems-expert-utilization-tips-for-2024/"><u>[Updated] Leading Green Screen Systems Expert Utilization Tips for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decoding-antivirus-solutions-insights-into-detection-methodologies-and-protective-strategies-against-malware-threats/"><u>Decoding Antivirus Solutions: Insights Into Detection Methodologies & Protective Strategies Against Malware Threats</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-setup-wizard-for-selecting-app-module-relationships/"><u>Easy Setup Wizard for Selecting App Module Relationships</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker/"><u>In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-instructions-for-playing-among-us-on-a-pc/"><u>Step-by-Step Instructions for Playing Among Us on a PC</u></a></li>
+<li><a href="https://fox-place.techidaily.com/tech-guide-easily-project-your-smartphones-display-onto-your-computer/"><u>Tech Guide: Easily Project Your Smartphone's Display Onto Your Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-5-premium-game-screens-in-high-definition-for-2024/"><u>Top 5 Premium Game Screens in High Definition for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-managing-your-iphone-via-laptop-or-desktop/"><u>Top Strategies for Managing Your iPhone via Laptop or Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-wi-fi-signal-boosters-enhancing-your-network-coverage/"><u>Top Wi-Fi Signal Boosters : Enhancing Your Network Coverage</u></a></li>
+<li><a href="https://fox-place.techidaily.com/video-presentation-design-a-step-by-step-guide-to-crafting-engaging-visuals/"><u>Video Presentation Design: A Step-by-Step Guide to Crafting Engaging Visuals</u></a></li>
+<li><a href="https://fox-place.techidaily.com/why-is-malwarebytes-not-starting-discover-the-fix-with-expert-advice-from-malwarefox/"><u>Why Is Malwarebytes Not Starting? Discover the Fix with Expert Advice From MalwareFox</u></a></li>
 </ul></div>
 

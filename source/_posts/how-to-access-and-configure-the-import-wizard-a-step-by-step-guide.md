@@ -1,7 +1,7 @@
 ---
 title: "How to Access and Configure the Import Wizard: A Step-by-Step Guide"
-date: 2024-09-29T06:43:35.301Z
-updated: 2024-09-29T18:36:44.495Z
+date: 2024-10-03T19:23:08.303Z
+updated: 2024-10-05T22:30:34.019Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ![Import ODBC Data Source](https://cdn.advancedinstaller.com/img/dialog/import-data-source.png "Import ODBC Data Source")  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -90,10 +90,10 @@ Table of Contents
  The data source's name. This name will be displayed in the DSN list on the target machine (in ODBC Data Source Administrator).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -101,10 +101,10 @@ Table of Contents
  The type of the data source, it can be x86 or x64.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registration
@@ -144,16 +144,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-perfect-pick-the-best-microphones-for-all-yt-content-types/"><u>[New] 2024 Approved Perfect Pick The Best Microphones For All YT Content Types</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-shadowed-reader-of-facebook-flashes/"><u>[New] 2024 Approved Shadowed Reader of Facebook Flashes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-yourwebcamunlocked-astep-by-steprecordingpath-for-2024/"><u>[Updated] YourWebcamUnlocked AStep-by-StepRecordingPath for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-flask-custom-layouts-and-motifs-from-creative-tim-superior-choice-for-professionals/"><u>Advanced Flask Custom Layouts & Motifs From Creative Tim: Superior Choice for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/fy-your-storytelling-seamlessly-insert-music-into-youtube-videos-for-2024/"><u>Amplify Your Storytelling Seamlessly Insert Music Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-elite-argon-pro-react-native-framework-with-cli-tooling-for-superior-mobile-development-experience/"><u>Creative Tim's Elite ARGON Pro - React Native Framework with Cli Tooling for Superior Mobile Development Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-material-admin-a-premium-bootstrap-based-dashboard-explore-the-charms-of-material-design/"><u>Creative Tim's Material Admin: A Premium, Bootstrap-Based Dashboard - Explore the Charms of Material Design</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x9a-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X9a to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Without Passcode?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-chroma-key-techniques-for-professional-videos/"><u>[New] 2024 Approved Mastering Chroma Key Techniques for Professional Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-hd-viewing-top-10-android-video-apps/"><u>[New] Seamless HD Viewing Top 10 Android Video Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elite-5-digital-media-screenshots/"><u>[Updated] Elite 5 Digital Media Screenshots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-0x00000019-memory-conflict-in-windows-solutions-for-win11win8win7/"><u>Bypassing the 0X00000019 Memory Conflict in Windows: Solutions for Win11/Win8/Win7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-stunning-destinations-remotely-top-virtual-tours-for-worldwide-adventures-at-home/"><u>Discover Stunning Destinations Remotely: Top Virtual Tours for Worldwide Adventures at Home</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-strategies-to-access-your-locked-iphone-without-a-password/"><u>Effective Strategies to Access Your Locked iPhone Without a Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>In 2024, The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>In 2024, Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-folder-organization-a-guide-to-efficient-file-system-navigation/"><u>Mastering Folder Organization: A Guide to Efficient File System Navigation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-your-hp-laserjet-p2035-printer-driver-woes-on-windows-with-these-easy-steps/"><u>Solve Your HP LaserJet P2035 Printer Driver Woes on Windows with These Easy Steps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-tutorial-on-adjusting-folder-preferences-in-microsoft-application-virtualization-app-v-version-n0/"><u>Step-by-Step Tutorial on Adjusting Folder Preferences in Microsoft Application Virtualization (App-V) Version N.0</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert-Level Installation Suite
-date: 2024-09-27T05:29:30.333Z
-updated: 2024-09-30T11:08:59.170Z
+date: 2024-10-04T16:34:59.328Z
+updated: 2024-10-05T18:46:51.722Z
 tags:
   - user-guide
 categories:
@@ -112,9 +112,23 @@ Table of Contents
 
 The main interface entry point to work with Advanced Installer using automation commands. This interface represents Advanced Installer project picker and is used to create or load a project.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IAdvancedInstaller : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -122,22 +136,15 @@ IAdvancedInstaller : IDispatch
 
 ![License info](https://cdn.advancedinstaller.com/img/powershell-automation/license-info.png "License info")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **IAdvinstProjectTypes ProjectTypes** \- Gets an object that contains different project types.
 
 ![Project types](https://cdn.advancedinstaller.com/img/powershell-automation/project-types.png "Project types")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -147,30 +154,10 @@ IAdvancedInstaller : IDispatch
 
 ![License type](https://cdn.advancedinstaller.com/img/powershell-automation/license-type.png "License type")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **CreateProjectS (String = “simple”)**  returns IAdvinstProject or IUpdatesProject depending on the project type argument   
 \- Creates a new Advanced Installer project. Using the default parameter it will create a simple project.
 
 ![Create projects](https://cdn.advancedinstaller.com/img/powershell-automation/create-projects.png "Create projects")  
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **LoadProject (String target)**  return IAdvinstProject or IUpdatesProject depending on the project type loaded   
 \- Loads an Advanced Installer project.
@@ -182,6 +169,13 @@ IAdvancedInstaller : IDispatch
 [IAdvinstLicenseInfo](https://tools.techidaily.com/advancedinstaller/products/)
 
 [IAdvinstProjectTypes](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -223,22 +217,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-prodigious-pcs-the-pinnacle-of-technology/"><u>[New] 2024 Approved Prodigious PCs - The Pinnacle of Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevating-aerial-photography-with-gopro-karma-for-2024/"><u>[New] Elevating Aerial Photography with GoPro Karma for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-daily-digest-guidelines-tips-for-successful-vlogs/"><u>[New] In 2024, Daily Digest Guidelines Tips for Successful Vlogs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-detailed-comparison-of-all-gpt-models/"><u>A Detailed Comparison of All GPT Models</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-brand-identity-inserting-logos-into-flipbook-projects-on-flipbuildercom/"><u>Adding Brand Identity: Inserting Logos Into FlipBook Projects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-personal-touches-how-to-choose-and-apply-frames-for-edited-images-on-flipbuildercom/"><u>Adding Personal Touches: How to Choose and Apply Frames for Edited Images on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/confirming-your-flip-builder-edition-in-whether-output-ebook-acquisitions-flipbuildercom/"><u>Confirming Your Flip Builder Edition in Whether Output eBook Acquisitions [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-flip-book-ebooks-in-minutes-simple-page-turning-effects-on-flipbuilder/"><u>Create Flip Book Ebooks in Minutes - Simple Page-Turning Effects on FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-language-options-in-flipbuilders-menu-bar-what-languages-are-available/"><u>Exploring the Language Options in FlipBuilder's Menu Bar - What Languages Are Available?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gear-experts-in-depth-insights-into-computer-hardware/"><u>Exploring Tom's Gear Experts: In-Depth Insights Into Computer Hardware</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-you-maximize-your-viewing-experience-with-flipbook-on-flipbuildercom/"><u>How Can You Maximize Your Viewing Experience with FlipBook on FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-implement-auto-playing-flip-books-on-your-site-with-flipbuilder/"><u>How to Implement Auto-Playing Flip Books on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-download-filmora-13-video-editor-free-no-watermark-for-2024/"><u>New Download Filmora 13 Video Editor Free No Watermark for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-the-full-screen-search-challenge-navigating-keyboard-limitations-on-flipbuilder/"><u>Solving the Full Screen Search Challenge: Navigating Keyboard Limitations on FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-instructions-for-installing-chrome-on-windows-11/"><u>Stepwise Instructions for Installing Chrome on Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/transform-your-drive-with-the-lihan-lhfm1039-transmitter-bluetooth-fm-solution-tested-and-reviewed/"><u>Transform Your Drive with the Lihan LHFM1039 Transmitter - Bluetooth FM Solution Tested & Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-conclusion-to-interactive-expeditions/"><u>[New] Perfect Conclusion to Interactive Expeditions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-video-recording-devices-for-quality/"><u>[New] Premium Video Recording Devices for Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[Updated] In 2024, Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-future-vrs-role-in-business-strategy/"><u>[Updated] Navigating the Future VR's Role in Business Strategy</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-custom-installation-action-handler-tailored-file-deployment/"><u>1. Custom Installation Action Handler: Tailored File Deployment</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-effortless-file-deletion-say-goodbye-with-iremovefile/"><u>1. Effortless File Deletion: Say Goodbye with IRemoveFile</u></a></li>
+<li><a href="https://fox-place.techidaily.com/3gp-video-codec/"><u>3GP Video Codec</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-platforms-for-accessing-and-obtaining-music-mixtapes-without-charge/"><u>Best Platforms for Accessing and Obtaining Music Mixtapes Without Charge</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-and-efficient-blackberry-video-conversion-software-enable-playback-on-your-classic-device-today/"><u>Easy and Efficient BlackBerry Video Conversion Software - Enable Playback on Your Classic Device Today!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-strategies-for-optimal-application-setup-with-advanced-installer-solutions/"><u>Expert Strategies for Optimal Application Setup with Advanced Installer Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-xs-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone XS with 3 Methods</u></a></li>
+<li><a href="https://fox-place.techidaily.com/key-pre-condition-elements-detailed-on-the-prerequisites-tab/"><u>Key Pre-Condition Elements Detailed on the Prerequisites Tab</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-xml-and-ttml-conversion-to-srt/"><u>Mastering XML & TTML Conversion to SRT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-ce-3-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord CE 3 5G Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-faulty-language-models-add-ons-why-they-dont-deliver-and-how-to-dodge-them/"><u>Top 6 Faulty Language Models Add-Ons - Why They Don't Deliver and How to Dodge Them</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Craft Your Dream House with Expert Custom Builder Services
-date: 2024-09-24T06:39:24.312Z
-updated: 2024-09-29T23:19:14.083Z
+date: 2024-10-03T20:02:44.050Z
+updated: 2024-10-05T20:13:58.279Z
 tags:
   - user-guide
 categories:
@@ -111,16 +111,10 @@ Table of Contents
 ## IBuild
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -128,10 +122,10 @@ Table of Contents
 IBuild : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -139,10 +133,10 @@ IBuild : IDispatch
 This interface gives access to the build's properties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -154,10 +148,10 @@ String OutputFolder
 Gets or sets the path of the output folder for this build.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -199,17 +193,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-exclusive-rescue-regaining-fb-passwords/"><u>[New] In 2024, Exclusive Rescue Regaining FB Passwords</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[New] In 2024, Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-techniques-for-ps3-gameplay-screencasts/"><u>[Updated] Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-acquiring-insta-ringtunes-the-ultimate-checklist/"><u>[Updated] Mastering the Art of Acquiring Insta-Ringtunes The Ultimate Checklist</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-admin-and-dashboard-solution-by-creative-tim-high-end-material-dark-pro-theme-powered-by-premium-bootstrap-section-1-problem-understanding-the-scope-3/"><u>Expert Admin & Dashboard Solution by Creative Tim: High-End Material Dark PRO Theme Powered by Premium Bootstrap # Section 1: Problem - Understanding the Scope of UCC Article 2 in Contracts for Goods</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-vuejs-control-panel-solutions-over-55-tailored-templates-from-creative-tims-portfolio/"><u>Expert VueJS Control Panel Solutions Over 55 | Tailored Templates From Creative Tim's Portfolio</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-paper-bootstrap-admin-design-template-featuring-angular-crafted-by-creative-tim/"><u>Free 'Paper' Bootstrap Admin Design Template Featuring Angular, Crafted by Creative Tim</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972491052-get-your-free-qualcomm-atheros-ar3011-bluetooth-driver-here/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth Driver Here!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-sifting-through-the-sands-of-youtube-conversations/"><u>In 2024, Sifting Through the Sands of YouTube Conversations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-tech-performance-efficiency-with-windows-widgets/"><u>Maximizing Tech Performance: Efficiency with Window's Widgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>[Updated] The Quest for Codec Perfection Is AV1 Surpassing VP9?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-alternatives-to-the-snappea-mobile-application/"><u>Best Alternatives to the SnapPea Mobile Application</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-stunning-destinations-remotely-top-virtual-tours-for-worldwide-adventures-at-home/"><u>Discover Stunning Destinations Remotely: Top Virtual Tours for Worldwide Adventures at Home</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-file-deletion-process-mastering-the-remove-item-wizard/"><u>Effortless File Deletion Process: Mastering the Remove Item Wizard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-basics-of-output-impedance-in-electronic-circuits/"><u>Exploring the Basics of Output Impedance in Electronic Circuits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-12-frp-by-drfone-android/"><u>How Can We Bypass OnePlus 12 FRP?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ifolder-sync-seamless-file-transfer-between-devices/"><u>IFolder Sync: Seamless File Transfer Between Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chortlecraft-customize-funny-digital-images/"><u>In 2024, ChortleCraft Customize Funny Digital Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-folder-organization-a-guide-to-efficient-file-system-navigation/"><u>Mastering Folder Organization: A Guide to Efficient File System Navigation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-code-with-top-tips-on-using-an-effective-search-component-locator-isearch/"><u>Streamline Your Code with Top Tips on Using an Effective Search Component Locator (iSearch)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-spark-10c-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Spark 10C to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-the-blackout-of-video-in-zoom-for-windows-pcs-comprehensive-steps-2024-version/"><u>Troubleshooting Guide: Fixing the Blackout of Video in Zoom for Windows PCs - Comprehensive Steps (2024 Version)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-freezing-issues-for-madden-21-pc-users/"><u>Troubleshooting Persistent Freezing Issues for Madden '21 PC Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IFolder Sync: Seamless File Transfer Between Devices"
-date: 2024-09-23T16:49:26.123Z
-updated: 2024-09-29T19:38:46.226Z
+date: 2024-09-30T22:10:07.263Z
+updated: 2024-10-05T16:48:15.764Z
 tags:
   - user-guide
 categories:
@@ -116,16 +116,16 @@ Table of Contents
 This interface is meant to specify details about folder synchronization to a source folder on disk.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -133,10 +133,16 @@ This interface is meant to specify details about folder synchronization to a sou
 IFolderSync : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -158,10 +164,16 @@ IFolderSync : IDispatch
 **String FileComponentAssigning** \- Gets or sets the way that the component is assigned to file added in the project. The option set here is applied only to new files added by synchronization, from the moment it is selected. Components for existing files are untouched when this option gets changed. Supported values: BestSuitedComponent NewComponent FolderComponent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,21 +217,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-boost-collaboration-in-slack-select-your-ideal-10-free-apps/"><u>[Updated] 2024 Approved Boost Collaboration in Slack Select Your Ideal 10 Free Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-storytelling-borders-for-instagram-videos/"><u>[Updated] In 2024, Elevate Your Storytelling Borders for Instagram Videos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-apples-refusal-of-payment-cards-a-guide-to-6-alternative-fixes/"><u>Bypassing Apple's Refusal of Payment Cards: A Guide to 6 Alternative Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-pro-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12 Pro 4G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dvdwindows/"><u>DVDの再生に失敗するWindowsメディアプレーヤー:修正方法</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ifoifomp4/"><u>IFOファイルとは何か、そしてIFOをMP4に直す手順</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-strategies-obs-streams-to-facebook-success/"><u>In 2024, Expert Strategies OBS Streams to Facebook Success</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-your-digital-content-adding-a-logo-in-flipbuilder-ebooks/"><u>Personalize Your Digital Content: Adding a Logo in FlipBuilder Ebooks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/revolutionize-sales-material-creation-digital-conversion-of-pdfs-using-flipbuilders-innovative-techflipbuildercom/"><u>Revolutionize Sales Material Creation: Digital Conversion of PDFs Using FlipBuilder's Innovative Tech[/FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/sharing-your-flipbook-ebooks-on-social-media-easy-guide-for-facebook-twitter-and-linkedin-flipbuilder/"><u>Sharing Your FlipBook eBooks on Social Media - Easy Guide for Facebook, Twitter & LinkedIn | FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-mechanics-of-sharing-with-flipbuilder-insights-and-tips/"><u>The Mechanics of Sharing with FlipBuilder: Insights and Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transform-your-pdfs-into-engaging-digital-flipbooks-including-precise-page-selection-and-navigation-learn-more-at-flipbuildercom/"><u>Transform Your PDFs Into Engaging Digital Flipbooks, Including Precise Page Selection & Navigation - Learn More at [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transforming-your-flipbuilder-menus-aesthetics-altering-background-colors-easily/"><u>Transforming Your FlipBuilder Menu's Aesthetics: Altering Background Colors Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-6-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6 Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726221636197-movavi/"><u>무전제 기능이 있는 안전하고 안정적인 멀티미디어 사운드 파일 보꺼리 - Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads-for-2024/"><u>[New] Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerating-expertise-in-social-media-strategies-with-reddit-guidance/"><u>[Updated] Accelerating Expertise in Social Media Strategies with Reddit Guidance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-your-discord-experience-with-recordings/"><u>[Updated] Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-alternatives-to-the-snappea-mobile-application/"><u>Best Alternatives to the SnapPea Mobile Application</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-file-deletion-process-mastering-the-remove-item-wizard/"><u>Effortless File Deletion Process: Mastering the Remove Item Wizard</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-desktop-experience-fixing-this-pc-spotlight/"><u>Elevate Desktop Experience: Fixing 'This PC' Spotlight</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enriched-visuals-and-melodies-the-art-of-integrating-filters-and-music-windows-photos/"><u>Enriched Visuals & Melodies The Art of Integrating Filters & Music (Windows Photos)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-tecno-phantom-v-flip-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Tecno Phantom V Flip for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-code-with-top-tips-on-using-an-effective-search-component-locator-isearch/"><u>Streamline Your Code with Top Tips on Using an Effective Search Component Locator (iSearch)</u></a></li>
 </ul></div>
 

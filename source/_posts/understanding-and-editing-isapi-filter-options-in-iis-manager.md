@@ -1,7 +1,7 @@
 ---
 title: Understanding and Editing ISAPI Filter Options in IIS Manager
-date: 2024-09-24T20:06:12.677Z
-updated: 2024-09-30T02:57:10.856Z
+date: 2024-09-29T22:07:41.932Z
+updated: 2024-10-05T19:21:44.528Z
 tags:
   - user-guide
 categories:
@@ -100,18 +100,31 @@ Table of Contents
 
 ![ISAPI Filter Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-isapi-filter-properties.png "ISAPI Filter Properties Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Filter
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Name
 
 Specify a name for the ISAPI filter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Executable
 
@@ -120,23 +133,16 @@ Click the browse button \[... \] on the right to navigate to the installation fo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ISAPI/CGI Restriction
@@ -148,10 +154,16 @@ Allows dynamic content to execute on the target IIS server.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -187,22 +199,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-download-free-picture-frame-videos/"><u>[New] How to Download Free Picture Frame Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-activate-windows-xp-movie-creation-toolkit/"><u>[New] In 2024, Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-composers-handbook-to-instagram-and-music-rights-for-2024/"><u>[Updated] The Composer's Handbook to Instagram and Music Rights for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/15-pioneering-online-education-websites-beyond-udemy/"><u>15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-integrating-timestamps-in-youtube-content/"><u>2024 Approved Integrating Timestamps in YouTube Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-impact-of-weather-on-syma-x8c-performance/"><u>2024 Approved The Impact of Weather on Syma X8C Performance</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-and-download-your-cmivfx-video-lessons-as-mp4-training-course-converter/"><u>Convert and Download Your cmiVFX Video Lessons as MP4 - Training Course Converter</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-your-downloads-high-quality-movies-and-songs-from-aol-and-truveo-in-multiple-formats/"><u>Convert Your Downloads: High-Quality Movies & Songs From AOL and Truveo in Multiple Formats</u></a></li>
-<li><a href="https://fox-place.techidaily.com/deezer-vs-pandora-showdown-uncovering-the-main-features-that-set-them-apart/"><u>Deezer Vs. Pandora Showdown: Uncovering the Main Features that Set Them Apart</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-art-lessons-access-comprehensive-video-tutorials-from-the-drawing-academy/"><u>Download Art Lessons: Access Comprehensive Video Tutorials From the Drawing Academy</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-from-macprovideo-library-how-to-save-and-format-videos-as-mp4-mov-avi-for-easy-playback/"><u>Download From MacProVideo Library: How to Save and Format Videos as MP4, MOV, AVI for Easy Playback</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-with-showcase-pro-secure-your-favorite-shows-from-showcaseca-for-pcs-and-macs/"><u>Download with Showcase Pro: Secure Your Favorite Shows From Showcase.ca for PCs & Macs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-access-to-the-guardian-shows-download-options-including-mp4-mov-and-more-for-your-viewing-pleasure/"><u>Easy Access to The Guardian Shows: Download Options Including MP4, MOV, and More for Your Viewing Pleasure</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-allavsoft-mac-software-upgrade-seamlessly-operates-across-any-mac-os-x-platform/"><u>Enhanced Allavsoft Mac Software Upgrade: Seamlessly Operates Across Any Mac OS X Platform</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-creating-lasting-memories-with-customized-vimeo-ends/"><u>In 2024, Creating Lasting Memories with Customized Vimeo Ends</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-costs-in-youtube-promotional-efforts/"><u>In 2024, Navigating Costs in YouTube Promotional Efforts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-antithesis-video-reversal-explained/"><u>[Updated] In 2024, The Instagram Antithesis Video Reversal Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-text-tools-elevating-creative-compositions/"><u>[Updated] Top 10 Text Tools Elevating Creative Compositions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2020s-ultimate-guide-effortless-removal-of-pdf-watermarks-and-securing-your-documents/"><u>2020'S Ultimate Guide: Effortless Removal of PDF Watermarks and Securing Your Documents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/azure-speech-to-text-your-ultimate-development-toolkit-for-2024/"><u>Azure Speech-to-Text Your Ultimate Development Toolkit for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-overwatchs-server-not-reachable-effective-strategies-and-solutions/"><u>Bypassing Overwatch's 'Server Not Reachable': Effective Strategies and Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-cars-driving-options/"><u>Customizing Your Car's Driving Options</u></a></li>
+<li><a href="https://fox-place.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-success-routes-with-our-comprehensive-project-paths-tab-guide/"><u>Exploring Success Routes with Our Comprehensive Project Paths Tab Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapchat-my-ai-vs-bings-microsoft-chatbot-on-skype-exploring-8-critical-differences-for-users/"><u>Snapchat My AI Vs. Bing's Microsoft Chatbot on Skype – Exploring 8 Critical Differences for Users</u></a></li>
 </ul></div>
 

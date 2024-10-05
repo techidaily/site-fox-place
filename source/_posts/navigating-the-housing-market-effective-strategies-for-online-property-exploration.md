@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Housing Market: Effective Strategies for Online Property Exploration"
-date: 2024-09-29T01:47:45.369Z
-updated: 2024-09-30T11:22:25.806Z
+date: 2024-10-02T19:36:45.758Z
+updated: 2024-10-05T20:06:53.517Z
 tags:
   - user-guide
 categories:
@@ -82,20 +82,13 @@ On this page, you can create a new user or group browse operation. This will sea
 ![User browse](https://cdn.advancedinstaller.com/img/ui/user-browse.png "User browse")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Browse type
 
@@ -105,34 +98,28 @@ Advanced Installer supports two types of browsing:
 * **Group Browse** \- Browses the group list from the target machine.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Form group
 
 Specify in which group present on the target machine should the user browse operation be performed, e.g. _Administrators_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Output
 
 ### Display the result into a ComboBox, ListBox or CheckList control
 
 Specify the installer property associated with a [ComboBox control](https://tools.techidaily.com/advancedinstaller/products/), a [ListBox](https://tools.techidaily.com/advancedinstaller/products/) or [CheckList](https://tools.techidaily.com/advancedinstaller/products/) control which will be populated with the users or groups found on the target machine.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Put the result into a property
 
@@ -145,6 +132,19 @@ Users or Group Browse can be triggered by scheduling the associated action in th
 ### Run in UI sequence
 
 Enabling this option will trigger the Users or Group Browse operation when an associated custom action will be executed in the installation sequence. To configure the custom action in the [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/), press on the **Scheduled Action** link button.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Attached to an event
 
@@ -183,17 +183,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>[New] 2024 Approved Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-empowered-by-numbers-decoding-youtube-analytics/"><u>[Updated] 2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
-<li><a href="https://fox-place.techidaily.com/activate-your-mirillis-account-with-ease-key-reminders-and-tips/"><u>Activate Your Mirillis Account with Ease: Key Reminders & Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-apps-for-high-school-students-a-selection-of-the-top-10-picks/"><u>Best Apps for High School Students: A Selection of the Top 10 Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-g22-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia G22 Lock Screen Password</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>In 2024, Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/les-secrets-reveles-techniques-innovantes-pour-animer-votre-contenu-avec-du-texte-sur-les-gifs/"><u>Les Secrets Révélés : Techniques Innovantes Pour Animer Votre Contenu Avec Du Texte Sur Les GIFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-promotion-in-the-metaverse-for-2024/"><u>Pioneering Promotion in the Metaverse for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pro-tips-for-conquering-photo-and-video-importers-on-windows-10-for-2024/"><u>Pro-Tips for Conquering Photo & Video Importers on Windows 10 for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/streamdownload-live-zee-tamil-channels-for-free-perfect-solution-to-catch-your-favorite-shows-anytime/"><u>Stream/Download Live Zee Tamil Channels for Free: Perfect Solution to Catch Your Favorite Shows Anytime!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-techniques-to-save-and-transform-kathtube-videos-into-various-file-types-including-mp4-mov-avi-flv-or-wmv-easily/"><u>Ultimate Techniques to Save and Transform KathTube Videos Into Various File Types Including MP4, MOV, AVI, FLV or WMV Easily</u></a></li>
-<li><a href="https://fox-place.techidaily.com/videoweed-pro-x-effortless-mac-and-windows-video-download-software/"><u>VideoWeed Pro X - Effortless Mac & Windows Video Download Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>[New] In 2024, Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>[Updated] In 2024, Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-how-to-integrate-mp3-files-into-your-html-pages/"><u>Easy Guide: How to Integrate MP3 Files Into Your HTML Pages</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-updating-and-tweaking-sccm-setup-parameters/"><u>Guide: Updating and Tweaking SCCM Setup Parameters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/locational-attributes-in-registry-data-management/"><u>Locational Attributes in Registry Data Management</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/masterful-moments-the-top-10-apps-to-boost-your-account/"><u>Masterful Moments The Top 10 Apps to Boost Your Account</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-best-with-savings-must-have-headphones-offered-exclusively-during-prime-day/"><u>Score the Best with Savings! Must-Have Headphones Offered Exclusively During Prime Day</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme Narzo 60x 5G FRP</u></a></li>
 </ul></div>
 

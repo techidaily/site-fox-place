@@ -1,7 +1,7 @@
 ---
 title: Customizing Component Settings Through Edit Property Interface
-date: 2024-09-24T23:38:34.372Z
-updated: 2024-09-30T09:56:05.863Z
+date: 2024-10-04T19:19:01.882Z
+updated: 2024-10-05T20:39:45.317Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ Table of Contents
 ![Edit Components Properties](https://cdn.advancedinstaller.com/img/dialog/edit-component-properties.png "Edit Components Properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -100,10 +100,10 @@ Table of Contents
 A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is evaluated as false, the component is not installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not register this component with Windows Installer
@@ -111,16 +111,10 @@ A Windows Installer condition which is evaluated and the result determines the c
  If this option is selected the component will have an empty GUID and thus it will not be registered. This means that the component cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the component yourself (using a custom action, for instance).
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -177,20 +171,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-tech-for-quick-clear-video-reports/"><u>[New] 2024 Approved Prime Tech for Quick, Clear Video Reports</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ccelerate-engagement-implementing-the-top-12-video-growth-strategies-for-2024/"><u>[New] Accelerate Engagement - Implementing the Top 12 Video Growth Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boost-channels-and-views-through-savvy-youtube-analysis-for-2024/"><u>[Updated] Boost Channels and Views Through Savvy YouTube Analysis for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ingenious-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] Ingenious Stop-Motion Cinema - Ranking the Best 15</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/efficient-mac-video-resizing-to-fixed-ratio/"><u>Efficient Mac Video Resizing to Fixed Ratio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-thumbnail-tips-for-youtube-success/"><u>In 2024, Quick Thumbnail Tips for YouTube Success</u></a></li>
-<li><a href="https://fox-place.techidaily.com/save-and-convert-your-videos-easily-using-viddler-supported-formats-include-mp4-wmv-avi-and-more-on-windows-or-macos/"><u>Save and Convert Your Videos Easily Using Viddler - Supported Formats Include MP4, WMV, AVI & More on Windows or macOS</u></a></li>
-<li><a href="https://fox-place.techidaily.com/save-fox-news-footage-as-mp4wmvavi-easy-download-tools-for-journalism-enthusiasts/"><u>Save Fox News Footage as MP4/WMV/AVI - Easy Download Tools for Journalism Enthusiasts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/seamless-music-shift-from-spotify-to-tidal-discover-two-easy-export-strategies-for-your-playlists/"><u>Seamless Music Shift From Spotify to Tidal: Discover Two Easy Export Strategies for Your Playlists</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-on-downloading-popular-series-like-tvf-tripling-and-more-from-trustworthy-sources/"><u>Step-by-Step Guide on Downloading Popular Series Like TVF Tripling and More From Trustworthy Sources</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-kathtube-content-into-popular-video-formats-like-mp4-mov-avi-flv-and-wmv/"><u>Step-by-Step Guide: Converting KathTube Content Into Popular Video Formats Like MP4, MOV, AVI, FLV & WMV</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-yandex-videos-to-common-formats-like-mp4-avi-and-mov-on-pc-or-mac/"><u>Step-by-Step Guide: Converting Yandex Videos to Common Formats Like MP4, AVI & MOV on PC or Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-downloading-content-from-the-worlds-leading-yoga-streaming-platforms/"><u>Step-by-Step Guide: Downloading Content From the World's Leading Yoga Streaming Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-bright-side-and-flip-side-of-employing-chatgpt-for-creative-literary-works/"><u>The Bright Side & Flip Side of Employing ChatGPT for Creative Literary Works</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-humorous-harmonics-optimal-ringtone-sites/"><u>[Updated] 2024 Approved Humorous Harmonics Optimal Ringtone Sites</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-methods-for-android-video-capture/"><u>[Updated] In 2024, Top Methods for Android Video Capture</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-ini-file-editor-customize-settings-with-ease/"><u>1. 'INI File Editor: Customize Settings with Ease'</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-no-more-youtube-the-best-5-alternative-editors-await/"><u>2024 Approved No More Youtube? The Best 5 Alternative Editors Await</u></a></li>
+<li><a href="https://fox-place.techidaily.com/configuring-isapi-filters-through-the-settings-interface/"><u>Configuring ISAPI Filters Through the Settings Interface</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-selection-of-excellent-apps-compatible-with-ios-8/"><u>Discover the Ultimate Selection of Excellent Apps Compatible with iOS 8</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-transforming-your-androids-pdf-files-into-editable-word-documents-in-2020/"><u>Easy Guide: Transforming Your Android's PDF Files Into Editable Word Documents in 2020</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-youtube-content-manager-toolkit-for-2024/"><u>Exploring the YouTube Content Manager Toolkit for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-defy-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Defy 2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-soundscaping-stories-musical-elements-in-reels/"><u>In 2024, Soundscaping Stories Musical Elements in Reels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimal-no-cost-android-video-maker/"><u>Optimal No-Cost Android Video Maker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-problematic-chrome-file-uploaddownload-on-windows/"><u>Rectifying Problematic Chrome File Upload/Download on Windows</u></a></li>
+<li><a href="https://fox-place.techidaily.com/securing-access-understanding-authentication-techniques/"><u>Securing Access: Understanding Authentication Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-steps-for-seamless-transition-of-spotify-playlists-into-apple-music-collection/"><u>Ultimate Steps for Seamless Transition of Spotify Playlists Into Apple Music Collection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-sony-xperia-5-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Sony Xperia 5 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

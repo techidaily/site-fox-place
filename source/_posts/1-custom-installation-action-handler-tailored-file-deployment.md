@@ -1,7 +1,7 @@
 ---
 title: "1. Custom Installation Action Handler: Tailored File Deployment"
-date: 2024-09-29T03:03:36.389Z
-updated: 2024-09-30T05:42:21.167Z
+date: 2024-10-04T19:43:59.072Z
+updated: 2024-10-05T17:21:56.253Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstalledFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,16 +137,10 @@ Table of Contents
 IInstalledFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,16 +148,10 @@ IInstalledFileCustomAction : ICustomAction
 This interface facilitates editing custom action that allows the launching of a file into execution, but it must be scheduled after the files have been deployed on the target computer.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -173,10 +161,10 @@ This interface facilitates editing custom action that allows the launching of a 
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,20 +206,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-place.techidaily.com/1-ultimate-xtube-video-grabber-convert-and-save-from-xtube-in-multiple-formats-mp4-avi-wmv-mov/"><u>1. Ultimate XTube Video Grabber: Convert and Save From xTube in Multiple Formats (MP4, AVI, WMV, MOV)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-unlock-exclusive-educational-content-free-downloads-from-discovery-ed/"><u>1. Unlock Exclusive Educational Content: Free Downloads From Discovery Ed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/10-top-picks-for-no-cost-zoom-and-screenshare-for-2024/"><u>10 Top Picks for No-Cost Zoom & Screenshare for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-top-uhd-video-players-free-download/"><u>2024 Approved Comprehensive Guide to Top UHD Video Players, Free Download</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-efficient-laptop-recording-with-top-screenrec-tools/"><u>2024 Approved Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/charm-offensive-sweet-notions-in-french/"><u>Charm Offensive: Sweet Notions in French</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-downloading-various-file-formats-from-evilchili-including-mp4-mov-and-more/"><u>Complete Guide: Downloading Various File Formats From EvilChili, Including MP4, MOV, and More</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-tutorial-installing-allavsoft-software-in-mac-catalina-systems/"><u>Complete Tutorial: Installing Allavsoft Software in Mac Catalina Systems</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-and-download-your-cmivfx-video-lessons-as-mp4-training-course-converter/"><u>Convert and Download Your cmiVFX Video Lessons as MP4 - Training Course Converter</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-your-downloads-high-quality-movies-and-songs-from-aol-and-truveo-in-multiple-formats/"><u>Convert Your Downloads: High-Quality Movies & Songs From AOL and Truveo in Multiple Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-downloading-and-converting-youtube-videos-into-dvd-format/"><u>Effortless Guide: Downloading & Converting YouTube Videos Into DVD Format</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-mini-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 13 mini Without Apple ID Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-t2-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo T2 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-game-console-deals-under-100/"><u>[New] 2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-virtual-havens-of-adventure-but-not-like-gta/"><u>[New] 2024 Approved Virtual Havens of Adventure (But Not Like GTA)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-techniques-for-effective-hp-laptop-screen-capture/"><u>[Updated] Top 4 Techniques for Effective HP Laptop Screen Capture</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2022-how-to-unlock-a-disabled-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2022) How to Unlock a Disabled Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-parameters-for-software-setup-and-configuration/"><u>Effective Parameters for Software Setup & Configuration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-guide-how-to-change-movies-mov-into-graphics-interchange-format-gif/"><u>Effortless Guide: How to Change Movies (MOV) Into Graphics Interchange Format (GIF)</u></a></li>
+<li><a href="https://facebook.techidaily.com/inspecting-history-of-interactions-in-fb-space/"><u>Inspecting History of Interactions in FB Space</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-review-of-ispring-recording-tech/"><u>The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-6-unforgettable-instagram-caption-ideas-for-memorable-photos/"><u>Top 6 Unforgettable Instagram Caption Ideas for Memorable Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-the-opengl32dll-file-not-found-mishap/"><u>Troubleshooting Techniques for the OpenGL32.dll File Not Found Mishap</u></a></li>
+<li><a href="https://fox-place.techidaily.com/utilizing-iscriptfilefromproperty-for-powerful-custom-sharepoint-features/"><u>Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/warning-signs-of-sham-chatgpt-portals-protecting-your-information/"><u>Warning Signs of Sham ChatGPT Portals: Protecting Your Information</u></a></li>
 </ul></div>
 

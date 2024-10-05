@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Listing Pages: Your Guide to Property Showcase"
-date: 2024-09-27T10:19:14.645Z
-updated: 2024-09-30T06:11:55.271Z
+date: 2024-09-29T20:06:39.972Z
+updated: 2024-10-05T16:51:03.010Z
 tags:
   - user-guide
 categories:
@@ -77,6 +77,13 @@ Table of Contents
 
 This pane displays the selected dialog or control's attributes, and you can edit certain properties.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Control Selection Combo box
 
 This combo box lets you select any of the controls present in the dialog. The selected control will be made visible even if other controls overlay it.  
@@ -96,19 +103,6 @@ The Properties pane contains a list of all the controls that belong to the curre
 Click on the attribute you want to edit and make the necessary change. Use the Enter key to validate a modification and the Esc key to cancel the change.
 
 **The properties are grouped in the following categories:**
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Identification
 
@@ -139,13 +133,6 @@ In this category, you can specify the text style used when displaying the contro
 * Text Style - If indirect is FALSE the text style is specified directly. Select one from the list of already defined styles.
 * Indirect Property - If indirect is TRUE, a property is used to specify the text style. Use the \[... \] button to choose a property. These properties are defined in the [Text Style Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Print
 
 This option category is available only for "PushButton" controls from a dialog that contains at least a "ScrollableText" control.
@@ -156,10 +143,10 @@ The following attributes are available:
 * Control - When PushButton control is a "print button" you must choose a ScrollableText control on the same dialog which will contain the text to print.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -170,34 +157,28 @@ This category is available for Check Box, Radio Button, Edit, Path Edit, Directo
 * Default Value - Default value for the associated property. Available for Check Box controls.
 * Selected - Set the default control's state. Available for Radio Button controls.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Property
 
  Specify the name of the property associated with the currently selected control. You can directly edit the property's name or use the\[... \] button to select an existing one. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The property must be **public** (all uppercase letters) because properties that are set by the user interface during the installation and then passed to the installation's execution phase must be public. 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Values Separator
 
 Token used to separate multiple selected values from a List Box or List View control that has the "Multiple Selection" attribute set. By default, a **comma** will be used as a separator.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -255,6 +236,13 @@ These attributes are available for List Box and Combo Box controls
 * Combo list - If this flag is set the edit field of a Combo Box is replaced by a static text field. This prevents a user from entering a new value and requires the user to choose only one of the predefined values.
 * Sort by Index - The items listed in the control are displayed in a specified order otherwise they are displayed in alphabetical order.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Extended Attributes
 
 These attributes require the use of [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/).
@@ -277,10 +265,10 @@ Specify the tool-tip associated with a control. You can [localize](https://tools
 If **pipe character** (vertical bar) "|" is used, the string containing the pipe and all the characters that follow will not be displayed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Layout
@@ -329,20 +317,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xcellent-choice-for-capturing-professional-quality-on-youtube-for-2024/"><u>[New] Excellent Choice for Capturing Professional Quality on YouTube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-properly-merging-webcam-feed-with-desktop-screen/"><u>[Updated] Properly Merging Webcam Feed with Desktop Screen</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-retrieval-downloading-gifs-from-twitter-apps/"><u>[Updated] Quick Retrieval Downloading GIFs From Twitter Apps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-10t-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme 10T 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/direct-ebook-page-linking-techniques-no-acrobat-pro-edits-needed-discover-how-with-flipbuilder/"><u>Direct eBook Page Linking Techniques: No Acrobat Pro Edits Needed! Discover How with FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-tips-for-minimizing-the-overall-size-of-your-digital-photo-album-in-flipbook-maker-try-it-today-at-flipbuildercom/"><u>Expert Tips for Minimizing the Overall Size of Your Digital Photo Album in Flipbook Maker - Try It Today at [FlipBuilder.com]!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-language-options-in-flipbuilders-menu-bar-what-languages-are-available/"><u>Exploring the Language Options in FlipBuilder's Menu Bar - What Languages Are Available?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-changing-msi-motherboard-debut-with-unmatched-camm2-ram-compatibility-redefining-gaming-pc-experience-with-z7-project-zero-innovation/"><u>Game-Changing MSI Motherboard Debut with Unmatched CAMM2 RAM Compatibility - Redefining Gaming PC Experience with Z7# Project Zero Innovation</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-you-maximize-your-viewing-experience-with-flipbook-on-flipbuildercom/"><u>How Can You Maximize Your Viewing Experience with FlipBook on FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-implement-auto-playing-flip-books-on-your-site-with-flipbuilder/"><u>How to Implement Auto-Playing Flip Books on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-indoors-adopting-the-vibe-of-a-brighter-world/"><u>In 2024, Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-nuances-of-inshot-video-segments/"><u>In 2024, Navigating the Nuances of Inshot Video Segments</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-ucc-is-a-set-of-laws-designed-to-harmonize-commercial-transactions-across-the-united-states/"><u>The UCC Is a Set of Laws Designed to Harmonize Commercial Transactions Across the United States.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-started-with-vn-video-editor-on-mac-or-find-suitable-replacements/"><u>Updated In 2024, Get Started with VN Video Editor on Mac or Find Suitable Replacements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premium-top-5-storage-solutions-for-xbox/"><u>[New] In 2024, Premium Top 5 Storage Solutions for Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unboxing-unveiled-enhancing-customer-experiences/"><u>[Updated] Unboxing Unveiled Enhancing Customer Experiences</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-software-deployment-blueprint/"><u>Comprehensive Software Deployment Blueprint</u></a></li>
+<li><a href="https://fox-place.techidaily.com/configuring-isapi-filters-through-the-settings-interface/"><u>Configuring ISAPI Filters Through the Settings Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-text-entry-the-ultimate-guide-to-using-bing-ai-chat-in-android/"><u>Empowering Text Entry: The Ultimate Guide to Using Bing AI Chat in Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-user-experience-with-effective-data-dialogue-management-tools/"><u>Optimizing User Experience with Effective Data Dialogue Management Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-listening-experience-swift-techniques-to-download-music-from-vk-platforms/"><u>Streamline Your Listening Experience: Swift Techniques to Download Music From VK Platforms</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-picks-6-leading-photo-editing-tools-featuring-exceptional-background-insert-options/"><u>Ultimate Picks: 6 Leading Photo Editing Tools Featuring Exceptional Background Insert Options</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-steps-for-seamless-transition-of-spotify-playlists-into-apple-music-collection/"><u>Ultimate Steps for Seamless Transition of Spotify Playlists Into Apple Music Collection</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-y78-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo Y78 5G.</u></a></li>
 </ul></div>
 

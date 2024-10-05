@@ -1,7 +1,7 @@
 ---
 title: Customizable Theme Pages for Unique Website Designs
-date: 2024-09-24T17:55:08.531Z
-updated: 2024-09-30T02:32:21.582Z
+date: 2024-09-28T21:33:16.591Z
+updated: 2024-10-05T19:05:53.171Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ To change the current theme, select the desired one and use the command “Set a
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The _Spring_ theme is not compatible with systems having custom DPI scalling. The UI controls may not be resized correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frame
@@ -125,10 +125,10 @@ To change the current theme, select the desired one and use the command “Set a
 From this combobox you can select how the dialogs frame will be presented. It contains the "System" option along with predefined frames specific for the currently selected theme. The **System** frame is specific to the Windows Operating System the package will run on. Some themes might not support frame change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom Frame
@@ -174,23 +174,10 @@ The following operations are possible:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The images that can be changed differ from one theme to another.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Sizes
@@ -244,15 +231,22 @@ This combobox is available **only** for themes that can be extra customized:
 * Change between radio buttons or checkboxes for overall installation progress
 * Choose if the theme uses a header image or not
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Testing the installation User Interface
 
 ![Test Installation UI](https://cdn.advancedinstaller.com/img/toolbar/test-ui.png "Test Installation UI")Use the \[Test Installation UI \] toolbar button in the "Themes" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Since the package is not installed on your machine, only the installation UI sequence can be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Testing the maintenance User Interface
@@ -262,10 +256,10 @@ This combobox is available **only** for themes that can be extra customized:
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These options require at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -310,21 +304,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leveraging-technology-tips-for-screenrec-utilization/"><u>[New] 2024 Approved Leveraging Technology Tips for ScreenRec Utilization</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac/"><u>[New] Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-master-full-stack-development-with-vue-and-laravel-professional-edition-pro-level-integration-of-vue-laravel-and-json-api-by-creative-tim/"><u>1. Master Full Stack Development with Vue and Laravel Professional Edition: Pro-Level Integration of Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/blackdashboard-pro-advanced-bootstrap-4-admin-panel-for-django-created-by-creative-tim/"><u>BlackDashboard Pro: Advanced Bootstrap 4 Admin Panel for Django - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/consistency-is-key-ensure-that-units-are-consistent-on-both-sides-of-your-scale-ratio-when-performing-calculations/"><u>Consistency Is Key; Ensure that Units Are Consistent on Both Sides of Your Scale Ratio when Performing Calculations.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-rotating-css-card-technique-inspired-by-html5-up/"><u>Creative Rotating CSS Card Technique - Inspired by HTML5 UP</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easily-undo-recent-windows-11-changes-with-this-simple-method/"><u>Easily Undo Recent Windows 11 Changes with This Simple Method</u></a></li>
-<li><a href="https://fox-place.techidaily.com/facebook-video-sharing-masterclass-how-to-post-and-share-with-ease/"><u>Facebook Video Sharing Masterclass: How to Post and Share with Ease</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s21-fe-5g-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S21 FE 5G (2023)with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-14-plus-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 14 Plus Is Unlocked</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-metaverse-shopping-a-users-guide-for-oculus-quest-2-gaming-apps/"><u>Mastering Metaverse Shopping: A User's Guide for Oculus Quest 2 Gaming Apps</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-mirilli-a-deep-dive-into-user-guides-and-end-user-license-agreements/"><u>Mastering Mirilli: A Deep Dive Into User Guides and End-User License Agreements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-eye-catching-4k-experience-dell-p2715q-in-focus-for-2024/"><u>The Eye Catching 4K Experience Dell P2715Q in Focus for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos-for-2024/"><u>What Is YouTube Tag and How to Find Great Tags For Your Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-keeping-it-secretive-watching-instagram-live-undetected/"><u>[Updated] 2024 Approved Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films/"><u>[Updated] Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-jokes-how-to-create-memetic-gold/"><u>2024 Approved Image Jokes How to Create Memetic Gold</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>2024 Approved Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precision-in-pacing-time-lapse-on-ipad/"><u>2024 Approved Precision in Pacing Time-Lapse on iPad</u></a></li>
+<li><a href="https://fox-place.techidaily.com/choose-and-combine-ui-modules-interface/"><u>Choose and Combine UI Modules Interface</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-design-professional-slideshows-for-mac-computers-without-spending-money-a-comprehensive-guide/"><u>How to Design Professional Slideshows for Mac Computers Without Spending Money - A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-connecting-your-android-device-with-a-sony-television/"><u>Step-by-Step Guide: Connecting Your Android Device with a Sony Television</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-snipping-tool-elevate-your-text-editing-skills/"><u>The Windows 11 Snipping Tool: Elevate Your Text Editing Skills</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-innovative-yt-reactions-for-engaging-content/"><u>Top 10 Innovative YT Reactions for Engaging Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-user-management-a-comprehensive-guide-on-users-and-groups-pages/"><u>Understanding User Management: A Comprehensive Guide on Users & Groups Pages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/windows-desktop-snapshot-learn-it-for-free-today-for-2024/"><u>Windows Desktop Snapshot Learn It for Free Today for 2024</u></a></li>
 </ul></div>
 

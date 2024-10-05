@@ -1,7 +1,7 @@
 ---
 title: "Modify Conditional Display Settings: Guide to Editing the Condition Window"
-date: 2024-09-27T06:37:36.929Z
-updated: 2024-09-29T23:33:52.034Z
+date: 2024-10-03T20:51:16.579Z
+updated: 2024-10-05T22:11:59.383Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ Table of Contents
 ![Control Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/control-condition.png "Control Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -98,10 +98,10 @@ Table of Contents
 The conditional statement that specifies under which conditions the action should be triggered. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/) (it cannot be blank). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action
@@ -141,22 +141,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-tips-for-ps4-screen-capture/"><u>[New] In 2024, Advanced Tips for PS4 Screen Capture</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digital-diaries-of-daily-displays-fb-live-downloads/"><u>[Updated] 2024 Approved Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage-for-2024/"><u>[Updated] Digital Dynamics How to Share Videos Effectively on Facebook's Stage for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-income-calculating-adsense-per-1k-viewer-for-2024/"><u>[Updated] Unlocking YouTube Income Calculating AdSense Per 1K Viewer for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-gameplay-into-a-masterpiece-using-fbx/"><u>2024 Approved Transform Gameplay Into a Masterpiece Using FBX</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fox-sports-video-downloads-get-your-favorite-fox-content-in-multiple-formats-like-mp4-avi-and-flv/"><u>FOX Sports Video Downloads: Get Your Favorite FOX Content in Multiple Formats Like MP4, AVI & FLV</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-downloads-pinkbike-sport-clips-tunes-and-film-teasers/"><u>Free Downloads: Pinkbike Sport Clips, Tunes & Film Teasers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-video-downloader-for-eckhart-tolle-channel-get-your-favorites-from-eckharttollenowcom/"><u>Free Video Downloader for Eckhart Tolle Channel - Get Your Favorites From eckharttollenow.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/gaia-video-extractor-pro-transfer-your-favorite-youtube-clips-into-mp4-or-avi-files/"><u>Gaia Video Extractor Pro: Transfer Your Favorite YouTube Clips Into MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-smart-with-wimp-downloader-seamlessly-transfer-vids-to-your-windows-or-mac-device/"><u>Get Smart with Wimp Downloader: Seamlessly Transfer Vids to Your Windows or Mac Device!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-your-favorite-cnn-footage-as-mp3-mp4-or-3gp-for-easy-viewing-and-sharing/"><u>Get Your Favorite CNN Footage as MP3, MP4 or 3GP for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-gyao-yahoo-videos-into-high-quality-mp4avi-format-on-pc-and-mac/"><u>Guide: Converting Your GyaO Yahoo Videos Into High-Quality MP4/AVI Format on PC & Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-xuite-video-files-into-mp4-or-avi-format-on-macos-and-windows/"><u>Guide: Converting Your Xuite Video Files Into MP4 or AVI Format on macOS & Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 11 Pro without Apple ID?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi 12 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-large-display-medium-network-selection-tips/"><u>In 2024, Large Display Medium Network Selection Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-broadcasting-duels-is-wirecast-superior-to-obs/"><u>[New] Broadcasting Duels Is Wirecast Superior to OBS?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-guide-to-alter-username-in-google-meet-sessions/"><u>[New] Quick Guide to Alter Username in Google Meet Sessions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-yuva-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Yuva 2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-platforms-for-accessing-and-obtaining-music-mixtapes-without-charge/"><u>Best Platforms for Accessing and Obtaining Music Mixtapes Without Charge</u></a></li>
+<li><a href="https://fox-place.techidaily.com/choosing-project-settings-a-comprehensive-guide/"><u>Choosing Project Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-microsofts-copilot-from-windows-11/"><u>Complete Guide: Removing Microsoft's Copilot From Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-vive-cosmos-exceptional-vr-quality-in-a-crowded-marketplace/"><u>Comprehensive Guide to the Vive Cosmos: Exceptional VR Quality in a Crowded Marketplace</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-strategies-for-optimal-application-setup-with-advanced-installer-solutions/"><u>Expert Strategies for Optimal Application Setup with Advanced Installer Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-recover-from-damaged-itunes-backups-on-iphone-models-x-8-and-6s-expert-tips-and-tricks/"><u>How to Recover From Damaged iTunes Backups on iPhone Models X, 8, Ⅶ, and 6S - Expert Tips & Tricks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-jesters-playground-newest-tiktok-comedians/"><u>In 2024, Jester's Playground Newest TikTok Comedians</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-streaming-league-of-legends-simple-recording-tips-for-gamers/"><u>Mastering the Art of Streaming League of Legends: Simple Recording Tips for Gamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a23-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A23 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

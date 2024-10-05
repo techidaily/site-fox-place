@@ -1,7 +1,7 @@
 ---
 title: Easy Setup Wizard for Selecting App Module Relationships
-date: 2024-09-29T02:37:17.532Z
-updated: 2024-09-30T01:35:05.000Z
+date: 2024-10-01T17:44:42.816Z
+updated: 2024-10-05T21:44:51.325Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Additionally you can display the system modules dependencies by selecting the �
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dependencies which cannot be accessed (for example assemblies in the GAC) can only be displayed (a checkbox is not showed next to them). If you want to add them to your project you can add the package which installs them as a prerequisite or you can add them from another location.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Automatic dependency management
@@ -143,20 +143,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-diy-gif-creation-extracting-motion-from-youtube-videos/"><u>[New] 2024 Approved DIY GIF Creation Extracting Motion From YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-precision-in-presentation-finalizing-videos-on-vimeo-effectively-for-2024/"><u>[New] Precision in Presentation Finalizing Videos on Vimeo Effectively for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unleashing-radiance-skincare-and-haircare-secrets/"><u>[Updated] In 2024, Unleashing Radiance Skincare and Haircare Secrets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-social-media-melody-ownership-laws-for-2024/"><u>[Updated] Social Media Melody Ownership Laws for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-flask-custom-layouts-and-motifs-from-creative-tim-superior-choice-for-professionals/"><u>Advanced Flask Custom Layouts & Motifs From Creative Tim: Superior Choice for Professionals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-elite-argon-pro-react-native-framework-with-cli-tooling-for-superior-mobile-development-experience/"><u>Creative Tim's Elite ARGON Pro - React Native Framework with Cli Tooling for Superior Mobile Development Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-material-admin-a-premium-bootstrap-based-dashboard-explore-the-charms-of-material-design/"><u>Creative Tim's Material Admin: A Premium, Bootstrap-Based Dashboard - Explore the Charms of Material Design</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-admin-and-dashboard-solution-by-creative-tim-high-end-material-dark-pro-theme-powered-by-premium-bootstrap-section-1-problem-understanding-the-scope-3/"><u>Expert Admin & Dashboard Solution by Creative Tim: High-End Material Dark PRO Theme Powered by Premium Bootstrap # Section 1: Problem - Understanding the Scope of UCC Article 2 in Contracts for Goods</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-6-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 6 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-screen-radiation-guarders/"><u>Premium Screen Radiation Guarders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964481921-toms-tech-review-expert-insights-on-pc-components-and-gadgets/"><u>Tom's Tech Review: Expert Insights on PC Components & Gadgets</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlock-professional-flutter-mobile-solutions-upgrade-with-creative-tims-premier-template-collection/"><u>Unlock Professional Flutter Mobile Solutions: Upgrade with Creative Tim's Premier Template Collection</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-six-part-integrated-system-unveiling-the-future-of-modular-components/"><u>1. Six-Part Integrated System: Unveiling the Future of Modular Components</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-for-booting-outlook-safely-on-your-pc-running-windows-nt-detailed-instructions-and-images-included/"><u>Easy Methods for Booting Outlook Safely on Your PC Running Windows nT - Detailed Instructions and Images Included</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-se-2020-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone SE (2020) online without SIM Card?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-sprint-spotlight-year-2022/"><u>In 2024, Olympic Sprint Spotlight Year 2022</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos-for-2024/"><u>Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-software-invalid-file-issue/"><u>Overcoming Steam Software Invalid File Issue</u></a></li>
+<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-rated-free-apps-to-download-reels-from-instagram-effortlessly/"><u>Top-Rated, Free Apps to Download Reels From Instagram Effortlessly</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-to-high-quality-laptop-screen-and-sound-recording-techniques/"><u>Ultimate Guide to High-Quality Laptop Screen and Sound Recording Techniques</u></a></li>
 </ul></div>
 

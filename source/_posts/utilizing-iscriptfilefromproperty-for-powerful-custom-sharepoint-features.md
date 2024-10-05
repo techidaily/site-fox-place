@@ -1,7 +1,7 @@
 ---
 title: Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features
-date: 2024-09-23T16:22:38.756Z
-updated: 2024-09-29T18:18:46.167Z
+date: 2024-09-28T17:34:03.093Z
+updated: 2024-10-05T21:34:02.137Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IScriptFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IScriptFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IScriptFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching script file into execution using a property to specify the script file path.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +165,16 @@ This interface facilitates editing custom action that allows the launching scrip
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,24 +216,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-competition-the-best-methods-for-recording-games-for-2024/"><u>[Updated] Capturing Competition The Best Methods for Recording Games for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-videographers-minecraft-6-proven-ways-to-document-gameplay/"><u>[Updated] In 2024, The Videographer's Minecraft 6 Proven Ways to Document Gameplay</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-enhance-audio-visual-fidelity-use-av1-on-youtube/"><u>2024 Approved Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-brand-identity-inserting-logos-into-flipbook-projects-on-flipbuildercom/"><u>Adding Brand Identity: Inserting Logos Into FlipBook Projects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-personal-touches-how-to-choose-and-apply-frames-for-edited-images-on-flipbuildercom/"><u>Adding Personal Touches: How to Choose and Apply Frames for Edited Images on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/confirming-your-flip-builder-edition-in-whether-output-ebook-acquisitions-flipbuildercom/"><u>Confirming Your Flip Builder Edition in Whether Output eBook Acquisitions [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-flip-book-ebooks-in-minutes-simple-page-turning-effects-on-flipbuilder/"><u>Create Flip Book Ebooks in Minutes - Simple Page-Turning Effects on FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-interactive-exe-flipbooks-with-ease-run-them-on-your-computer-instantly-using-flipbuilder/"><u>Create Interactive EXE Flipbooks with Ease - Run Them on Your Computer Instantly Using FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-interactive-flipbooks-from-text-files-with-graphics-and-symbols-start-now-at-flipbuildercom/"><u>Create Interactive Flipbooks From Text Files with Graphics & Symbols - Start Now at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-you-maximize-your-viewing-experience-with-flipbook-on-flipbuildercom/"><u>How Can You Maximize Your Viewing Experience with FlipBook on FlipBuilder.com?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-implement-auto-playing-flip-books-on-your-site-with-flipbuilder/"><u>How to Implement Auto-Playing Flip Books on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-asus-rog-phone-7-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Asus ROG Phone 7 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-s23-fe-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy S23 FE to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-f5-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco F5 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-the-full-screen-search-challenge-navigating-keyboard-limitations-on-flipbuilder/"><u>Solving the Full Screen Search Challenge: Navigating Keyboard Limitations on FlipBuilder</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-10-best-software-to-reverse-audio-online-desktop-and-phone/"><u>Updated 2024 Approved 10 Best Software to Reverse Audio Online, Desktop, and Phone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023-for-2024/"><u>Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-syncopating-stories-a-how-to-for-music-on-instagram/"><u>[New] Syncopating Stories A How-To for Music on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-companion-for-a-seamless-instagram-video-journey/"><u>2024 Approved The Ultimate Companion for a Seamless Instagram Video Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994208189-battlefield-4-wont-start-here-are-the-proven-solutions/"><u>Battlefield 4 Won't Start? Here Are the Proven Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Samsung Galaxy Z Fold 5 ?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-move-footage-between-your-iphone-and-pc-5-simple-techniques/"><u>How to Move Footage Between Your iPhone and PC – 5 Simple Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-best-vocal-modification-software-for-content-creators/"><u>In 2024, Best Vocal Modification Software for Content Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-6-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 6 online without SIM Card?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-simple-way-to-control-comment-functionality-in-youtube/"><u>In 2024, The Simple Way to Control Comment Functionality in YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-configurations-using-the-inifile-module-for-seamless-app-development/"><u>Mastering Configurations Using the IniFile Module for Seamless App Development</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-ux-effective-strategies-for-modifying-ui-dialog-boxes/"><u>Mastering UX: Effective Strategies for Modifying UI Dialog Boxes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-apps-for-high-quality-android-screen-recording/"><u>Top Apps for High-Quality Android Screen Recording</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-the-file-properties-pane-a-comprehensive-guide/"><u>Understanding the File Properties Pane: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726219349458-movavi-gif-mp4/"><u>무료 제공 기능: Movavi의 GIF 대 MP4 변환기 - 인터넷 세계에서 안정적으로 사용</u></a></li>
 </ul></div>
 

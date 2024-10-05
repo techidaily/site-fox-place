@@ -1,7 +1,7 @@
 ---
 title: Enhancing Application Management Using App-V Software, Version 4 Series Tabs
-date: 2024-09-26T09:30:09.003Z
-updated: 2024-09-30T08:36:24.196Z
+date: 2024-10-03T21:20:06.832Z
+updated: 2024-10-05T20:10:25.954Z
 tags:
   - user-guide
 categories:
@@ -85,16 +85,16 @@ Table of Contents
 
 ## Package
 
+### Folder
+
+Select the folder where the App-V 4.x package will be created.
+
 <!-- affiliate ads begin -->
 <a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
   <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
 <img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Folder
-
-Select the folder where the App-V 4.x package will be created.
 
 ### SFT Name
 
@@ -106,26 +106,32 @@ The name of SFT file. This is also the name of the .sprj and manifest files.
 
 The directory from the target computer where the application will be seen as installed. This directory is mapped to the Application Folder from the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comments
 
 Text describing the App-V 4.x package.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Server URL
 
 The URL where the App-V 4.x application will be placed in order to be streamed to clients.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Protocol
@@ -141,10 +147,10 @@ This field contains the server's name from where the App-V 4.x package will be s
 The port used in the communication with the App-V 4.x server.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Path on Server
@@ -155,20 +161,27 @@ This field contains the directory, on the server, where the App-V 4.x package wi
 
 Select if the application can be run on any operating system or only on specific operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### All
 
 If this option is selected, the App-V 4.x package will run on every operating system supported by Microsoft's App-V 4.x.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Only the following
 
 When this option is selected, choose from the listbox, the desired Operating Systems on which you App-V 4.x package will run.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Options
 
@@ -179,6 +192,19 @@ Enable this option in order to compress files from package using zlib compressio
 ### Download from server all files from package at first use
 
 Add all files in Feature Block 1 (FB1). Otherwise only EXEs and DLLs are added in FB1, the other files are added in FB2\. 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Generate MSI package for local deploy
 
@@ -193,35 +219,21 @@ The generated MSI will install the App-V 4.x application locally and will regist
 A list of App-V 4.x packages that need to be loaded in the same virtual environment in order for this application to work correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mandatory
 
 If a dependent package is specified as mandatory then the App-V 4.x application will not be started by App-V 4.x client if that cannot locate dependency.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Path
 
 A dependent package can be specified through its SFT file or through one of its its OSD file.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If SFT file is specified then its location on disk when application runs must remain the same as when it was added as dependency. Otherwise dependency package must be at URL specified in its OSD file.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -256,22 +268,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-introduction-mastering-zoom-sessions-split/"><u>[New] Introduction Mastering Zoom Sessions Split</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-journey-towards-facebooks-premium-verified-emblem-for-2024/"><u>[Updated] Journey Towards Facebook's Premium Verified Emblem for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/analyzing-aurora-hdr-quality/"><u>Analyzing Aurora HDR Quality</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-scythe-mugen-and-mugen-black-edition-superior-silent-performance-for-an-affordable-cost/"><u>Comprehensive Review of Scythe Mugen Ⅵ & Mugen Ⅵ - Black Edition: Superior Silent Performance for an Affordable Cost</u></a></li>
-<li><a href="https://fox-place.techidaily.com/consistency-is-key-ensure-that-units-are-consistent-on-both-sides-of-your-scale-ratio-when-performing-calculations/"><u>Consistency Is Key; Ensure that Units Are Consistent on Both Sides of Your Scale Ratio when Performing Calculations.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-rotating-css-card-technique-inspired-by-html5-up/"><u>Creative Rotating CSS Card Technique - Inspired by HTML5 UP</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-innovative-laravel-headless-cms-and-json-api-guide/"><u>Creative Tim's Innovative Laravel Headless CMS & JSON API Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-admin-panel-with-the-laravel-livewire-integration-of-material-dashboard-created-by-creative-tim-and-updivision/"><u>Elevate Your Admin Panel with the Laravel Livewire Integration of Material Dashboard, Created by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-web-development-with-nodejs-check-out-3plus-high-quality-premium-themes-and-frameworks-by-creative-tim/"><u>Elevate Your Web Development with Nodejs: Check Out 3+ High-Quality Premium Themes and Frameworks by Creative Tim</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-yahoo-messengers-legacy-and-reasons-behind-its-closure/"><u>Exploring Yahoo! Messenger's Legacy and Reasons Behind Its Closure</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-access-to-chatgpt-mastering-the-art-of-using-this-cutting-edge-ai-chatbot/"><u>Free Access to ChatGPT: Mastering the Art of Using This Cutting-Edge AI Chatbot</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instagram-to-tik-tok-integration-strategy-for-2024/"><u>Instagram to Tik Tok Integration Strategy for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/laravel-vue-argon-admin-panel-advanced-management-interface-designed-by-creative-tim-and-updivision/"><u>Laravel Vue Argon Admin Panel: Advanced Management Interface Designed by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://fox-place.techidaily.com/no-cost-react-and-mui-dashboard-design-using-soft-interface-inspired-by-creative-tim/"><u>No Cost React & MUI Dashboard Design Using Soft Interface - Inspired by Creative Tim</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-youtube-channel-with-chatgpt-powered-video-scripting-techniques/"><u>Transform Your YouTube Channel with ChatGPT-Powered Video Scripting Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-dream-lenses-guide-leading-6-in-high-definition-dslrs/"><u>[New] 2024 Approved Dream Lenses Guide Leading 6 in High-Definition DSLRs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secure-and-ethical-methods-for-capturing-chat-calls/"><u>[Updated] 2024 Approved Secure and Ethical Methods for Capturing Chat Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>[Updated] Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpiece-makers-exceptional-android-collage-apps/"><u>[Updated] Masterpiece Makers – Exceptional Android Collage Apps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-consumer-connection-reimagining-receiving/"><u>2024 Approved Crafting Consumer Connection Reimagining Receiving</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-change-screenshot-file-formats-on-a-mac/"><u>2024 Approved How to Change Screenshot File Formats on a Mac</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-cars-driving-options/"><u>Customizing Your Car's Driving Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-language-of-auditory-cues-in-movie-previews/"><u>Decoding the Language of Auditory Cues in Movie Previews</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-eradicate-all-adchoices-intrusive-windows-for-a-cleaner-browsing-experience/"><u>Guide: Eradicate All AdChoices Intrusive Windows for a Cleaner Browsing Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-motorola-moto-g14-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Motorola Moto G14 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
 

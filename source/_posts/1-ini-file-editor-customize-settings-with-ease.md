@@ -1,7 +1,7 @@
 ---
 title: "1. 'INI File Editor: Customize Settings with Ease'"
-date: 2024-09-23T10:16:13.625Z
-updated: 2024-09-30T08:14:24.798Z
+date: 2024-09-29T17:04:47.409Z
+updated: 2024-10-05T19:19:13.790Z
 tags:
   - user-guide
 categories:
@@ -95,19 +95,19 @@ Table of Contents
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The key and value are [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) fields, so you will be able to edit them using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key
@@ -115,22 +115,15 @@ Table of Contents
  This field contains the name of the key you want to create or add in the INI file.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
 
 This field contains the name of the value you want to set for or add to the specified key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Action
 
@@ -163,6 +156,13 @@ For this new INI, using the "Remove tag from entry" option forValue2 in Key1 wil
         Key1=Value1;Value3
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## General
 
@@ -203,19 +203,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-viewing-experience-activating-av1-codec-on-youtube/"><u>[New] Elevate Viewing Experience Activating AV1 Codec on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>[New] In 2024, From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-future-speaks-inspirational-metaverse-quotes-with-arvr/"><u>[Updated] In 2024, The Future Speaks Inspirational Metaverse Quotes with AR/VR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-macs-screen-capture-champions-the-premier-tools-evaluation/"><u>[Updated] Mac's Screen Capture Champions The Premier Tools Evaluation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-organic-scenes-essential-free-templates-to-elevate-filmmaking-art/"><u>[Updated] Organic Scenes Essential, Free Templates to Elevate Filmmaking Art</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-ultimate-xtube-video-grabber-convert-and-save-from-xtube-in-multiple-formats-mp4-avi-wmv-mov/"><u>1. Ultimate XTube Video Grabber: Convert and Save From xTube in Multiple Formats (MP4, AVI, WMV, MOV)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-unlock-exclusive-educational-content-free-downloads-from-discovery-ed/"><u>1. Unlock Exclusive Educational Content: Free Downloads From Discovery Ed</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-downloading-various-file-formats-from-evilchili-including-mp4-mov-and-more/"><u>Complete Guide: Downloading Various File Formats From EvilChili, Including MP4, MOV, and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-techniques-to-beat-a-lynel-in-the-legend-of-zelda-botw/"><u>Essential Techniques to Beat a Lynel in The Legend of Zelda: BOTW</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y100-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y100 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-skys-the-limit-crafting-professional-drone-videos/"><u>In 2024, Sky's the Limit Crafting Professional Drone Videos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transforming-your-flipbuilder-menus-aesthetics-altering-background-colors-easily/"><u>Transforming Your FlipBuilder Menu's Aesthetics: Altering Background Colors Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-comprehensive-guide-to-softening-images-with-iphone-software/"><u>[New] A Comprehensive Guide to Softening Images with iPhone Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-implementing-video-timelines-on-youtube/"><u>[New] Implementing Video Timelines on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-intriguing-youtube-intros-without-spending/"><u>[New] In 2024, Crafting Intriguing YouTube Intros Without Spending</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ro-video-essentials-the-finest-portable-laptop-brands-for-2024/"><u>[New] Pro Video Essentials The Finest Portable Laptop Brands for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-audio-visual-elements-in-tiktok-via-zoom/"><u>[Updated] Enhancing Audio-Visual Elements in TikTok via Zoom</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2021s-leading-software-solutions-for-seamless-whitescale-image-transformations/"><u>2021'S Leading Software Solutions for Seamless Whitescale Image Transformations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>2024 Approved Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-java-runtime-environment-jre-pack-the-ultimate-software-toolkit/"><u>Comprehensive Java Runtime Environment (JRE) Pack: The Ultimate Software Toolkit</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-list-of-no-cost-lawful-online-libraries-for-books/"><u>Discover the Ultimate List of No-Cost, Lawful Online Libraries for Books</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-application-management-using-app-v-software-version-4-series-tabs/"><u>Enhancing Application Management Using App-V Software, Version 4 Series Tabs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frei-verfugbare-methoden-zum-konvertieren-von-mov-dateien-zu-mp4-unter-windows-mac-os-und-online-services/"><u>Frei Verfügbare Methoden Zum Konvertieren Von MOV-Dateien Zu MP4 Unter Windows, Mac OS Und Online Services</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identify-active-microsoft-office-suite-programs-quick-guide/"><u>Identify Active Microsoft Office Suite Programs - Quick Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-g203-gamepad-drivers-for-windows-users-download-now/"><u>Latest Logitech G203 Gamepad Drivers for Windows Users - Download Now!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-tutorial-on-embedding-audio-with-mp3-and-html-code/"><u>Quick Tutorial on Embedding Audio with MP3 and HTML Code</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-guide-streaming-your-computer-screen-onto-your-television/"><u>The Ultimate Guide: Streaming Your Computer Screen Onto Your Television</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-10-virtual-reality-games-for-iphone-gamers-for-2024/"><u>Top 10 Virtual Reality Games for iPhone Gamers for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-trickbot-threats-protection-tips-and-strategies-cyberguardian/"><u>Understanding TrickBot Threats: Protection Tips & Strategies – CyberGuardian</u></a></li>
+<li><a href="https://fox-place.techidaily.com/web-based-translation-solutions-adding-captions-to-videos-for-universal-comprehension/"><u>Web-Based Translation Solutions: Adding Captions to Videos for Universal Comprehension</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-go-to-directory-15-reliable-sources-for-free-melodies-online/"><u>Your Go-To Directory: 15 Reliable Sources for Free Melodies Online</u></a></li>
 </ul></div>
 

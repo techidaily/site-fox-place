@@ -1,7 +1,7 @@
 ---
 title: Configuring ISAPI Filters Through the Settings Interface
-date: 2024-09-28T10:41:22.873Z
-updated: 2024-09-30T12:00:17.397Z
+date: 2024-10-02T19:08:37.803Z
+updated: 2024-10-05T17:30:45.410Z
 tags:
   - user-guide
 categories:
@@ -103,21 +103,22 @@ Table of Contents
 ## Filter
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
 Specify a name for the ISAPI filter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Executable
 
@@ -126,17 +127,17 @@ Click the browse button \[... \] on the right to navigate to the installation fo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ISAPI/CGI Restriction
@@ -146,13 +147,6 @@ Click the browse button \[... \] on the right to navigate to the installation fo
 Allows dynamic content to execute on the target IIS server. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -187,20 +181,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mac-visionaries-reveal-screenflow-secrets-and-benefits-for-2024/"><u>[New] Mac Visionaries Reveal ScreenFlow Secrets and Benefits for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-9-accelerators-skyrocketing-your-tiktok-community/"><u>[New] Top 9 Accelerators Skyrocketing Your TikTok Community</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>[Updated] 2024 Approved Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-vlc-utility-manual-for-effective-mac-usage/"><u>Essential VLC Utility Manual for Effective Mac Usage</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-smart-with-wimp-downloader-seamlessly-transfer-vids-to-your-windows-or-mac-device/"><u>Get Smart with Wimp Downloader: Seamlessly Transfer Vids to Your Windows or Mac Device!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-your-favorite-cnn-footage-as-mp3-mp4-or-3gp-for-easy-viewing-and-sharing/"><u>Get Your Favorite CNN Footage as MP3, MP4 or 3GP for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/get-your-free-videoaudio-converter-app-now-transform-files-into-mp4-or-mp3-seamlessly/"><u>Get Your Free Video/Audio Converter App Now! Transform Files Into MP4 or MP3 Seamlessly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-gyao-yahoo-videos-into-high-quality-mp4avi-format-on-pc-and-mac/"><u>Guide: Converting Your GyaO Yahoo Videos Into High-Quality MP4/AVI Format on PC & Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-xuite-video-files-into-mp4-or-avi-format-on-macos-and-windows/"><u>Guide: Converting Your Xuite Video Files Into MP4 or AVI Format on macOS & Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-save-and-convert-videos-from-yogaglo-into-popular-file-types-mp4-mov-avi/"><u>How To Save And Convert Videos From YogaGlo Into Popular File Types (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-free-time-tracker-a-step-by-step-guide/"><u>In 2024, Mastering FREE Time Tracker A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-counterfeit-pedal-infused-with-virus-the-danger-of-overrun-byproduct-application/"><u>MSI Counterfeit Pedal Infused with Virus: The Danger of Overrun Byproduct Application</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-expressive-german-idioms-top-25/"><u>The Ultimate Guide to Expressive German Idioms (Top 25)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlimited-fake-faces-top-free-online-generators-reviewed/"><u>Updated Unlimited Fake Faces Top Free Online Generators Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[New] In 2024, Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-transforming-visual-feeds-with-harmonious-hits/"><u>[Updated] In 2024, Transforming Visual Feeds with Harmonious Hits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>2024 Approved First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/dynamic-image-gallery-interactive-slideshows-online/"><u>Dynamic Image Gallery: Interactive Slideshows Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-power-of-pip-on-modern-edge-browser/"><u>Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-overwatchs-graphics-driver-issue-is-now-fixed/"><u>How Overwatch's Graphics Driver Issue Is Now Fixed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-text-to-life-3d-techniques-in-illustrator/"><u>In 2024, Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-blaze-2-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Blaze 2 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ios-photo-editing-simplified-comprehensive-tutorial-for-apowersoft-background-eraser-app-users/"><u>IOS Photo Editing Simplified: Comprehensive Tutorial for Apowersoft Background Eraser App Users</u></a></li>
+<li><a href="https://fox-place.techidaily.com/seamless-installer-experience-tips-for-effortless-software-deployment/"><u>Seamless Installer Experience: Tips for Effortless Software Deployment</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-eliminating-individuals-from-photos-using-photoshop/"><u>Step-by-Step Guide: Eliminating Individuals From Photos Using Photoshop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-list-of-top-3-free-voip-recording-utilities-easy-guide-and-reviews/"><u>Ultimate List of Top 3 FREE VOIP Recording Utilities: Easy Guide & Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whisperings-from-beyond-cyberspace-unraveling-who-youre-really-engaging-with-in-the-age-of-digital-phantoms/"><u>Whisperings From Beyond Cyberspace: Unraveling Who You're Really Engaging With in the Age of Digital Phantoms</u></a></li>
 </ul></div>
 

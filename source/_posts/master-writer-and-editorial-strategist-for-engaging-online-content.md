@@ -1,7 +1,7 @@
 ---
 title: Master Writer & Editorial Strategist for Engaging Online Content
-date: 2024-09-28T04:36:44.814Z
-updated: 2024-09-29T17:05:13.724Z
+date: 2024-10-04T17:14:08.172Z
+updated: 2024-10-05T18:08:15.378Z
 tags:
   - user-guide
 categories:
@@ -86,13 +86,6 @@ This page describes how you can edit a dialog and the tools that are used.
 
 ## Dialog Management
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Resizing the dialog
 
 Drag the dialog's margins while it is selected.
@@ -109,16 +102,16 @@ You can also add controls with the use of the toolbox.
 
 For a list of all the controls that can be used, please see the[Installer Controls](https://tools.techidaily.com/advancedinstaller/products/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing controls
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")Use the \[Delete \] toolbar button or press the Delete key while one or a group of controls is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the dialog is selected using the \[Delete \] button will remove it.
 
@@ -140,13 +133,6 @@ For a list of all the controls that can be used, please see the[Installer Contro
 * Vertical
 * Horizontal
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Spacing Controls
 
 ![Space](https://cdn.advancedinstaller.com/img/toolbar/editor-space.png "Space")Use the \[Space Evenly \] toolbar button or the “Space Evenly” context menu item while a group of controls is selected. You have the following options:
@@ -155,10 +141,10 @@ For a list of all the controls that can be used, please see the[Installer Contro
 * Down
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Making same size controls
@@ -170,10 +156,10 @@ For a list of all the controls that can be used, please see the[Installer Contro
 * Both
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display Grid and Dialog Margins
@@ -184,20 +170,40 @@ For a list of all the controls that can be used, please see the[Installer Contro
 
  You can specify the Editor's behavior when changing some attributes of dialogs or controls that have counterparts on other dialogs. Use the \[Settings \] toolbar button. The [Editor Settings](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to choose the desired behavior.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Bring To Front
 
 ![Bring To Front](https://cdn.advancedinstaller.com/img/toolbar/editor-b2f.png "Bring To Front")Use the\[Bring To Front \] button, the “Order > Bring To Front” context menu item or press the Ctrl + Shift + F keys while one or multiple controls are selected in order to bring them on top of the Z-order (tab-order).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Send To Back
 
 ![Send To Back](https://cdn.advancedinstaller.com/img/toolbar/editor-s2b.png "Send To Back")Use the \[Send To Back \] button, the “Order > Send To Back” context menu item or press the Ctrl + Shift + B keys while one or multiple controls are selected to send them to the bottom of the Z-order (tab-order). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tab Order Dialog
 
@@ -215,13 +221,6 @@ Select the controls and use the “Copy” / “Cut” and “Paste” context m
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The option can also be used between different application instances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Control Selection
 
 Click on the control you want to select or choose it in the controls list from the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane.
@@ -229,6 +228,13 @@ Click on the control you want to select or choose it in the controls list from t
 The selected control will be made visible even if other controls overlay it.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These settings are custom for every dialog and control.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Two controls from different dialogs are counterparts if the following requirements are met:
 
@@ -251,13 +257,6 @@ If you use the Ctrl key, the last selected control is the main control while if 
 
  Drag and drop the selected control or use the Up, Down, Left, Right keys. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Resizing controls
 
 Drag the selected control's margins or use the Shift + Up, Down, Left, Right keys.
@@ -267,6 +266,13 @@ Drag the selected control's margins or use the Shift + Up, Down, Left, Right key
 Use the “Control Data” context menu item or press the Ctrl + D keys while the focus in on the control. The [Control Data Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing to add control data.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is only available for Combo Box, List Box and List View controls.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -318,18 +324,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-perfect-your-ig-photos-with-the-ideal-frame-choices-for-2024/"><u>[New] Perfect Your IG Photos with the Ideal Frame Choices for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-techniques-for-professional-obs-edits/"><u>[Updated] In 2024, Cutting-Edge Techniques for Professional OBS Edits</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-social-media-stardom-guide/"><u>[Updated] Social Media Stardom Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-public-perceptions-unveiling-vllo-realities/"><u>2024 Approved Public Perceptions Unveiling VLLO Realities</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-templates-toolbar-position-on-the-top-with-flipbooks-floating-design-techniques/"><u>Customizing Your Template's Toolbar Position on the Top with FlipBook's Floating Design Techniques</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-innovative-ways-to-transform-e-books-using-flipbuilders-unique-features-flipbuildercom/"><u>Discover Innovative Ways to Transform E-Books Using FlipBuilder's Unique Features [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dont-lose-it-again-restoring-deleted-chatgpt-interactions-efficiently/"><u>Don't Lose It Again! Restoring Deleted ChatGPT Interactions Efficiently</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-steps-to-customize-shadows-on-pages-using-flipbuilder-protip/"><u>Easy Steps to Customize Shadows on Pages Using FlipBuilder ProTip</u></a></li>
-<li><a href="https://fox-place.techidaily.com/edit-your-pdfs-with-zero-cost-the-ultimate-guide-to-a-100-free-online-pdf-editor-for-simple-creation-and-modification/"><u>Edit Your PDFs with Zero Cost: The Ultimate Guide to a 100% FREE Online PDF Editor for Simple Creation & Modification</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-11-pro-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 11 Pro for Free</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-3-strategies-for-capturing-real-time-sports-events-online-for-2024/"><u>Top 3 Strategies for Capturing Real-Time Sports Events Online for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unravel-the-best-ps2-emulation-on-ios-devices-for-2024/"><u>Unravel the Best PS2 Emulation on iOS Devices for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716062627823-updated-in-2024-how-to-record-a-voice-over-for-a-video/"><u>[Updated] In 2024, How To Record A Voice Over For A Video?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>2024 Approved Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/combine-multiple-media-streams-into-a-single-mkv-file-using-mkvtoolnix/"><u>Combine Multiple Media Streams Into a Single MKV File Using MKVToolNix</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-parameters-for-software-setup-and-configuration/"><u>Effective Parameters for Software Setup & Configuration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-guide-how-to-change-movies-mov-into-graphics-interchange-format-gif/"><u>Effortless Guide: How to Change Movies (MOV) Into Graphics Interchange Format (GIF)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elite-d-class-dungeons-topping-the-list-for-2024/"><u>Elite D-Class Dungeons Topping the List for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-troubleshooting-failed-bluetooth-service-starts/"><u>Fixes & Tips: Troubleshooting Failed Bluetooth Service Starts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-access-and-configure-the-import-wizard-a-step-by-step-guide/"><u>How to Access and Configure the Import Wizard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g13-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G13 Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-gadgets-to-boost-your-workouts-the-top-2024-fitness-trackers-reviewed/"><u>Innovative Gadgets to Boost Your Workouts: The Top 2024 Fitness Trackers Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-hot-30i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Hot 30i with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-6-unforgettable-instagram-caption-ideas-for-memorable-photos/"><u>Top 6 Unforgettable Instagram Caption Ideas for Memorable Photos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/utilizing-iscriptfilefromproperty-for-powerful-custom-sharepoint-features/"><u>Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features</u></a></li>
 </ul></div>
 

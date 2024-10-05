@@ -1,7 +1,7 @@
 ---
 title: Customize Components' Rules & Preferences Through Admin Control Panel
-date: 2024-09-22T17:29:02.656Z
-updated: 2024-09-30T03:52:55.199Z
+date: 2024-09-28T19:02:05.369Z
+updated: 2024-10-05T16:32:13.939Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ In this dialog, you can change the Component Policy for files and registry entri
 ![Component Policies Dialog](https://cdn.advancedinstaller.com/img/dialog/component-policies-edit-dialog.png "Component Policies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registry Component Policy
@@ -105,10 +105,10 @@ If this option is checked, for registry keys with multiple registry values only 
 This option will ensure that a single component will be created for all registries so if there are multiple keys and values, all of them will be in the same component. This option is useful for minimizing the installation time in scenarios with a large number of registers .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Component Policy
@@ -160,21 +160,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-steps-to-designing-exceptional-youtube-thumbnails/"><u>[New] 2024 Approved Essential Steps to Designing Exceptional YouTube Thumbnails</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-gameplay-androids-leading-gba-emulators/"><u>[New] 2024 Approved Superior Gameplay Android's Leading GBA Emulators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-brand-your-content-download-complimentary-templates-for-youtube-makers-for-2024/"><u>[New] Brand Your Content Download Complimentary Templates for YouTube Makers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nnovative-tips-to-create-effective-free-video-advertisements-on-youtube-for-2024/"><u>[New] Innovative Tips to Create Effective Free Video Advertisements on YouTube for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-ultimate-xtube-video-grabber-convert-and-save-from-xtube-in-multiple-formats-mp4-avi-wmv-mov/"><u>1. Ultimate XTube Video Grabber: Convert and Save From xTube in Multiple Formats (MP4, AVI, WMV, MOV)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-unlock-exclusive-educational-content-free-downloads-from-discovery-ed/"><u>1. Unlock Exclusive Educational Content: Free Downloads From Discovery Ed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>2024 Approved The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/apowersoft-screen-record-unveiled-top-alternatives-reviewed-for-2024/"><u>Apowersoft Screen Record Unveiled - Top Alternatives Reviewed for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-downloading-various-file-formats-from-evilchili-including-mp4-mov-and-more/"><u>Complete Guide: Downloading Various File Formats From EvilChili, Including MP4, MOV, and More</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-tutorial-installing-allavsoft-software-in-mac-catalina-systems/"><u>Complete Tutorial: Installing Allavsoft Software in Mac Catalina Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/empower-gamers-transmit-your-xbox-gameplay-to-discord-networks/"><u>Empower Gamers: Transmit Your Xbox Gameplay to Discord Networks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s18e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18e working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transform-your-pdfs-into-engaging-digital-flipbooks-including-precise-page-selection-and-navigation-learn-more-at-flipbuildercom/"><u>Transform Your PDFs Into Engaging Digital Flipbooks, Including Precise Page Selection & Navigation - Learn More at [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transforming-your-flipbuilder-menus-aesthetics-altering-background-colors-easily/"><u>Transforming Your FlipBuilder Menu's Aesthetics: Altering Background Colors Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-live-stream-to-screen-seamlessly-reviewed/"><u>[New] 2024 Approved Live-Stream to Screen, Seamlessly Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-peak-performance-audio-organizer-android/"><u>[New] 2024 Approved Peak Performance Audio Organizer, Android</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-the-financial-benefits-in-podcasting-for-2024/"><u>[Updated] Exploring the Financial Benefits in Podcasting for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-flashing-screen-in-windows-11-pcs/"><u>Fix Window's Flashing Screen in Windows 11 PCs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-eradicate-all-adchoices-intrusive-windows-for-a-cleaner-browsing-experience/"><u>Guide: Eradicate All AdChoices Intrusive Windows for a Cleaner Browsing Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mac-users-guide-recording-screenshots-with-camstudio-on-a-macbook/"><u>Mac Users Guide: Recording Screenshots with CamStudio on a MacBook</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalized-action-based-file-retrieval-options/"><u>Personalized Action-Based File Retrieval Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/record-google-hangout-4-solutions/"><u>Record Google Hangout [4 Solutions]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Sphere: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps/"><u>Time Tamed on Film Easy Steps for Slow-Mo Video Using Photo Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s18e-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Updating and Tweaking SCCM Setup Parameters"
-date: 2024-09-27T16:48:48.824Z
-updated: 2024-09-29T16:02:44.181Z
+date: 2024-10-01T16:13:14.634Z
+updated: 2024-10-05T17:32:22.653Z
 tags:
   - user-guide
 categories:
@@ -83,16 +83,16 @@ In the right view you to declare the settings for the selected configuration pro
 
 This panel displays both predefined and user made configuration profiles. By default, Advanced Installer comes with two predefined configurations:MSI Default and EXE Default. These configurations are _Read Only_ meaning they **can not** be deleted or changed. However, any of these profiles can be duplicated in order to modify their original settings.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add Configuration
 
 Use the "Add" context menu option or press theInsert key while the left panel is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Duplicate Configuration
 
@@ -103,10 +103,10 @@ Use the "Duplicate" context menu option or press the+ key while a profile from t
 While a configuration profile is selected use the "Rename" context menu option or press the F2 key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove Configuration
@@ -116,17 +116,17 @@ While a configuration profile is selected use the "Remove" context menu option o
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The SCCM Configuration dialog is available only in**Architect** projects.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -171,19 +171,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>2024 Approved Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-no-limit-video-recorders-the-best-12-picks/"><u>2024 Approved No Limit Video Recorders - The Best 12 Picks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>2024 Approved Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-flask-custom-layouts-and-motifs-from-creative-tim-superior-choice-for-professionals/"><u>Advanced Flask Custom Layouts & Motifs From Creative Tim: Superior Choice for Professionals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-elite-argon-pro-react-native-framework-with-cli-tooling-for-superior-mobile-development-experience/"><u>Creative Tim's Elite ARGON Pro - React Native Framework with Cli Tooling for Superior Mobile Development Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-material-admin-a-premium-bootstrap-based-dashboard-explore-the-charms-of-material-design/"><u>Creative Tim's Material Admin: A Premium, Bootstrap-Based Dashboard - Explore the Charms of Material Design</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-admin-and-dashboard-solution-by-creative-tim-high-end-material-dark-pro-theme-powered-by-premium-bootstrap-section-1-problem-understanding-the-scope-3/"><u>Expert Admin & Dashboard Solution by Creative Tim: High-End Material Dark PRO Theme Powered by Premium Bootstrap # Section 1: Problem - Understanding the Scope of UCC Article 2 in Contracts for Goods</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-12-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 12 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/key-guidelines-in-selecting-previously-owned-gadgets/"><u>Key Guidelines in Selecting Previously Owned Gadgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-grayed-out-bin-status-in-win11/"><u>Rectifying Grayed Out Bin Status in Win11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-destiny-2-graphics-setup-errors-and-how-to-correct-them/"><u>Solved: Destiny 2 Graphics Setup Errors & How to Correct Them</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-create-flawless-animation-movies/"><u>Step-by-Step Guide to Create Flawless Animation Movies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/whats-your-expected-income-as-a-podcaster/"><u>What's Your Expected Income? - As a Podcaster</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-time-management-for-those-balancing-careers-and-youtubing/"><u>[New] Time Management for Those Balancing Careers and YouTubing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] 2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2020s-ultimate-guide-effortless-removal-of-pdf-watermarks-and-securing-your-documents/"><u>2020'S Ultimate Guide: Effortless Removal of PDF Watermarks and Securing Your Documents</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-cars-driving-options/"><u>Customizing Your Car's Driving Options</u></a></li>
+<li><a href="https://fox-place.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-how-to-integrate-mp3-files-into-your-html-pages/"><u>Easy Guide: How to Integrate MP3 Files Into Your HTML Pages</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-success-routes-with-our-comprehensive-project-paths-tab-guide/"><u>Exploring Success Routes with Our Comprehensive Project Paths Tab Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xs-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23+ Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-code-workflow-the-impact-of-artificial-intelligence-on-programmers/"><u>Innovating Code Workflow: The Impact of Artificial Intelligence on Programmers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/locational-attributes-in-registry-data-management/"><u>Locational Attributes in Registry Data Management</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-user-management-a-comprehensive-guide-on-users-and-groups-pages/"><u>Understanding User Management: A Comprehensive Guide on Users & Groups Pages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Configuration of Your VM Environments: Profile Editing Guide"
-date: 2024-09-28T18:24:09.648Z
-updated: 2024-09-30T12:01:48.804Z
+date: 2024-09-30T17:59:53.882Z
+updated: 2024-10-05T17:02:26.048Z
 tags:
   - user-guide
 categories:
@@ -73,10 +73,10 @@ You can follow the [Repackaging an installation in Oracle VM VirtualBox](https:/
 Use the “New” context menu option or press the+ key while **localhost** or another custom defined server connection is selected in the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Duplicating a profile
@@ -84,16 +84,10 @@ Use the “New” context menu option or press the+ key while **localhost** or a
 Use the “Duplicate” context menu option or press the\* key while an existing profile is selected. This option comes in handy when you want to create a profile very similar to exiting one. 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting a profile as active
@@ -101,10 +95,16 @@ Use the “Duplicate” context menu option or press the\* key while an existing
 Use the “Set as active” context menu option. The profile that is **active** (current) is the one that will be used for the VM installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Deleting a profile
@@ -112,10 +112,10 @@ Use the “Set as active” context menu option. The profile that is **active** 
 Use the “Delete” context menu option or press theDelete key while a profile is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -158,22 +158,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/"><u>[Updated] Earnings Expertise for YouTube Creators FB Insights and Tactics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ignite-youtube-branding-get-free-design-samples/"><u>[Updated] Ignite YouTube Branding Get FREE Design Samples</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>2024 Approved Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-flask-custom-layouts-and-motifs-from-creative-tim-superior-choice-for-professionals/"><u>Advanced Flask Custom Layouts & Motifs From Creative Tim: Superior Choice for Professionals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-elite-argon-pro-react-native-framework-with-cli-tooling-for-superior-mobile-development-experience/"><u>Creative Tim's Elite ARGON Pro - React Native Framework with Cli Tooling for Superior Mobile Development Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-material-admin-a-premium-bootstrap-based-dashboard-explore-the-charms-of-material-design/"><u>Creative Tim's Material Admin: A Premium, Bootstrap-Based Dashboard - Explore the Charms of Material Design</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disabling-printer-on-windows-instantly/"><u>Disabling Printer on Windows Instantly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-swiftly-handle-stalled-gpsvc-process/"><u>How to Swiftly Handle Stalled GPSVC Process</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-make-your-photos-move-the-10-best-animation-tools-for-beginners/"><u>New 2024 Approved Make Your Photos Move The 10 Best Animation Tools for Beginners</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-web-10-free-online-video-compression-tools/"><u>New 2024 Approved The Best of the Web 10 Free Online Video Compression Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/over-90-premium-user-interface-design-templates-by-creative-tim-download-free/"><u>Over 90 Premium User Interface Design Templates by Creative Tim - Download Free</u></a></li>
-<li><a href="https://fox-place.techidaily.com/premium-flutter-project-with-now-ui-pro-elevate-your-creation-with-professional-flutter-templates/"><u>Premium Flutter Project with Now UI PRO: Elevate Your Creation with Professional Flutter Templates</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-powerhouse-of-home-entertainment-discover-how-the-nvidia-shield-tv-pro-dominates-in-streaming-and-gaming/"><u>The Powerhouse of Home Entertainment: Discover How the Nvidia Shield TV Pro Dominates in Streaming and Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-red-dead-redemption-abortionerror-errgfxstate-for-an-uninterrupted-gaming-experience/"><u>Troubleshooting Red Dead Redemption abortionError (ERR_GFX_STATE) for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlock-professional-flutter-mobile-solutions-upgrade-with-creative-tims-premier-template-collection/"><u>Unlock Professional Flutter Mobile Solutions: Upgrade with Creative Tim's Premier Template Collection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-charisma-of-jittery-text-2-methods-unleashed/"><u>[New] The Charisma of Jittery Text 2 Methods Unleashed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-fun-the-finest-ios-apps-for-loading-fb-videos-for-2024/"><u>[Updated] Maximize Fun The Finest iOS Apps for Loading FB Videos for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2020s-ultimate-guide-effortless-removal-of-pdf-watermarks-and-securing-your-documents/"><u>2020'S Ultimate Guide: Effortless Removal of PDF Watermarks and Securing Your Documents</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
+<li><a href="https://fox-place.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-how-to-integrate-mp3-files-into-your-html-pages/"><u>Easy Guide: How to Integrate MP3 Files Into Your HTML Pages</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-success-routes-with-our-comprehensive-project-paths-tab-guide/"><u>Exploring Success Routes with Our Comprehensive Project Paths Tab Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153057153-impending-ruling-trumps-ban-under-scrutiny-at-fb-oversight-panel/"><u>Impending Ruling: Trump's Ban Under Scrutiny at FB Oversight Panel</u></a></li>
+<li><a href="https://fox-place.techidaily.com/locational-attributes-in-registry-data-management/"><u>Locational Attributes in Registry Data Management</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-intel-g4400-graphics-card-driver-update-available-now/"><u>New Intel G4400 Graphics Card Driver Update Available Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/one-click-disable-graphics-drivers-on-windows-systems/"><u>One-Click Disable: Graphics Drivers on WIndows Systems</u></a></li>
 </ul></div>
 

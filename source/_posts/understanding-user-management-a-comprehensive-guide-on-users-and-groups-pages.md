@@ -1,7 +1,7 @@
 ---
 title: "Understanding User Management: A Comprehensive Guide on Users & Groups Pages"
-date: 2024-09-26T08:36:25.588Z
-updated: 2024-09-29T18:03:43.502Z
+date: 2024-09-29T22:26:14.628Z
+updated: 2024-10-05T21:39:30.853Z
 tags:
   - user-guide
 categories:
@@ -84,54 +84,66 @@ On this page you can set up the creation of new users and groups.
 ![Add a new group](https://cdn.advancedinstaller.com/img/pages/add-group.png "Add a new group") Setup the creation of a new group by using the \[New Group \] toolbar button, selecting the “New Group” context menu option or by pressing the Insert key while the “Users and Groups” pane is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create a new user
 
 ![Add a new user](https://cdn.advancedinstaller.com/img/pages/add-user.png "Add a new user")Setup the creation of a new user account by using the \[New User \] toolbar button, selecting the “New User” context menu option or by pressing the + key while the “Users and Groups” pane is focused.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rename a user or group
 
 Rename a user or group by using the “Rename” context menu option or by pressing the F2 key while an element is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Browse users or groups
 
 ![Browse users or groups](https://cdn.advancedinstaller.com/img/pages/browse.png "Browse users or groups")Add a new browse operation by using the \[New Browse \] toolbar button or by selecting the “New Browse” context menu option while the “Users and Groups” pane is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing a user account or group
 
 ![Remove a user account](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove a user account")Remove a user account from the list by using the\[Remove \] toolbar button, selecting the “Remove” context menu option or by pressing the Del key while the desired element is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Notes
 
 If the user or group already exist on target computer the installation will fail. User account names are limited to 20 characters and group names are limited to 256 characters. In addition, account names cannot be terminated by a period and they cannot include commas or any of the following printable characters: ", /, \\, \[, \], :, |, <, >, +, =, ;, ?, \*. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Both user and groups names can use [Windows Installer Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). If you provide a formatted reference, the names will be resolved accordingly at install time. On the other hand, if the names you provide don't have a formatted syntax, they will be validated according to the above notes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -175,14 +187,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-quick-tips-for-overcoming-adobe-premieres-srt-export-issues-for-2024/"><u>[New] Quick Tips for Overcoming Adobe Premiere's SRT Export Issues for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-unleashing-the-potential-of-maxoaks-premium-battery-pack-with-185wh50000mah-capacity/"><u>In-Depth Analysis: Unleashing the Potential of MaxOak's Premium Battery Pack with 185Wh/50000mAh Capacity</u></a></li>
-<li><a href="https://fox-place.techidaily.com/over-90-premium-user-interface-design-templates-by-creative-tim-download-free/"><u>Over 90 Premium User Interface Design Templates by Creative Tim - Download Free</u></a></li>
-<li><a href="https://fox-place.techidaily.com/premium-flutter-project-with-now-ui-pro-elevate-your-creation-with-professional-flutter-templates/"><u>Premium Flutter Project with Now UI PRO: Elevate Your Creation with Professional Flutter Templates</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-tech-and-comfort-mercedes-ai-voice-update/"><u>Synergy of Tech & Comfort: Mercedes' AI Voice Update</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlock-professional-flutter-mobile-solutions-upgrade-with-creative-tims-premier-template-collection/"><u>Unlock Professional Flutter Mobile Solutions: Upgrade with Creative Tim's Premier Template Collection</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-yuva-3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Yuva 3?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-updating-and-tweaking-sccm-setup-parameters/"><u>Guide: Updating and Tweaking SCCM Setup Parameters</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with IMEI Code?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-90-lite-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 90 Lite Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-immersive-escapades-in-vr-on-youtube/"><u>In 2024, Top Immersive Escapades in VR on Youtube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-pc-video-editing-made-easy-a-review-of-vn-video-editor/"><u>New PC Video Editing Made Easy A Review of VN Video Editor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>Updated 2024 Approved Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y36-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y36? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

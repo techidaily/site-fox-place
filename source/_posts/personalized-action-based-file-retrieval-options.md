@@ -1,7 +1,7 @@
 ---
 title: Personalized Action-Based File Retrieval Options
-date: 2024-09-23T07:30:09.420Z
-updated: 2024-09-30T12:08:44.146Z
+date: 2024-10-04T20:20:05.046Z
+updated: 2024-10-05T16:12:10.000Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,16 @@ Table of Contents
 ## IFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +143,10 @@ Table of Contents
 IFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +154,10 @@ IFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching executable file into execution using a property to specify the executable file path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -161,10 +167,10 @@ This interface facilitates editing custom action that allows the launching execu
 **String CommandLine** \- Gets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -206,16 +212,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-visuals-using-chroma-key-effectively/"><u>[New] 2024 Approved Enhancing Visuals Using Chroma Key Effectively</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-master-full-stack-development-with-vue-and-laravel-professional-edition-pro-level-integration-of-vue-laravel-and-json-api-by-creative-tim/"><u>1. Master Full Stack Development with Vue and Laravel Professional Edition: Pro-Level Integration of Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-voiceverse-review-audio-deep-dive/"><u>2024 Approved VoiceVerse Review Audio Deep Dive</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-find-x6-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Find X6? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/blackdashboard-pro-advanced-bootstrap-4-admin-panel-for-django-created-by-creative-tim/"><u>BlackDashboard Pro: Advanced Bootstrap 4 Admin Panel for Django - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/facebook-video-sharing-masterclass-how-to-post-and-share-with-ease/"><u>Facebook Video Sharing Masterclass: How to Post and Share with Ease</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-f25-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo F25 Pro 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-mirilli-a-deep-dive-into-user-guides-and-end-user-license-agreements/"><u>Mastering Mirilli: A Deep Dive Into User Guides and End-User License Agreements</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-perfecting-audio-levels-in-film-and-streaming-content/"><u>Updated In 2024, Perfecting Audio Levels in Film and Streaming Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-diving-deep-into-valheims-vital-vegetation/"><u>[New] 2024 Approved Diving Deep Into Valheim's Vital Vegetation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-efficiency-the-editors-guide-to-speed-control-for-2024/"><u>[New] Unlock Efficiency The Editor's Guide to Speed Control for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-8-youtube-thumbnail-grabbers-you-should-know/"><u>[Updated] 2024 Approved Best 8 YouTube Thumbnail Grabbers You Should Know</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-free-quicktime-recording-capture-videos-and-audios-at-no-cost/"><u>1. Free QuickTime Recording: Capture Videos and Audios at No Cost</u></a></li>
+<li><a href="https://fox-place.techidaily.com/advanced-configuration-of-your-vm-environments-profile-editing-guide/"><u>Advanced Configuration of Your VM Environments: Profile Editing Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-application-management-using-app-v-software-version-4-series-tabs/"><u>Enhancing Application Management Using App-V Software, Version 4 Series Tabs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-5-live-stream-video-recorders-for-remote-sessions/"><u>In 2024, Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 2 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-tutorial-on-embedding-audio-with-mp3-and-html-code/"><u>Quick Tutorial on Embedding Audio with MP3 and HTML Code</u></a></li>
+<li><a href="https://fox-place.techidaily.com/real-estate-listing-pages-your-guide-to-property-showcase/"><u>Real Estate Listing Pages: Your Guide to Property Showcase</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-vistas-top-10-inspirational-yoga-videos-for-2024/"><u>Yogic Vistas Top 10 Inspirational Yoga Videos for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the File Properties Pane: A Comprehensive Guide"
-date: 2024-09-23T16:36:15.246Z
-updated: 2024-09-30T05:33:45.182Z
+date: 2024-09-29T17:31:21.194Z
+updated: 2024-10-05T18:09:56.357Z
 tags:
   - user-guide
 categories:
@@ -96,22 +96,29 @@ Table of Contents
 
 ![File Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/file-properties.png "File Properties Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## File
 
 The "Name" text field shows the name under which the file is installed. It is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type, and you can [localize](https://tools.techidaily.com/advancedinstaller/products/) its value. Also, you can use the "Source Path" field to edit the path of the file to be included in the install package. Click on the\[... \] button to change it.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Paths Per builds
 
 Configure the source path for each build usingChange... hyperlink button.
 
 Reset the source path to the default one by clicking onReset hyperlink button or reset the source paths for all builds using Reset All hyperlink button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Attributes
 
@@ -120,17 +127,10 @@ Reset the source path to the default one by clicking onReset hyperlink button or
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a file marked as vital is not installed correctly, the installation stops and rolls back.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signature
@@ -142,10 +142,10 @@ Before enabling this option, you should assure the certificate supports signing 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Digitally signing a .XAP file requires Silverlight installed on your development machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -181,18 +181,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-discord-streams/"><u>[New] 2024 Approved Unlocking the Potential of Discord Streams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-fair-assessment-unveiling-recordcasts-capabilities/"><u>[New] In 2024, A Fair Assessment Unveiling RecordCast's Capabilities</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta/"><u>[New] In 2024, Turning Tides in Visuals Mastering the Art of Angles and Rotations on Insta</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>2024 Approved Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly/"><u>2024 Approved Optimal Outlooks Ideal Laptops to Render HD Videos Quickly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-innovative-laravel-headless-cms-and-json-api-guide/"><u>Creative Tim's Innovative Laravel Headless CMS & JSON API Guide</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/effortless-conversion-techniques-changing-avchd-video-to-mpeg-4-container-mkv/"><u>Effortless Conversion Techniques: Changing AVCHD Video to MPEG-4 Container (MKV)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-admin-panel-with-the-laravel-livewire-integration-of-material-dashboard-created-by-creative-tim-and-updivision/"><u>Elevate Your Admin Panel with the Laravel Livewire Integration of Material Dashboard, Created by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-web-development-with-nodejs-check-out-3plus-high-quality-premium-themes-and-frameworks-by-creative-tim/"><u>Elevate Your Web Development with Nodejs: Check Out 3+ High-Quality Premium Themes and Frameworks by Creative Tim</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-influencing-minds-with-music-selection-for-movie-previews/"><u>In 2024, Influencing Minds with Music Selection for Movie Previews</u></a></li>
-<li><a href="https://fox-place.techidaily.com/laravel-vue-argon-admin-panel-advanced-management-interface-designed-by-creative-tim-and-updivision/"><u>Laravel Vue Argon Admin Panel: Advanced Management Interface Designed by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://fox-place.techidaily.com/no-cost-react-and-mui-dashboard-design-using-soft-interface-inspired-by-creative-tim/"><u>No Cost React & MUI Dashboard Design Using Soft Interface - Inspired by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/over-90-premium-user-interface-design-templates-by-creative-tim-download-free/"><u>Over 90 Premium User Interface Design Templates by Creative Tim - Download Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[New] 2024 Approved Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-every-detail-android-recording-at-zero-cost/"><u>[New] Capture Every Detail Android Recording at Zero Cost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-perfect-picture-for-youtube-upload/"><u>[Updated] Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-visibility-with-instagrams-highlight-system/"><u>[Updated] Maximizing Visibility with Instagram's Highlight System</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-software-deployment-blueprint/"><u>Comprehensive Software Deployment Blueprint</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effective-strategies-for-learning-french-at-home/"><u>Effective Strategies for Learning French at Home</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-free-wmv-video-combining-software-for-this-year-for-2024/"><u>New Best Free WMV Video Combining Software for This Year for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-user-experience-with-effective-data-dialogue-management-tools/"><u>Optimizing User Experience with Effective Data Dialogue Management Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-listening-experience-swift-techniques-to-download-music-from-vk-platforms/"><u>Streamline Your Listening Experience: Swift Techniques to Download Music From VK Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/supreme-five-optimal-dvd-software-for-sierra-os/"><u>Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-rated-no-cost-watermarking-tools-find-the-best-one-today/"><u>Top Rated No-Cost Watermarking Tools: Find the Best One Today!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-picks-6-leading-photo-editing-tools-featuring-exceptional-background-insert-options/"><u>Ultimate Picks: 6 Leading Photo Editing Tools Featuring Exceptional Background Insert Options</u></a></li>
 </ul></div>
 

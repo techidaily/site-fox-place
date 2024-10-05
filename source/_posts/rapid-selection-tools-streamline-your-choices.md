@@ -1,7 +1,7 @@
 ---
 title: Rapid Selection Tools - Streamline Your Choices
-date: 2024-09-28T18:00:12.131Z
-updated: 2024-09-29T19:25:05.076Z
+date: 2024-10-04T18:21:38.760Z
+updated: 2024-10-05T22:12:22.093Z
 tags:
   - user-guide
 categories:
@@ -65,10 +65,10 @@ Table of Contents
 ## Quick Filter
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Browse for pages in Left Pane
@@ -78,10 +78,16 @@ You can find the Quick Filter box in the upper side of the left pane. The search
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/quick-filter.png "Left Pane")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As an example, when searching for "script" with the Quick Filter, the result will return both [SQL Databases Page](https://tools.techidaily.com/advancedinstaller/products/) and [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -124,20 +130,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-your-guide-to-premium-full-screen-recorders-for-pcmac-for-2024/"><u>[New] Your Guide to Premium Full-Screen Recorders for PC/Mac for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-flask-custom-layouts-and-motifs-from-creative-tim-superior-choice-for-professionals/"><u>Advanced Flask Custom Layouts & Motifs From Creative Tim: Superior Choice for Professionals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-elite-argon-pro-react-native-framework-with-cli-tooling-for-superior-mobile-development-experience/"><u>Creative Tim's Elite ARGON Pro - React Native Framework with Cli Tooling for Superior Mobile Development Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-tims-material-admin-a-premium-bootstrap-based-dashboard-explore-the-charms-of-material-design/"><u>Creative Tim's Material Admin: A Premium, Bootstrap-Based Dashboard - Explore the Charms of Material Design</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhanced-pro-edition-of-material-dashboards-for-laravel-livewire-designed-by-creative-tim-and-updivision-tech-team/"><u>Enhanced PRO Edition of Material Dashboards for Laravel Livewire - Designed by Creative Tim & UPDIVISION Tech Team</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-zero-5g-2023-turbo-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Zero 5G 2023 Turbo Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-v30-lite-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo V30 Lite 5G Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo A78 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keep-your-devices-up-to-date-install-new-intel-82579lm-driver/"><u>Keep Your Devices Up-to-Date: Install New Intel 82579LM Driver</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premium-gadgets-for-less-discover-superior-tech-on-a-budget/"><u>Premium Gadgets for Less: Discover Superior Tech on a Budget</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-on-pc-how-to-restore-audio-functionality-for-chats/"><u>Sea of Thieves on PC - How to Restore Audio Functionality for Chats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tipos-de-transacciones-financieras-en-el-sitio-web-movavi/"><u>Tipos De Transacciones Financieras en El Sitio Web Movavi</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlock-professional-flutter-mobile-solutions-upgrade-with-creative-tims-premier-template-collection/"><u>Unlock Professional Flutter Mobile Solutions: Upgrade with Creative Tim's Premier Template Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-revolutionize-slack-discussions-with-10-free-recorders-for-2024/"><u>[New] Revolutionize Slack Discussions with 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-color-balancer-suite/"><u>[Updated] Prime Color Balancer Suite</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-visual-impact-the-best-ae-title-methods/"><u>2024 Approved Mastering Visual Impact The Best AE Title Methods</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-tutorial-booting-into-dfurecovery-mode-for-ios-hardware-fixes/"><u>Complete Tutorial: Booting Into DFU/Recovery Mode for iOS Hardware Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/delving-into-why-apple-maintains-distinct-digital-direction/"><u>Delving Into Why Apple Maintains Distinct Digital Direction</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-preventing-intrusive-promotions-during-web-browsing-in-chrome-mobile-on-android-phones/"><u>Guide: Preventing Intrusive Promotions During Web Browsing in Chrome Mobile on Android Phones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721841472758-master-the-art-of-hiding-your-chatconversations-with-gpt-no-deletions-involved/"><u>Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-sqlite-connections-essential-tips-and-steps-for-setup/"><u>Mastering SQLite Connections: Essential Tips and Steps for Setup</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-eliminating-individuals-from-photos-using-photoshop/"><u>Step-by-Step Guide: Eliminating Individuals From Photos Using Photoshop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/why-select-malwarefox-as-your-primary-defense-against-cyber-threats/"><u>Why Select MalwareFox as Your Primary Defense Against Cyber Threats?</u></a></li>
 </ul></div>
 

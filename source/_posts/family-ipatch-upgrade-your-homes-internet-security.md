@@ -1,7 +1,7 @@
 ---
 title: "Family IPatch: Upgrade Your Home's Internet Security"
-date: 2024-09-24T17:36:55.155Z
-updated: 2024-09-30T06:21:49.135Z
+date: 2024-10-04T19:29:00.748Z
+updated: 2024-10-05T17:29:40.770Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchUpgradeFamily
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,10 +129,16 @@ Table of Contents
 IPatchUpgradeFamily : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,10 +146,10 @@ IPatchUpgradeFamily : IDispatch
 This interface is meant edit upgraded images family properties
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -157,10 +163,10 @@ This interface is meant edit upgraded images family properties
 **Uint FileSequenceStart** \- Gets or sets the file sequence start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,20 +208,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-easy-lenovo-techniques-for-capturing-your-display/"><u>[New] Easy Lenovo Techniques for Capturing Your Display</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-on-producing-high-quality-facebook-video/"><u>[New] Expert Tips on Producing High-Quality Facebook Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-vsco-editing-techniques-summary/"><u>[New] In 2024, Essential VSCO Editing Techniques Summary</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-redefine-viewing-premium-platforms-for-videos/"><u>[Updated] Redefine Viewing Premium Platforms for Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-exposure-boost-for-your-social-media-visuals/"><u>2024 Approved Exposure Boost for Your Social Media Visuals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-and-download-your-cmivfx-video-lessons-as-mp4-training-course-converter/"><u>Convert and Download Your cmiVFX Video Lessons as MP4 - Training Course Converter</u></a></li>
-<li><a href="https://fox-place.techidaily.com/convert-your-downloads-high-quality-movies-and-songs-from-aol-and-truveo-in-multiple-formats/"><u>Convert Your Downloads: High-Quality Movies & Songs From AOL and Truveo in Multiple Formats</u></a></li>
-<li><a href="https://fox-place.techidaily.com/deezer-vs-pandora-showdown-uncovering-the-main-features-that-set-them-apart/"><u>Deezer Vs. Pandora Showdown: Uncovering the Main Features that Set Them Apart</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-art-lessons-access-comprehensive-video-tutorials-from-the-drawing-academy/"><u>Download Art Lessons: Access Comprehensive Video Tutorials From the Drawing Academy</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-from-macprovideo-library-how-to-save-and-format-videos-as-mp4-mov-avi-for-easy-playback/"><u>Download From MacProVideo Library: How to Save and Format Videos as MP4, MOV, AVI for Easy Playback</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-with-showcase-pro-secure-your-favorite-shows-from-showcaseca-for-pcs-and-macs/"><u>Download with Showcase Pro: Secure Your Favorite Shows From Showcase.ca for PCs & Macs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-access-to-the-guardian-shows-download-options-including-mp4-mov-and-more-for-your-viewing-pleasure/"><u>Easy Access to The Guardian Shows: Download Options Including MP4, MOV, and More for Your Viewing Pleasure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-harvesters-making-memes-without-a-price-tag/"><u>In 2024, Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-diverse-iphone-media-formats-together/"><u>In 2024, Integrating Diverse iPhone Media Formats Together</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/preserving-data-integrity-chatgpt-for-businesses/"><u>Preserving Data Integrity: ChatGPT for Businesses</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-steps-for-crafting-visually-stimulating-fb-ad-content/"><u>[New] 2024 Approved Steps for Crafting Visually Stimulating FB Ad Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inding-the-highlighted-online-discourse-for-2024/"><u>[New] Finding the Highlighted Online Discourse for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-who-likes-what-deciphering-instagram-stats-and-screenshots-for-2024/"><u>[New] Who Likes What? Deciphering Instagram Stats & Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creating-captivating-mukbang-content-step-by-step/"><u>[Updated] Creating Captivating Mukbang Content Step-By-Step</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-alternatives-to-the-snappea-mobile-application/"><u>Best Alternatives to the SnapPea Mobile Application</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-practices-for-secondary-footage-management-for-2024/"><u>Best Practices for Secondary Footage Management for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-tcls-expanded-range-of-19-new-q-and-s-class-smart-televisions/"><u>Discover the Latest: TCL's Expanded Range of 19 New Q and S Class Smart Televisions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-file-deletion-process-mastering-the-remove-item-wizard/"><u>Effortless File Deletion Process: Mastering the Remove Item Wizard</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ifolder-sync-seamless-file-transfer-between-devices/"><u>IFolder Sync: Seamless File Transfer Between Devices</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-folder-organization-a-guide-to-efficient-file-system-navigation/"><u>Mastering Folder Organization: A Guide to Efficient File System Navigation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g42-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G42 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-code-with-top-tips-on-using-an-effective-search-component-locator-isearch/"><u>Streamline Your Code with Top Tips on Using an Effective Search Component Locator (iSearch)</u></a></li>
 </ul></div>
 

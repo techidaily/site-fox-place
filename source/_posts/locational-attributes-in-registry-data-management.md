@@ -1,7 +1,7 @@
 ---
 title: Locational Attributes in Registry Data Management
-date: 2024-09-23T06:10:11.125Z
-updated: 2024-09-30T10:33:45.662Z
+date: 2024-10-01T21:46:01.347Z
+updated: 2024-10-05T19:28:07.681Z
 tags:
   - user-guide
 categories:
@@ -77,19 +77,6 @@ Table of Contents
 
 ## Registry Location Properties
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Root
 
  The Registry Hive Root. Can be one of "Classes Root", "Current User", "Local Machine" or "Users". 
@@ -97,13 +84,6 @@ Table of Contents
 ### Key and Name
 
  The path to the registry location. Use the\[... \] button to browse the registry and select a key and value using the [Registry Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). Also, you can insert reference to a file, folder or property using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Type
 
@@ -132,21 +112,22 @@ Table of Contents
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When retrieving the raw value of a registry entry you will get these results:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * for string entries, the searches property will contain the registry entry's actual value
 * for binary entries, the searches property will contain the registry entry's value preceded by the "#x" characters (for example "#xValue")
 * for dword entries, the searches property will contain the registry entry's value preceded by the "#" character (for example "#Value")
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search the 64-bit portion of the registry
@@ -154,6 +135,13 @@ Table of Contents
  Check this if you want to search in the 64-bit registry section. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Root
 * Key
@@ -163,10 +151,10 @@ Table of Contents
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -202,24 +190,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-connecting-twitter-videos-with-facebook-friends-for-2024/"><u>[New] Connecting Twitter Videos with Facebook Friends for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-instagram-to-tiktok-the-ultimate-connector/"><u>[New] In 2024, Instagram to TikTok The Ultimate Connector</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/1717307929207-updated-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>[Updated] From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>[Updated] In 2024, Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-brand-identity-inserting-logos-into-flipbook-projects-on-flipbuildercom/"><u>Adding Brand Identity: Inserting Logos Into FlipBook Projects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-personal-touches-how-to-choose-and-apply-frames-for-edited-images-on-flipbuildercom/"><u>Adding Personal Touches: How to Choose and Apply Frames for Edited Images on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/confirming-your-flip-builder-edition-in-whether-output-ebook-acquisitions-flipbuildercom/"><u>Confirming Your Flip Builder Edition in Whether Output eBook Acquisitions [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-flip-book-ebooks-in-minutes-simple-page-turning-effects-on-flipbuilder/"><u>Create Flip Book Ebooks in Minutes - Simple Page-Turning Effects on FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-interactive-exe-flipbooks-with-ease-run-them-on-your-computer-instantly-using-flipbuilder/"><u>Create Interactive EXE Flipbooks with Ease - Run Them on Your Computer Instantly Using FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-interactive-flipbooks-from-text-files-with-graphics-and-symbols-start-now-at-flipbuildercom/"><u>Create Interactive Flipbooks From Text Files with Graphics & Symbols - Start Now at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creating-dynamic-income-streams-adding-interactive-flash-ads-to-ebooks-using-flipbuilders-features/"><u>Creating Dynamic Income Streams: Adding Interactive Flash Ads to eBooks Using FlipBuilder's Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-implement-auto-playing-flip-books-on-your-site-with-flipbuilder/"><u>How to Implement Auto-Playing Flip Books on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y27-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y27 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-pixelpie-cutter/"><u>In 2024, PixelPie Cutter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-fixing-iphones-tackling-7-common-camera-challenges/"><u>Mastering the Art of Fixing iPhones: Tackling 7 Common Camera Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-and-crash-fixes-in-naraka-edge-of-night-gameplay/"><u>Resolved Issues and Crash Fixes in Naraka: Edge of Night Gameplay</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-the-full-screen-search-challenge-navigating-keyboard-limitations-on-flipbuilder/"><u>Solving the Full Screen Search Challenge: Navigating Keyboard Limitations on FlipBuilder</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/uncomplicated-steps-for-archiving-gotomeeting-dialogues-for-2024/"><u>Uncomplicated Steps for Archiving GoToMeeting Dialogues for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-soften-your-iphone-pics-a-detailed-breakdown-4-ways/"><u>[New] How to Soften Your iPhone Pics A Detailed Breakdown (4 Ways)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-new-era-facebooks-quintessential-features-showcased/"><u>[New] In 2024, New Era Facebook's Quintessential Features Showcased</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[Updated] 2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-basic-obs-setup-tips-for-budget-machines-for-2024/"><u>[Updated] Basic OBS Setup Tips for Budget Machines for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-ini-file-editor-customize-settings-with-ease/"><u>1. 'INI File Editor: Customize Settings with Ease'</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>2024 Approved Fast Track Fun Turning Animated Art Into Sticky Messages Quickly</u></a></li>
+<li><a href="https://fox-place.techidaily.com/configuring-isapi-filters-through-the-settings-interface/"><u>Configuring ISAPI Filters Through the Settings Interface</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-selection-of-excellent-apps-compatible-with-ios-8/"><u>Discover the Ultimate Selection of Excellent Apps Compatible with iOS 8</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-transforming-your-androids-pdf-files-into-editable-word-documents-in-2020/"><u>Easy Guide: Transforming Your Android's PDF Files Into Editable Word Documents in 2020</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-6-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic 6 to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/make-file-examination-easier-integrate-diskspace-insight-into-windows-menu/"><u>Make File Examination Easier: Integrate DiskSpace Insight Into Windows Menu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-unloaded-buildings-in-pubg-now-corrected/"><u>Overcoming the Challenge of Unloaded Buildings in PUBG - Now Corrected</u></a></li>
+<li><a href="https://fox-place.techidaily.com/securing-access-understanding-authentication-techniques/"><u>Securing Access: Understanding Authentication Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tracing-the-evolutionary-path-of-windows-movie-maker-for-2024/"><u>Tracing the Evolutionary Path of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-steps-for-seamless-transition-of-spotify-playlists-into-apple-music-collection/"><u>Ultimate Steps for Seamless Transition of Spotify Playlists Into Apple Music Collection</u></a></li>
 </ul></div>
 
