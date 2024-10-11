@@ -1,7 +1,7 @@
 ---
 title: Customizing Component Settings Through Edit Property Interface
-date: 2024-10-04T19:19:01.882Z
-updated: 2024-10-05T20:39:45.317Z
+date: 2024-10-06T19:43:11.152Z
+updated: 2024-10-11T07:10:34.309Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ Table of Contents
 ![Edit Components Properties](https://cdn.advancedinstaller.com/img/dialog/edit-component-properties.png "Edit Components Properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -100,10 +100,10 @@ Table of Contents
 A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is evaluated as false, the component is not installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not register this component with Windows Installer
@@ -111,10 +111,10 @@ A Windows Installer condition which is evaluated and the result determines the c
  If this option is selected the component will have an empty GUID and thus it will not be registered. This means that the component cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the component yourself (using a custom action, for instance).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -171,22 +171,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-humorous-harmonics-optimal-ringtone-sites/"><u>[Updated] 2024 Approved Humorous Harmonics Optimal Ringtone Sites</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-methods-for-android-video-capture/"><u>[Updated] In 2024, Top Methods for Android Video Capture</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-ini-file-editor-customize-settings-with-ease/"><u>1. 'INI File Editor: Customize Settings with Ease'</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-no-more-youtube-the-best-5-alternative-editors-await/"><u>2024 Approved No More Youtube? The Best 5 Alternative Editors Await</u></a></li>
-<li><a href="https://fox-place.techidaily.com/configuring-isapi-filters-through-the-settings-interface/"><u>Configuring ISAPI Filters Through the Settings Interface</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-selection-of-excellent-apps-compatible-with-ios-8/"><u>Discover the Ultimate Selection of Excellent Apps Compatible with iOS 8</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-guide-transforming-your-androids-pdf-files-into-editable-word-documents-in-2020/"><u>Easy Guide: Transforming Your Android's PDF Files Into Editable Word Documents in 2020</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-the-youtube-content-manager-toolkit-for-2024/"><u>Exploring the YouTube Content Manager Toolkit for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-defy-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Defy 2</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-soundscaping-stories-musical-elements-in-reels/"><u>In 2024, Soundscaping Stories Musical Elements in Reels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/optimal-no-cost-android-video-maker/"><u>Optimal No-Cost Android Video Maker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-problematic-chrome-file-uploaddownload-on-windows/"><u>Rectifying Problematic Chrome File Upload/Download on Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/securing-access-understanding-authentication-techniques/"><u>Securing Access: Understanding Authentication Techniques</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-steps-for-seamless-transition-of-spotify-playlists-into-apple-music-collection/"><u>Ultimate Steps for Seamless Transition of Spotify Playlists Into Apple Music Collection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-sony-xperia-5-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Sony Xperia 5 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-bioshock-2-remastered-crash/"><u>[FIXED] BioShock 2 Remastered Crash</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discords-spoiler-system-easily/"><u>[New] Navigating Discord's Spoiler System Easily</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-strategy-in-the-shopping-experience/"><u>[Updated] 2024 Approved Strategy in the Shopping Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-secure-efficient-downloads-of-podcasts-onto-iphone/"><u>2024 Approved Swift and Secure Efficient Downloads of Podcasts Onto iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-wechat-photo-frame-specifications/"><u>2024 Approved WeChat Photo Frame Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/decade-old-changes-valves-latest-steam-family-sharing-update/"><u>Decade-Old Changes: Valve’s Latest Steam Family Sharing Update</u></a></li>
+<li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-make-videos-play-swiftly-for-2024/"><u>Instagram Make Videos Play Swiftly for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/introducing-the-enhanced-apowermanager-v30-discover-its-latest-innovations/"><u>Introducing the Enhanced ApowerManager v3.0: Discover Its Latest Innovations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mac-users-guide-recording-screenshots-with-camstudio-on-a-macbook/"><u>Mac Users Guide: Recording Screenshots with CamStudio on a MacBook</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalized-action-based-file-retrieval-options/"><u>Personalized Action-Based File Retrieval Options</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-your-storage-in-onedrive-within-win-11/"><u>Redefine Your Storage in OneDrive Within Win 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/slash-your-image-size-top-free-programs-to-shrink-jpeg-files-below-100kb/"><u>Slash Your Image Size: Top Free Programs to Shrink JPEG Files Below 100KB</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-list-of-elite-pc-maintenance-suites-for-tech-experts/"><u>The Ultimate List of Elite PC Maintenance Suites for Tech Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-techniques-for-successfully-broadcasting-pubg-mobile-gameplay-from-pc-or-smartphone-onto-youtube/"><u>Top Techniques for Successfully Broadcasting PUBG Mobile Gameplay From PC or Smartphone Onto YouTube</u></a></li>
 </ul></div>
 

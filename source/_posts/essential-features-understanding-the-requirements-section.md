@@ -1,7 +1,7 @@
 ---
 title: "Essential Features: Understanding the Requirement's Section"
-date: 2024-10-02T21:24:53.437Z
-updated: 2024-10-05T16:46:18.504Z
+date: 2024-10-09T01:07:07.903Z
+updated: 2024-10-11T00:45:39.581Z
 tags:
   - user-guide
 categories:
@@ -78,18 +78,18 @@ Table of Contents
 
 In this section, you can specify the amount of time and space required by the program to run on the client machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Estimated disk space
 
 In this field, you can specify the amount of disk space the program requires to run on the client computer.
 
 By default, this value is empty meaning the estimated space is**unknown** and can be set as a whole number greater than or equal to zero to specify a fixed disk space requirement. Use the combo box from the right to select the desired units from the list:KB, MB, GB.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Estimated runtime
 
@@ -97,37 +97,37 @@ This field allows you to specify the estimated time (in minutes) that the progra
 
 By default, this value is empty meaning the estimated time is**unknown** and can be set as a whole number greater than zero to specify an estimated time.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Additional Requirements
 
 In this field, you can write **optional** text that can include any other information or requirements for client computers.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Platforms
 
 In this section you can choose the platform and operating system on which the program will run.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This program can run on any platform
 
 If this option is enabled the program will run both on 32 and 64-bits platforms and on **all** Microsoft Windows versions.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### This program can run only on the following platforms:
@@ -217,18 +217,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>[New] A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-lenovo-screen-casting/"><u>[Updated] Effortless Lenovo Screen Casting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-voice-memo-recording-on-your-iphone-for-2024/"><u>[Updated] Effortless Voice Memo Recording on Your iPhone for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-expert-strategies-for-enhanced-media-experience-with-vlc/"><u>2024 Approved Expert Strategies for Enhanced Media Experience with VLC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-nostalgia-revue-old-school-review-of-the-goofys/"><u>2024 Approved Nostalgia Revue Old-School Review of The Goofys</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>2024 Approved Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-methods-to-transform-ape-audio-files-into-mp3/"><u>Effortless Methods to Transform APE Audio Files Into MP3</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-filmless-to-film-rich-digitizing-yesteryears-images-for-2024/"><u>From Filmless to Film-Rich Digitizing Yesteryears' Images for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-set-up-apps-to-launch-at-boot-on-windows-desktops/"><u>How to Set Up Apps to Launch at Boot on Windows Desktops</u></a></li>
-<li><a href="https://fox-place.techidaily.com/managing-iis-collections-a-comprehensive-guide/"><u>Managing IIS Collections: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-and-simple-guide-converting-m4a-files-into-wma-format/"><u>Quick & Simple Guide: Converting M4A Files Into WMA Format</u></a></li>
-<li><a href="https://fox-place.techidaily.com/smart-techniques-for-extracting-video-content-from-telegram-channels/"><u>Smart Techniques for Extracting Video Content From Telegram Channels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-image-recognition-fail-in-your-iphones-visual-search/"><u>Why Does Image Recognition Fail in Your iPhone's Visual Search?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boundless-treasure-tales-of-instagram-flair/"><u>[New] In 2024, Boundless Treasure Tales of Instagram Flair</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-custom-installation-action-handler-tailored-file-deployment/"><u>1. Custom Installation Action Handler: Tailored File Deployment</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-uncovering-true-reflection-in-distorted-facebook-video/"><u>2024 Approved Uncovering True Reflection in Distorted Facebook Video</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-platforms-for-accessing-and-obtaining-music-mixtapes-without-charge/"><u>Best Platforms for Accessing and Obtaining Music Mixtapes Without Charge</u></a></li>
+<li><a href="https://fox-place.techidaily.com/choosing-project-settings-a-comprehensive-guide/"><u>Choosing Project Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-strategies-for-optimal-application-setup-with-advanced-installer-solutions/"><u>Expert Strategies for Optimal Application Setup with Advanced Installer Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-recover-from-damaged-itunes-backups-on-iphone-models-x-8-and-6s-expert-tips-and-tricks/"><u>How to Recover From Damaged iTunes Backups on iPhone Models X, 8, Ⅶ, and 6S - Expert Tips & Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-k11-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo K11 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-streaming-league-of-legends-simple-recording-tips-for-gamers/"><u>Mastering the Art of Streaming League of Legends: Simple Recording Tips for Gamers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-ideal-gadget-a-thorough-review-of-apple-airtag-for-iphone-users/"><u>Unveiling the Ideal Gadget: A Thorough Review of Apple AirTag For iPhone Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-windows-107-users-guide-to-dawnbreakers-discovering-top-8-audio-workstations/"><u>Updated In 2024, Windows 10/7 Users Guide to Dawnbreakers Discovering Top 8 Audio Workstations</u></a></li>
 </ul></div>
 

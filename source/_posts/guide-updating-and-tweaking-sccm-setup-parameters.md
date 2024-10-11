@@ -1,7 +1,7 @@
 ---
 title: "Guide: Updating and Tweaking SCCM Setup Parameters"
-date: 2024-10-01T16:13:14.634Z
-updated: 2024-10-05T17:32:22.653Z
+date: 2024-10-04T05:21:02.959Z
+updated: 2024-10-10T18:33:41.088Z
 tags:
   - user-guide
 categories:
@@ -79,16 +79,16 @@ In the left view you can create, modify or remove configuration profiles.
 
 In the right view you to declare the settings for the selected configuration profile by using the [Package Definition](https://tools.techidaily.com/advancedinstaller/products/), [MIF](https://tools.techidaily.com/advancedinstaller/products/), [Programs](https://tools.techidaily.com/advancedinstaller/products/) tabs.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Configurations
 
 This panel displays both predefined and user made configuration profiles. By default, Advanced Installer comes with two predefined configurations:MSI Default and EXE Default. These configurations are _Read Only_ meaning they **can not** be deleted or changed. However, any of these profiles can be duplicated in order to modify their original settings.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add Configuration
 
@@ -98,15 +98,22 @@ Use the "Add" context menu option or press theInsert key while the left panel is
 
 Use the "Duplicate" context menu option or press the+ key while a profile from the left panel is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rename Configuration
 
 While a configuration profile is selected use the "Rename" context menu option or press the F2 key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove Configuration
@@ -116,17 +123,10 @@ While a configuration profile is selected use the "Remove" context menu option o
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The SCCM Configuration dialog is available only in**Architect** projects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -171,20 +171,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-time-management-for-those-balancing-careers-and-youtubing/"><u>[New] Time Management for Those Balancing Careers and YouTubing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] 2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/2020s-ultimate-guide-effortless-removal-of-pdf-watermarks-and-securing-your-documents/"><u>2020'S Ultimate Guide: Effortless Removal of PDF Watermarks and Securing Your Documents</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-cars-driving-options/"><u>Customizing Your Car's Driving Options</u></a></li>
-<li><a href="https://fox-place.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-guide-how-to-integrate-mp3-files-into-your-html-pages/"><u>Easy Guide: How to Integrate MP3 Files Into Your HTML Pages</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-success-routes-with-our-comprehensive-project-paths-tab-guide/"><u>Exploring Success Routes with Our Comprehensive Project Paths Tab Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xs-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XS Max with iTunes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23+ Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovating-code-workflow-the-impact-of-artificial-intelligence-on-programmers/"><u>Innovating Code Workflow: The Impact of Artificial Intelligence on Programmers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/locational-attributes-in-registry-data-management/"><u>Locational Attributes in Registry Data Management</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-user-management-a-comprehensive-guide-on-users-and-groups-pages/"><u>Understanding User Management: A Comprehensive Guide on Users & Groups Pages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-4k-gaming-laptops/"><u>[New] Best 4K Gaming Laptops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ios-slide-show-tools-tailored-for-high-end-models-for-2024/"><u>[New] IOS Slide Show Tools Tailored for High-End Models for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>[Updated] High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-soundsreview-summary-for-2024/"><u>[Updated] SoundsReview Summary for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-effortless-techniques-for-swapping-faces-in-videos-a-dual-approach/"><u>1. Effortless Techniques for Swapping Faces in Videos: A Dual Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-look-at-the-highly-capable-samsung-gear-s3-frontier-smartwatch/"><u>A Comprehensive Look at the Highly Capable Samsung Gear S3 Frontier Smartwatch</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-site-functionality-through-advanced-cookiebot-solutions/"><u>Boost Site Functionality Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-various-virtualization-implementation-models/"><u>Comprehensive Guide to Various Virtualization Implementation Models</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-component-settings-through-edit-property-interface/"><u>Customizing Component Settings Through Edit Property Interface</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-json-configuration-exploring-the-settings-tab/"><u>Customizing JSON Configuration: Exploring the 'Settings' Tab</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-establishing-a-new-playstation-online-presence/"><u>Easy Steps for Establishing a New PlayStation Online Presence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/full-guide-the-complete-revamp-of-gpu-drivers/"><u>Full Guide: The Complete Revamp of GPU Drivers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-converting-fb-videos-to-tv-friendly-formats/"><u>In 2024, Converting FB Videos to TV-Friendly Formats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/innovative-solutions-exceptional-i-services-for-your-success/"><u>Innovative Solutions: Exceptional I Services for Your Success</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-writer-and-editorial-strategist-for-engaging-online-content/"><u>Master Writer & Editorial Strategist for Engaging Online Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-tricks-boost-your-android-devices-performance-in-just-minutes/"><u>Quick Tricks: Boost Your Android Device's Performance in Just Minutes!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-videos-in-macos-mavericks-xcode/"><u>Step-by-Step Guide: Converting Videos in macOS Mavericks (Xcode)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-product-identification-codes-a-guide-to-efficient-inventory-management/"><u>Understanding Product Identification Codes: A Guide to Efficient Inventory Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless File Deletion Process: Mastering the Remove Item Wizard"
-date: 2024-10-01T22:25:48.537Z
-updated: 2024-10-05T21:55:18.862Z
+date: 2024-10-04T18:51:45.658Z
+updated: 2024-10-11T05:41:29.120Z
 tags:
   - user-guide
 categories:
@@ -101,16 +101,10 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behavior.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -148,17 +142,17 @@ You can specify a whole folder to be removed upon install or uninstall from the[
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The removal operation is extremely useful when the installed resources are modified post install and would not be removed otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Schedule
@@ -204,20 +198,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-inspiration-crafting-captivating-ig-posts-for-2024/"><u>[Updated] The Art of Inspiration Crafting Captivating IG Posts for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/choosing-project-settings-a-comprehensive-guide/"><u>Choosing Project Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
-<li><a href="https://facebook.techidaily.com/forums-demise-presented-by-social-media-advantages/"><u>Forums' Demise, Presented by Social Media Advantages</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-recover-from-damaged-itunes-backups-on-iphone-models-x-8-and-6s-expert-tips-and-tricks/"><u>How to Recover From Damaged iTunes Backups on iPhone Models X, 8, Ⅶ, and 6S - Expert Tips & Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>In 2024, Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/learn-to-produce-fb-video-ads-using-free-kit-for-2024/"><u>Learn to Produce FB Video Ads Using Free Kit for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-streaming-league-of-legends-simple-recording-tips-for-gamers/"><u>Mastering the Art of Streaming League of Legends: Simple Recording Tips for Gamers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sony-bdp-s6500-review-updated-for-2024/"><u>Sony BDP-S6500 Review - Updated for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 8 Plus You Should Try Out</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-the-secrets-to-effective-youtube-video-uploads/"><u>Unlocking the Secrets to Effective YouTube Video Uploads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tailoring-blends-for-stunning-composite-videos/"><u>[New] 2024 Approved Tailoring Blends for Stunning Composite Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-thrilling-theme-journey-10-bestdiscord-classics/"><u>[New] 2024 Approved Thrilling Theme Journey 10 BestDiscord Classics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[New] In 2024, Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-revolutionize-your-pc-captures-with-these-top-tools-for-2024/"><u>[New] Revolutionize Your PC Captures with These Top Tools for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-free-quicktime-recording-capture-videos-and-audios-at-no-cost/"><u>1. Free QuickTime Recording: Capture Videos and Audios at No Cost</u></a></li>
+<li><a href="https://fox-place.techidaily.com/advanced-configuration-of-your-vm-environments-profile-editing-guide/"><u>Advanced Configuration of Your VM Environments: Profile Editing Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-methods-to-transform-ape-audio-files-into-mp3/"><u>Effortless Methods to Transform APE Audio Files Into MP3</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-application-management-using-app-v-software-version-4-series-tabs/"><u>Enhancing Application Management Using App-V Software, Version 4 Series Tabs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-a70-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel A70?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6s Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-set-up-apps-to-launch-at-boot-on-windows-desktops/"><u>How to Set Up Apps to Launch at Boot on Windows Desktops</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-reno-10-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo Reno 10 Pro+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/managing-iis-collections-a-comprehensive-guide/"><u>Managing IIS Collections: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-get-started-with-video-editing-15-free-and-easy-to-use-tools/"><u>New 2024 Approved Get Started with Video Editing 15 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-filmora-alternative-no-crack-no-risk-just-results/"><u>New In 2024, Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-persistent-crashes-troubleshooting-tips-for-pc-users-of-fuser-application/"><u>Overcoming Persistent Crashes: Troubleshooting Tips for PC Users of Fuser Application</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-and-simple-guide-converting-m4a-files-into-wma-format/"><u>Quick & Simple Guide: Converting M4A Files Into WMA Format</u></a></li>
+<li><a href="https://fox-place.techidaily.com/real-estate-listing-pages-your-guide-to-property-showcase/"><u>Real Estate Listing Pages: Your Guide to Property Showcase</u></a></li>
+<li><a href="https://fox-place.techidaily.com/smart-techniques-for-extracting-video-content-from-telegram-channels/"><u>Smart Techniques for Extracting Video Content From Telegram Channels</u></a></li>
 </ul></div>
 

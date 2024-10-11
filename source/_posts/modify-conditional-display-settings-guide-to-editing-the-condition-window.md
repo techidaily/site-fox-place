@@ -1,7 +1,7 @@
 ---
 title: "Modify Conditional Display Settings: Guide to Editing the Condition Window"
-date: 2024-10-03T20:51:16.579Z
-updated: 2024-10-05T22:11:59.383Z
+date: 2024-10-08T08:18:39.126Z
+updated: 2024-10-10T22:59:15.975Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ Table of Contents
 ![Control Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/control-condition.png "Control Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -98,10 +98,10 @@ Table of Contents
 The conditional statement that specifies under which conditions the action should be triggered. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/) (it cannot be blank). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action
@@ -141,20 +141,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-broadcasting-duels-is-wirecast-superior-to-obs/"><u>[New] Broadcasting Duels Is Wirecast Superior to OBS?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-quick-guide-to-alter-username-in-google-meet-sessions/"><u>[New] Quick Guide to Alter Username in Google Meet Sessions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-yuva-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Yuva 2 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/best-platforms-for-accessing-and-obtaining-music-mixtapes-without-charge/"><u>Best Platforms for Accessing and Obtaining Music Mixtapes Without Charge</u></a></li>
-<li><a href="https://fox-place.techidaily.com/choosing-project-settings-a-comprehensive-guide/"><u>Choosing Project Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-microsofts-copilot-from-windows-11/"><u>Complete Guide: Removing Microsoft's Copilot From Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-vive-cosmos-exceptional-vr-quality-in-a-crowded-marketplace/"><u>Comprehensive Guide to the Vive Cosmos: Exceptional VR Quality in a Crowded Marketplace</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-strategies-for-optimal-application-setup-with-advanced-installer-solutions/"><u>Expert Strategies for Optimal Application Setup with Advanced Installer Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-recover-from-damaged-itunes-backups-on-iphone-models-x-8-and-6s-expert-tips-and-tricks/"><u>How to Recover From Damaged iTunes Backups on iPhone Models X, 8, Ⅶ, and 6S - Expert Tips & Tricks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-jesters-playground-newest-tiktok-comedians/"><u>In 2024, Jester's Playground Newest TikTok Comedians</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-streaming-league-of-legends-simple-recording-tips-for-gamers/"><u>Mastering the Art of Streaming League of Legends: Simple Recording Tips for Gamers</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a23-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A23 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-ios-psp-emulators-our-top-5-selections/"><u>[New] In 2024, Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-efficiently-shortening-youtube-content/"><u>2024 Approved Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-critical-look-at-the-samsung-galaxy-timepiece-where-fashion-and-tech-collide/"><u>A Critical Look at the Samsung Galaxy Timepiece: Where Fashion & Tech Collide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-monetization-mishaps-essential-youtube-checks-for-2024/"><u>Avoid Monetization Mishaps Essential YouTube Checks for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customize-components-rules-and-preferences-through-admin-control-panel/"><u>Customize Components' Rules & Preferences Through Admin Control Panel</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-techniques-to-restore-lost-footage-on-your-android-device/"><u>Easy Techniques to Restore Lost Footage on Your Android Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-nord-ce-3-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus Nord CE 3 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-web-service-convert-your-pef-files-at-no-cost/"><u>Movavi's Web Service: Convert Your PEF Files at No Cost!</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-to-your-steam-id-online/"><u>Navigating to Your Steam ID Online</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-your-website-enhancing-security-with-ssl-configuration/"><u>Optimizing Your Website: Enhancing Security with SSL Configuration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/practical-techniques-for-isolating-sound-from-visual-media/"><u>Practical Techniques for Isolating Sound From Visual Media</u></a></li>
+<li><a href="https://fox-place.techidaily.com/rapid-selection-tools-streamline-your-choices/"><u>Rapid Selection Tools - Streamline Your Choices</u></a></li>
+<li><a href="https://fox-place.techidaily.com/reviving-your-conversations-a-methodical-approach-to-restoring-iphone-call-records/"><u>Reviving Your Conversations: A Methodical Approach to Restoring iPhone Call Records</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-tricks-to-remove-videos-from-your-ipad-without-hassle/"><u>Simple Tricks to Remove Videos From Your iPad Without Hassle</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-and-editing-isapi-filter-options-in-iis-manager/"><u>Understanding and Editing ISAPI Filter Options in IIS Manager</u></a></li>
 </ul></div>
 

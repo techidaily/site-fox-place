@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Programs with Advanced Edit Parameter Options
-date: 2024-09-29T18:24:07.517Z
-updated: 2024-10-05T19:34:49.992Z
+date: 2024-10-10T00:53:26.506Z
+updated: 2024-10-11T03:40:52.804Z
 tags:
   - user-guide
 categories:
@@ -79,24 +79,30 @@ This dialog allows you to edit a function argument.
 
 ![Edit Function From Standard DLL Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-function-argument.png "Edit Function From Standard DLL Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Parameter
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Type
 
 The argument's data type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Passing Method
@@ -107,22 +113,21 @@ Specifies if the argument is passed by value or by reference.
 
 This option allows you to pass the property value to a DLL function as an input parameter and and then you evaluate that parameter in that function. In case this option is disabled, the property will not be passed to the function.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Store value after call
 
 This applies only when the parameter is passed by reference. The parameters' value after the function's call is stored in the property from where it was taken. If its value was no taken from a property then its final value is ignored.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Binding
@@ -132,6 +137,13 @@ Specifies where the argument's value is deposited or taken from.
 ### Inline Value
 
 Set the inline argument value. The argument's value is a formatted string.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Property
 
@@ -170,16 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-superior-audio-options-for-video-makers/"><u>[New] Superior Audio Options for Video Makers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-skype-call-recording-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Skype Call Recording A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/st-desktop-and-online-gif-tools-ranked/"><u>10 Best Desktop & Online GIF Tools Ranked</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convertir-videos-f4v-a-formato-mp4-sin-costo-con-herramientas-online-soluciones-de-movavi/"><u>Convertir Vídeos F4V a Formato MP4 Sin Costo Con Herramientas Online: Soluciones De Movavi</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-guide-how-to-integrate-mp3-files-into-your-html-pages/"><u>Easy Guide: How to Integrate MP3 Files Into Your HTML Pages</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-updating-and-tweaking-sccm-setup-parameters/"><u>Guide: Updating and Tweaking SCCM Setup Parameters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>In 2024, From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Asus ROG Phone 7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-edge-40-neo-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Edge 40 Neo Device</u></a></li>
-<li><a href="https://fox-place.techidaily.com/locational-attributes-in-registry-data-management/"><u>Locational Attributes in Registry Data Management</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-user-management-a-comprehensive-guide-on-users-and-groups-pages/"><u>Understanding User Management: A Comprehensive Guide on Users & Groups Pages</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[Updated] In 2024, Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-saving-strategies-securing-your-mov-on-windows-pcs/"><u>[Updated] In 2024, Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-notable-20-anime-series-theme-tracks/"><u>[Updated] Notable 20 Anime Series Theme Tracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-balanced-mounts-capture-clear-shots-every-time-for-2024/"><u>Best Balanced Mounts Capture Clear Shots Every Time for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-game-changer-for-future-medical-advancements/"><u>ChatGPT: The Game Changer for Future Medical Advancements</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-across-platforms-discover-facebook-twitter-instagram-and-youtubes-impact-on-communication/"><u>Connecting Across Platforms: Discover Facebook, Twitter, Instagram & YouTube's Impact on Communication</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customize-components-rules-and-preferences-through-admin-control-panel/"><u>Customize Components' Rules & Preferences Through Admin Control Panel</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-steps-transforming-your-audio-files-from-ogg-format-to-compatible-mp3/"><u>Easy Steps: Transforming Your Audio Files From OGG Format to Compatible MP3</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-techniques-to-restore-lost-footage-on-your-android-device/"><u>Easy Techniques to Restore Lost Footage on Your Android Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-airplay-link-between-apple-devices-quick-guide/"><u>Fixing a Broken AirPlay Link Between Apple Devices Quick Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-your-website-enhancing-security-with-ssl-configuration/"><u>Optimizing Your Website: Enhancing Security with SSL Configuration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/practical-techniques-for-isolating-sound-from-visual-media/"><u>Practical Techniques for Isolating Sound From Visual Media</u></a></li>
+<li><a href="https://fox-place.techidaily.com/proven-techniques-efficiently-cleaning-up-your-photos-by-eliminating-unwanted-elements/"><u>Proven Techniques: Efficiently Cleaning Up Your Photos by Eliminating Unwanted Elements</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-m34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://fox-place.techidaily.com/reviving-your-conversations-a-methodical-approach-to-restoring-iphone-call-records/"><u>Reviving Your Conversations: A Methodical Approach to Restoring iPhone Call Records</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-tricks-to-remove-videos-from-your-ipad-without-hassle/"><u>Simple Tricks to Remove Videos From Your iPad Without Hassle</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-and-editing-isapi-filter-options-in-iis-manager/"><u>Understanding and Editing ISAPI Filter Options in IIS Manager</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unleash-your-media-library-effortlessly-rip-dvds-using-the-gratis-winx-dvd-ripper-for-iphone-android-and-avi-playback/"><u>Unleash Your Media Library: Effortlessly Rip DVDs Using the Gratis WinX DVD Ripper for iPhone, Android, and AVI Playback</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Note 30 5G? | Dr.fone</u></a></li>
 </ul></div>
 

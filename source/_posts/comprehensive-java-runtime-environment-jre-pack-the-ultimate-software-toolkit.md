@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Java Runtime Environment (JRE) Pack: The Ultimate Software Toolkit"
-date: 2024-09-28T21:55:06.712Z
-updated: 2024-10-05T22:07:17.985Z
+date: 2024-10-06T03:41:54.094Z
+updated: 2024-10-10T23:10:02.252Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Here you can select a JRE to be bundled with your application. The JRE files wil
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If your package installs a JRE bundle, any Java Product installed by the package will use the bundle over any JRE installed on the target machine.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 64-bit JRE Bundle
@@ -107,19 +107,19 @@ In this field, you can specify where the bundle will be placed/installed (you wi
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can specify this folder only the first time you select a JRE bundle.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Source
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -128,14 +128,14 @@ In this field, you can select the location of the JRE you want to be bundled wit
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Builds with the same destination folder use the same JRE bundle. If you change the JRE bundled, that change will apply to all the builds that use the same destination folder. The content of the destination folder will be removed, and the files from the specified source folder will be added.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The files from the JRE bundle are included only in the current build and in any other build with the same destination folder.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -170,20 +170,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-calculating-podcasters-annual-earnings-for-2024/"><u>[Updated] Calculating Podcasters' Annual Earnings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-green-screen-systems-expert-utilization-tips-for-2024/"><u>[Updated] Leading Green Screen Systems Expert Utilization Tips for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/decoding-antivirus-solutions-insights-into-detection-methodologies-and-protective-strategies-against-malware-threats/"><u>Decoding Antivirus Solutions: Insights Into Detection Methodologies & Protective Strategies Against Malware Threats</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-setup-wizard-for-selecting-app-module-relationships/"><u>Easy Setup Wizard for Selecting App Module Relationships</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker/"><u>In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-instructions-for-playing-among-us-on-a-pc/"><u>Step-by-Step Instructions for Playing Among Us on a PC</u></a></li>
-<li><a href="https://fox-place.techidaily.com/tech-guide-easily-project-your-smartphones-display-onto-your-computer/"><u>Tech Guide: Easily Project Your Smartphone's Display Onto Your Computer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-5-premium-game-screens-in-high-definition-for-2024/"><u>Top 5 Premium Game Screens in High Definition for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-managing-your-iphone-via-laptop-or-desktop/"><u>Top Strategies for Managing Your iPhone via Laptop or Desktop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-wi-fi-signal-boosters-enhancing-your-network-coverage/"><u>Top Wi-Fi Signal Boosters : Enhancing Your Network Coverage</u></a></li>
-<li><a href="https://fox-place.techidaily.com/video-presentation-design-a-step-by-step-guide-to-crafting-engaging-visuals/"><u>Video Presentation Design: A Step-by-Step Guide to Crafting Engaging Visuals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/why-is-malwarebytes-not-starting-discover-the-fix-with-expert-advice-from-malwarefox/"><u>Why Is Malwarebytes Not Starting? Discover the Fix with Expert Advice From MalwareFox</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-cinematic-clarity-hub-query-responses-for-2024/"><u>[Updated] Cinematic Clarity Hub Query Responses for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-six-part-integrated-system-unveiling-the-future-of-modular-components/"><u>1. Six-Part Integrated System: Unveiling the Future of Modular Components</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stealthy-edits-blur-without-compromising-quality/"><u>2024 Approved Stealthy Edits Blur Without Compromising Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-s18-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo S18? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/black-ops-cold-war-e887a0005-bug-fixed-complete-walkthrough-for-players/"><u>Black Ops Cold War E887A0005 Bug Fixed: Complete Walkthrough for Players</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-review-exploring-superior-functionality-in-popular-ubuntu-recorders/"><u>Comprehensive Review: Exploring Superior Functionality in Popular Ubuntu Recorders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/easy-conversion-techniques-from-dicom-dcm-files-to-streamlined-mp4-video-format/"><u>Easy Conversion Techniques From DICOM (.DCM) Files to Streamlined MP4 Video Format</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-methods-to-transform-ape-audio-files-into-mp3/"><u>Effortless Methods to Transform APE Audio Files Into MP3</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
+<li><a href="https://fox-place.techidaily.com/family-ipatch-upgrade-your-homes-internet-security/"><u>Family IPatch: Upgrade Your Home's Internet Security</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigabyte-totals-for-extended-video-playback-for-2024/"><u>Gigabyte Totals for Extended Video Playback for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-set-up-apps-to-launch-at-boot-on-windows-desktops/"><u>How to Set Up Apps to Launch at Boot on Windows Desktops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-connectivity-issues-in-your-live-feed/"><u>In 2024, Overcoming Connectivity Issues in Your Live Feed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/innovative-venues-for-immersive-media/"><u>Innovative Venues for Immersive Media</u></a></li>
+<li><a href="https://fox-place.techidaily.com/smart-techniques-for-extracting-video-content-from-telegram-channels/"><u>Smart Techniques for Extracting Video Content From Telegram Channels</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-mastering-animal-crossing-new-horizons-on-your-pc/"><u>Top Strategies for Mastering Animal Crossing: New Horizons on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-87-in-loading-libraries-how-to-correct-parameter-mistakes/"><u>Troubleshooting Error 87 in Loading Libraries: How to Correct Parameter Mistakes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-to-high-quality-laptop-screen-and-sound-recording-techniques/"><u>Ultimate Guide to High-Quality Laptop Screen and Sound Recording Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Custom Installation Action Handler: Tailored File Deployment"
-date: 2024-10-04T19:43:59.072Z
-updated: 2024-10-05T17:21:56.253Z
+date: 2024-10-07T22:52:25.202Z
+updated: 2024-10-10T16:29:44.003Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstalledFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IInstalledFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IInstalledFileCustomAction : ICustomAction
 This interface facilitates editing custom action that allows the launching of a file into execution, but it must be scheduled after the files have been deployed on the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -161,10 +161,10 @@ This interface facilitates editing custom action that allows the launching of a 
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -206,18 +206,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-game-console-deals-under-100/"><u>[New] 2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-virtual-havens-of-adventure-but-not-like-gta/"><u>[New] 2024 Approved Virtual Havens of Adventure (But Not Like GTA)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-techniques-for-effective-hp-laptop-screen-capture/"><u>[Updated] Top 4 Techniques for Effective HP Laptop Screen Capture</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2022-how-to-unlock-a-disabled-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2022) How to Unlock a Disabled Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-parameters-for-software-setup-and-configuration/"><u>Effective Parameters for Software Setup & Configuration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators/"><u>[New] The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-splitcam-assessment-best-video-recorder-ranking/"><u>[Updated] SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-imovie-music-mosaic-creating-audio-visual-harmony/"><u>2024 Approved IMovie Music Mosaic Creating Audio-Visual Harmony</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5y2z5pmc57eo6lyv5b2x54mh77ya55m85oplusu5l2g55qe6zu75a2q57mq5zyw5asp5yig/"><u>即時編輯影片：發揮你的電子繪圖天分</u></a></li>
+<li><a href="https://fox-place.techidaily.com/advanced-xaml-element-search-techniques/"><u>Advanced XAML Element Search Techniques</u></a></li>
 <li><a href="https://fox-place.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-guide-how-to-change-movies-mov-into-graphics-interchange-format-gif/"><u>Effortless Guide: How to Change Movies (MOV) Into Graphics Interchange Format (GIF)</u></a></li>
-<li><a href="https://facebook.techidaily.com/inspecting-history-of-interactions-in-fb-space/"><u>Inspecting History of Interactions in FB Space</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-review-of-ispring-recording-tech/"><u>The Ultimate Review of iSpring Recording Tech</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-6-unforgettable-instagram-caption-ideas-for-memorable-photos/"><u>Top 6 Unforgettable Instagram Caption Ideas for Memorable Photos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-the-opengl32dll-file-not-found-mishap/"><u>Troubleshooting Techniques for the OpenGL32.dll File Not Found Mishap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-access-and-configure-the-import-wizard-a-step-by-step-guide/"><u>How to Access and Configure the Import Wizard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v30-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V30 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/seamlessly-project-iphone-display-onto-vizio-tv-ultimate-how-to-tutorial/"><u>Seamlessly Project iPhone Display Onto Vizio TV – Ultimate How-To Tutorial</u></a></li>
 <li><a href="https://fox-place.techidaily.com/utilizing-iscriptfilefromproperty-for-powerful-custom-sharepoint-features/"><u>Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/warning-signs-of-sham-chatgpt-portals-protecting-your-information/"><u>Warning Signs of Sham ChatGPT Portals: Protecting Your Information</u></a></li>
 </ul></div>
 

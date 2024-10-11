@@ -1,7 +1,7 @@
 ---
 title: "1. Effortless File Deletion: Say Goodbye with IRemoveFile"
-date: 2024-10-03T19:02:55.400Z
-updated: 2024-10-05T18:32:06.143Z
+date: 2024-10-10T06:28:51.271Z
+updated: 2024-10-11T06:44:10.222Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface is meant to edit a file removal operation.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface is meant to edit a file removal operation.
 IRemoveFile : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -141,10 +141,10 @@ IRemoveFile : IDirectoryMember
 **Bool RemoveNonEmptyFolders** \- Gets or sets the option that enables the removal of non-empty folders that match the specified name.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -184,17 +184,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>[New] 2024 Approved Aerial Sovereign Unpacking the GoPro Karma System</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-social-media-savants-guide-to-stellar-instagram-posts/"><u>[New] In 2024, The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ext-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>[New] Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>[New] Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-popularity-ten-truths-you-need-to-know-about-instagram-reels/"><u>[Updated] 2024 Approved Beyond Popularity Ten Truths You Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pursuit-of-pleasure-10-games-echoing-gta-v/"><u>[Updated] 2024 Approved Pursuit of Pleasure 10 Games Echoing GTA V</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips-for-2024/"><u>[Updated] Prime Emulation Tools Sony's PS1 Classics at the Fingertips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimize-logitech-footage-background-free-method/"><u>2024 Approved Optimize Logitech Footage - Background-Free Method</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-download-and-update-your-windows-10-systems-creative-sound-blaster-graphics-and-sound-software/"><u>Easily Download & Update Your Windows 10 System's Creative Sound Blaster Graphics and Sound Software</u></a></li>
 <li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>In 2024, Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
 <li><a href="https://fox-place.techidaily.com/introducing-the-enhanced-apowermanager-v30-discover-its-latest-innovations/"><u>Introducing the Enhanced ApowerManager v3.0: Discover Its Latest Innovations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/master-writer-and-editorial-strategist-for-engaging-online-content/"><u>Master Writer & Editorial Strategist for Engaging Online Content</u></a></li>
 <li><a href="https://fox-place.techidaily.com/slash-your-image-size-top-free-programs-to-shrink-jpeg-files-below-100kb/"><u>Slash Your Image Size: Top Free Programs to Shrink JPEG Files Below 100KB</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-birth-of-meta-redefining-how-we-connect-and-share-online/"><u>The Birth of Meta: Redefining How We Connect and Share Online</u></a></li>
 <li><a href="https://fox-place.techidaily.com/the-ultimate-list-of-elite-pc-maintenance-suites-for-tech-experts/"><u>The Ultimate List of Elite PC Maintenance Suites for Tech Experts</u></a></li>
 <li><a href="https://fox-place.techidaily.com/top-techniques-for-successfully-broadcasting-pubg-mobile-gameplay-from-pc-or-smartphone-onto-youtube/"><u>Top Techniques for Successfully Broadcasting PUBG Mobile Gameplay From PC or Smartphone Onto YouTube</u></a></li>
 </ul></div>

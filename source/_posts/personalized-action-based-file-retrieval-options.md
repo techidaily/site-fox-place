@@ -1,7 +1,7 @@
 ---
 title: Personalized Action-Based File Retrieval Options
-date: 2024-10-04T20:20:05.046Z
-updated: 2024-10-05T16:12:10.000Z
+date: 2024-10-10T05:41:10.044Z
+updated: 2024-10-11T04:57:59.867Z
 tags:
   - user-guide
 categories:
@@ -126,16 +126,10 @@ Table of Contents
 ## IFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -143,10 +137,10 @@ Table of Contents
 IFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +148,10 @@ IFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching executable file into execution using a property to specify the executable file path.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -167,10 +161,10 @@ This interface facilitates editing custom action that allows the launching execu
 **String CommandLine** \- Gets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -212,16 +206,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-diving-deep-into-valheims-vital-vegetation/"><u>[New] 2024 Approved Diving Deep Into Valheim's Vital Vegetation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unlock-efficiency-the-editors-guide-to-speed-control-for-2024/"><u>[New] Unlock Efficiency The Editor's Guide to Speed Control for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-8-youtube-thumbnail-grabbers-you-should-know/"><u>[Updated] 2024 Approved Best 8 YouTube Thumbnail Grabbers You Should Know</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-free-quicktime-recording-capture-videos-and-audios-at-no-cost/"><u>1. Free QuickTime Recording: Capture Videos and Audios at No Cost</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-configuration-of-your-vm-environments-profile-editing-guide/"><u>Advanced Configuration of Your VM Environments: Profile Editing Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhancing-application-management-using-app-v-software-version-4-series-tabs/"><u>Enhancing Application Management Using App-V Software, Version 4 Series Tabs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-5-live-stream-video-recorders-for-remote-sessions/"><u>In 2024, Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 2 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-tutorial-on-embedding-audio-with-mp3-and-html-code/"><u>Quick Tutorial on Embedding Audio with MP3 and HTML Code</u></a></li>
-<li><a href="https://fox-place.techidaily.com/real-estate-listing-pages-your-guide-to-property-showcase/"><u>Real Estate Listing Pages: Your Guide to Property Showcase</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-vistas-top-10-inspirational-yoga-videos-for-2024/"><u>Yogic Vistas Top 10 Inspirational Yoga Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-amass-higher-views-with-powerful-youtube-tags/"><u>[New] 2024 Approved Amass Higher Views with #Powerful YouTube Tags</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-unmentioned-free-speech-to-text-tools-for-mac-users-for-2024/"><u>[New] Best Unmentioned Free Speech to Text Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[Updated] 2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveil-the-true-image-learn-background-removal-on-photopea/"><u>[Updated] Unveil the True Image Learn Background Removal on Photopea</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-effortless-file-deletion-say-goodbye-with-iremovefile/"><u>1. Effortless File Deletion: Say Goodbye with IRemoveFile</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premier-image-saga-assembly-package/"><u>2024 Approved Premier Image Saga Assembly Package</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-engaging-headline-crafting/"><u>2024 Approved Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://fox-place.techidaily.com/3gp-video-codec/"><u>3GP Video Codec</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizable-theme-pages-for-unique-website-designs/"><u>Customizable Theme Pages for Unique Website Designs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-and-efficient-blackberry-video-conversion-software-enable-playback-on-your-classic-device-today/"><u>Easy and Efficient BlackBerry Video Conversion Software - Enable Playback on Your Classic Device Today!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-comprehensive-guide-to-mac-screenshot-conversion/"><u>In 2024, A Comprehensive Guide to Mac Screenshot Conversion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-free-screen-snip-androids-highest-rated-recorders-countdown-eight-edition/"><u>In 2024, Free Screen Snip Android's Highest-Rated Recorders Countdown – Eight Edition</u></a></li>
+<li><a href="https://fox-place.techidaily.com/key-pre-condition-elements-detailed-on-the-prerequisites-tab/"><u>Key Pre-Condition Elements Detailed on the Prerequisites Tab</u></a></li>
+<li><a href="https://fox-place.techidaily.com/navigating-the-housing-market-effective-strategies-for-online-property-exploration/"><u>Navigating the Housing Market: Effective Strategies for Online Property Exploration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-the-file-properties-pane-a-comprehensive-guide/"><u>Understanding the File Properties Pane: A Comprehensive Guide</u></a></li>
 </ul></div>
 

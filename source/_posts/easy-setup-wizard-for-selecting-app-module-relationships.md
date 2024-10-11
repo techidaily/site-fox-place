@@ -1,7 +1,7 @@
 ---
 title: Easy Setup Wizard for Selecting App Module Relationships
-date: 2024-10-01T17:44:42.816Z
-updated: 2024-10-05T21:44:51.325Z
+date: 2024-10-05T03:48:40.659Z
+updated: 2024-10-10T18:14:46.667Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Additionally you can display the system modules dependencies by selecting the �
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dependencies which cannot be accessed (for example assemblies in the GAC) can only be displayed (a checkbox is not showed next to them). If you want to add them to your project you can add the package which installs them as a prerequisite or you can add them from another location.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Automatic dependency management
@@ -143,19 +143,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] 2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-six-part-integrated-system-unveiling-the-future-of-modular-components/"><u>1. Six-Part Integrated System: Unveiling the Future of Modular Components</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-for-booting-outlook-safely-on-your-pc-running-windows-nt-detailed-instructions-and-images-included/"><u>Easy Methods for Booting Outlook Safely on Your PC Running Windows nT - Detailed Instructions and Images Included</u></a></li>
-<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-se-2020-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone SE (2020) online without SIM Card?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-sprint-spotlight-year-2022/"><u>In 2024, Olympic Sprint Spotlight Year 2022</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos-for-2024/"><u>Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steam-software-invalid-file-issue/"><u>Overcoming Steam Software Invalid File Issue</u></a></li>
-<li><a href="https://fox-place.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-adding-your-signature-into-microsoft-word-on-mobile-and-pc/"><u>Top Strategies for Adding Your Signature Into Microsoft Word on Mobile and PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-rated-free-apps-to-download-reels-from-instagram-effortlessly/"><u>Top-Rated, Free Apps to Download Reels From Instagram Effortlessly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-to-high-quality-laptop-screen-and-sound-recording-techniques/"><u>Ultimate Guide to High-Quality Laptop Screen and Sound Recording Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-nextlevelcameraseekingpost-mycam/"><u>[New] In 2024, NextLevelCameraSeekingPost-MyCam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-the-top-8-facebook-extractors-for-films-for-2024/"><u>[Updated] Exploring the Top 8 Facebook Extractors for Films for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-timeframe-equation-for-20mb-content/"><u>[Updated] Timeframe Equation for 20MB Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/best-alternatives-to-the-snappea-mobile-application/"><u>Best Alternatives to the SnapPea Mobile Application</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comprehensive-step-by-step-process-to-remove-crypto-infections-using-malwarefox/"><u>Comprehensive Step-by-Step Process to Remove Crypto Infections Using MalwareFox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-evaluations-of-processors-and-storage-solutions-at-toms-tech-space/"><u>Detailed Evaluations of Processors & Storage Solutions at Tom's Tech Space</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-file-deletion-process-mastering-the-remove-item-wizard/"><u>Effortless File Deletion Process: Mastering the Remove Item Wizard</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-pc-efficiency-creating-one-click-access-via-shorter-pathways-in-directory-setup/"><u>Enhancing PC Efficiency: Creating One-Click Access via Shorter Pathways in Directory Setup</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-manage-default-software-selections-on-your-computer/"><u>How to Manage Default Software Selections on Your Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-devices-drivers-on-windows-operating-systems-win10-8-and-7-solved/"><u>How To Successfully Update Your Device's Driver(s) on Windows Operating Systems: Win10, 8 & 7 [SOLVED]</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ifolder-sync-seamless-file-transfer-between-devices/"><u>IFolder Sync: Seamless File Transfer Between Devices</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-notifications-keeping-your-ipad-quiet-when-your-iphone-buzzes/"><u>Silencing Duplicate Notifications: Keeping Your iPad Quiet When Your iPhone Buzzes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-code-with-top-tips-on-using-an-effective-search-component-locator-isearch/"><u>Streamline Your Code with Top Tips on Using an Effective Search Component Locator (iSearch)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-videos-and-audio-in-a-flash-winxvideo-ai-powered-by-gpus/"><u>Transform Videos & Audio in a Flash: WinxVideo AI Powered by GPUs</u></a></li>
 </ul></div>
 

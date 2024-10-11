@@ -1,7 +1,7 @@
 ---
 title: Configuring ISAPI Filters Through the Settings Interface
-date: 2024-10-02T19:08:37.803Z
-updated: 2024-10-05T17:30:45.410Z
+date: 2024-10-07T19:30:36.542Z
+updated: 2024-10-10T20:21:31.997Z
 tags:
   - user-guide
 categories:
@@ -102,22 +102,15 @@ Table of Contents
 
 ## Filter
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 Specify a name for the ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Executable
@@ -127,26 +120,33 @@ Click the browse button \[... \] on the right to navigate to the installation fo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ISAPI/CGI Restriction
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Allow filter
 
 Allows dynamic content to execute on the target IIS server. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -181,18 +181,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[New] In 2024, Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-transforming-visual-feeds-with-harmonious-hits/"><u>[Updated] In 2024, Transforming Visual Feeds with Harmonious Hits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>2024 Approved First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dynamic-image-gallery-interactive-slideshows-online/"><u>Dynamic Image Gallery: Interactive Slideshows Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-the-power-of-pip-on-modern-edge-browser/"><u>Explore the Power of PIP on Modern Edge Browser</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-overwatchs-graphics-driver-issue-is-now-fixed/"><u>How Overwatch's Graphics Driver Issue Is Now Fixed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bringing-text-to-life-3d-techniques-in-illustrator/"><u>In 2024, Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-blaze-2-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Blaze 2 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ios-photo-editing-simplified-comprehensive-tutorial-for-apowersoft-background-eraser-app-users/"><u>IOS Photo Editing Simplified: Comprehensive Tutorial for Apowersoft Background Eraser App Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/seamless-installer-experience-tips-for-effortless-software-deployment/"><u>Seamless Installer Experience: Tips for Effortless Software Deployment</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-eliminating-individuals-from-photos-using-photoshop/"><u>Step-by-Step Guide: Eliminating Individuals From Photos Using Photoshop</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-list-of-top-3-free-voip-recording-utilities-easy-guide-and-reviews/"><u>Ultimate List of Top 3 FREE VOIP Recording Utilities: Easy Guide & Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whisperings-from-beyond-cyberspace-unraveling-who-youre-really-engaging-with-in-the-age-of-digital-phantoms/"><u>Whisperings From Beyond Cyberspace: Unraveling Who You're Really Engaging With in the Age of Digital Phantoms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-streamlined-video-tools-for-twitter-sharing/"><u>[New] Streamlined Video Tools for Twitter Sharing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-ai-chatbots-ranked-comparing-features-of-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Best AI Chatbots Ranked: Comparing Features of ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-eradicate-all-adchoices-intrusive-windows-for-a-cleaner-browsing-experience/"><u>Guide: Eradicate All AdChoices Intrusive Windows for a Cleaner Browsing Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/introducing-the-enhanced-apowermanager-v30-discover-its-latest-innovations/"><u>Introducing the Enhanced ApowerManager v3.0: Discover Its Latest Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-overcoming-latency-problems-on-windows-tenth-version/"><u>Keyboard Responsiveness Improved - Overcoming Latency Problems on Windows Tenth Version</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mac-users-guide-recording-screenshots-with-camstudio-on-a-macbook/"><u>Mac Users Guide: Recording Screenshots with CamStudio on a MacBook</u></a></li>
+<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalized-action-based-file-retrieval-options/"><u>Personalized Action-Based File Retrieval Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-launch-errors-for-the-origin-browser-in-windows-11-tips-and-solutions/"><u>Resolving Launch Errors for the Origin Browser in Windows 11: Tips & Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/slash-your-image-size-top-free-programs-to-shrink-jpeg-files-below-100kb/"><u>Slash Your Image Size: Top Free Programs to Shrink JPEG Files Below 100KB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-step-by-step-tutorial-for-downloading-music-from-datpiff-securely/"><u>The Ultimate Step-by-Step Tutorial for Downloading Music From DatPiff Securely</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-techniques-for-successfully-broadcasting-pubg-mobile-gameplay-from-pc-or-smartphone-onto-youtube/"><u>Top Techniques for Successfully Broadcasting PUBG Mobile Gameplay From PC or Smartphone Onto YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-tutorial-seamless-transformation-of-shn-recordings-into-high-quality-wav-files/"><u>Ultimate Tutorial: Seamless Transformation of SHN Recordings Into High-Quality WAV Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
 </ul></div>
 

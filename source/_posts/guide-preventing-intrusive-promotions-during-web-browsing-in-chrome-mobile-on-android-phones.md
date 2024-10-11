@@ -1,7 +1,7 @@
 ---
 title: "Guide: Preventing Intrusive Promotions During Web Browsing in Chrome Mobile on Android Phones"
-date: 2024-10-03T18:26:10.244Z
-updated: 2024-10-05T19:45:47.850Z
+date: 2024-10-05T16:54:03.237Z
+updated: 2024-10-10T17:50:51.716Z
 tags:
   - product
   - antivirus
@@ -119,10 +119,10 @@ Now, simply toggle the Protection switch and browse the web ad-free.
 ![](https://www.malwarefox.com/wp-content/uploads/2023/02/Enable-AdGuard-Protection.webp "Enable-AdGuard-Protection")
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -143,13 +143,6 @@ Launch the DNS66 app. To start the VPN services, click the **Start** button on t
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose **Yes** on the **Missing hosts file** pop up window.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/13.png)
@@ -157,6 +150,13 @@ Choose **Yes** on the **Missing hosts file** pop up window.
 Them, choose **OK** on the **Connection request** pop-up notification.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The **Start** tab should indicate that the VPN services is running.
 
@@ -171,6 +171,19 @@ Then, choose **Deny** on the dropdown list on the next page. Touch the check log
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/17.png)
 
 If you want to add your own host file source, choose the blue plus button and follow the instructions.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Take Back Your Browser with Bromite
 
@@ -190,13 +203,6 @@ The browser does a good job of protecting you by default. However, you can add m
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Under **Settings**, choose **Ad blocking**.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/20.png)
@@ -206,10 +212,10 @@ On the next page, choose **More blocking options**.
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check all four options under **More blocking options**. This will protect you from tracking, malware, anti-ad blocking messages, and social media buttons.
@@ -221,13 +227,6 @@ Check all four options under **More blocking options**. This will protect you fr
 [AdAway](https://f-droid.org/en/packages/org.adaway/) is one of the best ad-blocking apps if your device is already rooted. It uses hosts files to block ads, so it protects your entire system. Moreover, it is lightweight enough to run on any mobile phones without consuming CPU power or memory. This is especially essential if you have an older phone.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/23.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is open source and free which also allows you to select your own sources of hosts files. Additionally, you can fine-tune the blocked ads using Whitelist and Blacklist.
 
@@ -256,31 +255,25 @@ It doesn’t block much (only ads known to Google to be “intrusive or misleadi
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/a71d687ca242329061b552ce4f402c97?s=50&d=mm&r=g)  
    Thomas Motley  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [May 12, 2020 at 2:18 pm](https://tools.techidaily.com/malwarefox/products/)  
    No, it’s \*not\* backwards. Leaving it on allows all ads. Turning it off blocks “intrusive and misleading ads.” Because it’s not intuitive, most probably leave it on, which Google surely likes.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/cb8f399431b7eaaf8902225f391eddae?s=50&d=mm&r=g)  
    LF  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [February 7, 2022 at 12:33 am](https://tools.techidaily.com/malwarefox/products/)  
    Better to not use Chrome at all on Android. It barely blocks anything and redirects bypass it lickity split.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/cd7af685a7ff714d03a30d3b569b7539?s=50&d=mm&r=g)  
 Midge A Swanson  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [May 22, 2020 at 2:12 am](https://tools.techidaily.com/malwarefox/products/)  
 Your listing states Ad Blocker for android Chrome phones, but I can’t find anything that applies to that topic. I’ve downloaded Ad Blocker onto my Samsung android phone, but it’s not blocking the ads. The phone came with game apps and the constant ads are driving me nuts! Do you have any suggestions? FYI, I’m a disabled senior who relies on the games to keep mind occupied since I don’t care for daytime TV so I’d appreciate any help you can give me. Thank you in advance.  
@@ -292,6 +285,13 @@ Your listing states Ad Blocker for android Chrome phones, but I can’t find any
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/cb8f399431b7eaaf8902225f391eddae?s=50&d=mm&r=g)  
    LF  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    [February 7, 2022 at 12:30 am](https://tools.techidaily.com/malwarefox/products/)  
    Adblock for chrome will not block ads for games. Period. Unless you are playing games on the chrome browser… then again, that built in blocker doesn’t work… at all… anyways.  
@@ -314,6 +314,14 @@ My God, ist’s so simple to hide ads with the original Chrome for Android: Chan
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/1d1439018de7ab90e0febf5f0c0369e5?s=50&d=mm&r=g)  
    Alain10  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [November 15, 2022 at 1:38 pm](https://tools.techidaily.com/malwarefox/products/)  
    Thx. It works pretty good  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -324,13 +332,6 @@ My God, ist’s so simple to hide ads with the original Chrome for Android: Chan
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 7. ![](https://secure.gravatar.com/avatar/76d2ed45325fbf6dcc49dfb1fda6688c?s=50&d=mm&r=g)  
 install adblock plus free  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [May 10, 2021 at 2:55 pm](https://tools.techidaily.com/malwarefox/products/)  
 Me das tu consentimiento de comentarlo en mi sitio. Muchas gracias, Un saludo  
@@ -343,6 +344,14 @@ AdGuard doesn’t also.
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 9. ![](https://secure.gravatar.com/avatar/8e7e9cb074aabe5302774761c6036dfd?s=50&d=mm&r=g)  
 A  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [May 20, 2021 at 2:31 pm](https://tools.techidaily.com/malwarefox/products/)  
 DNS66 didn’t help either  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -378,16 +387,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-maximizing-your-reach-with-snapchat-highlights-for-2024/"><u>[Updated] Maximizing Your Reach with Snapchat Highlights for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-parameters-for-software-setup-and-configuration/"><u>Effective Parameters for Software Setup & Configuration</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-guide-how-to-change-movies-mov-into-graphics-interchange-format-gif/"><u>Effortless Guide: How to Change Movies (MOV) Into Graphics Interchange Format (GIF)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-access-and-configure-the-import-wizard-a-step-by-step-guide/"><u>How to Access and Configure the Import Wizard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-infinix-note-30-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Infinix Note 30 5G</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-urban-ecosystem-fostering-resilience-through-green-policies/"><u>In 2024, The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-noise-sensational-success-in-telegram-marketing-for-2024/"><u>Navigating Noise Sensational Success in Telegram Marketing for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-dvd-to-digital-format-converters/"><u>New 2024 Approved Best DVD to Digital Format Converters</u></a></li>
-<li><a href="https://win-dash.techidaily.com/overcoming-common-driver-challenges-with-intel-hd-graphics-630-on-windows-systems/"><u>Overcoming Common Driver Challenges with Intel HD Graphics 630 on Windows Systems</u></a></li>
-<li><a href="https://fox-place.techidaily.com/utilizing-iscriptfilefromproperty-for-powerful-custom-sharepoint-features/"><u>Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-recorder-showcase-apowersofts-place-in-the-market/"><u>[New] In 2024, Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-best-80s-movie-magic-for-contemporary-edits/"><u>[Updated] 2024 Approved Best 80S Movie Magic for Contemporary Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-discover-these-27-purely-free-youtube-audio-ripper-tools/"><u>[Updated] 2024 Approved Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-tutorial-booting-into-dfurecovery-mode-for-ios-hardware-fixes/"><u>Complete Tutorial: Booting Into DFU/Recovery Mode for iOS Hardware Fixes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizable-language-phrasing-the-key-to-global-reach/"><u>Customizable Language Phrasing: The Key to Global Reach</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-techniques-for-capturing-university-course-lectures-across-windowsmac-platforms/"><u>Effortless Techniques for Capturing University Course Lectures Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-restoring-removed-imessage-history-from-your-iphone/"><u>Guide: Restoring Removed iMessage History From Your iPhone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-access-and-edit-the-registry-value-configuration-panel/"><u>How to Access and Edit the Registry Value Configuration Panel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-phantom-v-flip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-strategies-for-screen-capturing-facetime/"><u>Professional Strategies for Screen-Capturing FaceTime</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-tips-for-high-quality-sound-recording-in-windows-10/"><u>Top Tips for High-Quality Sound Recording in Windows 10</u></a></li>
 </ul></div>
 

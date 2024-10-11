@@ -1,7 +1,7 @@
 ---
 title: Customize Components' Rules & Preferences Through Admin Control Panel
-date: 2024-09-28T19:02:05.369Z
-updated: 2024-10-05T16:32:13.939Z
+date: 2024-10-08T05:49:26.669Z
+updated: 2024-10-10T20:50:59.838Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ In this dialog, you can change the Component Policy for files and registry entri
 ![Component Policies Dialog](https://cdn.advancedinstaller.com/img/dialog/component-policies-edit-dialog.png "Component Policies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registry Component Policy
@@ -105,10 +105,10 @@ If this option is checked, for registry keys with multiple registry values only 
 This option will ensure that a single component will be created for all registries so if there are multiple keys and values, all of them will be in the same component. This option is useful for minimizing the installation time in scenarios with a large number of registers .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Component Policy
@@ -160,19 +160,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-live-stream-to-screen-seamlessly-reviewed/"><u>[New] 2024 Approved Live-Stream to Screen, Seamlessly Reviewed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-peak-performance-audio-organizer-android/"><u>[New] 2024 Approved Peak Performance Audio Organizer, Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-the-financial-benefits-in-podcasting-for-2024/"><u>[Updated] Exploring the Financial Benefits in Podcasting for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-windows-flashing-screen-in-windows-11-pcs/"><u>Fix Window's Flashing Screen in Windows 11 PCs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-eradicate-all-adchoices-intrusive-windows-for-a-cleaner-browsing-experience/"><u>Guide: Eradicate All AdChoices Intrusive Windows for a Cleaner Browsing Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mac-users-guide-recording-screenshots-with-camstudio-on-a-macbook/"><u>Mac Users Guide: Recording Screenshots with CamStudio on a MacBook</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalized-action-based-file-retrieval-options/"><u>Personalized Action-Based File Retrieval Options</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/record-google-hangout-4-solutions/"><u>Record Google Hangout [4 Solutions]</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Sphere: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps/"><u>Time Tamed on Film Easy Steps for Slow-Mo Video Using Photo Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18e-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-future-speaks-inspirational-metaverse-quotes-with-arvr-for-2024/"><u>[New] The Future Speaks Inspirational Metaverse Quotes with AR/VR for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-step-by-step-webcam-recording-on-hp-systems/"><u>[Updated] 2024 Approved Step-by-Step Webcam Recording on HP Systems</u></a></li>
+<li><a href="https://fox-place.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/clubhouse-app-the-ultimate-guide-to-accessing-it-from-your-desktop/"><u>Clubhouse App: The Ultimate Guide to Accessing It From Your Desktop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/craft-your-dream-house-with-expert-custom-builder-services/"><u>Craft Your Dream House with Expert Custom Builder Services</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-level-installation-suite/"><u>Expert-Level Installation Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-your-sluggish-chrome-in-minutes/"><u>How to Speed Up Your Sluggish Chrome in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/identifying-signs-of-mobile-internet-throttling-what-you-need-to-know/"><u>Identifying Signs of Mobile Internet Throttling: What You Need to Know</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-13-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 13 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-ace-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Ace 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

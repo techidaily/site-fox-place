@@ -1,7 +1,7 @@
 ---
 title: "Managing IIS Collections: A Comprehensive Guide"
-date: 2024-10-02T20:20:35.172Z
-updated: 2024-10-05T21:58:10.529Z
+date: 2024-10-04T07:14:41.129Z
+updated: 2024-10-10T19:45:08.397Z
 tags:
   - user-guide
 categories:
@@ -101,7 +101,27 @@ Table of Contents
 
 ![IIS Collection Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-collection.png "IIS Collection Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Property ID
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Section
 
@@ -109,32 +129,18 @@ The collection you want to modify must be a member of this IIS configuration sec
 
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct properties of the website/virtual directory/application pool.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 Specify a name for the collection in which the new item will be added.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Collection Item
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear IIS Collection
 
@@ -145,10 +151,10 @@ The collection item's available fields are displayed in the list. Only those fie
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Value" column is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/); however, you need to insert the property references manually, due to development implementation constraints.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -184,17 +190,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-by-step-tutorial-on-adding-captions-to-tiktok-videos-for-2024/"><u>[New] Step-by-Step Tutorial on Adding Captions to TikTok Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-iosandroid-leading-photo-writing-app-list-for-2024/"><u>[Updated] IOS/Android Leading Photo-Writing App List for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/audible-mac-visual-record-functionality-for-2024/"><u>Audible Mac Visual Record Functionality for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/clubhouse-app-the-ultimate-guide-to-accessing-it-from-your-desktop/"><u>Clubhouse App: The Ultimate Guide to Accessing It From Your Desktop</u></a></li>
-<li><a href="https://fox-place.techidaily.com/craft-your-dream-house-with-expert-custom-builder-services/"><u>Craft Your Dream House with Expert Custom Builder Services</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/eenzame-strategieen-om-je-hoe-fotos-samen-te-kombineren-kennis-voor-jouw-vrije-fotografie/"><u>Eenzame Strategieën Om Je Hoe Fotos Samen Te Kombineren - Kennis Voor Jouw Vrije Fotografie</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-level-installation-suite/"><u>Expert-Level Installation Suite</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-hub/"><u>Exploring Computer Gadgets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/fast-and-easy-steps-adding-soundtracks-to-mkv-videos/"><u>Fast & Easy Steps: Adding Soundtracks to MKV Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows-for-2024/"><u>The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-3-techniques-for-creating-an-engaging-birthday-video-tutorial-for-facebook/"><u>Top 3 Techniques for Creating an Engaging Birthday Video Tutorial for Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-segmented-screen-success-is-splitcam-superior/"><u>[New] 2024 Approved Segmented Screen Success Is SplitCam Superior?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-adventure-worlds-unleashed-excluding-gta-v-for-2024/"><u>[New] Adventure Worlds Unleashed (Excluding GTA V) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams-for-2024/"><u>[Updated] Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>2024 Approved Enhancing Video Appeal Mac Thumbnails Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-software-deployment-blueprint/"><u>Comprehensive Software Deployment Blueprint</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-make-your-memoji-talk-get-creative-with-your-messaging-for-2024/"><u>How To Make Your Memoji Talk? Get Creative With Your Messaging for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-note-30i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Note 30i</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-user-experience-with-effective-data-dialogue-management-tools/"><u>Optimizing User Experience with Effective Data Dialogue Management Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Xiaomi .</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamline-your-listening-experience-swift-techniques-to-download-music-from-vk-platforms/"><u>Streamline Your Listening Experience: Swift Techniques to Download Music From VK Platforms</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-rated-no-cost-watermarking-tools-find-the-best-one-today/"><u>Top Rated No-Cost Watermarking Tools: Find the Best One Today!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-picks-6-leading-photo-editing-tools-featuring-exceptional-background-insert-options/"><u>Ultimate Picks: 6 Leading Photo Editing Tools Featuring Exceptional Background Insert Options</u></a></li>
 </ul></div>
 
