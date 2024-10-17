@@ -1,7 +1,7 @@
 ---
 title: "2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies"
-date: 2024-10-04T18:05:57.942Z
-updated: 2024-10-11T00:03:59.525Z
+date: 2024-10-09T17:57:31.891Z
+updated: 2024-10-17T01:10:29.303Z
 tags:
   - product
   - antivirus
@@ -66,10 +66,10 @@ Based on analysis of 11 companies experiencing a mega breach over the past two y
 For mega breaches, the biggest expense category was costs associated with lost business, which was estimated at nearly $118 million for breaches of 50 million records – almost a third of the total cost of a breach this size. IBM analyzed the publicly reported costs of several high profile mega breaches, and found the reported numbers are often less than the average cost found in the study.4 This is likely due to publicly reported cost often being limited to direct costs, such as technology and services to recover from the breach, legal and regulatory fees, and reparations to customers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Impacts the Average Cost of a Data Breach?
@@ -90,10 +90,10 @@ The amount of lost or stolen records also impacts the cost of a breach, costing 
 This year for the first time, the report examined the effect of security automation tools which use artificial intelligence, machine learning, analytics and orchestration to augment or replace human intervention in the identification and containment of a breach. The analysis found that organizations that had extensively deployed automated security technologies saved over $1.5 million on the total cost of a breach ($2.88 million, compared to $4.43 million for those who had not deployed security automation.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regional and Industry Differences
@@ -106,10 +106,10 @@ The study also compared the cost of data breaches in different industries and re
 [![cost of data breach by countries](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One major factor impacting the cost of a data breach in the U.S. was the reported cost of lost business, which was $4.2 million – more than the total average cost of a breach globally, and more than double the amount of “lost business costs” compared to any other region surveyed. One major factor impacting lost business costs is customer turnover in the aftermath of a breach; in fact a recent [IBM / Harris poll report](https://www.prnewswire.com/news-releases/new-survey-finds-deep-consumer-anxiety-over-data-privacy-and-security-300630067.html) found that  75 percent of consumers in the U.S. say that they will not do business with companies that they do not trust to protect their data .
@@ -126,10 +126,10 @@ One major factor impacting the cost of a data breach in the U.S. was the reporte
 Source: IBM
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -157,22 +157,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-photo-extraction-techniques-for-windows-11-videos/"><u>[New] Photo Extraction Techniques for Windows 11 Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1716069667727-updated-2024-approved-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[Updated] 2024 Approved Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-see-youtube-liked-comments/"><u>[Updated] How to See YouTube Liked Comments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seeking-the-perfect-cut-choose-between-filmora-or-democreator-for-2024/"><u>[Updated] Seeking the Perfect Cut? Choose Between Filmora or Democreator for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unbeatable-tools-to-sharpen-your-webcam-vids/"><u>[Updated] Unbeatable Tools to Sharpen Your Webcam Vids</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizable-language-phrasing-the-key-to-global-reach/"><u>Customizable Language Phrasing: The Key to Global Reach</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-setup-wizard-for-selecting-app-module-relationships/"><u>Easy Setup Wizard for Selecting App Module Relationships</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-repairing-troublesome-wi-fi-adapter-and-access-point-notifications/"><u>Expert Tips for Repairing Troublesome Wi-Fi Adapter and Access Point Notifications</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-restoring-removed-imessage-history-from-your-iphone/"><u>Guide: Restoring Removed iMessage History From Your iPhone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-access-and-edit-the-registry-value-configuration-panel/"><u>How to Access and Edit the Registry Value Configuration Panel</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-visual-performance-selecting-the-right-frame-rate-for-gamers-and-content-creators-alike/"><u>Mastering Visual Performance: Selecting the Right Frame Rate for Gamers & Content Creators Alike</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-ergonomic-keyboard-review/"><u>Microsoft Surface Ergonomic Keyboard Review</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-instructions-for-playing-among-us-on-a-pc/"><u>Step-by-Step Instructions for Playing Among Us on a PC</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-tips-for-high-quality-sound-recording-in-windows-10/"><u>Top Tips for High-Quality Sound Recording in Windows 10</u></a></li>
-<li><a href="https://fox-place.techidaily.com/video-presentation-design-a-step-by-step-guide-to-crafting-engaging-visuals/"><u>Video Presentation Design: A Step-by-Step Guide to Crafting Engaging Visuals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/why-is-malwarebytes-not-starting-discover-the-fix-with-expert-advice-from-malwarefox/"><u>Why Is Malwarebytes Not Starting? Discover the Fix with Expert Advice From MalwareFox</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-add-fun-filters-and-graphics-to-your-snapchat-story-for-2024/"><u>[Updated] Step-by-Step Guide to Add Fun Filters and Graphics to Your Snapchat Story for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-iphone-data-management-apps-top-picks-for-syncing-and-backups-on-mac-and-pc/"><u>Best iPhone Data Management Apps: Top Picks for Syncing & Backups on Mac and PC</u></a></li>
+<li><a href="https://fox-place.techidaily.com/buy-aomei-thundergear-ultimate-sql-server-data-protection-software/"><u>Buy AOMEI ThunderGear - Ultimate SQL Server Data Protection Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iently-engaging-with-numerous-youtube-lectures-for-2024/"><u>Efficiently Engaging with Numerous YouTube Lectures for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fix-booting-issues-choose-right-boot-unit-on-windows-11-devices-4-essential-steps/"><u>Fix Booting Issues: Choose Right Boot Unit on Windows 11 Devices - 4 Essential Steps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-effectively-utilize-amazon-s3-archives-explained/"><u>How To Effectively Utilize Amazon S3 Archives Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-pop-7-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Pop 7 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-open-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus Open to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-writing-technology-hixplusgpt-4-duo/"><u>Next-Gen Writing Technology: HIX+GPT-4 Duo</u></a></li>
+<li><a href="https://fox-place.techidaily.com/safeguard-personal-information-a-guide-for-thoroughly-deleting-data-from-a-windows/"><u>Safeguard Personal Information: A Guide for Thoroughly Deleting Data From a Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solutions-rapides-pour-reparer-un-demarrage-dysfonctionnel-sous-windows/"><u>Solutions Rapides Pour Réparer Un Démarrage Dysfonctionnel Sous Windows</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-restore-unintentionally-removed-excel-data-without-cost/"><u>Step-by-Step Guide: Restore Unintentionally Removed Excel Data without Cost</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-logiciels-de-sauvegarde-pour-le-ssd-samsung-t7-le-meilleur-selection/"><u>Top Logiciels De Sauvegarde Pour Le SSD Samsung T7: Le Meilleur Sélection</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo G2? | Dr.fone</u></a></li>
 </ul></div>
 

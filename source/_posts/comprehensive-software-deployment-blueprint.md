@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Software Deployment Blueprint
-date: 2024-10-05T18:53:31.368Z
-updated: 2024-10-10T23:46:46.916Z
+date: 2024-10-11T00:23:07.119Z
+updated: 2024-10-17T01:35:00.191Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,10 @@ This view allows you to properly configure a new Web Application Mapping for you
 ![Application mapping](https://cdn.advancedinstaller.com/img/ui/application-mapping.png "Application mapping")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new web application mapping
@@ -112,10 +112,10 @@ This view allows you to properly configure a new Web Application Mapping for you
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a web application mapping
@@ -123,16 +123,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a web application mapping
@@ -140,10 +134,16 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -184,18 +184,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beware-the-risk-in-fake-followers-on-youtube/"><u>[New] In 2024, Beware The Risk in Fake Followers on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-learn-how-to-rewind-video-ordering-on-android/"><u>2024 Approved Learn How to Rewind Video Ordering on Android</u></a></li>
-<li><a href="https://fox-place.techidaily.com/configuring-isapi-filters-through-the-settings-interface/"><u>Configuring ISAPI Filters Through the Settings Interface</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enjoy-endless-content-for-less-money-on-the-budget-friendly-roku-express/"><u>Enjoy Endless Content for Less Money on the Budget-Friendly Roku Express</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-leaderships-via-superior-language-learning-platforms/"><u>Global Leaderships via Superior Language Learning Platforms</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-successfully-add-music-to-an-android-smartphone-or-tablet/"><u>How to Successfully Add Music to an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a38-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A38 Bootloader Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-windows-11-stalling-at-startup-quick-fix-tips-and-tricks/"><u>Overcome Windows 11 Stalling at Startup: Quick Fix Tips & Tricks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-methods-for-converting-popular-youtube-tracks-into-physical-cd-format-successfully/"><u>Top Methods for Converting Popular YouTube Tracks Into Physical CD Format Successfully</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-picks-6-leading-photo-editing-tools-featuring-exceptional-background-insert-options/"><u>Ultimate Picks: 6 Leading Photo Editing Tools Featuring Exceptional Background Insert Options</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-steps-for-seamless-transition-of-spotify-playlists-into-apple-music-collection/"><u>Ultimate Steps for Seamless Transition of Spotify Playlists Into Apple Music Collection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-motorola-moto-g-5g-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G 5G (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>[New] Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-jumpstart-to-joyous-animation-a-guide-in-movie-maker-world-for-2024/"><u>[New] Jumpstart to Joyous Animation A Guide in Movie Maker World for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamsaver-fb-video-downloader-suite/"><u>[Updated] 2024 Approved StreamSaver FB Video Downloader Suite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-cash-flow-on-youtube-maximizing-earnings-with-short-videos/"><u>[Updated] Quick Cash Flow on YouTube Maximizing Earnings with Short Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unlock-your-youtube-potential-expert-tips-on-writing-video-outlines-for-2024/"><u>[Updated] Unlock Your YouTube Potential Expert Tips on Writing Video Outlines for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728506415032-windows-11/"><u>完全な解決ガイド：Windows 11でのシステムパーティション更新エラーに勝つ</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decouvrez-9-astuces-rapides-pour-resoudre-les-problemes-de-lexplorateur-de-fichiers-sous-windows-11/"><u>Découvrez 9 Astuces Rapides Pour Résoudre Les Problèmes De L'Explorateur De Fichiers Sous Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-mozilla-firefoxs-freeze-problem-a-step-by-step-guide/"><u>Defeat Mozilla Firefox's Freeze Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/entsperren-sie-die-icloud-aktivierungsbeschrankung-schlussel-zur-passwortfreien-losung/"><u>Entsperren Sie Die iCloud-Aktivierungsbeschränkung - Schlüssel Zur Passwortfreien Lösung!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-scripting-solutions-for-ae/"><u>In 2024, Best Scripting Solutions for AE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/problemloseanleitung-fur-den-roten-bildschirm-des-todes-unter-windows-10-und-11/"><u>Problemlöseanleitung Für Den Roten Bildschirm Des Todes Unter Windows 10 Und 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/profi-tipps-zur-wiederherstellung-von-chk-dateien-mit-einfachen-methoden/"><u>Profi-Tipps Zur Wiederherstellung Von CHK-Dateien Mit Einfachen Methoden</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-move-your-applications-seamlessly-between-pcs-using-windows-11/"><u>Quick Guide: How to Move Your Applications Seamlessly Between PCs Using Windows 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-methods-for-converting-your-ide-hard-drive-or-ssd-to-a-sata-device-in-various-windows-operating-systems/"><u>Simple Methods for Converting Your IDE Hard Drive or SSD to a SATA Device in Various Windows Operating Systems</u></a></li>
+<li><a href="https://fox-place.techidaily.com/steps-to-retrieve-information-from-your-iphone-without-a-previous-backup/"><u>Steps to Retrieve Information From Your iPhone Without a Previous Backup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/syncing-effortlessly-with-vlc-player/"><u>Syncing Effortlessly with VLC Player</u></a></li>
 </ul></div>
 

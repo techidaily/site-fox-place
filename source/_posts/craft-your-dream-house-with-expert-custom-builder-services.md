@@ -1,7 +1,7 @@
 ---
 title: Craft Your Dream House with Expert Custom Builder Services
-date: 2024-10-09T04:15:28.494Z
-updated: 2024-10-10T23:56:46.909Z
+date: 2024-10-09T21:53:55.310Z
+updated: 2024-10-17T05:26:33.859Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 ## IBuild
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ Table of Contents
 IBuild : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -133,10 +133,10 @@ IBuild : IDispatch
 This interface gives access to the build's properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -148,10 +148,10 @@ String OutputFolder
 Gets or sets the path of the output folder for this build.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -193,16 +193,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-place.techidaily.com/1-free-quicktime-recording-capture-videos-and-audios-at-no-cost/"><u>1. Free QuickTime Recording: Capture Videos and Audios at No Cost</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/civilization-vi-wont-start-in-windows-11-solutions-and-fixes/"><u>Civilization VI Won't Start in Windows 11 - Solutions and Fixes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-strategies-for-legally-duplicating-data-on-dvds-and-cds-without-damage/"><u>Complete Strategies for Legally Duplicating Data on DVDs & CDs Without Damage</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube/"><u>In 2024, A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>In 2024, Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
-<li><a href="https://fox-place.techidaily.com/managing-iis-collections-a-comprehensive-guide/"><u>Managing IIS Collections: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-and-simple-guide-converting-m4a-files-into-wma-format/"><u>Quick & Simple Guide: Converting M4A Files Into WMA Format</u></a></li>
-<li><a href="https://fox-place.techidaily.com/real-estate-listing-pages-your-guide-to-property-showcase/"><u>Real Estate Listing Pages: Your Guide to Property Showcase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/should-you-buy-a-blu-ray-player/"><u>Should You Buy a Blu-Ray Player?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/smart-techniques-for-extracting-video-content-from-telegram-channels/"><u>Smart Techniques for Extracting Video Content From Telegram Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>[Updated] 2024 Approved Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dslr-mastery-broadcasting-with-facebook-live-via-computer-for-2024/"><u>[Updated] DSLR Mastery Broadcasting with Facebook Live via Computer for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/bestehende-daten-schutzen-mit-wiedergabesoftware-kaufen-klopfsoftware-online-bestellen/"><u>Bestehende Daten Schützen Mit Wiedergabesoftware Kaufen - Klopfsoftware Online Bestellen</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decouvrez-comment-utiliser-gratuitement-windows-11-pour-debutants/"><u>Découvrez Comment Utiliser Gratuitement Windows 11 Pour Débutants</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-computing-experience-with-an-ssd-upgrade-on-the-acer-aspire-5/"><u>Elevate Your Computing Experience with an SSD Upgrade on the Acer Aspire 5</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ning-social-media-comment-standouts-for-2024/"><u>Examining Social Media Comment Standouts for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/five-simple-methods-to-transform-videos-into-gifs-seamlessly/"><u>Five Simple Methods to Transform Videos Into GIFs Seamlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>In 2024, Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-vintage-virtual-battles-our-best-of-classic-adventure-titles/"><u>In 2024, Vintage Virtual Battles Our Best of Classic Adventure Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-compreenas-for-effective-screenshares-on-zoom/"><u>The Compreenas for Effective Screenshares on Zoom</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-trio-of-techniques-for-saving-hotmail-emails-directly-to-your-hard-disk/"><u>The Ultimate Trio of Techniques for Saving Hotmail Emails Directly to Your Hard Disk</u></a></li>
 </ul></div>
 

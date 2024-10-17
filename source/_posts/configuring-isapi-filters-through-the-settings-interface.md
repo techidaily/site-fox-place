@@ -1,7 +1,7 @@
 ---
 title: Configuring ISAPI Filters Through the Settings Interface
-date: 2024-10-07T19:30:36.542Z
-updated: 2024-10-10T20:21:31.997Z
+date: 2024-10-13T06:10:04.359Z
+updated: 2024-10-17T08:04:33.982Z
 tags:
   - user-guide
 categories:
@@ -100,6 +100,13 @@ Table of Contents
 
 ![ISAPI Filter Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-isapi-filter-properties.png "ISAPI Filter Properties Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Filter
 
 ### Name
@@ -107,10 +114,10 @@ Table of Contents
 Specify a name for the ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Executable
@@ -120,20 +127,19 @@ Click the browse button \[... \] on the right to navigate to the installation fo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ISAPI/CGI Restriction
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow filter
 
@@ -142,10 +148,10 @@ Allows dynamic content to execute on the target IIS server.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -181,22 +187,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-streamlined-video-tools-for-twitter-sharing/"><u>[New] Streamlined Video Tools for Twitter Sharing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-ai-chatbots-ranked-comparing-features-of-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Best AI Chatbots Ranked: Comparing Features of ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
-<li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-eradicate-all-adchoices-intrusive-windows-for-a-cleaner-browsing-experience/"><u>Guide: Eradicate All AdChoices Intrusive Windows for a Cleaner Browsing Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/introducing-the-enhanced-apowermanager-v30-discover-its-latest-innovations/"><u>Introducing the Enhanced ApowerManager v3.0: Discover Its Latest Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-overcoming-latency-problems-on-windows-tenth-version/"><u>Keyboard Responsiveness Improved - Overcoming Latency Problems on Windows Tenth Version</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mac-users-guide-recording-screenshots-with-camstudio-on-a-macbook/"><u>Mac Users Guide: Recording Screenshots with CamStudio on a MacBook</u></a></li>
-<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalized-action-based-file-retrieval-options/"><u>Personalized Action-Based File Retrieval Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-launch-errors-for-the-origin-browser-in-windows-11-tips-and-solutions/"><u>Resolving Launch Errors for the Origin Browser in Windows 11: Tips & Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/slash-your-image-size-top-free-programs-to-shrink-jpeg-files-below-100kb/"><u>Slash Your Image Size: Top Free Programs to Shrink JPEG Files Below 100KB</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-step-by-step-tutorial-for-downloading-music-from-datpiff-securely/"><u>The Ultimate Step-by-Step Tutorial for Downloading Music From DatPiff Securely</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-techniques-for-successfully-broadcasting-pubg-mobile-gameplay-from-pc-or-smartphone-onto-youtube/"><u>Top Techniques for Successfully Broadcasting PUBG Mobile Gameplay From PC or Smartphone Onto YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-tutorial-seamless-transformation-of-shn-recordings-into-high-quality-wav-files/"><u>Ultimate Tutorial: Seamless Transformation of SHN Recordings Into High-Quality WAV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-environmentally-friendly-film-tools-download/"><u>[Updated] In 2024, Environmentally Friendly Film Tools Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-techniques-building-animation-with-movie-maker/"><u>[Updated] Step-by-Step Techniques Building Animation with Movie Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-an-engaged-youtube-community-subscribers/"><u>2024 Approved Building an Engaged Youtube Community (Subscribers)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728510150339-4/"><u>紧急数据营救工具列表：帮助您在任何时间都能及时通过4个移动设备应用解决存储问题</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-walkthrough-resolving-error-0x800f0954-on-windows-11/"><u>Comprehensive Walkthrough: Resolving Error 0X800f0954 on Windows 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/intermittent-welding/"><u>Intermittent Welding</u></a></li>
+<li><a href="https://fox-place.techidaily.com/wie-man-windows-11-reibungslos-auf-eine-kompaktere-solid-state-festplatte-ubertragen-kann/"><u>Wie Man Windows 11 Reibungslos Auf Eine Kompaktere Solid-State-Festplatte Übertragen Kann</u></a></li>
 </ul></div>
 
