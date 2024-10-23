@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Digital Footprint: Steps to Securely Wipe an External HDD on Windows 10"
-date: 2024-10-10T03:17:45.784Z
-updated: 2024-10-17T03:04:04.296Z
+date: 2024-10-18T05:00:48.694Z
+updated: 2024-10-22T23:08:34.237Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563908a6200578c04353f69c36.jpg
@@ -43,13 +43,20 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -96,6 +103,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -105,10 +119,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -120,17 +134,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -150,10 +157,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
@@ -180,19 +187,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -218,22 +212,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-blueprinting-a-buzz-creating-movie-snippet/"><u>[New] Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-distribution-excellence-vimeo-vs-youtube/"><u>[Updated] In 2024, Content Distribution Excellence Vimeo vs YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>[Updated] Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-uncluttered-focus-affinity-photos-cleanup-technique/"><u>[Updated] Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-linkedins-latest-game-feature-it-might-not-be-that-fun-after-all/"><u>Avoid LinkedIn's Latest Game Feature - It Might Not Be That Fun After All</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-to-resetting-your-lenovo-laptop-back-to-original-settings-in-windows-11/"><u>Complete Guide to Resetting Your Lenovo Laptop Back to Original Settings in Windows 11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-platform-strategies-to-boost-youtube-presence/"><u>Cross-Platform Strategies to Boost YouTube Presence</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dwindows-ask/"><u>Dドライブ消失後、Windows # Ask</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earning-hacks-for-youtube-short-creators-for-2024/"><u>Earning Hacks for YouTube Short Creators for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-intricacies-of-whatsapp-voice-calls-for-2024/"><u>Exploring the Intricacies of WhatsApp Voice Calls for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-pratique-les-deux-solutions-rapides-pour-optimiser-les-performances-de-votre-ssd-sous-windows-11/"><u>Guide Pratique: Les Deux Solutions Rapides Pour Optimiser Les Performances De Votre SSD Sous Windows 11</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-comment-supprimer-des-fichiers-selectivement-avec-xcopy/"><u>Guide: Comment Supprimer Des Fichiers Sélectivement Avec Xcopy?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-announces-integration-of-bing-chat-with-swiftkey-interface-for-enhanced-communication/"><u>Microsoft Announces Integration of Bing Chat with SwiftKey Interface for Enhanced Communication</u></a></li>
-<li><a href="https://fox-place.techidaily.com/schnelles-iphone-upgrade-synchronisieren-mit-apples-neuer-mediathek-keine-notwendigkeit-fur-itunes-mehr/"><u>Schnelles iPhone-Upgrade: Synchronisieren Mit Apples Neuer Mediathek – Keine Notwendigkeit Für iTunes Mehr!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solution-de-probleme-les-photos-ne-souvrent-pas-en-photoshop-guide-detaille/"><u>Solution De Problème: Les Photos Ne S'ouvrent Pas en Photoshop - Guide Détaillé</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-rated-free-bitcopy-programs-compatible-with-all-versions-of-windows/"><u>Top-Rated Free Bitcopy Programs Compatible with All Versions of Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728507364672-xcopy/"><u>Xcopyの使い方 - 特定ファイル/フォルダー除外設定手順</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-10-best-video-calling-app-for-android-and-iphone/"><u>[New] 2024 Approved 10 Best Video Calling App for Android and iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-inside-out-unveiling-the-true-intentions-behind-emojis/"><u>[New] 2024 Approved Inside Out Unveiling the True Intentions Behind Emojis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>[New] In 2024, Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-media-making-filmoras-edge-over-democreator/"><u>2024 Approved Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/appreciation-bundle-ultimate-selection-of-templates/"><u>Appreciation Bundle Ultimate Selection of Templates</u></a></li>
+<li><a href="https://fox-place.techidaily.com/bestehende-daten-schutzen-mit-wiedergabesoftware-kaufen-klopfsoftware-online-bestellen/"><u>Bestehende Daten Schützen Mit Wiedergabesoftware Kaufen - Klopfsoftware Online Bestellen</u></a></li>
+<li><a href="https://fox-place.techidaily.com/como-migra-tu-sistema-operativo-windows-10-a-un-nuevo-ssd-con-seguridad-y-eficiencia-usando-clonado/"><u>Cómo Migra Tu Sistema Operativo Windows 10 a Un Nuevo SSD Con Seguridad Y Eficiencia Usando Clonado</u></a></li>
+<li><a href="https://fox-place.techidaily.com/early-detection-for-a-healthy-ps4-how-to-recognize-and-fix-your-consoles-hard-drive-problems/"><u>Early Detection for a Healthy PS4: How to Recognize and Fix Your Console's Hard Drive Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-insights-corporate-usage-of-the-new-microsoft-surface-pro-8-a-detailed-review/"><u>Expert Insights: Corporate Usage of the New Microsoft Surface Pro 8 - A Detailed Review</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-automatically-backup-your-network-files-to-microsoft-onedrive-on-windows/"><u>How to Automatically Backup Your Network Files to Microsoft OneDrive on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z50s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Z50S Pro</u></a></li>
+<li><a href="https://fox-place.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-von-familienbildern-auf-windows-und-iphone/"><u>Schritt-Für-Schritt Anleitung Zur Wiederherstellung Von Familienbildern Auf Windows Und iPhone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-trio-of-techniques-for-saving-hotmail-emails-directly-to-your-hard-disk/"><u>The Ultimate Trio of Techniques for Saving Hotmail Emails Directly to Your Hard Disk</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-youtube-editors-handbook-from-basics-to-pros-for-2024/"><u>The YouTube Editor's Handbook From Basics to Pros for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>Updated In 2024, Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
+<li><a href="https://fox-place.techidaily.com/wdwdhdd/"><u>WDディスカバリーによるWD外付けHDDの効果的な管理手順：バックアップ機能を利用して</u></a></li>
+<li><a href="https://fox-place.techidaily.com/bystraya-i-prostaya-sistema-rezervirovaniya-fajlov-na-vneshnij-zhestkij-disk-dlya-windows-11-10-8-7/"><u>Быстрая И Простая Система Резервирования Файлов На Внешний Жесткий Диск Для Windows 11, 10, 8, 7</u></a></li>
 </ul></div>
 
