@@ -1,7 +1,7 @@
 ---
 title: Fasten Sie Ihren PC Mit Diesen 5 Methoden Gegen Das Fehlende Browsing History in Win11/Win10 - MyRecovery Tipps
-date: 2024-11-05T18:55:31.961Z
-updated: 2024-11-12T20:24:17.264Z
+date: 2024-11-19T16:38:31.246Z
+updated: 2024-11-22T17:47:13.528Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b98e37e8d331924ca8f4791a.jpg
@@ -66,13 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -80,13 +73,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -121,19 +107,24 @@ Sicherer Download
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -166,27 +157,7 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -199,10 +170,7 @@ Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zwei
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
@@ -227,15 +195,16 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
@@ -262,6 +231,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -271,13 +244,14 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,24 +268,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-pc-moments-with-apowersoft/"><u>2024 Approved The Ultimate Guide to Capturing PC Moments with Apowersoft</u></a></li>
-<li><a href="https://fox-place.techidaily.com/5-essential-solutions-for-continuously-failed-windows-backups/"><u>5 Essential Solutions for Continuously Failed Windows Backups</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728473299395-windows-11ssd/"><u>解決Windows 11中SSD尖銳逐漸速度下降的頭創方法！</u></a></li>
-<li><a href="https://fox-place.techidaily.com/windows-file-recoverywin11/"><u>使用Windows File Recovery保留Win11系统下的重要数据：详细教程</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effektives-backup-ihrer-elektronischen-post-auf-synology-nas-die-drei-besten-ansatze-verstehen-und-umsetzen/"><u>Effektives Backup Ihrer Elektronischen Post Auf Synology NAS - Die Drei Besten Ansätze Verstehen Und Umsetzen</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-create-a-complete-software-inventory-and-save-installed-apps-on-windows-11/"><u>How to Create a Complete Software Inventory and Save Installed Apps on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-effortlessly-acquire-and-implement-msixbundle-and-appx-files/"><u>How to Effortlessly Acquire and Implement Msixbundle & Appx Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-log-your-favorites-6-proven-methods-for-webcast-capture/"><u>How to Log Your Favorites 6 Proven Methods for Webcast Capture</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-honor-100-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 100 Pro FRP?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-does-apples-m1-compare-to-traditional-editing-workstations/"><u>In 2024, How Does Apple’s M1 Compare to Traditional Editing Workstations?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-curve-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze Curve 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/losung-probleme-beim-wiederherstellen-von-dateien-fehlerbehebung-fur-speichersysteme/"><u>Lösung: Probleme Beim Wiederherstellen Von Dateien - Fehlerbehebung Für Speichersysteme</u></a></li>
-<li><a href="https://fox-place.techidaily.com/methodes-fiables-pour-transferer-des-donnees-entre-systemes-sous-windows-10-8-et-7-sans-probleme/"><u>Méthodes Fiables Pour Transférer Des Données Entre Systèmes Sous Windows 10, 8 Et 7 Sans Problème.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/professionelle-schritt-fur-schritt-anleitung-zum-ssd-aufrusten-eines-hp-pavilion-x360-ohne-datenerhaltung/"><u>Professionelle Schritt-Für-Schritt-Anleitung Zum SSD-Aufrüsten Eines HP Pavilion X360 Ohne Datenerhaltung</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/revive-broken-mov-movies-in-minutes-with-these-4-effective-repair-techniques/"><u>Revive Broken MOV Movies in Minutes with These 4 Effective Repair Techniques</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simple-steps-for-iphone-data-transfer-backup-seamlessly-to-a-windows-computer-1011/"><u>Simple Steps for iPhone Data Transfer: Backup Seamlessly to a Windows Computer (10/11)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-powered-and-cool-with-this-innovative-3-in-1-magsafe-station-for-apple-devices-read-more-on-zdnet/"><u>Stay Powered and Cool with This Innovative 3-in-1 MagSafe Station for Apple Devices | Read More on ZDNET</u></a></li>
-<li><a href="https://fox-place.techidaily.com/troubleshooting-making-your-gopro-detectable-by-windowsmac-for-file-transfer/"><u>Troubleshooting: Making Your GoPro Detectable by Windows/Mac for File Transfer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-strategic-measures-efficiently-accessing-premium-banner-imagery-for-2024/"><u>[New] Strategic Measures Efficiently Accessing Premium Banner Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-captivating-channels-spotlight-on-the-most-popular-female-creators/"><u>[Updated] 2024 Approved Captivating Channels Spotlight on the Most Popular Female Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-quicken-your-visual-content-best-android-software/"><u>[Updated] 2024 Approved Quicken Your Visual Content - Best Android Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprendiendo-los-metodos-de-copia-de-seguridad-incremental-y-diferencial-en-soluciones-informaticas-modernas/"><u>Comprendiendo Los Métodos De Copia De Seguridad Incremental Y Diferencial en Soluciones Informáticas Modernas</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decoding-chromebook-troubleshooting-masterful-techniques-for-fixing-a-blackened-display/"><u>Decoding Chromebook Troubleshooting: Masterful Techniques for Fixing a Blackened Display</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-best-3-replacement-tools-for-dban-that-ensure-absolute-data-deletion/"><u>Discover the Best 3 Replacement Tools for DBAN That Ensure Absolute Data Deletion</u></a></li>
+<li><a href="https://win11.techidaily.com/from-obscured-space-to-optimization-windows-guide-for-reclaiming-disk/"><u>From Obscured Space to Optimization: Windows Guide for Reclaiming Disk</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-a-la-creation-dune-sauvegarde-basee-sur-la-synchronisation-avec-aomei-backupper/"><u>Guide À La Création D'une Sauvegarde Basée Sur La Synchronisation Avec AOMEI Backupper.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/insight-into-courtroom-battles-navigating-through-a-legal-trial/"><u>Insight Into Courtroom Battles: Navigating Through a Legal Trial</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshoot-and-repair-non-functional-system-restore-in-windows-tenth-with-these-9-proven-methods/"><u>Troubleshoot & Repair Non-Functional System Restore in Windows Tenth with These 9 Proven Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
 </ul></div>
 
