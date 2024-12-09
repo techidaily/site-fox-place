@@ -1,7 +1,7 @@
 ---
 title: Mastering Scene Switches and Sound Queue Management in Pioneer's DEX III - Your Ultimate Guide
-date: 2024-11-28T22:38:15.533Z
-updated: 2024-11-30T19:53:51.595Z
+date: 2024-12-01T16:55:37.763Z
+updated: 2024-12-08T16:16:47.666Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-boosting-roi-in-fb-ads-through-animation-techniques/"><u>[Updated] Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transform-your-twitter-usage-best-unfollower-tools-reviewed-for-2024/"><u>[Updated] Transform Your Twitter Usage Best Unfollower Tools Reviewed for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-tier-mkv-players-macos-edition/"><u>2024 Approved Top-Tier MKV Players MacOS Edition</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-tutorial-booting-into-dfurecovery-mode-for-ios-hardware-fixes/"><u>Complete Tutorial: Booting Into DFU/Recovery Mode for iOS Hardware Fixes</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dynamic-image-gallery-interactive-slideshows-online/"><u>Dynamic Image Gallery: Interactive Slideshows Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-renaming-your-wi-fi-network-on-ios-and-android-devices/"><u>Easy Guide: Renaming Your Wi-Fi Network on iOS & Android Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/getting-acquainted-with-the-apple-iphone-15-pro-an-in-depth-hands-on-guide/"><u>Getting Acquainted with the Apple iPhone 15 Pro: An In-Depth Hand's-On Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-preventing-intrusive-promotions-during-web-browsing-in-chrome-mobile-on-android-phones/"><u>Guide: Preventing Intrusive Promotions During Web Browsing in Chrome Mobile on Android Phones</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a79-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A79 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ios-photo-editing-simplified-comprehensive-tutorial-for-apowersoft-background-eraser-app-users/"><u>IOS Photo Editing Simplified: Comprehensive Tutorial for Apowersoft Background Eraser App Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-sqlite-connections-essential-tips-and-steps-for-setup/"><u>Mastering SQLite Connections: Essential Tips and Steps for Setup</u></a></li>
-<li><a href="https://fox-place.techidaily.com/samsung-s9-to-pc-duplication-techniques-a-comprehensive-walkthrough-for-smooth-backup-and-restore/"><u>Samsung S9 to PC Duplication Techniques - A Comprehensive Walkthrough for Smooth Backup and Restore</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-eliminating-individuals-from-photos-using-photoshop/"><u>Step-by-Step Guide: Eliminating Individuals From Photos Using Photoshop</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-platform-for-gamers-debated/"><u>The Best Platform for Gamers Debated</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://fox-place.techidaily.com/why-select-malwarefox-as-your-primary-defense-against-cyber-threats/"><u>Why Select MalwareFox as Your Primary Defense Against Cyber Threats?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beginners-guide-adding-text-overlays-on-youtube/"><u>[Updated] In 2024, Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/country-music-playlist-alert-add-your-favorite-boozy-ballads-to-karaoke-cloud-pro/"><u>Country Music Playlist Alert: Add Your Favorite Boozy Ballads to Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/diagnosing-non-working-gpus-expert-insights-on-common-failures-yl-computer-services/"><u>Diagnosing Non-Working GPUs: Expert Insights on Common Failures - YL Computer Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-what-to-do-when-confronted-with-an-unknown-audio-device-in-windows-10/"><u>DIY Guide: What to Do When Confronted With an 'Unknown' Audio Device in Windows 10</u></a></li>
+<li><a href="https://fox-place.techidaily.com/hd-bubble-themed-walls-and-graphics-premium-collection-by-yl-computing/"><u>HD Bubble-Themed Walls & Graphics - Premium Collection by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snowball-rally-highlights-from-the-beijing-games-2022/"><u>In 2024, Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
+<li><a href="https://fox-place.techidaily.com/qin-dynastys-pivotal-era-tracing-the-origins-of-ancient-chinas-first-unified-empire-expert-analysis-by-yl-software/"><u>Qin Dynasty’s Pivotal Era: Tracing the Origins of Ancient China’s First Unified Empire – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieve-saved-memories-tips-for-recovering-instagram-reels-youve-archived/"><u>Retrieve Saved Memories: Tips for Recovering Instagram Reels You've Archived</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-getting-tekken-8-up-and-running-on-a-windowsmac-system/"><u>Solution Guide: Getting Tekken 8 Up and Running on a Windows/Mac System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-for-android-users-on-vr-content/"><u>The Ultimate Guide for Android Users on VR Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unlocking-hidden-features-in-our-top-notch-karaoke-pro-discover-5-amazing-secrets/"><u>Unlocking Hidden Features in Our Top-Notch Karaoke Pro - Discover 5 Amazing Secrets!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-20-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 20 Pro Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 

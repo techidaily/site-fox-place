@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2024-11-25T19:13:25.183Z
-updated: 2024-11-30T19:35:58.505Z
+date: 2024-12-02T17:19:47.845Z
+updated: 2024-12-08T16:26:22.401Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,19 +58,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-endgame-for-deactivating-an-instagram-profile/"><u>[New] 2024 Approved The Endgame for Deactivating an Instagram Profile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>[New] Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-youtube-earnings-excellence-strategies-and-beyond-for-2024/"><u>[Updated] Achieving YouTube Earnings Excellence - Strategies and Beyond for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ranking-the-best-most-innovative-pc-vr-headsets/"><u>[Updated] Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
-<li><a href="https://fox-place.techidaily.com/5ogi5asn56gs55uy5lik5rc45lmf5yig6zmk5pww5o2u55qe5pya5paw5pa55rov/"><u>恢复硬盘上永久删除数据的最新方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/developers-under-fire-unveiling-the-recruitment-issues-driving-burnout-in-the-tech-industry-zdnet-analyses/"><u>Developers Under Fire: Unveiling the Recruitment Issues Driving Burnout in the Tech Industry | ZDNET Analyses</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/discovering-phantoms-temporal-expansion-capabilities/"><u>Discovering Phantom's Temporal Expansion Capabilities</u></a></li>
-<li><a href="https://fox-place.techidaily.com/echec-de-la-restauration-du-systeme-dimages-aucune-disquette-fonctionnelle-disponible/"><u>Échec De La Restauration Du Système D’images : Aucune Disquette Fonctionnelle Disponible</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-micro-sd-card-copying-techniques-for-windows-operating-systems-a-complete-walkthrough-windows-111087/"><u>Free Micro SD Card Copying Techniques for Windows Operating Systems: A Complete Walkthrough (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/high-definition-square-flag-icons-by-yl-computing-premium-vector-graphics-set/"><u>High-Definition Square Flag Icons by YL Computing - Premium Vector Graphics Set</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-the-top-9-signs-your-iphone-has-suffered-liquid-damage/"><u>Identifying the Top 9 Signs Your iPhone Has Suffered Liquid Damage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/overcome-your-frozen-apple-startup-professional-advice-for-unsticking-the-load-screen/"><u>Overcome Your Frozen Apple Startup: Professional Advice for Unsticking the Load Screen</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728494276329-windows-11/"><u>Windows 11遊戲故障解決策 - 六技倆實作指南</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[New] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-potential-secrets-to-successful-fb-video-ads/"><u>[Updated] 2024 Approved Unlocking Potential Secrets to Successful FB Video Ads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-8-titans-of-4k-blu-ray-technology/"><u>[Updated] Foremost 8 Titans of 4K Blu-Ray Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290425062-dvd/"><u>「動画ソロ DVDコピー 安全性と使用感想レビュー集 | ウィルスやリスクに注意するべきポイント？」</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-the-issue-behind-windows-file-creation-error/"><u>Eliminating the Issue Behind Windows' File Creation Error</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exquisite-art-deco-background-graphics-premium-hd-image-collections-from-yl-software/"><u>Exquisite Art Deco Background Graphics: Premium HD Image Collections From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fix-your-frozen-system-with-yl-software-solutions-step-by-step-freezing-issue-resolution/"><u>Fix Your Frozen System with YL Software Solutions: Step-by-Step Freezing Issue Resolution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-swiftly-install-acer-audio-drivers-with-ease/"><u>How to Swiftly Install Acer Audio Drivers with Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discovering-vr-identity-a-hands-on-approach-to-self-representation/"><u>In 2024, Discovering VR Identity - A Hands-On Approach to Self-Representation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/revealing-the-invisible-a-comprehensive-tutorial-by-yl-computing-for-locating-concealed-windows-files/"><u>Revealing the Invisible: A Comprehensive Tutorial by YL Computing for Locating Concealed Windows Files</u></a></li>
+<li><a href="https://fox-place.techidaily.com/setting-up-windows-defense-mechanisms-via-control-panel-a-step-by-step-guide-tips-by-techwise/"><u>Setting Up Windows Defense Mechanisms via Control Panel: A Step-by-Step Guide - Tips by TechWise</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simplified-troubleshooting-for-windows-display-malfunctions-expert-advice-from-yl-software-team/"><u>Simplified Troubleshooting for Windows Display Malfunctions, Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-scanner-issues-adjusting-images-without-access-to-brightnesscontrast-controls-insights-by-yl-software/"><u>Solving Scanner Issues: Adjusting Images Without Access to Brightness/Contrast Controls – Insights by YL Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-online-video-blurring-the-top-free-tools-and-techniques/"><u>Updated In 2024, Online Video Blurring The Top Free Tools and Techniques</u></a></li>
 </ul></div>
 

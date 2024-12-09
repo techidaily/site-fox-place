@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2024-11-26T00:11:08.287Z
-updated: 2024-11-30T22:51:00.062Z
+date: 2024-12-05T02:39:52.530Z
+updated: 2024-12-09T00:39:07.185Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -41,10 +41,6 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
   
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) **Numark DJ2Go2 Touch**
 
 Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-sized DJ controller, but with the improved capability for scratching with capacitive touch jog wheels. With a built-in sound card, it fits perfectly in front of your laptop. With 8 pads and four pad modes for total-control of cue-points, auto / manual looping and sample playback, it’s one of the best portable DJ controller values on the market. **Retail: $79.99**
@@ -53,7 +49,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -64,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -74,12 +70,16 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,24 +101,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-edge-transforming-your-videography-with-precision-cropping/"><u>[New] 2024 Approved Instagram's Edge Transforming Your Videography with Precision Cropping</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-mais-robusto-e-facil-de-usar-o-melhor-software-para-back-up-e-recuperacao-do-windows-aomei-backupper/"><u>1. Mais Robusto E Fácil De Usar: O Melhor Software Para Back-Up E Recuperação Do Windows - AOMEI Backupper</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>2024 Approved Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/2024usb/"><u>2024年針對可開機USB製作數位存取化實現方法：深入解析</u></a></li>
-<li><a href="https://fox-info.techidaily.com/classification-guide-to-diverse-video-cameras-for-2024/"><u>Classification Guide to Diverse Video Cameras for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comment-les-photographies-definitivement-effacees-se-jettent-elles-loin-chez-les-utilisateurs-de-windows-and-apple/"><u>Comment Les Photographies Definitivement Effacées Se Jettent-Elles Loin Chez Les Utilisateurs De Windows & Apple ?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quicktime-screen-recording-with-audio-guide/"><u>In 2024, QuickTime Screen Recording with Audio Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reverse-video-techniques-for-android-devices/"><u>In 2024, Reverse Video Techniques for Android Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/is-av1-the-new-video-codec-front-runner/"><u>Is AV1 The New Video Codec Front-Runner?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/issue-resolved-empty-results-displayed-uncover-the-secrets-of-6-techniques-and-a-valuable-insight/"><u>Issue Resolved: Empty Results Displayed - Uncover the Secrets of 6 Techniques & a Valuable Insight</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mise-a-jour-gratuite-passer-dwindows-7818-vers-windows-11-sans-echec-des-fichiers/"><u>Mise À Jour Gratuite : Passer D'Windows 7/8.1/8 Vers Windows 11 Sans Échec Des Fichiers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/recover-deleted-itunes-backups-in-windows-operating-systems-windows-11-10-8-7/"><u>Recover Deleted iTunes-Backups in Windows Operating Systems (Windows 11, 10, 8, 7)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-fixes-what-to-do-when-your-icloud-photos-library-wont-open/"><u>Step-by-Step Fixes: What to Do When Your iCloud Photos Library Won't Open</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlimited-free-ios-device-management-a-superior-replacement-for-apples-itunes/"><u>Unlimited Free iOS Device Management: A Superior Replacement for Apple's iTunes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-value-and-power-of-ibuypowers-customized-game-machine-a-comprehnive-review/"><u>Unveiling the Value and Power of iBUYPOWER's Customized Game Machine: A Comprehnive Review</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-ps4-screen-capture-and-share-a-beginners-guide/"><u>Updated 2024 Approved PS4 Screen Capture and Share A Beginners Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-silencing-sounds-cutting-audio-from-iphonesmac-videos-for-2024/"><u>Updated The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/wie-sie-ihre-geloschten-dateien-mit-dem-windows-systemwiederherstellungsprogramm-wiederherstellen-konnen/"><u>Wie Sie Ihre Gelöschten Dateien Mit Dem Windows-Systemwiederherstellungsprogramm Wiederherstellen Können</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[New] 2024 Approved Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>[New] Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-flash-vids-unpacked-whats-inside/"><u>[Updated] Flash Vids Unpacked What's Inside?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/connect-and-share-the-joy-of-music-get-a-monthly-pass-to-karaoke-cloud-pro-the-ultimate-professional-karaoke-subscription-service/"><u>Connect and Share the Joy of Music: Get a Monthly Pass to Karaoke Cloud Pro - The Ultimate Professional Karaoke Subscription Service!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>In 2024, 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-file-format-conversion-in-windows-with-simple-techniques-from-yl-computings-expert-guidance/"><u>Master File Format Conversion in Windows with Simple Techniques From YL Computing's Expert Guidance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edgeplus-2023-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge+ (2023) Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/pcdj-karaoke-apps-reviewed-a-comprehensive-guide-to-the-best-songs-and-features/"><u>PCDJ Karaoke Apps Reviewed - A Comprehensive Guide to the Best Songs & Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-20-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-the-mystery-of-quiet-sound-cards-how-to-restore-volume-on-your-device/"><u>Solving the Mystery of Quiet Sound Cards - How to Restore Volume on Your Device.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-your-windows-serial-with-ms-accounts/"><u>Unifying Your Windows Serial with MS Accounts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-updates-in-the-end-of-year-201n-enhancements-for-pcdjs-karaoke-cloud-pro-platform/"><u>Unveiling the Latest Updates in the End-of-Year 201N Enhancements for PCDJ's Karaoke Cloud Pro Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-12-pro-max-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 12 Pro Max? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

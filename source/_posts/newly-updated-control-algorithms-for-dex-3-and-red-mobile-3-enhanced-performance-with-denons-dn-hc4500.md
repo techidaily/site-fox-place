@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2024-11-25T22:31:05.529Z
-updated: 2024-11-30T20:01:51.072Z
+date: 2024-12-04T20:19:03.066Z
+updated: 2024-12-09T00:03:52.886Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,19 +52,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-check-your-youtube-channels-for-accurate-monetization-practices/"><u>[New] In 2024, Check Your YouTube Channels for Accurate Monetization Practices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-connecting-with-the-world-how-to-use-roku-for-fb-live/"><u>[Updated] Connecting With The World How to Use Roku for FB Live</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-tomorrows-evaluation-creative-pathways-for-2024/"><u>[Updated] Tomorrow’s Evaluation Creative Pathways for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quickscreencapture-mastery-for-everyday-use/"><u>2024 Approved QuickScreenCapture Mastery for Everyday Use</u></a></li>
-<li><a href="https://fox-place.techidaily.com/3-tipps-zum-risikofreien-reinstall-von-windows-10-oder-11-deine-datensicherheit-garantiert/"><u>3 Tipps Zum Risikofreien Reinstall Von Windows 10 Oder 11 – Deine Datensicherheit Garantiert!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/escolha-postagem-e-insira-uma-descricao-que-inclua-palavras-chave-relevantes-como-recuperacao-de-fotos-sd-card-e-sem-software/"><u>Escolha Postagem E Insira Uma Descrição Que Inclua Palavras-Chave Relevantes, Como 'Recuperação De Fotos', 'SD Card' E 'Sem Software'.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-efficient-youtube-follow-link-design/"><u>In 2024, The Essential Guide to Efficient YouTube Follow Link Design</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-future-bright-with-blu-ray-a-guide-on-choosing-your-player-wisely/"><u>Is the Future Bright with Blu-Ray? A Guide on Choosing Your Player Wisely</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebook-meets-video-editing-power-how-to-run-windows-and-mac-apps/"><u>New Chromebook Meets Video Editing Power How to Run Windows and Mac Apps</u></a></li>
-<li><a href="https://fox-place.techidaily.com/pc-bequem-verschieben-mit-kostenlosen-alternativen-zu-pcmover-express-in-w7810/"><u>PC Bequem Verschieben Mit Kostenlosen Alternativen Zu PCmover Express in W7/8/10</u></a></li>
-<li><a href="https://fox-place.techidaily.com/regain-access-on-your-pc-triple-action-strategies-for-bypassing-a-locked-windows-11-login-screen/"><u>Regain Access on Your PC: Triple-Action Strategies for Bypassing a Locked Windows 11 Login Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-securely-backing-up-various-nas-device-configurations/"><u>Ultimate Guide: Securely Backing Up Various NAS Device Configurations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11s-online-scanning-no-longer-inactive/"><u>Win11's Online Scanning No Longer Inactive</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-windows-videography-embrace-hdr-magic/"><u>[New] 2024 Approved Windows Videography Embrace HDR Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamlined-qanda-guide-for-attractive-podcasts-for-2024/"><u>[Updated] Streamlined Q&A Guide for Attractive Podcasts for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-use-your-dvd-player-with-axes-alternative-methods-beyond-the-standard-remote-control/"><u>How To Use Your DVD Player With Axes: Alternative Methods Beyond The Standard Remote Control</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-the-perfect-cinematic-journey-with-imovie/"><u>In 2024, Craft the Perfect Cinematic Journey with iMovie</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethinking-ai-seven-potential-pitfalls-of-using-generative-models-in-communication-tools/"><u>Rethinking AI: Seven Potential Pitfalls of Using Generative Models in Communication Tools</u></a></li>
+<li><a href="https://win-special.techidaily.com/schnelle-und-einfache-anleitung-zum-migrationsprozess-von-hotmail-zu-gmail/"><u>Schnelle Und Einfache Anleitung Zum Migrationsprozess Von Hotmail Zu Gmail</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
 </ul></div>
 

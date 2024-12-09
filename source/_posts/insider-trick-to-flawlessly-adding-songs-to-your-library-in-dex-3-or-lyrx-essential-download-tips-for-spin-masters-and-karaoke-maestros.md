@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2024-11-26T22:20:12.943Z
-updated: 2024-11-30T17:54:41.573Z
+date: 2024-12-03T05:44:11.378Z
+updated: 2024-12-08T17:50:58.372Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
@@ -33,7 +33,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +41,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -53,7 +53,7 @@ Now, let’s tweak Chrome to make your life easier:
 * Find the “Downloads” section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Direct and Download
@@ -64,7 +64,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -94,21 +94,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-why-instagram-videos-flip-onto-their-sides/"><u>[Updated] In 2024, Why Instagram Videos Flip Onto Their Sides</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-master-full-stack-development-with-vue-and-laravel-professional-edition-pro-level-integration-of-vue-laravel-and-json-api-by-creative-tim/"><u>1. Master Full Stack Development with Vue and Laravel Professional Edition: Pro-Level Integration of Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/blackdashboard-pro-advanced-bootstrap-4-admin-panel-for-django-created-by-creative-tim/"><u>BlackDashboard Pro: Advanced Bootstrap 4 Admin Panel for Django - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/consistency-is-key-ensure-that-units-are-consistent-on-both-sides-of-your-scale-ratio-when-performing-calculations/"><u>Consistency Is Key; Ensure that Units Are Consistent on Both Sides of Your Scale Ratio when Performing Calculations.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/creative-rotating-css-card-technique-inspired-by-html5-up/"><u>Creative Rotating CSS Card Technique - Inspired by HTML5 UP</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/design-thinking-for-content-creators-crafting-impactful-facebook-reels-for-2024/"><u>Design Thinking for Content Creators Crafting Impactful Facebook Reels for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-video-sync-from-twitter-to-tumblr/"><u>Direct Video Sync From Twitter to Tumblr</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-pratique-les-deux-solutions-rapides-pour-optimiser-les-performances-de-votre-ssd-sous-windows-11/"><u>Guide Pratique: Les Deux Solutions Rapides Pour Optimiser Les Performances De Votre SSD Sous Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-13-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 13 or iPad?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/innovative-ways-to-restore-your-iphones-privacy-by-following-the-stellar-steps/"><u>Innovative Ways to Restore Your iPhone's Privacy by Following the Stellar Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-flight-basic-vs-premium-copilot-systems/"><u>Mastering Flight: Basic Vs. Premium Copilot Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210260815-9781801346993-practical-numerology-amp-astrology-for-beginners/"><u>Practical Numerology &amp; Astrology For Beginners | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-absence-of-supported-scanner-for-windows-hello/"><u>Remedying the Absence of Supported Scanner for Windows Hello</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-note-12t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728507364672-xcopy/"><u>Xcopyの使い方 - 特定ファイル/フォルダー除外設定手順</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unleash-creativity-a-comprehensive-guide-to-movie-maker-on-windows-11/"><u>[New] 2024 Approved Unleash Creativity A Comprehensive Guide to Movie Maker on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-understanding-your-youtube-revenue-adsense-rates-per-1k-viewer/"><u>2024 Approved Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-solution-guide-resolving-vlc-casting-issues-on-your-chromecast/"><u>Complete Solution Guide: Resolving VLC Casting Issues on Your Chromecast</u></a></li>
+<li><a href="https://fox-place.techidaily.com/connect-and-share-the-joy-of-music-get-a-monthly-pass-to-karaoke-cloud-pro-the-ultimate-professional-karaoke-subscription-service/"><u>Connect and Share the Joy of Music: Get a Monthly Pass to Karaoke Cloud Pro - The Ultimate Professional Karaoke Subscription Service!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-started-with-your-epson-wf-2750-free-driver-downloads-and-tutorials/"><u>Get Started with Your Epson WF-2750 - Free Driver Downloads and Tutorials</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovative-approach-to-networking-top-10-budget-friendly-apps/"><u>Innovative Approach to Networking: Top 10 Budget-Friendly Apps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/internet-setup-for-desktops-step-by-step-assistance-by-yl-software-experts/"><u>Internet Setup for Desktops: Step-by-Step Assistance by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/pcdj-karaoke-apps-reviewed-a-comprehensive-guide-to-the-best-songs-and-features/"><u>PCDJ Karaoke Apps Reviewed - A Comprehensive Guide to the Best Songs & Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-audio-problems-expert-tips-on-diagnosing-and-repairing-a-malfunctioning-sound-card-insights-from-yl-software/"><u>Solving Audio Problems: Expert Tips on Diagnosing and Repairing a Malfunctioning Sound Card – Insights From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-the-mystery-of-quiet-sound-cards-how-to-restore-volume-on-your-device/"><u>Solving the Mystery of Quiet Sound Cards - How to Restore Volume on Your Device.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-secured-browsing-on-firefox-after-failures/"><u>Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-updates-in-the-end-of-year-201n-enhancements-for-pcdjs-karaoke-cloud-pro-platform/"><u>Unveiling the Latest Updates in the End-of-Year 201N Enhancements for PCDJ's Karaoke Cloud Pro Platform</u></a></li>
 </ul></div>
 
