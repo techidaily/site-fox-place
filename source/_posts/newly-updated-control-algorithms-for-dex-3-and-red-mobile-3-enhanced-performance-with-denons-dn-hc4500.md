@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2024-12-04T20:19:03.066Z
-updated: 2024-12-09T00:03:52.886Z
+date: 2024-12-14T03:27:16.712Z
+updated: 2024-12-14T19:08:04.651Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,15 +52,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-windows-videography-embrace-hdr-magic/"><u>[New] 2024 Approved Windows Videography Embrace HDR Magic</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamlined-qanda-guide-for-attractive-podcasts-for-2024/"><u>[Updated] Streamlined Q&A Guide for Attractive Podcasts for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-use-your-dvd-player-with-axes-alternative-methods-beyond-the-standard-remote-control/"><u>How To Use Your DVD Player With Axes: Alternative Methods Beyond The Standard Remote Control</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-craft-the-perfect-cinematic-journey-with-imovie/"><u>In 2024, Craft the Perfect Cinematic Journey with iMovie</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rethinking-ai-seven-potential-pitfalls-of-using-generative-models-in-communication-tools/"><u>Rethinking AI: Seven Potential Pitfalls of Using Generative Models in Communication Tools</u></a></li>
-<li><a href="https://win-special.techidaily.com/schnelle-und-einfache-anleitung-zum-migrationsprozess-von-hotmail-zu-gmail/"><u>Schnelle Und Einfache Anleitung Zum Migrationsprozess Von Hotmail Zu Gmail</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-best-video-capture-for-iphoneipad-users/"><u>[New] 2024 Approved The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-tutorial-on-file-compressiondecompression-using-yl-software-solutions/"><u>Comprehensive Tutorial on File Compression/Decompression Using YL Software Solutions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creative-tims-argondjango-a-fully-integrated-bootstrap-4-admin-panel-for-django-projects/"><u>Creative Tim's ArgonDjango: A Fully Integrated Bootstrap 4 Admin Panel for Django Projects</u></a></li>
+<li><a href="https://fox-place.techidaily.com/disabling-boot-up-software-on-your-pc-using-windows-system-configuration-expert-advice-by-yl-software-solutions/"><u>Disabling Boot-Up Software on Your PC Using Windows System Configuration - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/faceoff-between-wifi-routers-tp-link-archer-ax6000-vs-nighthawk-ax12-is-the-upgrade-worth-it/"><u>Faceoff Between WiFi Routers: TP-Link Archer AX6000 Vs. Nighthawk AX12 - Is The Upgrade Worth It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidia-gtx-950-error-43-problems-on-your-windows-11-pc-step-by-step-solutions/"><u>Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-faulty-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Identifying Faulty Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-starter-kit-for-novice-digital-turntablists-expertly-curated-pcdj-tools-and-accessories/"><u>Step-by-Step Starter Kit for Novice Digital Turntablists: Expertly Curated PCDJ Tools & Accessories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps-zdnet/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps | ZDNet</u></a></li>
 </ul></div>
 

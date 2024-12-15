@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2024-12-07T01:29:13.057Z
-updated: 2024-12-08T23:10:20.821Z
+date: 2024-12-13T03:04:16.467Z
+updated: 2024-12-14T19:45:03.995Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,18 +45,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-advanced-techniques-in-post-uploaded-youtube-content-enhancement/"><u>[New] 2024 Approved Advanced Techniques in Post-Uploaded YouTube Content Enhancement</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-premier-listing-sierras-best-video-maker-apps/"><u>[New] Premier Listing Sierra's Best Video Maker Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ransform-your-content-essential-youtube-studio-editing-skills-for-2024/"><u>[New] Transform Your Content Essential YouTube Studio Editing Skills for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-tech-triumph-best-of-the-best-oculus-devices/"><u>[Updated] Immersive Tech Triumph Best of the Best Oculus Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/dable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors-for-2024/"><u>Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/aston-martin-ultra-high-definition-decorative-wallpaper-immerse-yourself-in-luxury-with-every-click/"><u>Aston Martin Ultra-High Definition Decorative Wallpaper: Immerse Yourself in Luxury with Every Click!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/captivating-gumball-universe-hd-backgrounds-by-yl-computing-your-new-go-to-screen-saver/"><u>Captivating Gumball Universe HD Backgrounds by YL Computing - Your New Go-To Screen Saver!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/customize-line-spacing-with-vertical-align-feature-in-emeditor-text-editor/"><u>Customize Line Spacing with Vertical Align Feature in EmEditor Text Editor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-poco-c65-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Poco C65</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-effective-is-windows-defender-in-blocking-phishing-scams-and-internet-threats-the-expert-analysis-of-yl-software/"><u>How Effective Is Windows Defender in Blocking Phishing Scams and Internet Threats? – The Expert Analysis of YL Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-how-to-do-automatic-audio-ducking-in-final-cut-pro-x/"><u>In 2024, How to Do Automatic Audio Ducking in Final Cut Pro X</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-on-cleaning-dust-off-a-gpu-for-optimal-performance-yl-software-expertise/"><u>Step-by-Step Guide on Cleaning Dust Off a GPU for Optimal Performance - YL Software Expertise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-mechanics-behind-data-management-how-yl-computings-registry-operates-with-expertise-in-software-solutions/"><u>The Mechanics Behind Data Management: How YL Computing’s Registry Operates with Expertise in Software Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-audio-file-transformation-srt-to-xmlssattml-for-2024/"><u>[New] Mastering Audio File Transformation SRT to XML/SSA/TTML for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leveraging-ios-11-for-professional-level-iphone-shots/"><u>[Updated] Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>2024 Approved Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/building-your-own-digital-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Building Your Own Digital Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortlessly-format-your-data-with-advanced-text-wrapping-tips-for-ms-excel/"><u>Effortlessly Format Your Data with Advanced Text Wrapping Tips for MS Excel</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-visual-space-with-exclusive-deadly-class-designs-from-yl-softwares-wallpaper-catalog/"><u>Elevate Your Visual Space with Exclusive Deadly Class Designs From YL Software's Wallpaper Catalog</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia ?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx/"><u>In 2024, Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-the-future-apple-household-helper-bot-preliminary-price-estimates-launch-forecast-and-specs-rumors/"><u>Inside Look at the Future Apple Household Helper Bot – Preliminary Price Estimates, Launch Forecast & Specs Rumors</u></a></li>
+<li><a href="https://fox-place.techidaily.com/limited-offer-enhance-your-set-with-dextrose-and-karaoke-mix-just-49-extra/"><u>Limited Offer: Enhance Your Set with Dextrose and Karaoke Mix, Just $49 Extra!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-computer-screen-captures-in-minutes/"><u>Mastering the Art of Computer Screen Captures in Minutes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-resolution-of-gta-vs-directx-initialization-error-errgfxd3dinit-tips-and-tricks-for-gamers/"><u>Mastering the Resolution of GTA V's DirectX Initialization Error (ERR_GFX_D3D_INIT): Tips and Tricks for Gamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-tools-for-boosting-your-pcs-performance-expert-recommendations/"><u>Top Tools for Boosting Your PC's Performance: Expert Recommendations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yls-ultimate-strategy-for-buying-and-selling-bitcoin-with-ease-insights-from-the-experts-at-yl-software/"><u>YL's Ultimate Strategy for Buying and Selling Bitcoin with Ease – Insights From the Experts at YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Scene Switches and Sound Queue Management in Pioneer's DEX III - Your Ultimate Guide
-date: 2024-12-01T16:55:37.763Z
-updated: 2024-12-08T16:16:47.666Z
+date: 2024-12-12T16:17:30.315Z
+updated: 2024-12-14T23:52:38.176Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beginners-guide-adding-text-overlays-on-youtube/"><u>[Updated] In 2024, Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
-<li><a href="https://fox-place.techidaily.com/country-music-playlist-alert-add-your-favorite-boozy-ballads-to-karaoke-cloud-pro/"><u>Country Music Playlist Alert: Add Your Favorite Boozy Ballads to Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/diagnosing-non-working-gpus-expert-insights-on-common-failures-yl-computer-services/"><u>Diagnosing Non-Working GPUs: Expert Insights on Common Failures - YL Computer Services</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-what-to-do-when-confronted-with-an-unknown-audio-device-in-windows-10/"><u>DIY Guide: What to Do When Confronted With an 'Unknown' Audio Device in Windows 10</u></a></li>
-<li><a href="https://fox-place.techidaily.com/hd-bubble-themed-walls-and-graphics-premium-collection-by-yl-computing/"><u>HD Bubble-Themed Walls & Graphics - Premium Collection by YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snowball-rally-highlights-from-the-beijing-games-2022/"><u>In 2024, Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
-<li><a href="https://fox-place.techidaily.com/qin-dynastys-pivotal-era-tracing-the-origins-of-ancient-chinas-first-unified-empire-expert-analysis-by-yl-software/"><u>Qin Dynasty’s Pivotal Era: Tracing the Origins of Ancient China’s First Unified Empire – Expert Analysis by YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/retrieve-saved-memories-tips-for-recovering-instagram-reels-youve-archived/"><u>Retrieve Saved Memories: Tips for Recovering Instagram Reels You've Archived</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-getting-tekken-8-up-and-running-on-a-windowsmac-system/"><u>Solution Guide: Getting Tekken 8 Up and Running on a Windows/Mac System</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-for-android-users-on-vr-content/"><u>The Ultimate Guide for Android Users on VR Content</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlocking-hidden-features-in-our-top-notch-karaoke-pro-discover-5-amazing-secrets/"><u>Unlocking Hidden Features in Our Top-Notch Karaoke Pro - Discover 5 Amazing Secrets!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-20-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 20 Pro Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>[New] 2024 Approved Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-exploring-the-world-of-digital-assets-essential-learning-tools-and-platforms-for-cryptocurrency-enthusiasts-insights-from-yl-computing/"><u>1. Exploring the World of Digital Assets: Essential Learning Tools and Platforms for Cryptocurrency Enthusiasts - Insights From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/collection-of-stunning-empire-vessel-graphics-for-your-screen-saverbackground-officially-licensed-by-yl-computing-yl-software/"><u>Collection of Stunning Empire Vessel Graphics for Your Screen Saver/Background: Officially Licensed By YL Computing | YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-free-cdg-ripper-for-windows-easy-mp3plusaac-conversion-from-cdg-files/"><u>Download Free CDG Ripper for Windows - Easy MP3+AAC Conversion From CDG Files</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-karaoke-game-expert-strategies-for-managing-multi-song-bgs-in-pcdj-software/"><u>Elevate Your Karaoke Game: Expert Strategies for Managing Multi-Song BGs in PCDJ Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-go-2023-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark Go (2023) FRP</u></a></li>
+<li><a href="https://fox-place.techidaily.com/high-resolution-4k-nature-scenes-exquisite-wallpapers-imagery-and-photography-yl-computing-solutions/"><u>High-Resolution 4K Nature Scenes: Exquisite Wallpapers, Imagery & Photography - YL Computing Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-trustworthy-crypto-ventures-insights-from-yl-computing/"><u>Identifying Trustworthy Crypto Ventures - Insights From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-hot-30i-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Hot 30i Phone Now with These Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-edge-infusing-artistry-with-slow-motion-for-2024/"><u>Instagram's Edge Infusing Artistry with Slow Motion for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-your-machines-ram-use-insights-by-yl-software-experts/"><u>Optimizing Your Machine's RAM Use - Insights by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/premium-aston-martin-dbs-superleggera-convertible-photo-collection-for-pc-ultra-sharp-vibrant-background-images-curated-by-yl-software/"><u>Premium Aston Martin DBS Superleggera Convertible Photo Collection for PC – Ultra Sharp, Vibrant Background Images Curated by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/steps-to-manage-user-accounts-adding-and-removing-in-yl-computing-your-complete-guide/"><u>Steps to Manage User Accounts: Adding and Removing in YL Computing - Your Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c12-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C12 Pro Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/world-within-reach-the-most-exciting-psvr-games-ahead/"><u>World Within Reach The Most Exciting PSVR Games Ahead</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-computings-minimalist-design-wallpapers-in-ultra-hd-quality-for-a-refined-digital-aesthetic/"><u>YL Computing's Minimalist Design Wallpapers in Ultra HD Quality for a Refined Digital Aesthetic</u></a></li>
 </ul></div>
 

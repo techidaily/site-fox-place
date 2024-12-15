@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2024-12-02T17:19:47.845Z
-updated: 2024-12-08T16:26:22.401Z
+date: 2024-12-13T21:56:49.482Z
+updated: 2024-12-15T03:49:07.371Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,19 +58,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[New] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-potential-secrets-to-successful-fb-video-ads/"><u>[Updated] 2024 Approved Unlocking Potential Secrets to Successful FB Video Ads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-foremost-8-titans-of-4k-blu-ray-technology/"><u>[Updated] Foremost 8 Titans of 4K Blu-Ray Technology</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290425062-dvd/"><u>「動画ソロ DVDコピー 安全性と使用感想レビュー集 | ウィルスやリスクに注意するべきポイント？」</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-the-issue-behind-windows-file-creation-error/"><u>Eliminating the Issue Behind Windows' File Creation Error</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exquisite-art-deco-background-graphics-premium-hd-image-collections-from-yl-software/"><u>Exquisite Art Deco Background Graphics: Premium HD Image Collections From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fix-your-frozen-system-with-yl-software-solutions-step-by-step-freezing-issue-resolution/"><u>Fix Your Frozen System with YL Software Solutions: Step-by-Step Freezing Issue Resolution</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-swiftly-install-acer-audio-drivers-with-ease/"><u>How to Swiftly Install Acer Audio Drivers with Ease</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-discovering-vr-identity-a-hands-on-approach-to-self-representation/"><u>In 2024, Discovering VR Identity - A Hands-On Approach to Self-Representation</u></a></li>
-<li><a href="https://fox-place.techidaily.com/revealing-the-invisible-a-comprehensive-tutorial-by-yl-computing-for-locating-concealed-windows-files/"><u>Revealing the Invisible: A Comprehensive Tutorial by YL Computing for Locating Concealed Windows Files</u></a></li>
-<li><a href="https://fox-place.techidaily.com/setting-up-windows-defense-mechanisms-via-control-panel-a-step-by-step-guide-tips-by-techwise/"><u>Setting Up Windows Defense Mechanisms via Control Panel: A Step-by-Step Guide - Tips by TechWise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simplified-troubleshooting-for-windows-display-malfunctions-expert-advice-from-yl-software-team/"><u>Simplified Troubleshooting for Windows Display Malfunctions, Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-scanner-issues-adjusting-images-without-access-to-brightnesscontrast-controls-insights-by-yl-software/"><u>Solving Scanner Issues: Adjusting Images Without Access to Brightness/Contrast Controls – Insights by YL Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-online-video-blurring-the-top-free-tools-and-techniques/"><u>Updated In 2024, Online Video Blurring The Top Free Tools and Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows-for-2024/"><u>[Updated] Bridging the Gap YouTube Editing Mastered in iMovie Workflows for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-selecting-the-ideal-team-communication-tool-a-slack-vs-discord-evaluation-for-2024/"><u>[Updated] Selecting the Ideal Team Communication Tool A Slack Vs. Discord Evaluation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-speed-windows-viewer-for-images/"><u>2024 Approved High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-to-igtv-migration-step-by-step-guide/"><u>2024 Approved YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/iphonewindows-114/"><u>将iPhone数据转移到Windows 11平台——顶级4技巧🔥🔥</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-free-hyundai-ioniq-wallpamps-high-quality-hd-images-by-yl-computings-design-team/"><u>Download Free Hyundai Ioniq WALLPAMPS - High-Quality HD Images by YL Computing's Design Team</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-tips-for-maintaining-your-pcs-performance-insights-from-yl-computing/"><u>Essential Tips for Maintaining Your PC's Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-create-a-linux-virtual-machine-inside-a-windows-virtual-machine-using-hyper-v/"><u>How to Create a Linux Virtual Machine Inside a Windows Virtual Machine Using Hyper-V</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-making-money-with-videos-strategies-for-the-aspiring-vlogger/"><u>In 2024, Making Money with Videos Strategies for the Aspiring Vlogger</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-device-drivers-in-windows-expert-advice-and-update-techniques-by-yl-software-team/"><u>Mastering Device Drivers in Windows: Expert Advice & Update Techniques by YL Software Team</u></a></li>
+<li><a href="https://fox-place.techidaily.com/pcdj-dex-3-official-release-candidate-launched-discover-the-latest-update/"><u>PCDJ Dex 3: Official Release Candidate Launched – Discover the Latest Update</u></a></li>
+<li><a href="https://fox-place.techidaily.com/smart-investment-strategies-in-crypto-expert-advice-from-yl-softwares-finance-guru/"><u>Smart Investment Strategies in Crypto: Expert Advice From YL Software's Finance Guru</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-steps-when-you-cant-access-the-web-insights-from-yl-computing/"><u>Troubleshooting Steps When You Can't Access the Web: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/uninstalling-programs-made-easy-expert-guide-from-yl-computing/"><u>Uninstalling Programs Made Easy: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-essential-tips-for-efficiently-gathering-podcast-files-onto-personal-computers/"><u>Updated In 2024, Essential Tips for Efficiently Gathering Podcast Files Onto Personal Computers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/why-does-my-computer-mouse-jump-around-so-often-tech-insights-with-yl-software/"><u>Why Does My Computer Mouse Jump Around So Often? - Tech Insights with YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/windows-defender-and-your-data-safety-understanding-the-risks-insights-from-yl-software-experts/"><u>Windows Defender and Your Data Safety: Understanding the Risks – Insights From YL Software Experts</u></a></li>
 </ul></div>
 
