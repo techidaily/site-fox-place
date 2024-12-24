@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2024-12-13T19:24:09.418Z
-updated: 2024-12-14T22:30:22.331Z
+date: 2024-12-18T05:57:50.153Z
+updated: 2024-12-23T19:30:43.116Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-melodic-gateways-a-list-of-top-tunes-to-open-your-podcasts/"><u>[New] Melodic Gateways A List of Top Tunes to Open Your Podcasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-protectly-copy-youtube-tracks-for-free-for-2024/"><u>[Updated] How to Protectly Copy Youtube Tracks for Free for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/beware-these-7-facebook-hoaxes-comprehensive-strategies-for-protection/"><u>Beware These 7 Facebook Hoaxes! Comprehensive Strategies for Protection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-14-plus-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 14 Plus is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-guide-configuring-your-mouse-options-via-windows-control-panel-yl-computing/"><u>Easy Guide: Configuring Your Mouse Options via Windows Control Panel - YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-i-boost-my-pcs-speed-quickly-and-effortlessly-tips-from-yl-computing/"><u>How Can I Boost My PC's Speed Quickly and Effortlessly? - Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-90-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor 90 Pro.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x9a-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X9a To Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/iconic-urban-beats-portraits-premium-photo-library-for-designers-yl-media-collection/"><u>Iconic Urban Beats Portraits: Premium Photo Library for Designers – YL Media Collection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/recuperacion-eficaz-y-sin-coste-de-archivos-wps-made-easy-for-everyone/"><u>Recuperación Eficaz Y Sin Coste De Archivos WPS Made Easy for Everyone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sculpting-the-visual-narrative-a-composers-approach-to-transition-craftsmanship/"><u>Updated Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship</u></a></li>
-<li><a href="https://fox-place.techidaily.com/using-digital-coins-a-comprehensive-guide-by-yl-computing-on-transacting-with-cryptocurrency/"><u>Using Digital Coins: A Comprehensive Guide by YL Computing on Transacting with Cryptocurrency</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-software-solutions-navigating-through-sporadic-blue-screen-of-death-errors-with-ease/"><u>YL Software Solutions: Navigating Through Sporadic Blue Screen of Death Errors with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simple-strategies-for-saving-video-calls-for-2024/"><u>[New] Simple Strategies for Saving Video Calls for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-building-blueprint-reaching-1k-subs-rapidly/"><u>[Updated] 2024 Approved Channel Building Blueprint Reaching 1K Subs Rapidly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-essential-guide-to-ios-podcast-acquisition/"><u>[Updated] In 2024, The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-techno-gamers-monetization-guide-for-2024/"><u>[Updated] Techno Gamers' Monetization Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>2024 Approved Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://fox-place.techidaily.com/accelerate-your-computers-speed-with-proven-strategies-by-yl-software/"><u>Accelerate Your Computer’s Speed with Proven Strategies by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/audio-troubleshooting-for-your-computer-expert-advice-from-yl-software/"><u>Audio Troubleshooting for Your Computer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-to-avoid-memory-issues-on-your-windows-pc-tips-from-yl-computing/"><u>Top Strategies to Avoid Memory Issues on Your Windows PC - Tips From YL Computing</u></a></li>
 </ul></div>
 

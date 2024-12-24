@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2024-12-12T00:57:25.933Z
-updated: 2024-12-15T01:29:21.226Z
+date: 2024-12-19T02:05:01.858Z
+updated: 2024-12-23T21:27:02.540Z
 tags:
   - product
 categories:
@@ -28,6 +28,10 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
 
 1) **Hercules DJControl Starlight**
@@ -38,7 +42,7 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
@@ -49,7 +53,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -60,7 +64,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -71,16 +75,12 @@ The professional DJ features that come with the Numark Party Mix include four cu
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -101,19 +101,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-filming-made-easy-selecting-the-right-audio-devices/"><u>[Updated] 2024 Approved Filming Made Easy Selecting the Right Audio Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-15-best-funny-youtube-channels-to-watch-when-youre-bored/"><u>[Updated] In 2024, 15 Best Funny YouTube Channels to Watch When You're Bored</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-walkthrough-easily-install-leia-and-kryptons-top-79-add-ons-in-your-kodi-device/"><u>Comprehensive Walkthrough: Easily Install Leia & Krypton's Top 7/9 Add-Ons in Your Kodi Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/d3dcompiler47dll-missing-solve-the-error-and-boost-performance/"><u>D3DCOMPILER_47.dll Missing - Solve the Error & Boost Performance</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ensuring-optimal-performance-confirm-your-gpu-drivers-are-up-to-date-on-windows-tips-by-yl-computing/"><u>Ensuring Optimal Performance: Confirm Your GPU Drivers Are Up-to-Date on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-x-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone X or iPad?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-video-recording-camstudios-total-package/"><u>In 2024, Mastering Video Recording CamStudio's Total Package</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-update-your-scanners-driver-in-windows-with-help-from-yl-software-solutions/"><u>Quick Guide: How to Update Your Scanner's Driver in Windows with Help From YL Software Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/rmvb-to-avi-file-converter-web-service-no-cost-simple-and-fast-conversion-by-videoxchange/"><u>RMVB to AVI File Converter Web Service - No Cost, Simple and Fast Conversion by Videoxchange</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-personalizing-your-mouse-preferences-with-windows-control-panel-tips-from-yl-software/"><u>Step-by-Step Guide: Personalizing Your Mouse Preferences with Windows Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-chinese-cultural-revolution-explained-historical-significance-and-effects-a-study-from-yl-software/"><u>The Chinese Cultural Revolution Explained: Historical Significance and Effects - A Study From YL Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-action-camera-buying-for-the-absolute-novice-2023-guide-for-2024/"><u>[New] Action Camera Buying for the Absolute Novice - 2023 Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-command-and-conquer-triumphant-tales-of-the-best-7-total-wars/"><u>[New] Command & Conquer Triumphant Tales of the Best 7 Total Wars</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-explore-fauna-fun-top-12-android-simulation-games-for-2024/"><u>[New] Explore Fauna Fun Top 12 Android Simulation Games for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-video-subtitle-enhancement-essential-online-tools-explored/"><u>[Updated] Mastering Video Subtitle Enhancement Essential Online Tools Explored</u></a></li>
+<li><a href="https://fox-place.techidaily.com/accelerate-your-computers-speed-with-proven-strategies-by-yl-software/"><u>Accelerate Your Computer’s Speed with Proven Strategies by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/audio-troubleshooting-for-your-computer-expert-advice-from-yl-software/"><u>Audio Troubleshooting for Your Computer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/enhance-your-campaigns-via-tactical-email-list-splitting-the-massmail-approach/"><u>Enhance Your Campaigns via Tactical Email List Splitting - The MassMail Approach</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exclusive-offer-get-30-off-on-dex/"><u>Exclusive Offer: Get $30 Off on DEX</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/experience-the-joy-of-faith-find-and-enjoy-complimentary-gospel-tracks-on-youtube/"><u>Experience the Joy of Faith: Find and Enjoy Complimentary Gospel Tracks on YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/high-definition-moon-graphics-and-desktop-walls-for-pcs-premium-selection-by-yl-computing/"><u>High-Definition Moon Graphics & Desktop Walls for PCs: Premium Selection by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-fix-an-undetected-network-interface-with-guidance-from-yl-software-experts/"><u>How to Fix an Undetected Network Interface with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-retrieve-information-from-a-formatted-disk-expert-guide-by-yl-computing/"><u>How to Retrieve Information From a Formatted Disk: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/is-a-hardware-refresh-the-key-to-boosting-your-computers-speed-advice-by-experts-at-yl-software/"><u>Is a Hardware Refresh the Key to Boosting Your Computer’s Speed? Advice by Experts at YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenloze-mkv-file-omzetten-naar-flv-online-gratis-met-moviemaker/"><u>Kostenloze MKV-File Omzetten Naar FLV Online - Gratis Met MovieMaker</u></a></li>
+<li><a href="https://fox-place.techidaily.com/launch-of-the-latest-beta-experience-cutting-edge-features-in-pcdj-karaoke-software/"><u>Launch of the Latest Beta: Experience Cutting-Edge Features in PCDJ Karaoke Software!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/retrieve-deleted-files-from-your-hard-disk-expert-tips-by-yl-computing/"><u>Retrieve Deleted Files From Your Hard Disk: Expert Tips by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-activating-google-play-services-on-2019-kindle-fire-devices/"><u>Step-by-Step Tutorial for Activating Google Play Services on 2019 Kindle Fire Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-choice-presents-for-diy-enthusiasts-perfecting-projects-with-our-hammer-selection-insights-from-zdnet/"><u>Top Choice Presents for DIY Enthusiasts: Perfecting Projects with Our Hammer Selection - Insights From ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/zooming-into-facebook-live-with-ease-using-zoom-for-2024/"><u>Zooming Into Facebook Live with Ease Using Zoom for 2024</u></a></li>
 </ul></div>
 

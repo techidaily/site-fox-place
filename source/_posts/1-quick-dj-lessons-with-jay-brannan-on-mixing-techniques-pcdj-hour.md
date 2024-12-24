@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2024-12-13T03:04:16.467Z
-updated: 2024-12-14T19:45:03.995Z
+date: 2024-12-20T17:21:11.646Z
+updated: 2024-12-24T01:29:50.184Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,24 +45,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-mastering-audio-file-transformation-srt-to-xmlssattml-for-2024/"><u>[New] Mastering Audio File Transformation SRT to XML/SSA/TTML for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-leveraging-ios-11-for-professional-level-iphone-shots/"><u>[Updated] Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>2024 Approved Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/building-your-own-digital-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Building Your Own Digital Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-format-your-data-with-advanced-text-wrapping-tips-for-ms-excel/"><u>Effortlessly Format Your Data with Advanced Text Wrapping Tips for MS Excel</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-visual-space-with-exclusive-deadly-class-designs-from-yl-softwares-wallpaper-catalog/"><u>Elevate Your Visual Space with Exclusive Deadly Class Designs From YL Software's Wallpaper Catalog</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia ?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx/"><u>In 2024, Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-at-the-future-apple-household-helper-bot-preliminary-price-estimates-launch-forecast-and-specs-rumors/"><u>Inside Look at the Future Apple Household Helper Bot – Preliminary Price Estimates, Launch Forecast & Specs Rumors</u></a></li>
-<li><a href="https://fox-place.techidaily.com/limited-offer-enhance-your-set-with-dextrose-and-karaoke-mix-just-49-extra/"><u>Limited Offer: Enhance Your Set with Dextrose and Karaoke Mix, Just $49 Extra!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-computer-screen-captures-in-minutes/"><u>Mastering the Art of Computer Screen Captures in Minutes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-resolution-of-gta-vs-directx-initialization-error-errgfxd3dinit-tips-and-tricks-for-gamers/"><u>Mastering the Resolution of GTA V's DirectX Initialization Error (ERR_GFX_D3D_INIT): Tips and Tricks for Gamers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-tools-for-boosting-your-pcs-performance-expert-recommendations/"><u>Top Tools for Boosting Your PC's Performance: Expert Recommendations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yls-ultimate-strategy-for-buying-and-selling-bitcoin-with-ease-insights-from-the-experts-at-yl-software/"><u>YL's Ultimate Strategy for Buying and Selling Bitcoin with Ease – Insights From the Experts at YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synchronized-squawks-and-soarings-the-bebop-parrot-review/"><u>[New] Synchronized Squawks & Soarings The Bebop Parrot Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-transform-your-videos-into-social-media-stars-for-2024/"><u>[Updated] Tips to Transform Your Videos Into Social Media Stars for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/samsung-ssdt7/"><u>「Samsung SSDT7 バックアップ用に最適な保存ツールとその特徴を学ぶ方法」</u></a></li>
+<li><a href="https://fox-place.techidaily.com/assess-your-computers-memory-capacity-with-ease-expert-advice-by-yl-software/"><u>Assess Your Computer's Memory Capacity with Ease – Expert Advice by YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/711457-9781429991995-courage/"><u>Courage | Free Book</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-workspace-a-detailed-walkthrough-for-desktop-background-tweaks-in-control-panel-by-yl-software-solutions/"><u>Customizing Your Workspace: A Detailed Walkthrough for Desktop Background Tweaks in Control Panel by YL Software Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-extra-capabilities-of-microsofts-windows-defender-insights-from-yl-computing/"><u>Exploring Extra Capabilities of Microsoft's Windows Defender: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-windows-core-data-structure-unveiling-the-intricacies-of-registry-parts-guided-insights-from-yl-software-specialists/"><u>Exploring Window's Core Data Structure: Unveiling the Intricacies of Registry Parts - Guided Insights From YL Software Specialists</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exquisite-ngnl-graphics-collection-for-pc-screensaver-inspired-by-no-game-no-life-series/"><u>Exquisite NGNL Graphics Collection for PC Screensaver - Inspired by 'No Game No Life' Series</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fast-track-your-computer-expert-tips-from-yl-computing-on-accelerating-pc-performance/"><u>Fast Track Your Computer: Expert Tips From YL Computing on Accelerating PC Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>GoPro Editing Software Best 15 Action Cam Video Editors for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-silence-disabling-participants-in-gmeet-calls/"><u>Mastering Silence Disabling Participants in GMeet Calls</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-video-merger-software-top-7-picks/"><u>No-Watermark Video Merger Software Top 7 Picks</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/resolution-des-problemes-de-pieges-a-acces-avec-des-donnees-non-validees-sur-windows-11-guide-complet/"><u>Résolution Des Problèmes De Pièges À Accès Avec Des Données Non Validées Sur Windows 11: Guide Complet</u></a></li>
+<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/streamlining-your-dj-career-crucial-copyright-laws-and-licensing-tips-unveiled/"><u>Streamlining Your DJ Career: Crucial Copyright Laws and Licensing Tips Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-comparison-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-face-off/"><u>The Ultimate Comparison: IPhone 15 Pro Max and Samsung Galaxy S24 Ultra Face-Off</u></a></li>
 </ul></div>
 

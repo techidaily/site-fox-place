@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2024-12-12T16:06:40.299Z
-updated: 2024-12-15T05:29:14.905Z
+date: 2024-12-21T17:24:37.548Z
+updated: 2024-12-23T23:34:34.885Z
 tags:
   - product
 categories:
@@ -24,16 +24,12 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +37,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -52,6 +48,10 @@ Now, let’s tweak Chrome to make your life easier:
 * Hit “Settings” and scroll down to “Show advanced settings”.
 * Find the “Downloads” section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Direct and Download
 
 Here’s where you make the choice:
@@ -60,7 +60,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,16 +94,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-diving-deep-into-the-world-of-professional-voice-overs-for-videos-for-2024/"><u>[New] Diving Deep Into the World of Professional Voice Overs for Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-record-webcam-chat-for-2024/"><u>[New] How to Record Webcam Chat for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-security-compromise-what-to-watch-out-for/"><u>Facebook Security Compromise: What to Watch Out For</u></a></li>
-<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-depth-update-the-latest-sony-s6500-model-review/"><u>In-Depth Update The Latest Sony S6500 Model Review</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-chart-topping-radio-auditory-elements/"><u>New In 2024, Chart-Topping Radio Auditory Elements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-home-protection-solutions/"><u>Top-Ranked Home Protection Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
-<li><a href="https://fox-place.techidaily.com/us-shoppers-secure-your-dex-3-and-grab-200-music-videos-at-no-cost-before-sales-out/"><u>US Shoppers: Secure Your DEX 3 & Grab 200 Music Videos at No Cost Before Sale's Out!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elite-arena-showdown-best-of-the-royales-for-2024/"><u>[New] Elite Arena Showdown Best of the Royales for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>[New] Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-excellent-video-creatives/"><u>[Updated] In 2024, Unveiling Excellent Video Creatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/and-mp4-and-winxvideo-ai/"><u>高速化&品質保持: MP4ビデオコンバート手順 & WinxVideo AIの使用法</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-tutorial-on-file-compressiondecompression-using-yl-software-solutions/"><u>Comprehensive Tutorial on File Compression/Decompression Using YL Software Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-an-enthralling-yet-harmless-steam-world/"><u>Crafting an Enthralling, Yet Harmless Steam World</u></a></li>
+<li><a href="https://fox-place.techidaily.com/disabling-boot-up-software-on-your-pc-using-windows-system-configuration-expert-advice-by-yl-software-solutions/"><u>Disabling Boot-Up Software on Your PC Using Windows System Configuration - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-the-world-of-digital-scratch-essential-techniques-and-top-software-tools-for-modern-disc-jockeys/"><u>Exploring the World of Digital Scratch: Essential Techniques & Top Software Tools for Modern Disc Jockeys</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-faulty-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Identifying Faulty Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-microphones-for-enhanced-4k-video-clarity-and-sound/"><u>Leading Microphones for Enhanced 4K Video Clarity and Sound</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-threat-to-miniature-gaming-systems-from-microsofts-new-ai-innovations/"><u>Potential Threat to Miniature Gaming Systems From Microsoft’s New AI Innovations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-tweaking-your-pcs-hardware-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Tweaking Your PC's Hardware Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-starter-kit-for-novice-digital-turntablists-expertly-curated-pcdj-tools-and-accessories/"><u>Step-by-Step Starter Kit for Novice Digital Turntablists: Expertly Curated PCDJ Tools & Accessories</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-civi-3-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Civi 3 FRP</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-threats-comprehensive-analysis-of-viruses-identified-by-windows-defender-insights-from-yl-computing/"><u>Unveiling the Threats: Comprehensive Analysis of Viruses Identified by Windows Defender - Insights From YL Computing</u></a></li>
 </ul></div>
 

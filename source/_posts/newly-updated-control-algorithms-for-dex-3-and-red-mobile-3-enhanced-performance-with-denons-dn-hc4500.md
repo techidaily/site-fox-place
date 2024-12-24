@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2024-12-14T03:27:16.712Z
-updated: 2024-12-14T19:08:04.651Z
+date: 2024-12-17T00:03:46.532Z
+updated: 2024-12-24T03:41:15.749Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,15 +52,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-best-video-capture-for-iphoneipad-users/"><u>[New] 2024 Approved The Best Video Capture for iPhone/iPad Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-tutorial-on-file-compressiondecompression-using-yl-software-solutions/"><u>Comprehensive Tutorial on File Compression/Decompression Using YL Software Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/creative-tims-argondjango-a-fully-integrated-bootstrap-4-admin-panel-for-django-projects/"><u>Creative Tim's ArgonDjango: A Fully Integrated Bootstrap 4 Admin Panel for Django Projects</u></a></li>
-<li><a href="https://fox-place.techidaily.com/disabling-boot-up-software-on-your-pc-using-windows-system-configuration-expert-advice-by-yl-software-solutions/"><u>Disabling Boot-Up Software on Your PC Using Windows System Configuration - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/faceoff-between-wifi-routers-tp-link-archer-ax6000-vs-nighthawk-ax12-is-the-upgrade-worth-it/"><u>Faceoff Between WiFi Routers: TP-Link Archer AX6000 Vs. Nighthawk AX12 - Is The Upgrade Worth It?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-nvidia-gtx-950-error-43-problems-on-your-windows-11-pc-step-by-step-solutions/"><u>Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/identifying-faulty-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Identifying Faulty Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-starter-kit-for-novice-digital-turntablists-expertly-curated-pcdj-tools-and-accessories/"><u>Step-by-Step Starter Kit for Novice Digital Turntablists: Expertly Curated PCDJ Tools & Accessories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps-zdnet/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[New] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>[Updated] In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>[Updated] Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>2024 Approved Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
+<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/flavorful-funnels-catchy-recipe-channels-that-work/"><u>Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209876-9780007388530-holistic-herbal-a-safe-and-practical-guide-to-making-and-using-herbal-remedies/"><u>Holistic Herbal: A Safe and Practical Guide to Making and Using Herbal Remedies | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-unplugged-secure-and-save-your-spheres/"><u>Minecraft Unplugged: Secure and Save Your Spheres</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-film-like-a-pro-a-beginners-guide-to-high-quality-video-production/"><u>New Film Like a Pro A Beginners Guide to High-Quality Video Production</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-chinese-cultural-revolution-explained-historical-significance-and-effects-a-study-from-yl-software/"><u>The Chinese Cultural Revolution Explained: Historical Significance and Effects - A Study From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
+<li><a href="https://fox-place.techidaily.com/us-shoppers-secure-your-dex-3-and-grab-200-music-videos-at-no-cost-before-sales-out/"><u>US Shoppers: Secure Your DEX 3 & Grab 200 Music Videos at No Cost Before Sale's Out!</u></a></li>
 </ul></div>
 
