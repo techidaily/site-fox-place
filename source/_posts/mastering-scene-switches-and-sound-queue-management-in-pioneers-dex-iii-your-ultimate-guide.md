@@ -1,7 +1,7 @@
 ---
 title: Mastering Scene Switches and Sound Queue Management in Pioneer's DEX III - Your Ultimate Guide
-date: 2024-12-17T16:52:01.998Z
-updated: 2024-12-24T03:16:58.385Z
+date: 2024-12-25T19:28:26.415Z
+updated: 2024-12-29T16:55:44.155Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-tips-for-enhancing-online-presence-with-imovie-on-vimeo-for-2024/"><u>[New] Tips for Enhancing Online Presence with iMovie on Vimeo for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discover-and-make-the-fb-most-watched-song-videos/"><u>[Updated] Discover & Make the #FB Most-Watched Song Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-quick-and-easy-embedding-online-video-into-microsoft-presentations/"><u>[Updated] Quick & Easy Embedding Online Video Into Microsoft Presentations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-depth-zoom-techniques-for-exceptional-podcasts/"><u>2024 Approved In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-did-the-opium-battles-shape-modern-china-a-deep-dive-with-yl-innovations/"><u>How Did the Opium Battles Shape Modern China? A Deep Dive with YL Innovations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-boost-your-network-adapters-data-transfer-rates-expert-tips-from-yl-computing/"><u>How to Boost Your Network Adapter's Data Transfer Rates - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-12-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme 12 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-place.techidaily.com/identifying-the-root-cause-of-your-scanner-issues-insights-from-yl-computings-expertise/"><u>Identifying the Root Cause of Your Scanner Issues: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/maximizing-your-machine-expert-tips-for-clearing-up-space-by-yl-computing/"><u>Maximizing Your Machine: Expert Tips for Clearing Up Space by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-setup-find-the-best-windows-7-keyboard-driver-software-here/"><u>Speedy Setup: Find the Best Windows 7 Keyboard Driver Software Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-credentials-made-simple-the-ultimate-list-of-11-access-methods/"><u>Win11 Credentials Made Simple: The Ultimate List of 11 Access Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-bright-ideas-maximizing-iphone-camera-exposure/"><u>[New] 2024 Approved Bright Ideas Maximizing iPhone Camera Exposure</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oremost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>[New] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-understanding-the-functionality-of-a-balance-verification-application-in-cryptocurrencies-insights-by-yl-computing/"><u>1. Understanding the Functionality of a Balance Verification Application in Cryptocurrencies - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/a-comprehensive-guide-on-initiating-a-successful-ico-insights-from-yl-computings-expertise/"><u>A Comprehensive Guide on Initiating a Successful ICO: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-place.techidaily.com/can-you-rely-on-windows-defender-for-robust-antivirus-protection-insights-from-yl-computing/"><u>Can You Rely on Windows Defender for Robust Antivirus Protection? – Insights From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-video-removal-techniques-with-yl-software-expert-advice-by-yl-computing/"><u>Effortless Video Removal Techniques with YL Software - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-achieve-faster-pc-startup-times-with-expert-advice-from-yl-software/"><u>How to Achieve Faster PC Startup Times with Expert Advice From YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-f23-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo F23 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-zoom-value-through-top-three-strategies/"><u>Maximizing Zoom Value Through Top Three Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps-for-2024/"><u>Melodious Memories Capturing Songs in Your Snaps for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/monthly-karaoke-additions-latest-tracks-for-your-digital-jukebox/"><u>Monthly Karaoke Additions - Latest Tracks for Your Digital Jukebox!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-asus-proart-a-high-end-display-for-2024/"><u>The Ultimate Guide to ASUS ProArt A High-End Display for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-removing-temporary-files-from-your-android-phone-or-tablet/"><u>The Ultimate Trick for Removing Temporary Files From Your Android Phone or Tablet</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-and-managing-bitcoin-sv-bsv-funds-tracking-account-balance-with-yl-software-expertise/"><u>Understanding and Managing Bitcoin SV (BSV) Funds: Tracking Account Balance with YL Software Expertise</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-website-blockage-issues-insights-from-yl-computing/"><u>Understanding Website Blockage Issues - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2024-12-17T00:03:46.532Z
-updated: 2024-12-24T03:41:15.749Z
+date: 2024-12-22T16:28:02.309Z
+updated: 2024-12-29T16:18:30.652Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,20 +52,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[New] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>[Updated] In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>[Updated] Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>2024 Approved Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/flavorful-funnels-catchy-recipe-channels-that-work/"><u>Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2209876-9780007388530-holistic-herbal-a-safe-and-practical-guide-to-making-and-using-herbal-remedies/"><u>Holistic Herbal: A Safe and Practical Guide to Making and Using Herbal Remedies | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
-<li><a href="https://games-able.techidaily.com/minecraft-unplugged-secure-and-save-your-spheres/"><u>Minecraft Unplugged: Secure and Save Your Spheres</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-film-like-a-pro-a-beginners-guide-to-high-quality-video-production/"><u>New Film Like a Pro A Beginners Guide to High-Quality Video Production</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-chinese-cultural-revolution-explained-historical-significance-and-effects-a-study-from-yl-software/"><u>The Chinese Cultural Revolution Explained: Historical Significance and Effects - A Study From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
-<li><a href="https://fox-place.techidaily.com/us-shoppers-secure-your-dex-3-and-grab-200-music-videos-at-no-cost-before-sales-out/"><u>US Shoppers: Secure Your DEX 3 & Grab 200 Music Videos at No Cost Before Sale's Out!</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y56-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y56 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/boost-your-pc-speed-with-these-high-ranking-utilities-according-to-yl-software-insights/"><u>Boost Your PC Speed with These High-Ranking Utilities According to YL Software Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-x6-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco X6 Pro?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-can-i-boost-my-pcs-speed-quickly-and-effortlessly-tips-from-yl-computing/"><u>How Can I Boost My PC's Speed Quickly and Effortlessly? - Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Civi 3 Disney 100th Anniversary Edition by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/iconic-urban-beats-portraits-premium-photo-library-for-designers-yl-media-collection/"><u>Iconic Urban Beats Portraits: Premium Photo Library for Designers – YL Media Collection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-computer-performance-by-regularly-clearing-cache-on-windows-10-devices/"><u>Improve Computer Performance by Regularly Clearing Cache on Windows 10 Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>In 2024, From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/lyrx-version-1602-karaoke-application-new-release-available-now-on-pcdj/"><u>LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-astro-software-maintenance-on-windows/"><u>Navigating Astro Software Maintenance on Windows</u></a></li>
+<li><a href="https://fox-place.techidaily.com/new-poll-reveals-chancellor-scholzs-alliance-struggles-with-dissatisfaction-only-23-approval-amid-economic-woes-and-inflation-crisis-yl-insights/"><u>New Poll Reveals Chancellor Scholz's Alliance Struggles with Dissatisfaction - Only 23% Approval Amid Economic Woes and Inflation Crisis | YL Insights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/using-digital-coins-a-comprehensive-guide-by-yl-computing-on-transacting-with-cryptocurrency/"><u>Using Digital Coins: A Comprehensive Guide by YL Computing on Transacting with Cryptocurrency</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-software-solutions-navigating-through-sporadic-blue-screen-of-death-errors-with-ease/"><u>YL Software Solutions: Navigating Through Sporadic Blue Screen of Death Errors with Ease</u></a></li>
 </ul></div>
 

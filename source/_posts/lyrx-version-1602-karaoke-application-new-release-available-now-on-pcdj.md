@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2024-12-18T05:57:50.153Z
-updated: 2024-12-23T19:30:43.116Z
+date: 2024-12-28T18:41:32.394Z
+updated: 2024-12-29T21:46:25.572Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,14 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-simple-strategies-for-saving-video-calls-for-2024/"><u>[New] Simple Strategies for Saving Video Calls for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-building-blueprint-reaching-1k-subs-rapidly/"><u>[Updated] 2024 Approved Channel Building Blueprint Reaching 1K Subs Rapidly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-essential-guide-to-ios-podcast-acquisition/"><u>[Updated] In 2024, The Essential Guide to iOS Podcast Acquisition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-techno-gamers-monetization-guide-for-2024/"><u>[Updated] Techno Gamers' Monetization Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>2024 Approved Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
-<li><a href="https://fox-place.techidaily.com/accelerate-your-computers-speed-with-proven-strategies-by-yl-software/"><u>Accelerate Your Computer’s Speed with Proven Strategies by YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/audio-troubleshooting-for-your-computer-expert-advice-from-yl-software/"><u>Audio Troubleshooting for Your Computer - Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-to-avoid-memory-issues-on-your-windows-pc-tips-from-yl-computing/"><u>Top Strategies to Avoid Memory Issues on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast-for-2024/"><u>[New] Become a Pro at Setting Up VRecorder Fast for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-photos-utilizing-psxs-erase-feature/"><u>[New] Perfecting Your Photos Utilizing PSX's Erase Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-find-the-optimal-screen-capture-solutions-in-linux/"><u>[Updated] 2024 Approved Find the Optimal Screen Capture Solutions in Linux</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285058936-windows-11/"><u>解決 Windows 11 安裝缺失備份資料的常見問題 - 關鍵指引</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-battle-fixing-call-of-duty-warzone-503n-disc-read-error-on-your-pc/"><u>Beat the Battle: Fixing Call of Duty Warzone [5.0/3.n] Disc Read Error on Your PC</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-guide-eliminating-malware-using-windows-defender-tips-from-yl-computing/"><u>Complete Guide: Eliminating Malware Using Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-streaming-tunes-to-sharing-moments-unveiling-spotify-as-the-new-digital-social-space/"><u>From Streaming Tunes to Sharing Moments: Unveiling Spotify as the New Digital Social Space</u></a></li>
+<li><a href="https://fox-place.techidaily.com/high-definition-ironman-series-wallpaper-downloads-premium-hd-imagery-and-visuals-yl-computing-solutions/"><u>High-Definition Ironman Series Wallpaper Downloads: Premium HD Imagery & Visuals - YL Computing Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-display-settings-easy-guide-to-changing-your-screen-resolution-tips-by-yl-computing/"><u>Mastering Display Settings: Easy Guide to Changing Your Screen Resolution - Tips by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-your-windows-11-ms-store-experience/"><u>Reinstating Your Windows 11 MS Store Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-to-unexpected-computer-stalling-expert-advice-from-yl-computing-and-software/"><u>Solutions to Unexpected Computer Stalling: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories-for-2024/"><u>The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-and-replacement-of-damaged-optical-drives-expert-tips-from-yl-computing-software-solutions/"><u>Troubleshooting and Replacement of Damaged Optical Drives - Expert Tips From YL Computing Software Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-guide-fixing-issues-with-yl-software-expert-insights-from-yl-computing/"><u>Troubleshooting Guide: Fixing Issues with YL Software - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-guide-identifying-common-issues-with-your-keyboard-yl-computing/"><u>Troubleshooting Guide: Identifying Common Issues with Your Keyboard - YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-non-functional-usb-ports-a-comprehve-guide-by-yl-software-experts/"><u>Troubleshooting Non-Functional USB Ports: A Comprehve Guide by YL Software Experts</u></a></li>
 </ul></div>
 

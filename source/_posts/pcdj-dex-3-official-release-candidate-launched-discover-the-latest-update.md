@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Dex 3: Official Release Candidate Launched – Discover the Latest Update"
-date: 2024-12-22T00:32:35.166Z
-updated: 2024-12-24T00:57:28.214Z
+date: 2024-12-26T21:14:48.226Z
+updated: 2024-12-29T21:03:28.549Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Yes, the excitement is almost palpable here at PCDJ HQ…
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 **DEX 3** release candidate 6 is now available for public download below, and the expectation is for it to be the last candidate version before the official public release. That means what’s currently included in **DEX 3** should[![dex3onmac](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?resize=505%2C311&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?ssl=1) be bug-free, and gig-ready. Providing our public concurs, what’s next for **DEX 3** beyond the first public launch is 3.1 (_and a myriad of other planned free updates throughout this year_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can find the previous release candidate version of **DEX 3** [HERE](https://tools.techidaily.com/pcdj/products/), and read up on much of what’s new-and-improved in **PCDJ DEX 3**, our [best DJ mixing software](https://tools.techidaily.com/pcdj/products/) solution allowing you to _#MixEverything_
@@ -43,13 +43,13 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 [![os-windows-xxl](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?resize=65%2C65&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?ssl=1)**[DOWNLOAD DEX 3 FOR WINDOWS](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Operating-Sysytems-Mac-os-icon](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?resize=65%2C65&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?ssl=1)**[DOWNLOAD DEX 3 FOR MAC](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### If you find any issues, feel free to join our user forums and post a report [HERE](https://tools.techidaily.com/pcdj/products/)
@@ -57,7 +57,7 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 **INTRODUCTION TO DEX 3 TUTORIAL VIDEO:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,14 +79,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3pre-releasecoverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-closer-look-at-asuss-proart-pa-329q-an-in-depth-review-of-its-professional-standards/"><u>[New] A Closer Look at Asus's ProArt PA 329Q – An In-Depth Review of Its Professional Standards</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>[New] Sky-High Streams on Facebook A DJI Drone User's Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/can-young-investors-trust-the-stability-of-budget-friendly-golden-asset-accumulation-insights-by-yl-tech/"><u>Can Young Investors Trust the Stability of Budget-Friendly Golden Asset Accumulation - Insights by YL Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-copilot-plugin-functionality-overview-for-enhanced-browsing/"><u>Exploring ChatGPT Copilot Plugin: Functionality Overview for Enhanced Browsing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lava-yuva-3-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lava Yuva 3 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/optimizing-system-performance-a-users-manual-to-customize-windows-virtual-memory-settings-using-yl-tech-tools/"><u>Optimizing System Performance: A User's Manual to Customize Windows Virtual Memory Settings Using YL Tech Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-battery-failure-in-your-laptop-with-tips-by-yl-technologies/"><u>Recognizing Signs of Battery Failure in Your Laptop with Tips by YL Technologies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/step-by-step-to-adobe-cloud-success-and-non-adobe-options-for-2024/"><u>Step-by-Step to Adobe Cloud Success & Non-Adobe Options for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-computings-high-definition-goodies-folder-graphics-the-ultimate-icon-collection/"><u>YL Computing's High-Definition Goodies Folder Graphics: The Ultimate Icon Collection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-selection-adding-to-your-youtube-playlists/"><u>[New] Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-gopros-where-to-buy-with-best-price/"><u>[Updated] Affordable GoPros Where to Buy with Best Price</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-refreshing-your-pc-effective-strategies-for-a-spotless-system-tips-from-yl-computing/"><u>1. Refreshing Your PC: Effective Strategies for a Spotless System - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-step-by-step-guide-how-to-delete-items-from-your-control-panel-with-yl-computing/"><u>1. Step-by-Step Guide: How To Delete Items From Your Control Panel with YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-one-step-shot-simplify-podcast-streaming/"><u>2024 Approved One Step Shot Simplify Podcast Streaming</u></a></li>
+<li><a href="https://fox-place.techidaily.com/finding-out-why-wireless-internet-keeps-failing-essential-tips-by-experts-at-yl-technology-services/"><u>Finding Out Why Wireless Internet Keeps Failing? Essential Tips by Experts at YL Technology Services</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-from-idea-to-audio-book-your-modern-guide-to-effortless-publishing/"><u>In 2024, From Idea to Audio Book Your Modern Guide to Effortless Publishing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-unauthorized-app-restriction/"><u>Strategies to Overcome Unauthorized App Restriction</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-key-distinctions-public-vs-private-blockchains-explained-by-yl-computing/"><u>Understanding Key Distinctions: Public Vs. Private Blockchains - Explained by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2024-12-20T17:21:11.646Z
-updated: 2024-12-24T01:29:50.184Z
+date: 2024-12-27T18:35:41.108Z
+updated: 2024-12-29T18:30:43.599Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,22 +45,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-synchronized-squawks-and-soarings-the-bebop-parrot-review/"><u>[New] Synchronized Squawks & Soarings The Bebop Parrot Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-transform-your-videos-into-social-media-stars-for-2024/"><u>[Updated] Tips to Transform Your Videos Into Social Media Stars for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/samsung-ssdt7/"><u>「Samsung SSDT7 バックアップ用に最適な保存ツールとその特徴を学ぶ方法」</u></a></li>
-<li><a href="https://fox-place.techidaily.com/assess-your-computers-memory-capacity-with-ease-expert-advice-by-yl-software/"><u>Assess Your Computer's Memory Capacity with Ease – Expert Advice by YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/711457-9781429991995-courage/"><u>Courage | Free Book</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-workspace-a-detailed-walkthrough-for-desktop-background-tweaks-in-control-panel-by-yl-software-solutions/"><u>Customizing Your Workspace: A Detailed Walkthrough for Desktop Background Tweaks in Control Panel by YL Software Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-extra-capabilities-of-microsofts-windows-defender-insights-from-yl-computing/"><u>Exploring Extra Capabilities of Microsoft's Windows Defender: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-windows-core-data-structure-unveiling-the-intricacies-of-registry-parts-guided-insights-from-yl-software-specialists/"><u>Exploring Window's Core Data Structure: Unveiling the Intricacies of Registry Parts - Guided Insights From YL Software Specialists</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exquisite-ngnl-graphics-collection-for-pc-screensaver-inspired-by-no-game-no-life-series/"><u>Exquisite NGNL Graphics Collection for PC Screensaver - Inspired by 'No Game No Life' Series</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fast-track-your-computer-expert-tips-from-yl-computing-on-accelerating-pc-performance/"><u>Fast Track Your Computer: Expert Tips From YL Computing on Accelerating PC Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>GoPro Editing Software Best 15 Action Cam Video Editors for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-silence-disabling-participants-in-gmeet-calls/"><u>Mastering Silence Disabling Participants in GMeet Calls</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-video-merger-software-top-7-picks/"><u>No-Watermark Video Merger Software Top 7 Picks</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/resolution-des-problemes-de-pieges-a-acces-avec-des-donnees-non-validees-sur-windows-11-guide-complet/"><u>Résolution Des Problèmes De Pièges À Accès Avec Des Données Non Validées Sur Windows 11: Guide Complet</u></a></li>
-<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/streamlining-your-dj-career-crucial-copyright-laws-and-licensing-tips-unveiled/"><u>Streamlining Your DJ Career: Crucial Copyright Laws and Licensing Tips Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-comparison-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-face-off/"><u>The Ultimate Comparison: IPhone 15 Pro Max and Samsung Galaxy S24 Ultra Face-Off</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-the-art-of-garnering-more-facebook-fans/"><u>[New] 2024 Approved Master the Art of Garnering More Facebook Fans</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-best-free-youtube-comment-finder-you-should-try/"><u>[New] In 2024, Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010-for-2024/"><u>[New] Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>2024 Approved 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-can-i-check-my-gpu-for-possible-physical-damage-or-failures-techguide-by-xyz-corp/"><u>How Can I Check My GPU for Possible Physical Damage or Failures? - TechGuide by XYZ Corp</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-c53-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme C53 Phone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unlocking-system-secrets-navigating-to-your-computers-hardware-details-in-the-windows-control-panel-expert-insights-from-bytewise-computing-solutions/"><u>Unlocking System Secrets: Navigating to Your Computer’s Hardware Details in the Windows Control Panel - Expert Insights From ByteWise Computing Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
 </ul></div>
 

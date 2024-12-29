@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2024-12-20T18:48:34.217Z
-updated: 2024-12-23T19:22:10.702Z
+date: 2024-12-26T16:09:33.354Z
+updated: 2024-12-29T21:31:39.008Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,24 +58,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-flight-in-depth-analysis-of-dji-phantom-4/"><u>[New] Unveiling Flight In-Depth Analysis of DJI Phantom 4</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-elite-5-facebooks-novel-innovations-spotlighted/"><u>[Updated] 2024 Approved The Elite 5 Facebook's Novel Innovations Spotlighted</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unique-vlogging-conversation-pieces/"><u>[Updated] In 2024, Unique Vlogging Conversation Pieces</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-craft-unique-logos-with-no-cost-template-modification/"><u>2024 Approved Craft Unique Logos with No-Cost Template Modification</u></a></li>
-<li><a href="https://fox-place.techidaily.com/compact-and-portable-dj-controllers-optimized-for-dex-3-with-pioneer-cdj-integration/"><u>Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration</u></a></li>
-<li><a href="https://fox-place.techidaily.com/decoding-the-central-aims-of-mao-zedongs-cultural-revolution-an-analysis-by-yl-digital-solutions/"><u>Decoding the Central Aims of Mao Zedong’s Cultural Revolution: An Analysis by YL Digital Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/explore-stunning-paw-patrol-hd-background-graphics-fullscreen-images-and-visuals-by-yl-software-experts/"><u>Explore Stunning Paw Patrol HD Background Graphics, Fullscreen Images, and Visuals by YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-achieve-faster-pc-startup-times-with-expert-advice-from-yl-software/"><u>How to Achieve Faster PC Startup Times with Expert Advice From YL Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nubia-z50s-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nubia Z50S Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>In 2024, Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
-<li><a href="https://fox-place.techidaily.com/monthly-karaoke-additions-latest-tracks-for-your-digital-jukebox/"><u>Monthly Karaoke Additions - Latest Tracks for Your Digital Jukebox!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/newly-updated-control-algorithms-for-dex-3-and-red-mobile-3-enhanced-performance-with-denons-dn-hc4500/"><u>Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-a14-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A14 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-guide-to-upgrading-logitech-g502-game-combo-mouse-drivers/"><u>Simplified Guide to Upgrading Logitech G502 Game Combo Mouse Drivers</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-tweaking-your-mouse-configuration-via-windows-control-panel-yl-software-tips/"><u>Step-by-Step Guide: Tweaking Your Mouse Configuration via Windows Control Panel - YL Software Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ncharted-territory-of-youtubes-unlisted-content/"><u>The Uncharted Territory of YouTube's Unlisted Content</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-and-managing-bitcoin-sv-bsv-funds-tracking-account-balance-with-yl-software-expertise/"><u>Understanding and Managing Bitcoin SV (BSV) Funds: Tracking Account Balance with YL Software Expertise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-website-blockage-issues-insights-from-yl-computing/"><u>Understanding Website Blockage Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-events-of-the-boxer-rebellion-a-detailed-overview-by-yl-computing/"><u>Unveiling the Events of the Boxer Rebellion: A Detailed Overview - By YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>[New] 2024 Approved Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-audio-quality-in-social-media-recordings-for-2024/"><u>[New] Boosting Audio Quality in Social Media Recordings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-pastimes-away-from-sports-stadiums-ranked/"><u>[New] Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dive-into-vibrant-visuals-gopro-studio-color-correction/"><u>[Updated] 2024 Approved Dive Into Vibrant Visuals GoPro Studio Color Correction</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-effective-strategies-using-discounted-timers-for-2024/"><u>[Updated] Effective Strategies Using Discounted Timers for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-quick-dj-lessons-with-jay-brannan-on-mixing-techniques-pcdj-hour/"><u>1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour</u></a></li>
+<li><a href="https://fox-place.techidaily.com/handling-gpu-failures-steps-to-take-when-your-system-freezes-during-graphic-intensive-tasks/"><u>Handling GPU Failures: Steps to Take When Your System Freezes During Graphic-Intensive Tasks</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-using-a-separate-graphics-processor-enhances-your-dj-setups-for-smoother-music-videos-a-guide-to-pcdj-optimization/"><u>How Using a Separate Graphics Processor Enhances Your DJ Setups for Smoother Music Videos: A Guide to PCDJ Optimization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-strategies-to-add-custom-mods-in-minecraft-top-tips-of-2e24/"><u>Latest Strategies to Add Custom Mods in Minecraft - Top Tips of 2E24!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-software-insights-comprehensive-instructions-for-onboarding-users-into-your-yl-computing-system/"><u>YL Software Insights: Comprehensive Instructions for Onboarding Users Into Your YL Computing System</u></a></li>
 </ul></div>
 
