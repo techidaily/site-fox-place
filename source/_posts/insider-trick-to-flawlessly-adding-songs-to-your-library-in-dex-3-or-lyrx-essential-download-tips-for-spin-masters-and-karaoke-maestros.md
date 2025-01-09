@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2024-12-28T20:40:59.825Z
-updated: 2024-12-29T21:48:55.448Z
+date: 2025-01-06T04:59:48.459Z
+updated: 2025-01-08T22:30:28.379Z
 tags:
   - product
 categories:
@@ -25,23 +25,19 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Nest and Set
 
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -53,7 +49,7 @@ Now, let’s tweak Chrome to make your life easier:
 * Find the “Downloads” section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Direct and Download
@@ -62,6 +58,10 @@ Here’s where you make the choice:
 
 * Click “Change” to pick a new default download spot – this should be the folder you’ve nested in your DJ software.
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
 
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,19 +94,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-costless-live-camera-capturer/"><u>[New] Ultimate Costless Live Camera Capturer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-social-forecast-in-graphs-2023-edition-unveiled-for-2024/"><u>[Updated] Social Forecast in Graphs 2023 Edition Unveiled for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-guide-choosing-the-best-windows-hardware-troubleshooting-applications-with-yl-software-expertise/"><u>Comprehensive Guide: Choosing the Best Windows Hardware Troubleshooting Applications with YL Software Expertise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/do-you-pay-taxes-on-bitcoin-and-altcoins-insights-from-yl-software-experts/"><u>Do You Pay Taxes on Bitcoin and Altcoins? Insights From YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-engagement-the-future-of-chatbots/"><u>Evolving Engagement: The Future of Chatbots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-resolving-zoom-camera-problems-quickly-and-easily/"><u>Expert Advice for Resolving Zoom Camera Problems Quickly and Easily</u></a></li>
-<li><a href="https://fox-place.techidaily.com/high-quality-bmw-7-series-hd-backgrounds-and-image-wallpapers-visual-upgrade-by-yl-software/"><u>High-Quality BMW 7 Series HD Backgrounds & Image Wallpapers - Visual Upgrade by YL Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y27s-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y27s Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/um-content-at-a-low-price-the-ultimate-list-of-free-intros-makers-for-2024/"><u>Premium Content at a Low Price The Ultimate List of Free Intros Makers for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-driver-problems-prevent-your-pc-from-frequent-crashes-insights-by-yl-computing/"><u>Resolving Driver Problems: Prevent Your PC From Frequent Crashes - Insights by YL Computing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps-for-2024/"><u>Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comparative-edge-of-innovation-five-significant-differences-that-set-gpt-4-apart-from-gpt-35/"><u>The Comparative Edge of Innovation: Five Significant Differences that Set GPT-^4 Apart From GPT-3.5</u></a></li>
-<li><a href="https://fox-place.techidaily.com/toggle-your-security-settings-activating-and-deactivating-windows-defender-on-the-latest-windows-operating-system/"><u>Toggle Your Security Settings: Activating and Deactivating Windows Defender on the Latest Windows Operating System</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-pro-photoshop-tricks-for-newcomers-for-2024/"><u>Top 10 Pro Photoshop Tricks for Newcomers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-powerpoint-recording-on-camera-for-professionals/"><u>[New] 2024 Approved Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-expertly-record-and-save-your-favorite-hulu-shows/"><u>[Updated] How To Expertly Record and Save Your Favorite Hulu Shows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-zero-cost-window-recording-techniques-3-methods-for-2024/"><u>[Updated] Zero-Cost Window Recording Techniques 3 Methods for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-online-concert-streamers/"><u>2024 Approved Superior Online Concert Streamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-camon-20-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Camon 20 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-texts-and-calls-on-iphones-do-not-disturb-mode-here-are-8-potential-fixes/"><u>Getting Texts and Calls on iPhone's Do Not Disturb Mode? Here Are 8 Potential Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hts-into-youtubes-visionary-studio-platform-for-2024/"><u>Insights Into YouTube's Visionary Studio Platform for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-a-display-driver-failure-a-comprehensive-guide-yl-computings-expert-tips/"><u>Resolving a Display Driver Failure: A Comprehensive Guide - YL Computing's Expert Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials-for-2024/"><u>Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-transformative-tale-behind-chinas-mega-engineering-feat-the-historical-significance-of-the-three-gorges-project-expert-analysis-from-yl-software/"><u>The Transformative Tale Behind China's Mega-Engineering Feat: The Historical Significance of the Three Gorges Project – Expert Analysis From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-temecula-dj-using-pro-dj-featured-dex-3-mixing-software/"><u>Top Temecula DJ Using Pro-DJ Featured DEX 3 Mixing Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/why-does-my-laptops-battery-life-decrease-so-fast-discover-solutions-with-yl-computing-and-yl-software/"><u>Why Does My Laptop's Battery Life Decrease So Fast? Discover Solutions with YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yls-ultimate-strategy-for-buying-and-selling-bitcoin-with-ease-insights-from-the-experts-at-yl-software/"><u>YL's Ultimate Strategy for Buying and Selling Bitcoin with Ease – Insights From the Experts at YL Software</u></a></li>
 </ul></div>
 

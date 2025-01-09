@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2024-12-27T18:35:41.108Z
-updated: 2024-12-29T18:30:43.599Z
+date: 2025-01-07T04:16:26.926Z
+updated: 2025-01-09T00:45:34.422Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,14 +45,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-the-art-of-garnering-more-facebook-fans/"><u>[New] 2024 Approved Master the Art of Garnering More Facebook Fans</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-best-free-youtube-comment-finder-you-should-try/"><u>[New] In 2024, Best Free YouTube Comment Finder You Should Try</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010-for-2024/"><u>[New] Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>2024 Approved 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-i-check-my-gpu-for-possible-physical-damage-or-failures-techguide-by-xyz-corp/"><u>How Can I Check My GPU for Possible Physical Damage or Failures? - TechGuide by XYZ Corp</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-c53-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme C53 Phone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlocking-system-secrets-navigating-to-your-computers-hardware-details-in-the-windows-control-panel-expert-insights-from-bytewise-computing-solutions/"><u>Unlocking System Secrets: Navigating to Your Computer’s Hardware Details in the Windows Control Panel - Expert Insights From ByteWise Computing Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] 2024 Approved How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-best-gif-maker-applications-for-creative-freedom/"><u>2024 Approved The Best GIF Maker Applications for Creative Freedom</u></a></li>
+<li><a href="https://fox-place.techidaily.com/compact-and-portable-dj-controllers-optimized-for-dex-3-with-pioneer-cdj-integration/"><u>Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciding-on-smart-sound-heres-how-google-nest-audio-stacks-up-againse-mini/"><u>Deciding on Smart Sound? Here’s How Google Nest Audio Stacks Up Againse Mini</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ensuring-persistent-network-setup-with-yl-software-solutions/"><u>Ensuring Persistent Network Setup with YL Software Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://fox-place.techidaily.com/pcdjs-latest-release-dj-software-dex-31010-free-public-beta-downloads-now/"><u>PCDJ's Latest Release: DJ Software DEX 3.10.1.0 - Free Public Beta Downloads Now!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-tailoring-your-pcs-protection-with-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Tailoring Your PC's Protection with Windows Control Panel - Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-superior-video-editors-we-reveal-the-best-5-picks/"><u>The Ultimate Guide to Selecting Superior Video Editors: We Reveal the Best 5 Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-choice-in-livestreaming-tech-discover-how-manycam-enhances-your-online-presence-with-virtual-cam-capabilities/"><u>Top Choice in Livestreaming Tech: Discover How ManyCam Enhances Your Online Presence with Virtual Cam Capabilities</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-events-of-the-boxer-rebellion-a-detailed-overview-by-yl-computing/"><u>Unveiling the Events of the Boxer Rebellion: A Detailed Overview - By YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-guide-maximizing-your-experience-with-google-maps-on-iphones/"><u>User Guide: Maximizing Your Experience with Google Maps on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wise-sagacious/"><u>Wise - Sagacious</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-softwares-ultimate-tutorial-on-moving-data-across-hard-drives/"><u>YL Software's Ultimate Tutorial on Moving Data Across Hard Drives</u></a></li>
 </ul></div>
 

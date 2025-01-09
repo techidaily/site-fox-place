@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release
-date: 2024-12-26T17:20:33.788Z
-updated: 2024-12-29T20:44:19.168Z
+date: 2025-01-07T00:02:55.062Z
+updated: 2025-01-08T17:16:30.266Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Many times the standard, bullet-point-style lists that are included with our ema
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features Included With The DEX 3.5 Upgrade
@@ -55,7 +55,7 @@ Many times the standard, bullet-point-style lists that are included with our ema
 If you’re an existing DEX 3 user you can find the free update [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,15 +77,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/newindex35-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-explore-new-territory-your-guide-to-live-streaming-tiktoks-for-2024/"><u>[New] Explore New Territory Your Guide to Live-Streaming TikToks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-quick-fix-efficient-use-of-the-eraser-in-psx/"><u>[New] The Quick Fix Efficient Use of the Eraser in PSX</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-creating-auditory-immersion-with-canvas-soundscape-tools/"><u>2024 Approved Creating Auditory Immersion with Canva's Soundscape Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-proper-terminology-what-do-we-call-the-peoples-republic-of-china/"><u>Discover the Proper Terminology: What Do We Call the People's Republic of China?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/hd-skyline-r34-panoramic-backgrounds-and-wraparound-images-high-quality-visual-content-by-yl-computing/"><u>HD Skyline R34 Panoramic Backgrounds & Wraparound Images - High-Quality Visual Content by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-issues-with-non-functional-scanners-strategies-by-yl-software-experts/"><u>Resolving Issues with Non-Functional Scanners: Strategies by YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/setting-up-your-firewall-through-control-panel-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Your Firewall Through Control Panel - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-establishing-your-online-gaming-presence-on-psn/"><u>Simple Steps to Establishing Your Online Gaming Presence on PSN</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-professional-photo-coloring-for-2024/"><u>The Ultimate Guide to Professional Photo Coloring for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-secrets-of-voiced-powerpoint-presentations-for-2024/"><u>Unveiling the Secrets of Voiced PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-masterpiece-in-motion-capture-sonys-x1000-action-gear/"><u>[New] In 2024, Masterpiece in Motion Capture Sony's X1000 Action Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>2024 Approved Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/debunking-the-seven-greatest-myths-in-linux-operating-systems/"><u>Debunking the Seven Greatest Myths in Linux Operating Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-mobile-photographic-quality-accessory-selection-guide/"><u>Elevate Mobile Photographic Quality Accessory Selection Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-computer-speed-and-responsiveness-with-expert-tips-by-yl-software/"><u>Enhancing Computer Speed and Responsiveness with Expert Tips by YL Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-ace-2-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Ace 2 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel P40+</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-restore-an-older-version-of-a-document-in-windows-tips-by-yl-software/"><u>How to Restore an Older Version of a Document in Windows - Tips by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-reasons-behind-malfunctioning-sound-cards-insights-from-yl-computing/"><u>Identifying Reasons Behind Malfunctioning Sound Cards: Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/outdated-or-underestimated-unveiling-the-true-potential-of-netgear-c3000-for-modern-internet-needs/"><u>Outdated or Underestimated? Unveiling the True Potential of Netgear C3000 for Modern Internet Needs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-conclusion-of-the-sino-sino-war-insights-from-yl-systems-analysis/"><u>The Conclusion of the Sino-Sino War: Insights From YL Systems Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-virtual-vanguard-of-humor-your-blueprint-for-metaspace-meme-creation/"><u>The Virtual Vanguard of Humor – Your Blueprint for Metaspace Meme Creation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/updating-your-scanners-drivers-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Scanner's Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yls-guide-to-optimal-image-conversion-tools-revive-your-antique-snapshots-with-ease/"><u>YL's Guide to Optimal Image Conversion Tools: Revive Your Antique Snapshots with Ease!</u></a></li>
 </ul></div>
 

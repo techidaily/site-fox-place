@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2024-12-26T16:09:33.354Z
-updated: 2024-12-29T21:31:39.008Z
+date: 2025-01-03T05:08:34.667Z
+updated: 2025-01-09T04:20:10.128Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,15 +58,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>[New] 2024 Approved Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-audio-quality-in-social-media-recordings-for-2024/"><u>[New] Boosting Audio Quality in Social Media Recordings for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-pastimes-away-from-sports-stadiums-ranked/"><u>[New] Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dive-into-vibrant-visuals-gopro-studio-color-correction/"><u>[Updated] 2024 Approved Dive Into Vibrant Visuals GoPro Studio Color Correction</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-effective-strategies-using-discounted-timers-for-2024/"><u>[Updated] Effective Strategies Using Discounted Timers for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-quick-dj-lessons-with-jay-brannan-on-mixing-techniques-pcdj-hour/"><u>1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour</u></a></li>
-<li><a href="https://fox-place.techidaily.com/handling-gpu-failures-steps-to-take-when-your-system-freezes-during-graphic-intensive-tasks/"><u>Handling GPU Failures: Steps to Take When Your System Freezes During Graphic-Intensive Tasks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-using-a-separate-graphics-processor-enhances-your-dj-setups-for-smoother-music-videos-a-guide-to-pcdj-optimization/"><u>How Using a Separate Graphics Processor Enhances Your DJ Setups for Smoother Music Videos: A Guide to PCDJ Optimization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-strategies-to-add-custom-mods-in-minecraft-top-tips-of-2e24/"><u>Latest Strategies to Add Custom Mods in Minecraft - Top Tips of 2E24!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-software-insights-comprehensive-instructions-for-onboarding-users-into-your-yl-computing-system/"><u>YL Software Insights: Comprehensive Instructions for Onboarding Users Into Your YL Computing System</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-champion-of-cinematography-audio-visual-artistry/"><u>[Updated] In 2024, Champion of Cinematography Audio-Visual Artistry</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[Updated] In 2024, Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
+<li><a href="https://fox-place.techidaily.com/deciphering-history-reasons-behind-the-construction-of-chinas-great-wall-a-deep-dive-with-yl-software/"><u>Deciphering History: Reasons Behind The Construction of China’s Great Wall – A Deep Dive with YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-methods-for-diagnosing-and-fixing-a-malfunctioning-video-card-tips-from-yl-computing/"><u>Effective Methods for Diagnosing and Fixing a Malfunctioning Video Card - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exquisite-hd-backgrounds-innovative-hexagonal-design-patterns-from-yl-softwares-creative-portfolio/"><u>Exquisite HD Backgrounds: Innovative Hexagonal Design Patterns From YL Software's Creative Portfolio</u></a></li>
+<li><a href="https://driver-download.techidaily.com/factors-influencing-creep-include-stress-level-temperature-material-composition-grain-size-and-environmental-conditions/"><u>Factors Influencing Creep Include Stress Level, Temperature, Material Composition, Grain Size, and Environmental Conditions.</u></a></li>
+<li><a href="https://fox-place.techidaily.com/get-your-favorite-karaoke-videos-in-hd-mp4-format-exclusive-offers-and-price-cuts-available-now/"><u>Get Your Favorite Karaoke Videos in HD MP4 Format: Exclusive Offers and Price Cuts Available Now!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-can-improvisation-techniques-enhance-a-djs-set-unveiling-the-connection-in-this-insightful-pcdj-tutorial-video/"><u>How Can Improvisation Techniques Enhance a DJ's Set? Unveiling the Connection in This Insightful PCDJ Tutorial Video</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-narzo-n55-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme Narzo N55 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-the-secrets-to-impactful-patient-storytelling-in-video/"><u>In 2024, Unveiling the Secrets to Impactful Patient Storytelling in Video</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/in-depth-guide-wonderfox-dvd-ripping-software-features/"><u>In-Depth Guide: WonderFox DVD Ripping Software Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nintendo-switch-breakdown-a-cut-above-portable-gaming-experience/"><u>Nintendo Switch Breakdown: A Cut-Above Portable Gaming Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-hardware-failure-tips-from-yl-computing-and-yl-software/"><u>Recognizing Signs of Hardware Failure - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/trouble-with-your-printers-scanner-master-the-troubleshooting-steps-to-get-it-up-and-running/"><u>Trouble with Your Printer's Scanner? Master the Troubleshooting Steps to Get It Up & Running!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-apps-to-turn-videos-into-live-photos-on-iphoneandroid/"><u>Updated Best Apps to Turn Videos Into Live Photos on iPhone/Android</u></a></li>
+<li><a href="https://fox-place.techidaily.com/vintage-american-flag-1920x1080-hd-wallpaper-high-resolution-graphics-by-yl-computing/"><u>Vintage American Flag 1920X1080 HD Wallpaper - High-Resolution Graphics by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2024-12-22T16:28:02.309Z
-updated: 2024-12-29T16:18:30.652Z
+date: 2025-01-01T22:15:15.670Z
+updated: 2025-01-09T03:40:04.627Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,20 +52,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y56-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y56 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/boost-your-pc-speed-with-these-high-ranking-utilities-according-to-yl-software-insights/"><u>Boost Your PC Speed with These High-Ranking Utilities According to YL Software Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-x6-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco X6 Pro?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-i-boost-my-pcs-speed-quickly-and-effortlessly-tips-from-yl-computing/"><u>How Can I Boost My PC's Speed Quickly and Effortlessly? - Tips From YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Civi 3 Disney 100th Anniversary Edition by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/iconic-urban-beats-portraits-premium-photo-library-for-designers-yl-media-collection/"><u>Iconic Urban Beats Portraits: Premium Photo Library for Designers – YL Media Collection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improve-computer-performance-by-regularly-clearing-cache-on-windows-10-devices/"><u>Improve Computer Performance by Regularly Clearing Cache on Windows 10 Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>In 2024, From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/lyrx-version-1602-karaoke-application-new-release-available-now-on-pcdj/"><u>LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-astro-software-maintenance-on-windows/"><u>Navigating Astro Software Maintenance on Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/new-poll-reveals-chancellor-scholzs-alliance-struggles-with-dissatisfaction-only-23-approval-amid-economic-woes-and-inflation-crisis-yl-insights/"><u>New Poll Reveals Chancellor Scholz's Alliance Struggles with Dissatisfaction - Only 23% Approval Amid Economic Woes and Inflation Crisis | YL Insights</u></a></li>
-<li><a href="https://fox-place.techidaily.com/using-digital-coins-a-comprehensive-guide-by-yl-computing-on-transacting-with-cryptocurrency/"><u>Using Digital Coins: A Comprehensive Guide by YL Computing on Transacting with Cryptocurrency</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-software-solutions-navigating-through-sporadic-blue-screen-of-death-errors-with-ease/"><u>YL Software Solutions: Navigating Through Sporadic Blue Screen of Death Errors with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-dissecting-screen-capture-tools-an-in-depth-look-at-apeaksoft/"><u>[Updated] Dissecting Screen Capture Tools An In-Depth Look at Apeaksoft</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-requirement-aspect-ratio/"><u>[Updated] Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-masterful-methods-for-adding-melodies-to-ig-media/"><u>2024 Approved Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-windows-core-data-structure-unveiling-the-intricacies-of-registry-parts-guided-insights-from-yl-software-specialists/"><u>Exploring Window's Core Data Structure: Unveiling the Intricacies of Registry Parts - Guided Insights From YL Software Specialists</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/latest-software-for-hp-officejet-4630-installation/"><u>Latest Software for HP Officejet 4630 Installation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-vlc-media-player-building-custom-playlists-with-m3u-iptv-and-direct-files-for-an-enhanced-viewing-experience/"><u>Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-magic5-ultimate-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-a-display-driver-failure-a-comprehensive-guide-yl-computings-expert-tips/"><u>Resolving a Display Driver Failure: A Comprehensive Guide - YL Computing's Expert Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-temecula-dj-using-pro-dj-featured-dex-3-mixing-software/"><u>Top Temecula DJ Using Pro-DJ Featured DEX 3 Mixing Software</u></a></li>
 </ul></div>
 
