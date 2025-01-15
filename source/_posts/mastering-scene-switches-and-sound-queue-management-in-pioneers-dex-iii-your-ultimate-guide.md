@@ -1,7 +1,7 @@
 ---
 title: Mastering Scene Switches and Sound Queue Management in Pioneer's DEX III - Your Ultimate Guide
-date: 2025-01-08T04:00:50.091Z
-updated: 2025-01-08T18:59:09.089Z
+date: 2025-01-09T18:33:38.741Z
+updated: 2025-01-14T21:15:05.372Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mindful-moments-easy-engrossing-phone-games/"><u>[New] Mindful Moments Easy, Engrossing Phone Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-vlog-gear-list-17-edition/"><u>[New] The Ultimate Vlog Gear List (#17 Edition)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-7-free-video-editing-programs-that-work-flawlessly/"><u>[Updated] 7 Free Video Editing Programs That Work Flawlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ideal-techniques-for-garnering-background-visuals/"><u>[Updated] Ideal Techniques for Garnering Background Visuals</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-trendsetting-boomerangs-explained/"><u>[Updated] SnapChat's Trendsetting Boomerangs Explained</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-complet-pour-synchroniser-dropbox-avec-votre-nas-synology-tapez-les-2-utilitaires-libres-et-gratuites-necessaires/"><u>Guide Complet Pour Synchroniser Dropbox Avec Votre NAS Synology - Tapez Les 2 Utilitaires Libres Et Gratuites Nécessaires</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-to-diagnosing-and-repairing-windows-defender-errors-protect-your-system-with-yl-tech-solutions/"><u>Guide to Diagnosing and Repairing Windows Defender Errors - Protect Your System with YL Tech Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-fix-unrecognized-devices-solutions-from-yl-computings-expert-tech-team/"><u>How to Fix Unrecognized Devices: Solutions From YL Computing's Expert Tech Team</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-monitor-system-resources-top-tools-reviewed-by-yl-software/"><u>How to Monitor System Resources: Top Tools Reviewed by YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-4g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 10 4G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/navigating-your-digital-asset-taxes-with-expert-guidance-by-yl-technology-solutions/"><u>Navigating Your Digital Asset Taxes with Expert Guidance by YL Technology Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-crashes-fixing-hell-let-loose-on-your-computer/"><u>Say Goodbye to Game Crashes – Fixing Hell Let Loose on Your Computer</u></a></li>
-<li><a href="https://fox-place.techidaily.com/securing-your-bitcoin-and-altcoins-expert-tips-from-yl-softwares-crypto-security-guide/"><u>Securing Your Bitcoin and Altcoins: Expert Tips From YL Software's Crypto Security Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simplify-your-crypto-management-multi-bsv-address-balance-tracking-with-yl-software-solutions/"><u>Simplify Your Crypto Management: Multi-BSV Address Balance Tracking with YL Software Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-finding-ideal-surge-protection-devices/"><u>Step-by-Step Tips on Finding Ideal Surge Protection Devices</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-halloween-dj-mixes-and-scary-soundtracks-perfect-playlist-choices-for-your-spooky-party-in-2017/"><u>Top Halloween DJ Mixes & Scary Soundtracks: Perfect Playlist Choices for Your Spooky Party in 2017</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1732518898407-yl/"><u>YL.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>[New] Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-glamour-a-guide-to-video-color-balance/"><u>[New] YouTube Glamour A Guide to Video Color Balance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ignite-dialogue-innovative-questions-in-ig-story-lives-for-2024/"><u>[Updated] Ignite Dialogue Innovative Questions in IG Story Lives for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-formula-field-report-game-reviews/"><u>2024 Approved FORMULA FIELD REPORT Game Reviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-the-25-most-followed-insta-prodigies/"><u>2024 Approved Unveiling the 25 Most-Followed Insta Prodigies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/a-step-by-step-tutorial-for-adding-new-languages-to-a-windows-nx-system-by-yl-software/"><u>A Step-by-Step Tutorial for Adding New Languages to a Windows nX System by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/dealing-with-hard-drive-issues-learn-the-next-steps-with-yl-software-advice/"><u>Dealing with Hard Drive Issues? Learn the Next Steps with YL Software Advice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-nord-ce-3-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Nord CE 3 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tips-top-8-verified-video-marketing-strategies/"><u>In 2024, Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-your-graphics-cards-black-screen-issue-a-step-by-step-guide-yl-computing/"><u>Resolving Your Graphics Card's Black Screen Issue: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/restoring-your-pcs-network-connection-a-step-by-step-guide-to-rebooting-windows-drivers-expert-tips-from-yl-computing/"><u>Restoring Your PC's Network Connection: A Step-by-Step Guide to Rebooting Windows Drivers - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-wireless-connectivity-issues-a-step-by-step-guide-powered-by-yl-computing/"><u>Solving Wireless Connectivity Issues: A Step-by-Step Guide - Powered by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-tailoring-your-pcs-protection-with-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Tailoring Your PC's Protection with Windows Control Panel - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2025-01-07T04:16:26.926Z
-updated: 2025-01-09T00:45:34.422Z
+date: 2025-01-13T18:27:25.390Z
+updated: 2025-01-14T16:59:03.610Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,20 +45,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] 2024 Approved How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-best-gif-maker-applications-for-creative-freedom/"><u>2024 Approved The Best GIF Maker Applications for Creative Freedom</u></a></li>
-<li><a href="https://fox-place.techidaily.com/compact-and-portable-dj-controllers-optimized-for-dex-3-with-pioneer-cdj-integration/"><u>Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciding-on-smart-sound-heres-how-google-nest-audio-stacks-up-againse-mini/"><u>Deciding on Smart Sound? Here’s How Google Nest Audio Stacks Up Againse Mini</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ensuring-persistent-network-setup-with-yl-software-solutions/"><u>Ensuring Persistent Network Setup with YL Software Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 7 Plus Safe and Legal</u></a></li>
-<li><a href="https://fox-place.techidaily.com/pcdjs-latest-release-dj-software-dex-31010-free-public-beta-downloads-now/"><u>PCDJ's Latest Release: DJ Software DEX 3.10.1.0 - Free Public Beta Downloads Now!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-tailoring-your-pcs-protection-with-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Tailoring Your PC's Protection with Windows Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-superior-video-editors-we-reveal-the-best-5-picks/"><u>The Ultimate Guide to Selecting Superior Video Editors: We Reveal the Best 5 Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-choice-in-livestreaming-tech-discover-how-manycam-enhances-your-online-presence-with-virtual-cam-capabilities/"><u>Top Choice in Livestreaming Tech: Discover How ManyCam Enhances Your Online Presence with Virtual Cam Capabilities</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-events-of-the-boxer-rebellion-a-detailed-overview-by-yl-computing/"><u>Unveiling the Events of the Boxer Rebellion: A Detailed Overview - By YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-guide-maximizing-your-experience-with-google-maps-on-iphones/"><u>User Guide: Maximizing Your Experience with Google Maps on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wise-sagacious/"><u>Wise - Sagacious</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-softwares-ultimate-tutorial-on-moving-data-across-hard-drives/"><u>YL Software's Ultimate Tutorial on Moving Data Across Hard Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-vlc-use-manual-for-mac-users/"><u>[New] Comprehensive VLC Use Manual for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-lens-clarity-not-cloudiness-anti-fog-tips-for-gopro/"><u>[New] Lens Clarity, Not Cloudiness Anti-Fog Tips for GoPro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-temporal-twist-learn-how-to-turn-back-time/"><u>[Updated] Instagram's Temporal Twist Learn How to Turn Back Time</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/creating-dynamic-income-streams-adding-interactive-flash-ads-to-ebooks-using-flipbuilders-features/"><u>Creating Dynamic Income Streams: Adding Interactive Flash Ads to eBooks Using FlipBuilder's Features</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-templates-toolbar-position-on-the-top-with-flipbooks-floating-design-techniques/"><u>Customizing Your Template's Toolbar Position on the Top with FlipBook's Floating Design Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-innovative-ways-to-transform-e-books-using-flipbuilders-unique-features-flipbuildercom/"><u>Discover Innovative Ways to Transform E-Books Using FlipBuilder's Unique Features [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-steps-to-customize-shadows-on-pages-using-flipbuilder-protip/"><u>Easy Steps to Customize Shadows on Pages Using FlipBuilder ProTip</u></a></li>
+<li><a href="https://fox-place.techidaily.com/edit-your-pdfs-with-zero-cost-the-ultimate-guide-to-a-100-free-online-pdf-editor-for-simple-creation-and-modification/"><u>Edit Your PDFs with Zero Cost: The Ultimate Guide to a 100% FREE Online PDF Editor for Simple Creation & Modification</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-techniques-for-enhancing-flipbook-layouts-without-hiding-content-discover-tips-at-flipbuildercom/"><u>Effective Techniques for Enhancing Flipbook Layouts Without Hiding Content - Discover Tips at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-pdf-page-turning-with-bookmark-creation-discover-flipbuilders-guide/"><u>Effortless PDF Page-Turning with Bookmark Creation - Discover FlipBuilder's Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-spark-10-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Spark 10 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-100-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor 100 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>In 2024, The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-k70e-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi K70E Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-hyper-review-a-strong-mid-range-phone-that-really-pops/"><u>Motorola One Hyper Review: A Strong Mid-Range Phone That Really Pops</u></a></li>
 </ul></div>
 

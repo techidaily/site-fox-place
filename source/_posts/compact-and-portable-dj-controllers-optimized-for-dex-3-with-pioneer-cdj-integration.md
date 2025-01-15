@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2025-01-05T05:54:23.502Z
-updated: 2025-01-09T02:41:35.019Z
+date: 2025-01-09T18:55:00.941Z
+updated: 2025-01-14T18:46:55.322Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
 
 1) **Hercules DJControl Starlight**
@@ -42,7 +38,7 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
@@ -53,7 +49,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -64,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -74,12 +70,16 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,14 +101,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-groundbreaking-screenplays-in-8-movie-categories/"><u>[Updated] 2024 Approved Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-visual-harmony-in-digital-photos/"><u>2024 Approved Audio-Visual Harmony in Digital Photos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/choosing-trustworthy-crypto-exchanges-insights-from-yl-computing-and-yl-software-experts/"><u>Choosing Trustworthy Crypto Exchanges: Insights From YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>In 2024, Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-legacy-of-the-great-leap-forward-analyzing-its-long-term-effects-on-chinas-financial-landscape-a-yl-software-perspective/"><u>The Legacy of the Great Leap Forward: Analyzing Its Long-Term Effects on China’s Financial Landscape – A YL Software Perspective</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-ensuring-flawless-installation-of-wacom-intuos-drivers-on-your-pc-with-windows-operating-system-no-hassles-just-results/"><u>Troubleshooting Guide: Ensuring Flawless Installation of Wacom Intuos Drivers on Your PC with Windows Operating System - [No Hassles, Just Results]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/virtual-assisted-therapy-innovations-for-2024/"><u>Virtual Assisted Therapy Innovations for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/what-are-the-pricing-features-of-blockchain-address-balance-verification-tools-insights-from-yl-softwares-experience/"><u>What Are the Pricing Features of Blockchain Address Balance Verification Tools? Insights From YL Software's Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-software-solutions-for-driver-updates-made-easy/"><u>YL Software Solutions for Driver Updates Made Easy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>[New] 2024 Approved Quick Tips Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[New] In 2024, Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-banishing-glue-grips-vids-on-a-clear-track-at-tiktok/"><u>2024 Approved Banishing Glue Grips Vids on a Clear Track at TikTok</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 Pro 4G without App | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/can-young-investors-trust-the-stability-of-budget-friendly-golden-asset-accumulation-insights-by-yl-tech/"><u>Can Young Investors Trust the Stability of Budget-Friendly Golden Asset Accumulation - Insights by YL Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-drivers-for-a-usb-serial-communication-interface/"><u>How To Refresh The Drivers For A USB Serial Communication Interface</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-perfect-blend-combining-6-effective-video-genres/"><u>In 2024, The Perfect Blend Combining 6 Effective Video Genres</u></a></li>
+<li><a href="https://fox-place.techidaily.com/installing-your-graphics-card-made-easy-with-yls-expert-tutorial/"><u>Installing Your Graphics Card Made Easy with YL's Expert Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-supplementary-video-for-enhanced-storytelling-for-2024/"><u>Mastering Supplementary Video for Enhanced Storytelling for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-system-performance-a-users-manual-to-customize-windows-virtual-memory-settings-using-yl-tech-tools/"><u>Optimizing System Performance: A User's Manual to Customize Windows Virtual Memory Settings Using YL Tech Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/premium-honda-civic-type-r-backgrounds-and-wraps-by-yl-computing-yls-digital-solutions/"><u>Premium Honda Civic Type R Backgrounds & Wraps by YL Computing - YL's Digital Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ranked-list-of-pristine-cost-free-websites-for-designers-delight-for-2024/"><u>Ranked List of Pristine, Cost-Free Websites for Designers' Delight for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-battery-failure-in-your-laptop-with-tips-by-yl-technologies/"><u>Recognizing Signs of Battery Failure in Your Laptop with Tips by YL Technologies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-accessing-windows-registry-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows Registry - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-quality-fortnite-hd-backgrounds-and-banners-for-pc-curated-by-yl-software/"><u>Top Quality Fortnite HD Backgrounds & Banners for PC - Curated by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-static-from-your-audio-hardware-tips-and-solutions-for-sound-cards/"><u>Troubleshooting Static From Your Audio Hardware: Tips & Solutions for Sound Cards</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-computings-high-definition-goodies-folder-graphics-the-ultimate-icon-collection/"><u>YL Computing's High-Definition Goodies Folder Graphics: The Ultimate Icon Collection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2025-01-04T00:40:58.644Z
-updated: 2025-01-09T01:25:23.544Z
+date: 2025-01-14T00:21:17.923Z
+updated: 2025-01-14T20:30:06.989Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,21 +78,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unparalleled-tech-for-capturing-live-screens-and-videos/"><u>[New] 2024 Approved Unparalleled Tech for Capturing Live Screens & Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-securing-memories-how-to-obtain-facebooks-live-videos-for-2024/"><u>[Updated] Securing Memories How to Obtain Facebook's Live Videos for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-how-to-restore-lost-data-on-windows-using-external-applications-tips-by-yl-computing/"><u>1. How to Restore Lost Data on Windows Using External Applications - Tips by YL Computing</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1-streamline-your-editing-effective-techniques-to-split-audio-from-video-on-a-windows-computer/"><u>1. Streamline Your Editing: Effective Techniques to Split Audio From Video on a Windows Computer</u></a></li>
-<li><a href="https://fox-place.techidaily.com/disabling-boot-up-software-on-your-pc-using-windows-system-configuration-expert-advice-by-yl-software-solutions/"><u>Disabling Boot-Up Software on Your PC Using Windows System Configuration - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-c53-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme C53 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-apple-watch-series-9-a-comprehensive-review/"><u>In-Depth Analysis of the Apple Watch Series 9: A Comprehensive Review</u></a></li>
-<li><a href="https://fox-place.techidaily.com/maximize-your-pcs-efficiency-with-our-expert-strategies-for-removing-unwanted-files-insights-from-yl-software-specialists/"><u>Maximize Your PC's Efficiency with Our Expert Strategies for Removing Unwanted Files – Insights From YL Software Specialists</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-renaming-files-and-folders-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Renaming Files & Folders on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-starter-kit-for-novice-digital-turntablists-expertly-curated-pcdj-tools-and-accessories/"><u>Step-by-Step Starter Kit for Novice Digital Turntablists: Expertly Curated PCDJ Tools & Accessories</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-effectively-modifying-screen-dimensions-guidance-from-yl-software-expertise/"><u>Top Strategies for Effectively Modifying Screen Dimensions - Guidance From YL Software Expertise</u></a></li>
-<li><a href="https://fox-place.techidaily.com/troubleshooting-your-scanner-woes-with-expert-tips-from-yl-computing/"><u>Troubleshooting Your Scanner Woes with Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-find-your-comments-on-youtube/"><u>2024 Approved How to Find Your Comments on YouTube?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728509481527-windows-10-os/"><u>工場出荷条件で Windows 10 OSを初期化するためのガイド</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-aller-de-lavant-avec-un-pc-en-utilisant-le-deuxieme-disque-dur/"><u>Comment Aller De L'avant Avec Un PC en Utilisant Le Deuxième Disque Dur</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-missing-photos-on-your-sd-card-camera-step-by-step-recovery-guide/"><u>Resolving Missing Photos on Your SD Card Camera - Step-by-Step Recovery Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-f5-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco F5 Pro 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unreachable-settings-issue-with-nvidia-experience/"><u>Troubleshooting Unreachable Settings Issue with NVIDIA Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unearthing-lost-data-a-step-by-step-guide-to-restore-non-recycle-bin-deleted-files-on-windows-10/"><u>Unearthing Lost Data: A Step-by-Step Guide to Restore Non-Recycle Bin Deleted Files on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-ultimate-walkthrough-of-the-lenovo-9-tablet-nook-edition/"><u>Your Ultimate Walkthrough of the Lenovo 9 Tablet (Nook Edition)</u></a></li>
 </ul></div>
 

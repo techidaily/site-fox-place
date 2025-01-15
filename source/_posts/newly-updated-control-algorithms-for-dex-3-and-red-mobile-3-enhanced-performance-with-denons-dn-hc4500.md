@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2025-01-01T22:15:15.670Z
-updated: 2025-01-09T03:40:04.627Z
+date: 2025-01-08T18:09:08.458Z
+updated: 2025-01-14T16:12:30.684Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,18 +52,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-dissecting-screen-capture-tools-an-in-depth-look-at-apeaksoft/"><u>[Updated] Dissecting Screen Capture Tools An In-Depth Look at Apeaksoft</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-requirement-aspect-ratio/"><u>[Updated] Twitter Video Requirement - Aspect Ratio</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-masterful-methods-for-adding-melodies-to-ig-media/"><u>2024 Approved Masterful Methods for Adding Melodies to IG Media</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-windows-core-data-structure-unveiling-the-intricacies-of-registry-parts-guided-insights-from-yl-software-specialists/"><u>Exploring Window's Core Data Structure: Unveiling the Intricacies of Registry Parts - Guided Insights From YL Software Specialists</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/latest-software-for-hp-officejet-4630-installation/"><u>Latest Software for HP Officejet 4630 Installation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-vlc-media-player-building-custom-playlists-with-m3u-iptv-and-direct-files-for-an-enhanced-viewing-experience/"><u>Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-magic5-ultimate-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-a-display-driver-failure-a-comprehensive-guide-yl-computings-expert-tips/"><u>Resolving a Display Driver Failure: A Comprehensive Guide - YL Computing's Expert Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-temecula-dj-using-pro-dj-featured-dex-3-mixing-software/"><u>Top Temecula DJ Using Pro-DJ Featured DEX 3 Mixing Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-chuckletunes-directory-select-funny-ringtone-sources/"><u>[New] ChuckleTunes Directory Select Funny Ringtone Sources</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-strategies-to-continue-live-video-on-facebook/"><u>[New] Strategies to Continue Live Video on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-insta-metrics-comprehensive-ig-data-analysis/"><u>[Updated] 2024 Approved Mastering Insta Metrics Comprehensive IG Data Analysis</u></a></li>
+<li><a href="https://fox-place.techidaily.com/accelerate-your-computers-speed-with-proven-strategies-by-yl-software/"><u>Accelerate Your Computer’s Speed with Proven Strategies by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/audio-troubleshooting-for-your-computer-expert-advice-from-yl-software/"><u>Audio Troubleshooting for Your Computer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-lockout-understanding-the-top-4-triggers-and-easy-resolution-steps/"><u>ChatGPT Lockout: Understanding the Top 4 Triggers & Easy Resolution Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-language-barriers-6-best-online-korean-resources/"><u>Conquer Language Barriers: 6 Best Online Korean Resources</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/experience-a-thousand-lifetimes-at-maximum-strength-with-yl-softwares-slaying-adventures/"><u>Experience a Thousand Lifetimes at Maximum Strength with YL Software's Slaying Adventures!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-fix-an-undetected-network-interface-with-guidance-from-yl-software-experts/"><u>How to Fix an Undetected Network Interface with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-disk-management-could-not-start-virtual-disk-service-error/"><u>How to Fix the Windows “Disk Management Could Not Start Virtual Disk Service” Error</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-retrieve-information-from-a-formatted-disk-expert-guide-by-yl-computing/"><u>How to Retrieve Information From a Formatted Disk: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/is-a-hardware-refresh-the-key-to-boosting-your-computers-speed-advice-by-experts-at-yl-software/"><u>Is a Hardware Refresh the Key to Boosting Your Computer’s Speed? Advice by Experts at YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximize-your-singing-experience-discover-the-benefits-of-a-karaoke-cloud-pro-membership/"><u>Maximize Your Singing Experience: Discover the Benefits of a Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/palette-playbook-the-filmmakers-guide-to-grading/"><u>Palette Playbook The Filmmaker's Guide to Grading</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-to-avoid-memory-issues-on-your-windows-pc-tips-from-yl-computing/"><u>Top Strategies to Avoid Memory Issues on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-releases-enhanced-13-and-15-macbook-air-powered-by-m3-chip-key-updates-explored-techzone/"><u>Unveiling the Latest: Apple Releases Enhanced 13 & 15 MacBook Air Powered by M3 Chip - Key Updates Explored | TechZone</u></a></li>
 </ul></div>
 
