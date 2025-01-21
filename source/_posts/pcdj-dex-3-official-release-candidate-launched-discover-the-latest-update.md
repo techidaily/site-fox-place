@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Dex 3: Official Release Candidate Launched – Discover the Latest Update"
-date: 2025-01-13T22:57:32.866Z
-updated: 2025-01-15T00:02:55.199Z
+date: 2025-01-15T23:27:34.277Z
+updated: 2025-01-20T19:21:02.965Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Yes, the excitement is almost palpable here at PCDJ HQ…
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 **DEX 3** release candidate 6 is now available for public download below, and the expectation is for it to be the last candidate version before the official public release. That means what’s currently included in **DEX 3** should[![dex3onmac](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?resize=505%2C311&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?ssl=1) be bug-free, and gig-ready. Providing our public concurs, what’s next for **DEX 3** beyond the first public launch is 3.1 (_and a myriad of other planned free updates throughout this year_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can find the previous release candidate version of **DEX 3** [HERE](https://tools.techidaily.com/pcdj/products/), and read up on much of what’s new-and-improved in **PCDJ DEX 3**, our [best DJ mixing software](https://tools.techidaily.com/pcdj/products/) solution allowing you to _#MixEverything_
@@ -43,13 +43,13 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 [![os-windows-xxl](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?resize=65%2C65&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?ssl=1)**[DOWNLOAD DEX 3 FOR WINDOWS](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Operating-Sysytems-Mac-os-icon](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?resize=65%2C65&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?ssl=1)**[DOWNLOAD DEX 3 FOR MAC](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### If you find any issues, feel free to join our user forums and post a report [HERE](https://tools.techidaily.com/pcdj/products/)
@@ -57,7 +57,7 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 **INTRODUCTION TO DEX 3 TUTORIAL VIDEO:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3pre-releasecoverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-beginner-to-pro-the-ultimate-guide-to-slow-motion-on-tiktok-for-2024/"><u>[New] From Beginner to Pro The Ultimate Guide to Slow Motion on TikTok for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-5-psone-emulators-perfect-play-on-your-pc-for-2024/"><u>[Updated] Top 5 PsOne Emulators Perfect Play on Your PC for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/windows-111087xxx/"><u>無料で使えるWindows 11/10/8/7向け優秀なXXXコピープログラム【代理サービス】</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-top-chatbots-is-it-gpt-plus-or-perplexity-that-reigns-supreme/"><u>Comparing Top Chatbots: Is It GPT-Plus or Perplexity That Reigns Supreme?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-steps-for-shifting-pictures-from-your-ipad-to-a-portable-hard-disk/"><u>Easy Steps for Shifting Pictures From Your iPad to a Portable Hard Disk</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-mastering-safe-lists-on-your-gmail-account/"><u>Guide: Mastering Safe Lists on Your Gmail Account</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-smart-8-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Smart 8 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-block-spontaneous-youtube-video-triggers/"><u>In 2024, Block Spontaneous YouTube Video Triggers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-8-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 8</u></a></li>
-<li><a href="https://fox-place.techidaily.com/les-5-meilleures-methodes-pour-nettoyer-lespace-disponible-sous-windows-10/"><u>Les 5 Meilleures Méthodes Pour Nettoyer L'Espace Disponible Sous Windows 10</u></a></li>
-<li><a href="https://fox-place.techidaily.com/passaggi-per-replicare-la-partizione-principale-su-windows-server-tutorial-dettagliato/"><u>Passaggi per Replicare La Partizione Principale Su Windows Server - Tutorial Dettagliato</u></a></li>
-<li><a href="https://fox-place.techidaily.com/protegez-votre-serveur-windows-en-les-transferant-vers-onedrive-trois-solutions-simples-devoilees/"><u>Protégez Votre Serveur Windows en Les Transférant Vers OneDrive : Trois Solutions Simples Dévoilées !</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-tutorial-seamlessly-replacing-your-hdd-with-an-ssd-while-keeping-windows-11-10-8-or-(b)7-installed/"><u>Step-by-Step Tutorial: Seamlessly Replacing Your HDD with an SSD While Keeping Windows 11, 10, 8 or <B>7 Installed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>[New] 2024 Approved Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered-for-2024/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-professional-audio-techniques-in-audacity-for-2024/"><u>[New] Professional Audio Techniques in Audacity for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>[Updated] 2024 Approved Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalized-organization-at-your-fingertips-mematic/"><u>2024 Approved Personalized Organization at Your Fingertips - Mematic</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728509144870-windows-11113/"><u>如何在保存所有数据的同时进行Windows 11/11系统复装：专家提供的3个策略</u></a></li>
+<li><a href="https://fox-place.techidaily.com/clonezilla-alerts-overcoming-the-issue-of-insufficient-target-disk-size/"><u>Clonezilla Alerts - Overcoming the Issue of Insufficient Target Disk Size</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-migrer-mbr-dun-disque-vers-une-cle-usb-ou-ssd-via-demarrage-protege-dans-les-systemes-dexploitation-windows/"><u>Comment Migrer MBR D'un Disque Vers Une Clé USB Ou SSD via Démarrage Protégé Dans Les Systèmes D'exploitation Windows</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-resoudre-lerreur-de-restauration-systeme-code-derreur-0x80070002-sur-windows-11-et-7/"><u>Comment Résoudre L'erreur De Restauration Système 'Code D’erreur 0X80070002' Sur Windows 11 Et 7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/direct-transfer-methods-from-one-iphone-to-another-bypassing-itunes/"><u>Direct Transfer Methods From One iPhone to Another, Bypassing iTunes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-steps-for-managing-and-transferring-files-on-your-mac-computer/"><u>Easy Steps for Managing and Transferring Files on Your Mac Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-11-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-tips-on-restoring-lost-information-from-defective-memory-cards/"><u>Expert Tips on Restoring Lost Information From Defective Memory Cards</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-magix-pixel-mastery-review-for-2024/"><u>Exploring MAGIX Pixel Mastery Review for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-13-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 13 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-c55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme C55 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-15-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 15 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/methoden-zur-rekonstruktion-geloschter-dateien-nach-zeitstempel-schritt-fur-schritt-anleitung/"><u>Methoden Zur Rekonstruktion Gelöschter Dateien Nach Zeitstempel – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-place.techidaily.com/seamless-image-recovery-for-iphone-13-and-14-effortlessly-retrieve-permanently-erased-pictures/"><u>Seamless Image Recovery for iPhone 13 & 14: Effortlessly Retrieve Permanently Erased Pictures</u></a></li>
 </ul></div>
 

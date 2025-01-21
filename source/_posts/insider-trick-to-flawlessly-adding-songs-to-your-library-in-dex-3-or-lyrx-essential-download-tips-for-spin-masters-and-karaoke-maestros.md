@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2025-01-12T20:09:03.873Z
-updated: 2025-01-14T21:42:40.141Z
+date: 2025-01-20T01:29:05.606Z
+updated: 2025-01-21T02:34:22.045Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
@@ -37,7 +37,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -49,7 +49,7 @@ Now, let’s tweak Chrome to make your life easier:
 * Find the “Downloads” section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Direct and Download
@@ -60,7 +60,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-turn-daily-life-into-a-comedy-meme/"><u>[Updated] 2024 Approved Turn Daily Life Into a Comedy Meme</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-gimbal-guide-industrys-favorites-for-2024/"><u>[Updated] Gimbal Guide Industry's Favorites for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[Updated] Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-power-of-words-crafting-impactful-documentary-narratives/"><u>2024 Approved Unleash the Power of Words Crafting Impactful Documentary Narratives</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/aomei-techwizard-le-meilleur-suite-de-sauvegarde-et-dassistance-pour-les-appareils-du-monde-entier-recuperation-clonage-and-securite-des-donnees/"><u>AOMEI TechWizard : Le Meilleur Suite De Sauvegarde Et D'Assistance Pour Les Appareils Du Monde Entier - Récupération, Clonage & Sécurité Des Données</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-gratuite-de-fichier-jpeg-vers-tiff-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichier JPEG Vers TIFF Sur Internet – Avec Movavi</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-faster-nvidia-video-conversion-for-quick-editing-needs/"><u>Get Faster Nvidia Video Conversion for Quick Editing Needs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-i-check-my-gpu-for-possible-physical-damage-or-failures-techguide-by-xyz-corp/"><u>How Can I Check My GPU for Possible Physical Damage or Failures? - TechGuide by XYZ Corp</u></a></li>
-<li><a href="https://fox-place.techidaily.com/in-depth-review-on-professional-dj-audio-equipment-the-american-crafted-pioneers-etr-1/"><u>In-Depth Review on Professional DJ Audio Equipment: The American Crafted Pioneer's ETR-1</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/leveraging-youtubes-profit-potential-the-500-subscribers-gateway/"><u>Leveraging YouTube's Profit Potential The 500 Subscribers Gateway</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/pc3/"><u>PCゲームを楽しむ上で必要不可欠な！セーブデータの安全対策：トップ3バックアップ法</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-chinese-cultural-revolution-explained-historical-significance-and-effects-a-study-from-yl-software/"><u>The Chinese Cultural Revolution Explained: Historical Significance and Effects - A Study From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-conclusion-of-the-sino-sino-war-insights-from-yl-systems-analysis/"><u>The Conclusion of the Sino-Sino War: Insights From YL Systems Analysis</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unlocking-system-secrets-navigating-to-your-computers-hardware-details-in-the-windows-control-panel-expert-insights-from-bytewise-computing-solutions/"><u>Unlocking System Secrets: Navigating to Your Computer’s Hardware Details in the Windows Control Panel - Expert Insights From ByteWise Computing Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/unveiling-the-latest-enhancements-in-pcdjs-dex-35-release/"><u>Unveiling the Latest Enhancements in PCDJ's DEX 3.5 Release</u></a></li>
-<li><a href="https://fox-place.techidaily.com/us-shoppers-secure-your-dex-3-and-grab-200-music-videos-at-no-cost-before-sales-out/"><u>US Shoppers: Secure Your DEX 3 & Grab 200 Music Videos at No Cost Before Sale's Out!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essentials-of-youtube-mastery-free-online-course-series/"><u>[New] 2024 Approved Essentials of YouTube Mastery Free Online Course Series</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[New] Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-chromes-favorite-video-clippers-from-facebook-for-2024/"><u>[New] Chromes' Favorite Video Clippers From Facebook for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-block-someone-on-instagram-for-2024/"><u>[Updated] How to Block Someone on Instagram for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/hd-skyline-r34-panoramic-backgrounds-and-wraparound-images-high-quality-visual-content-by-yl-computing/"><u>HD Skyline R34 Panoramic Backgrounds & Wraparound Images - High-Quality Visual Content by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-boost-your-network-adapters-data-transfer-rates-expert-tips-from-yl-computing/"><u>How to Boost Your Network Adapter's Data Transfer Rates - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximizing-your-machine-expert-tips-for-clearing-up-space-by-yl-computing/"><u>Maximizing Your Machine: Expert Tips for Clearing Up Space by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-tutorial-converting-dvf-tracks-into-mp3s-in-3-easy-methods/"><u>Quick Tutorial: Converting DVF Tracks Into MP3s in 3 Easy Methods</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-c210-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(C210)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-issues-with-non-functional-scanners-strategies-by-yl-software-experts/"><u>Resolving Issues with Non-Functional Scanners: Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-demise-of-the-qin-dynasty-explored-identifying-key-figures-guided-by-yl-computing-and-software/"><u>The Demise of the Qin Dynasty Explored: Identifying Key Figures - Guided by YL Computing & Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-unresponsive-scanner-problems-expert-advice-by-yl-computings-tech-specialists/"><u>Troubleshooting Unresponsive Scanner Problems: Expert Advice by YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-tell-if-the-xbox-live-service-is-down-or-if-your-console-has-connectivity-issues/"><u>Troubleshooting: How to Tell if the Xbox Live Service Is Down or If Your Console Has Connectivity Issues?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/uncover-the-reasons-behind-your-devices-unexpected-restarts-expert-analysis-by-yl-computing/"><u>Uncover the Reasons Behind Your Device's Unexpected Restarts - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-potential-for-terawatts-a-new-era-in-geothermal-technology-zdnet/"><u>Unlocking the Potential for Terawatts: A New Era in Geothermal Technology | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-pc-with-free-gb-motherboard-and-driver-software-for-windows/"><u>Upgrade PC with Free GB Motherboard & Driver Software for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2025-01-08T18:09:08.458Z
-updated: 2025-01-14T16:12:30.684Z
+date: 2025-01-13T23:20:44.371Z
+updated: 2025-01-20T23:26:22.527Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,22 +52,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-chuckletunes-directory-select-funny-ringtone-sources/"><u>[New] ChuckleTunes Directory Select Funny Ringtone Sources</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-strategies-to-continue-live-video-on-facebook/"><u>[New] Strategies to Continue Live Video on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-insta-metrics-comprehensive-ig-data-analysis/"><u>[Updated] 2024 Approved Mastering Insta Metrics Comprehensive IG Data Analysis</u></a></li>
-<li><a href="https://fox-place.techidaily.com/accelerate-your-computers-speed-with-proven-strategies-by-yl-software/"><u>Accelerate Your Computer’s Speed with Proven Strategies by YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/audio-troubleshooting-for-your-computer-expert-advice-from-yl-software/"><u>Audio Troubleshooting for Your Computer - Expert Advice From YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-lockout-understanding-the-top-4-triggers-and-easy-resolution-steps/"><u>ChatGPT Lockout: Understanding the Top 4 Triggers & Easy Resolution Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-language-barriers-6-best-online-korean-resources/"><u>Conquer Language Barriers: 6 Best Online Korean Resources</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/experience-a-thousand-lifetimes-at-maximum-strength-with-yl-softwares-slaying-adventures/"><u>Experience a Thousand Lifetimes at Maximum Strength with YL Software's Slaying Adventures!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-fix-an-undetected-network-interface-with-guidance-from-yl-software-experts/"><u>How to Fix an Undetected Network Interface with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-disk-management-could-not-start-virtual-disk-service-error/"><u>How to Fix the Windows “Disk Management Could Not Start Virtual Disk Service” Error</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-retrieve-information-from-a-formatted-disk-expert-guide-by-yl-computing/"><u>How to Retrieve Information From a Formatted Disk: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/is-a-hardware-refresh-the-key-to-boosting-your-computers-speed-advice-by-experts-at-yl-software/"><u>Is a Hardware Refresh the Key to Boosting Your Computer’s Speed? Advice by Experts at YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/maximize-your-singing-experience-discover-the-benefits-of-a-karaoke-cloud-pro-membership/"><u>Maximize Your Singing Experience: Discover the Benefits of a Karaoke Cloud Pro Membership</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/palette-playbook-the-filmmakers-guide-to-grading/"><u>Palette Playbook The Filmmaker's Guide to Grading</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-to-avoid-memory-issues-on-your-windows-pc-tips-from-yl-computing/"><u>Top Strategies to Avoid Memory Issues on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-releases-enhanced-13-and-15-macbook-air-powered-by-m3-chip-key-updates-explored-techzone/"><u>Unveiling the Latest: Apple Releases Enhanced 13 & 15 MacBook Air Powered by M3 Chip - Key Updates Explored | TechZone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>[New] A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-secrets-to-perfectly-screen-capturing-instagram-content-for-2024/"><u>[New] Secrets to Perfectly Screen Capturing Instagram Content for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mobile-sound-library-explore-the-best-free-downloader-apps-for-youtube/"><u>[Updated] 2024 Approved Mobile Sound Library Explore the Best Free Downloader Apps for YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video-for-2024/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fixing-a-failed-hard-disk-on-your-dell-computer-effective-strategies-and-repair-techniques/"><u>Fixing a Failed Hard Disk on Your Dell Computer: Effective Strategies and Repair Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-critical-choices-for-perfect-snaps/"><u>In 2024, Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/losungen-fur-die-probleme-mit-der-amazon-drive-synchronisation-funktionsstorung-beheben/"><u>Lösungen Für Die Probleme Mit Der Amazon-Drive-Synchronisation – Funktionsstörung Beheben</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mudah-memperluaskan-kapasitas-ssd-dengan-perangkat-windows-11-tutorial-yang-dapat-diboot/"><u>Mudah Memperluaskan Kapasitas SSD Dengan Perangkat Windows 11: Tutorial Yang Dapat Diboot</u></a></li>
+<li><a href="https://fox-place.techidaily.com/problem-solved-comprehensive-guide/"><u>Problem Solved: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/restoring-accidentally-erased-content-a-step-by-step-guide-for-windows-xpvista7-users/"><u>Restoring Accidentally Erased Content: A Step-by-Step Guide for Windows XP/Vista/7 Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/syncing-melodies-with-video-in-premiere-pro/"><u>Syncing Melodies with Video in Premiere Pro</u></a></li>
 </ul></div>
 

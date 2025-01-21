@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2025-01-09T18:55:00.941Z
-updated: 2025-01-14T18:46:55.322Z
+date: 2025-01-17T01:25:35.411Z
+updated: 2025-01-20T16:20:37.319Z
 tags:
   - product
 categories:
@@ -28,6 +28,10 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
 
 1) **Hercules DJControl Starlight**
@@ -38,7 +42,7 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
@@ -49,7 +53,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -59,10 +63,6 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
   
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) **Numark Party Mix**
 
 The professional DJ features that come with the Numark Party Mix include four cue points with readily accessible pads for effects. DJs can toggle through the Pad Mode and find auto loop functions and create loops on 8, 4, 2 and 1-bar phrases. Add instant effects to tracks and toggle to sampler mode for to control DEX 3’s sampler (only available on DEX 3 Pro, not included with DEX 3 RE). Control your EQ with treble, bass, channel gain and master gain. The Party Mix includes a built-in 2 channel audio interface which means you have all the connections you need to send your mix of music to the speakers, while using your headphones to preview the next track. **Retail: $99.99**
@@ -71,7 +71,7 @@ The professional DJ features that come with the Numark Party Mix include four cu
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -79,7 +79,7 @@ The professional DJ features that come with the Numark Party Mix include four cu
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,24 +101,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>[New] 2024 Approved Quick Tips Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[New] In 2024, Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-banishing-glue-grips-vids-on-a-clear-track-at-tiktok/"><u>2024 Approved Banishing Glue Grips Vids on a Clear Track at TikTok</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 Pro 4G without App | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/can-young-investors-trust-the-stability-of-budget-friendly-golden-asset-accumulation-insights-by-yl-tech/"><u>Can Young Investors Trust the Stability of Budget-Friendly Golden Asset Accumulation - Insights by YL Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-drivers-for-a-usb-serial-communication-interface/"><u>How To Refresh The Drivers For A USB Serial Communication Interface</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-perfect-blend-combining-6-effective-video-genres/"><u>In 2024, The Perfect Blend Combining 6 Effective Video Genres</u></a></li>
-<li><a href="https://fox-place.techidaily.com/installing-your-graphics-card-made-easy-with-yls-expert-tutorial/"><u>Installing Your Graphics Card Made Easy with YL's Expert Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-supplementary-video-for-enhanced-storytelling-for-2024/"><u>Mastering Supplementary Video for Enhanced Storytelling for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/optimizing-system-performance-a-users-manual-to-customize-windows-virtual-memory-settings-using-yl-tech-tools/"><u>Optimizing System Performance: A User's Manual to Customize Windows Virtual Memory Settings Using YL Tech Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/premium-honda-civic-type-r-backgrounds-and-wraps-by-yl-computing-yls-digital-solutions/"><u>Premium Honda Civic Type R Backgrounds & Wraps by YL Computing - YL's Digital Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ranked-list-of-pristine-cost-free-websites-for-designers-delight-for-2024/"><u>Ranked List of Pristine, Cost-Free Websites for Designers' Delight for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-battery-failure-in-your-laptop-with-tips-by-yl-technologies/"><u>Recognizing Signs of Battery Failure in Your Laptop with Tips by YL Technologies</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-accessing-windows-registry-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows Registry - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-quality-fortnite-hd-backgrounds-and-banners-for-pc-curated-by-yl-software/"><u>Top Quality Fortnite HD Backgrounds & Banners for PC - Curated by YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/troubleshooting-static-from-your-audio-hardware-tips-and-solutions-for-sound-cards/"><u>Troubleshooting Static From Your Audio Hardware: Tips & Solutions for Sound Cards</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-computings-high-definition-goodies-folder-graphics-the-ultimate-icon-collection/"><u>YL Computing's High-Definition Goodies Folder Graphics: The Ultimate Icon Collection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-step-by-step-guide-to-utilizing-bandicams-capture-feature/"><u>[New] A Step-by-Step Guide to Utilizing Bandicam's Capture Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-practices-in-on-screen-moment-preservation/"><u>[Updated] 2024 Approved Best Practices in On-Screen Moment Preservation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-effortlessly-excel-at-creating-instagram-reels/"><u>[Updated] In 2024, Effortlessly Excel at Creating Instagram Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>2024 Approved Closing the Distance Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://fox-place.techidaily.com/5aac5l2v5pyj5pwi5o6s6zmk56gs55uy5yig5yy66zi05b2x5asn5yi26zeu6aky77ya5lit5a625oplusq5l6b5lij56en6kej5yaz5pa55qgi/"><u>如何有效排除硬盘分区阴影复制问题：专家提供三种解决方案</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-fabriquer-une-cle-usb-de-demarrage-multiplateforme-pour-windows-mac-et-linux/"><u>Comment Fabriquer Une Clé USB De Démarrage Multiplateforme Pour Windows, Mac Et Linux</u></a></li>
+<li><a href="https://fox-place.techidaily.com/escolha-postagem-e-insira-uma-descricao-que-inclua-palavras-chave-relevantes-como-recuperacao-de-fotos-sd-card-e-sem-software/"><u>Escolha Postagem E Insira Uma Descrição Que Inclua Palavras-Chave Relevantes, Como 'Recuperação De Fotos', 'SD Card' E 'Sem Software'.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>In 2024, Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/regain-access-on-your-pc-triple-action-strategies-for-bypassing-a-locked-windows-11-login-screen/"><u>Regain Access on Your PC: Triple-Action Strategies for Bypassing a Locked Windows 11 Login Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-a-step-by-step-guide-to-rectify-windows-11s-black-screen-problem/"><u>Solving the Dilemma: A Step-by-Step Guide to Rectify Windows 11'S Black Screen Problem</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-to-turning-your-flash-drive-into-a-bootable-device-with-iso-images-three-approaches/"><u>Step-by-Step Guide to Turning Your Flash Drive Into a Bootable Device with ISO Images (Three Approaches)</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/three-methods-to-prevent-your-emails-from-being-auto-backed-up-to-google-drive/"><u>Three Methods to Prevent Your Emails From Being Auto-Backed Up to Google Drive</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-securely-backing-up-various-nas-device-configurations/"><u>Ultimate Guide: Securely Backing Up Various NAS Device Configurations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/wiedergewinnung-von-geloschten-audio-dateien-ein-umfassender-guide-zur-datensicherheit/"><u>Wiedergewinnung Von Gelöschten Audio-Dateien: Ein Umfassender Guide Zur Datensicherheit</u></a></li>
 </ul></div>
 

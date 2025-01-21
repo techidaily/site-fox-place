@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2025-01-11T17:03:01.601Z
-updated: 2025-01-14T21:42:25.284Z
+date: 2025-01-14T04:15:34.902Z
+updated: 2025-01-21T01:45:33.624Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[New] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>[New] In 2024, Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[New] Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-time-saving-titans-the-8-cutting-edge-schedulers-reviewed/"><u>[Updated] 2024 Approved Time-Saving Titans The 8 Cutting-Edge Schedulers Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-windows-11s-airplane-mode-issue-effective-strategies-and-tips/"><u>Addressing Windows 11'S Airplane Mode Issue: Effective Strategies and Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-workspace-a-detailed-walkthrough-for-desktop-background-tweaks-in-control-panel-by-yl-software-solutions/"><u>Customizing Your Workspace: A Detailed Walkthrough for Desktop Background Tweaks in Control Panel by YL Software Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-extra-capabilities-of-microsofts-windows-defender-insights-from-yl-computing/"><u>Exploring Extra Capabilities of Microsoft's Windows Defender: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-windows-core-data-structure-unveiling-the-intricacies-of-registry-parts-guided-insights-from-yl-software-specialists/"><u>Exploring Window's Core Data Structure: Unveiling the Intricacies of Registry Parts - Guided Insights From YL Software Specialists</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exquisite-ngnl-graphics-collection-for-pc-screensaver-inspired-by-no-game-no-life-series/"><u>Exquisite NGNL Graphics Collection for PC Screensaver - Inspired by 'No Game No Life' Series</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fast-track-your-computer-expert-tips-from-yl-computing-on-accelerating-pc-performance/"><u>Fast Track Your Computer: Expert Tips From YL Computing on Accelerating PC Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/infinity-rush-2500-powerhouse-unveiled-raider-hx/"><u>Infinity Rush: $2500 Powerhouse Unveiled - Raider HX</u></a></li>
-<li><a href="https://fox-place.techidaily.com/selecting-the-right-altcoin-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Right Altcoin: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/solve-your-windows-compatibility-woes-with-proven-strategies-by-yl-computing/"><u>Solve Your Windows Compatibility Woes with Proven Strategies by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/streamlining-your-dj-career-crucial-copyright-laws-and-licensing-tips-unveiled/"><u>Streamlining Your DJ Career: Crucial Copyright Laws and Licensing Tips Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-profile-alter-name-in-google-meet-for-2024/"><u>Streamlining Your Profile Alter Name in Google Meet for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-essentials-in-av1-compression-for-2024/"><u>[New] Exploring the Essentials in AV1 Compression for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-time-lapse-videos-with-gopro-studio/"><u>[New] How to Make Time Lapse Videos With GoPro Studio</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mysterious-disappearance-of-my-photos-from-computer-help-me-find-them/"><u>Mysterious Disappearance of My Photos From Computer – Help Me Find Them!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/premium-honda-civic-type-r-backgrounds-and-wraps-by-yl-computing-yls-digital-solutions/"><u>Premium Honda Civic Type R Backgrounds & Wraps by YL Computing - YL's Digital Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-compatible-windows-117-drivers-for-realtek-rtl8188cu-adapter/"><u>Quick & Easy Download: Compatible Windows 11/7 Drivers for Realtek RTL8188CU Adapter</u></a></li>
+<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-battery-failure-in-your-laptop-with-tips-by-yl-technologies/"><u>Recognizing Signs of Battery Failure in Your Laptop with Tips by YL Technologies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/speeding-up-your-pc-understanding-why-windows-lags-insights-by-yl-software/"><u>Speeding Up Your PC: Understanding Why Windows Lags - Insights by YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-static-from-your-audio-hardware-tips-and-solutions-for-sound-cards/"><u>Troubleshooting Static From Your Audio Hardware: Tips & Solutions for Sound Cards</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/windows-server-incremental-backup/"><u>Windows Server Incremental Backup 実施マニュアル: 初学者向け解説</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-reparatur-leicht-gemacht-erfolgreiches-datenabrufen-nach-einem-startversagen-zwei-schnelle-methoden-erklart/"><u>Windows-Reparatur Leicht Gemacht: Erfolgreiches Datenabrufen Nach Einem Startversagen – Zwei Schnelle Methoden Erklärt</u></a></li>
 </ul></div>
 
