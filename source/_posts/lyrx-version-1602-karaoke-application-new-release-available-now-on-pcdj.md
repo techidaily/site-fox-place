@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2025-01-18T19:41:20.666Z
-updated: 2025-01-20T17:51:08.748Z
+date: 2025-01-21T23:59:15.091Z
+updated: 2025-01-26T20:41:34.900Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-place.techidaily.com/3-tipps-zum-risikofreien-reinstall-von-windows-10-oder-11-deine-datensicherheit-garantiert/"><u>3 Tipps Zum Risikofreien Reinstall Von Windows 10 Oder 11 – Deine Datensicherheit Garantiert!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-copy-pro-isodvd/"><u>用 WinX DVD Copy Pro 方法錄製 ISO/DVD 副本</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-and-reliable-timekeeper-an-in-depth-look-at-the-philips-hf3520-alarm-clock/"><u>Affordable & Reliable Timekeeper: An In-Depth Look at the Philips HF3520 Alarm Clock</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-latest-iphone-12-top-pick-from-apple/"><u>Comprehensive Analysis of the Latest iPhone 12 - Top Pick From Apple</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-robust-backup-solutions-and-procedures/"><u>Comprehensive Guide to Robust Backup Solutions and Procedures</u></a></li>
-<li><a href="https://fox-place.techidaily.com/escolha-postagem-e-insira-uma-descricao-que-inclua-palavras-chave-relevantes-como-recuperacao-de-fotos-sd-card-e-sem-software/"><u>Escolha Postagem E Insira Uma Descrição Que Inclua Palavras-Chave Relevantes, Como 'Recuperação De Fotos', 'SD Card' E 'Sem Software'.</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/notetaking-without-installation-in-windows-11/"><u>Notetaking Without Installation in Windows 11</u></a></li>
-<li><a href="https://fox-place.techidaily.com/pc-bequem-verschieben-mit-kostenlosen-alternativen-zu-pcmover-express-in-w7810/"><u>PC Bequem Verschieben Mit Kostenlosen Alternativen Zu PCmover Express in W7/8/10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
-<li><a href="https://fox-place.techidaily.com/regain-access-on-your-pc-triple-action-strategies-for-bypassing-a-locked-windows-11-login-screen/"><u>Regain Access on Your PC: Triple-Action Strategies for Bypassing a Locked Windows 11 Login Screen</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackle-uninitialized-directx-in-less-than-5-steps/"><u>Tackle 'Uninitialized DirectX' In Less Than 5 Steps</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-securely-backing-up-various-nas-device-configurations/"><u>Ultimate Guide: Securely Backing Up Various NAS Device Configurations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-an-overview-of-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An Overview of Basic and Simplified HDR Photography for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>[New] In 2024, The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-x7-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find X7 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficiently-expanding-on-stardews-ginger-isle/"><u>Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effiziente-methode-zum-vollstandigen-windows-10-systemsicherungsprozess-zwei-gratis-optionen-entdeckt/"><u>Effiziente Methode Zum Vollständigen Windows 10-Systemsicherungsprozess: Zwei Gratis-Optionen Entdeckt!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-downloads-pinkbike-sport-clips-tunes-and-film-teasers/"><u>Free Downloads: Pinkbike Sport Clips, Tunes & Film Teasers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-video-downloader-for-eckhart-tolle-channel-get-your-favorites-from-eckharttollenowcom/"><u>Free Video Downloader for Eckhart Tolle Channel - Get Your Favorites From eckharttollenow.com</u></a></li>
+<li><a href="https://fox-place.techidaily.com/gaia-video-extractor-pro-transfer-your-favorite-youtube-clips-into-mp4-or-avi-files/"><u>Gaia Video Extractor Pro: Transfer Your Favorite YouTube Clips Into MP4 or AVI Files</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/galaxy-face-off-how-does-the-new-s23-ultra-stack-up-against-samsungs-previous-beast-the-s21-ultra/"><u>Galaxy Face-Off: How Does the New S23 Ultra Stack Up Against Samsung's Previous Beast, the S21 Ultra?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/get-smart-with-wimp-downloader-seamlessly-transfer-vids-to-your-windows-or-mac-device/"><u>Get Smart with Wimp Downloader: Seamlessly Transfer Vids to Your Windows or Mac Device!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/get-your-favorite-cnn-footage-as-mp3-mp4-or-3gp-for-easy-viewing-and-sharing/"><u>Get Your Favorite CNN Footage as MP3, MP4 or 3GP for Easy Viewing and Sharing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-converting-your-gyao-yahoo-videos-into-high-quality-mp4avi-format-on-pc-and-mac/"><u>Guide: Converting Your GyaO Yahoo Videos Into High-Quality MP4/AVI Format on PC & Mac</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-converting-your-xuite-video-files-into-mp4-or-avi-format-on-macos-and-windows/"><u>Guide: Converting Your Xuite Video Files Into MP4 or AVI Format on macOS & Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-on-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue on Escape From Tarkov</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-save-and-convert-videos-from-yogaglo-into-popular-file-types-mp4-mov-avi/"><u>How To Save And Convert Videos From YogaGlo Into Popular File Types (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dissecting-the-advantages-of-lg-bp350-display-tech/"><u>In 2024, Dissecting the Advantages of LG BP350 Display Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/professional-insights-into-the-premier-linux-laptops-of-2024-in-depth-analysis-and-ratings-toms-hardware/"><u>Professional Insights Into the Premier Linux Laptops of 2024: In-Depth Analysis and Ratings | Tom's Hardware</u></a></li>
 </ul></div>
 

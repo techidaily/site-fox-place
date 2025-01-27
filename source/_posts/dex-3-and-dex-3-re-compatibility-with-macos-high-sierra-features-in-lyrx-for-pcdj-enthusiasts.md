@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2025-01-14T04:15:34.902Z
-updated: 2025-01-21T01:45:33.624Z
+date: 2025-01-26T03:08:01.998Z
+updated: 2025-01-26T23:29:27.677Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-exploring-the-essentials-in-av1-compression-for-2024/"><u>[New] Exploring the Essentials in AV1 Compression for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-time-lapse-videos-with-gopro-studio/"><u>[New] How to Make Time Lapse Videos With GoPro Studio</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mysterious-disappearance-of-my-photos-from-computer-help-me-find-them/"><u>Mysterious Disappearance of My Photos From Computer – Help Me Find Them!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/premium-honda-civic-type-r-backgrounds-and-wraps-by-yl-computing-yls-digital-solutions/"><u>Premium Honda Civic Type R Backgrounds & Wraps by YL Computing - YL's Digital Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-compatible-windows-117-drivers-for-realtek-rtl8188cu-adapter/"><u>Quick & Easy Download: Compatible Windows 11/7 Drivers for Realtek RTL8188CU Adapter</u></a></li>
-<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-battery-failure-in-your-laptop-with-tips-by-yl-technologies/"><u>Recognizing Signs of Battery Failure in Your Laptop with Tips by YL Technologies</u></a></li>
-<li><a href="https://fox-place.techidaily.com/speeding-up-your-pc-understanding-why-windows-lags-insights-by-yl-software/"><u>Speeding Up Your PC: Understanding Why Windows Lags - Insights by YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
-<li><a href="https://fox-place.techidaily.com/troubleshooting-static-from-your-audio-hardware-tips-and-solutions-for-sound-cards/"><u>Troubleshooting Static From Your Audio Hardware: Tips & Solutions for Sound Cards</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-server-incremental-backup/"><u>Windows Server Incremental Backup 実施マニュアル: 初学者向け解説</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-reparatur-leicht-gemacht-erfolgreiches-datenabrufen-nach-einem-startversagen-zwei-schnelle-methoden-erklart/"><u>Windows-Reparatur Leicht Gemacht: Erfolgreiches Datenabrufen Nach Einem Startversagen – Zwei Schnelle Methoden Erklärt</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-future-proofing-visuals-evaluating-av1s-standpoint-over-vp9/"><u>[New] Future-Proofing Visuals Evaluating AV1's Standpoint over VP9</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-spotlight-on-todays-viral-tiktok-experiments-for-2024/"><u>[New] Spotlight on Today’s Viral TikTok Experiments for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-5-accessories-for-beneath-water-shooting-for-2024/"><u>[New] Top 5 Accessories for Beneath Water Shooting for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-gratis-restorasi-dengan-otomasi-untuk-mencegah-kerugian-data-pada-windows-1110/"><u>1. Gratis: Restorasi Dengan Otomasi Untuk Mencegah Kerugian Data Pada Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s18-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S18 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-configurer-le-transfert-automatique-de-fichiers-entre-dossiers-en-toute-securite/"><u>Comment Configurer Le Transfert Automatique De Fichiers Entre Dossiers en Toute Sécurité?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-the-no-cost-macx-dvd-ripper-effortless-mac-transformation-from-dvds-to-flv-files/"><u>Download the No Cost MacX DVD Ripper: Effortless Mac Transformation From DVDs to FLV Files</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-transfer-of-icloud-contacts-to-your-iphone-a-step-by-step-guide/"><u>Effortless Transfer of iCloud Contacts to Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fake-face-creators-top-picks-for-online-identity-design/"><u>Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-edge-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Edge 2023?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-securely-transfer-data-from-windows-server-2012-r2-to-external-usb-storage-a-guide-with-three-proven-methods/"><u>How to Securely Transfer Data From Windows Server 2012 R2 to External USB Storage - A Guide with Three Proven Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/restoring-a-missing-directory-on-windows-10-a-manual-approach/"><u>Restoring a Missing Directory on Windows 10 - A Manual Approach</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-rides-essential-steps-for-easy-hawku-repairs/"><u>Reviving Rides: Essential Steps for Easy Hawku Repairs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-steps-to-successfully-copy-windows-operating-system-onto-an-ssd-drive-on-your-lenovo-laptop/"><u>Simple Steps to Successfully Copy Windows Operating System Onto an SSD Drive on Your Lenovo Laptop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-to-advanced-file-search-techniques-in-windows-10/"><u>Ultimate Guide to Advanced File Search Techniques in Windows 10</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-seamlessly-moving-your-iphone-pictures-onto-a-windows-10-or-11-computer/"><u>Ultimate Guide: Seamlessly Moving Your iPhone Pictures Onto a Windows 10 or 11 Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-more-memory-a-guide-on-eliminating-redundant-data-for-extra-disk-capacity-featuring-movavi-insights/"><u>Unlock More Memory: A Guide on Eliminating Redundant Data for Extra Disk Capacity, Featuring Movavi Insights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728505997153-windows-server-2012-r2/"><u>Windows Server 2012 R2 復原點再生技術與步驟</u></a></li>
 </ul></div>
 

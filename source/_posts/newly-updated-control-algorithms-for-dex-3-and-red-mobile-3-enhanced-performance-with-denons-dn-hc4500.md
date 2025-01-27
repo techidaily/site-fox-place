@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2025-01-13T23:20:44.371Z
-updated: 2025-01-20T23:26:22.527Z
+date: 2025-01-19T18:13:57.871Z
+updated: 2025-01-27T02:31:26.210Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,17 +52,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>[New] A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-secrets-to-perfectly-screen-capturing-instagram-content-for-2024/"><u>[New] Secrets to Perfectly Screen Capturing Instagram Content for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mobile-sound-library-explore-the-best-free-downloader-apps-for-youtube/"><u>[Updated] 2024 Approved Mobile Sound Library Explore the Best Free Downloader Apps for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video-for-2024/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fixing-a-failed-hard-disk-on-your-dell-computer-effective-strategies-and-repair-techniques/"><u>Fixing a Failed Hard Disk on Your Dell Computer: Effective Strategies and Repair Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-critical-choices-for-perfect-snaps/"><u>In 2024, Critical Choices for Perfect Snaps</u></a></li>
-<li><a href="https://fox-place.techidaily.com/losungen-fur-die-probleme-mit-der-amazon-drive-synchronisation-funktionsstorung-beheben/"><u>Lösungen Für Die Probleme Mit Der Amazon-Drive-Synchronisation – Funktionsstörung Beheben</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mudah-memperluaskan-kapasitas-ssd-dengan-perangkat-windows-11-tutorial-yang-dapat-diboot/"><u>Mudah Memperluaskan Kapasitas SSD Dengan Perangkat Windows 11: Tutorial Yang Dapat Diboot</u></a></li>
-<li><a href="https://fox-place.techidaily.com/problem-solved-comprehensive-guide/"><u>Problem Solved: Comprehensive Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/restoring-accidentally-erased-content-a-step-by-step-guide-for-windows-xpvista7-users/"><u>Restoring Accidentally Erased Content: A Step-by-Step Guide for Windows XP/Vista/7 Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/syncing-melodies-with-video-in-premiere-pro/"><u>Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-scour-these-top-12-sites-for-stock-photos-at-zero-cost-for-2024/"><u>[New] Scour These Top 12 Sites for Stock Photos at Zero Cost for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-conversations-via-curated-creativity-in-stories-lives/"><u>[Updated] Elevate Conversations via Curated Creativity in Stories Lives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-best-history-youtube-channels-for-students-and-history-lovers/"><u>[Updated] In 2024, 10 Best History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-igtv-presence-with-stunning-covers/"><u>2024 Approved Elevating Your IGTV Presence with Stunning Covers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-device-back-online-top-8-tips-for-iphone-and-ipad-wi-fi-connection-fixes/"><u>Get Your Device Back Online: Top 8 Tips for iPhone and iPad Wi-Fi Connection Fixes</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sudden-windows-crash-expert-advice-from-yl-computings-guide/"><u>How to Fix a Sudden Windows Crash: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-recording-real-time-action-in-overwatch/"><u>In 2024, Recording Real-Time Action in Overwatch</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
+<li><a href="https://fox-place.techidaily.com/save-and-convert-your-videos-easily-using-viddler-supported-formats-include-mp4-wmv-avi-and-more-on-windows-or-macos/"><u>Save and Convert Your Videos Easily Using Viddler - Supported Formats Include MP4, WMV, AVI & More on Windows or macOS</u></a></li>
+<li><a href="https://fox-place.techidaily.com/save-fox-news-footage-as-mp4wmvavi-easy-download-tools-for-journalism-enthusiasts/"><u>Save Fox News Footage as MP4/WMV/AVI - Easy Download Tools for Journalism Enthusiasts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/seamless-music-shift-from-spotify-to-tidal-discover-two-easy-export-strategies-for-your-playlists/"><u>Seamless Music Shift From Spotify to Tidal: Discover Two Easy Export Strategies for Your Playlists</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-on-downloading-popular-series-like-tvf-tripling-and-more-from-trustworthy-sources/"><u>Step-by-Step Guide on Downloading Popular Series Like TVF Tripling and More From Trustworthy Sources</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-kathtube-content-into-popular-video-formats-like-mp4-mov-avi-flv-and-wmv/"><u>Step-by-Step Guide: Converting KathTube Content Into Popular Video Formats Like MP4, MOV, AVI, FLV & WMV</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-yandex-videos-to-common-formats-like-mp4-avi-and-mov-on-pc-or-mac/"><u>Step-by-Step Guide: Converting Yandex Videos to Common Formats Like MP4, AVI & MOV on PC or Mac</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-downloading-content-from-the-worlds-leading-yoga-streaming-platforms/"><u>Step-by-Step Guide: Downloading Content From the World's Leading Yoga Streaming Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-issues-of-using-openais-chatgpt/"><u>Top 8 Issues of Using OpenAI's ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2025-01-17T18:05:32.276Z
-updated: 2025-01-21T03:21:23.196Z
+date: 2025-01-25T18:13:31.658Z
+updated: 2025-01-27T01:19:58.087Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,20 +45,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-easy-steps-to-lowering-volume-slightly-in-logic-pro/"><u>[New] Easy Steps to Lowering Volume Slightly in Logic Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unplugged-joy-a-list-of-great-offline-ipad-games/"><u>[New] In 2024, Unplugged Joy A List of Great Offline iPad Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-android-advantage-5-unique-playlist-downloaders-reviewed-for-2024/"><u>[Updated] Android Advantage 5 Unique Playlist Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] In 2024, How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://fox-place.techidaily.com/2021s-leading-software-solutions-for-seamless-whitescale-image-transformations/"><u>2021'S Leading Software Solutions for Seamless Whitescale Image Transformations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-list-of-no-cost-lawful-online-libraries-for-books/"><u>Discover the Ultimate List of No-Cost, Lawful Online Libraries for Books</u></a></li>
-<li><a href="https://fox-place.techidaily.com/identify-active-microsoft-office-suite-programs-quick-guide/"><u>Identify Active Microsoft Office Suite Programs - Quick Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a24-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A24 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-tutorial-on-embedding-audio-with-mp3-and-html-code/"><u>Quick Tutorial on Embedding Audio with MP3 and HTML Code</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-merging-data-on-modern-windows/"><u>The Art of Merging Data on Modern Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-ultimate-guide-streaming-your-computer-screen-onto-your-television/"><u>The Ultimate Guide: Streaming Your Computer Screen Onto Your Television</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-trickbot-threats-protection-tips-and-strategies-cyberguardian/"><u>Understanding TrickBot Threats: Protection Tips & Strategies – CyberGuardian</u></a></li>
-<li><a href="https://fox-place.techidaily.com/web-based-translation-solutions-adding-captions-to-videos-for-universal-comprehension/"><u>Web-Based Translation Solutions: Adding Captions to Videos for Universal Comprehension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44or44k944kz44oz55s76z2i6kiy6yyy44gr5asx5pwx44gz44kl5li744gq55cg55sx44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>パソコン画面記録に失敗する主な理由とトラブルシューティング手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-samurai-warriors-5-keeps-crashing-on-pc/"><u>[SOLVED] Samurai Warriors 5 Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discovering-8-prime-video-advancement-aids/"><u>[Updated] 2024 Approved Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[Updated] In 2024, Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-copier-une-carte-sd-sur-ordinateur-en-securite/"><u>Comment Copier Une Carte SD Sur Ordinateur en Sécurité?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-les-photographies-definitivement-effacees-se-jettent-elles-loin-chez-les-utilisateurs-de-windows-and-apple/"><u>Comment Les Photographies Definitivement Effacées Se Jettent-Elles Loin Chez Les Utilisateurs De Windows & Apple ?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-resoudre-lerreur-de-restauration-systeme-code-derreur-0x80070002-sur-windows-11-et-7/"><u>Comment Résoudre L'erreur De Restauration Système 'Code D’erreur 0X80070002' Sur Windows 11 Et 7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/direct-transfer-methods-from-one-iphone-to-another-bypassing-itunes/"><u>Direct Transfer Methods From One iPhone to Another, Bypassing iTunes</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-balance-social-media-and-reels-limitation/"><u>How to Balance Social Media and Reels Limitation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-a-non-detectable-external-hard-drive-in-windows-tips-and-solutions-from-yl-software/"><u>How to Fix a Non-Detectable External Hard Drive in Windows - Tips and Solutions From YL Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-civi-3-disney-100th-anniversary-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Civi 3 Disney 100th Anniversary Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unveiling-income-insights-a-triple-step-technique-for-tracking-youtube-revenue/"><u>In 2024, Unveiling Income Insights A Triple Step Technique for Tracking YouTube Revenue</u></a></li>
+<li><a href="https://fox-place.techidaily.com/issue-resolved-empty-results-displayed-uncover-the-secrets-of-6-techniques-and-a-valuable-insight/"><u>Issue Resolved: Empty Results Displayed - Uncover the Secrets of 6 Techniques & a Valuable Insight</u></a></li>
+<li><a href="https://fox-place.techidaily.com/procedura-esecutiva-per-lavvio-da-periferica-usb-con-funzionalita-uefi/"><u>Procedura Esecutiva per L'Avvio Da Periferica USB Con Funzionalità UEFI</u></a></li>
+<li><a href="https://fox-place.techidaily.com/seamless-image-recovery-for-iphone-13-and-14-effortlessly-retrieve-permanently-erased-pictures/"><u>Seamless Image Recovery for iPhone 13 & 14: Effortlessly Retrieve Permanently Erased Pictures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-xr-headsets-enhancing-work-and-wanderlust-recent-3x-improvements/"><u>Top Picks: The Best XR Headsets Enhancing Work & Wanderlust - Recent 3X Improvements</u></a></li>
+<li><a href="https://fox-place.techidaily.com/transformez-votre-ordinateur-avec-une-sauvegarde-de-windows/"><u>Transformez Votre Ordinateur Avec Une Sauvegarde De Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-dji-inspire-2s-features-for-2024/"><u>Unveiling DJI Inspire 2'S Features for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/wie-sie-ihre-geloschten-dateien-mit-dem-windows-systemwiederherstellungsprogramm-wiederherstellen-konnen/"><u>Wie Sie Ihre Gelöschten Dateien Mit Dem Windows-Systemwiederherstellungsprogramm Wiederherstellen Können</u></a></li>
 </ul></div>
 
