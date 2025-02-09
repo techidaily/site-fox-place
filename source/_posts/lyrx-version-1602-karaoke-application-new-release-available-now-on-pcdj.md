@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2025-01-21T23:59:15.091Z
-updated: 2025-01-26T20:41:34.900Z
+date: 2025-02-04T17:35:21.684Z
+updated: 2025-02-09T00:10:00.503Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,22 +78,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-an-overview-of-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An Overview of Basic and Simplified HDR Photography for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>[New] In 2024, The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-x7-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find X7 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/efficiently-expanding-on-stardews-ginger-isle/"><u>Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effiziente-methode-zum-vollstandigen-windows-10-systemsicherungsprozess-zwei-gratis-optionen-entdeckt/"><u>Effiziente Methode Zum Vollständigen Windows 10-Systemsicherungsprozess: Zwei Gratis-Optionen Entdeckt!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-downloads-pinkbike-sport-clips-tunes-and-film-teasers/"><u>Free Downloads: Pinkbike Sport Clips, Tunes & Film Teasers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-video-downloader-for-eckhart-tolle-channel-get-your-favorites-from-eckharttollenowcom/"><u>Free Video Downloader for Eckhart Tolle Channel - Get Your Favorites From eckharttollenow.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/gaia-video-extractor-pro-transfer-your-favorite-youtube-clips-into-mp4-or-avi-files/"><u>Gaia Video Extractor Pro: Transfer Your Favorite YouTube Clips Into MP4 or AVI Files</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/galaxy-face-off-how-does-the-new-s23-ultra-stack-up-against-samsungs-previous-beast-the-s21-ultra/"><u>Galaxy Face-Off: How Does the New S23 Ultra Stack Up Against Samsung's Previous Beast, the S21 Ultra?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-smart-with-wimp-downloader-seamlessly-transfer-vids-to-your-windows-or-mac-device/"><u>Get Smart with Wimp Downloader: Seamlessly Transfer Vids to Your Windows or Mac Device!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-your-favorite-cnn-footage-as-mp3-mp4-or-3gp-for-easy-viewing-and-sharing/"><u>Get Your Favorite CNN Footage as MP3, MP4 or 3GP for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-gyao-yahoo-videos-into-high-quality-mp4avi-format-on-pc-and-mac/"><u>Guide: Converting Your GyaO Yahoo Videos Into High-Quality MP4/AVI Format on PC & Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-converting-your-xuite-video-files-into-mp4-or-avi-format-on-macos-and-windows/"><u>Guide: Converting Your Xuite Video Files Into MP4 or AVI Format on macOS & Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-on-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue on Escape From Tarkov</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-save-and-convert-videos-from-yogaglo-into-popular-file-types-mp4-mov-avi/"><u>How To Save And Convert Videos From YogaGlo Into Popular File Types (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-dissecting-the-advantages-of-lg-bp350-display-tech/"><u>In 2024, Dissecting the Advantages of LG BP350 Display Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/professional-insights-into-the-premier-linux-laptops-of-2024-in-depth-analysis-and-ratings-toms-hardware/"><u>Professional Insights Into the Premier Linux Laptops of 2024: In-Depth Analysis and Ratings | Tom's Hardware</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-final-cut-pros-top-10-must-have-plug-ins-for-professionals-for-2024/"><u>[New] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-capture-and-keep-best-five-extensions-for-fb-videos/"><u>[New] In 2024, Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/clonage-vs-sauvegarde-de-disque-strategies-efficaces-pour-proteger-vos-donnees/"><u>Clonage Vs. Sauvegarde De Disque : Stratégies Efficaces Pour Protéger Vos Données</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-crear-una-copia-de-seguridad-de-la-unidad-de-arranque-en-windows-server-201n/"><u>Guía Paso a Paso Para Crear Una Copia De Seguridad De La Unidad De Arranque en Windows Server 201N</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-search-of-next-level-video-streaming-alternatives-for-2024/"><u>In Search of Next-Level Video Streaming Alternatives for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/myrecover-sicher-und-effizient-videoinhalte-aus-einer-entfernten-sd-karte-wiedergewinnen/"><u>MyRecover: Sicher Und Effizient Videoinhalte Aus Einer Entfernten SD-Karte Wiedergewinnen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pioneering-visual-effects-strategic-use-of-luts-in-adobe-projects-for-2024/"><u>Pioneering Visual Effects Strategic Use of LUTs in Adobe Projects for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-into-youtube-discussions-for-2024/"><u>Probing Into YouTube Discussions for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/six-expert-strategies-to-resolve-external-storage-detection-issues-on-windows-11/"><u>Six Expert Strategies to Resolve External Storage Detection Issues on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2025-01-26T03:08:01.998Z
-updated: 2025-01-26T23:29:27.677Z
+date: 2025-02-04T21:58:05.140Z
+updated: 2025-02-08T22:44:22.796Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,24 +58,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-future-proofing-visuals-evaluating-av1s-standpoint-over-vp9/"><u>[New] Future-Proofing Visuals Evaluating AV1's Standpoint over VP9</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-spotlight-on-todays-viral-tiktok-experiments-for-2024/"><u>[New] Spotlight on Today’s Viral TikTok Experiments for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-5-accessories-for-beneath-water-shooting-for-2024/"><u>[New] Top 5 Accessories for Beneath Water Shooting for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-gratis-restorasi-dengan-otomasi-untuk-mencegah-kerugian-data-pada-windows-1110/"><u>1. Gratis: Restorasi Dengan Otomasi Untuk Mencegah Kerugian Data Pada Windows 11/10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s18-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S18 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comment-configurer-le-transfert-automatique-de-fichiers-entre-dossiers-en-toute-securite/"><u>Comment Configurer Le Transfert Automatique De Fichiers Entre Dossiers en Toute Sécurité?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-the-no-cost-macx-dvd-ripper-effortless-mac-transformation-from-dvds-to-flv-files/"><u>Download the No Cost MacX DVD Ripper: Effortless Mac Transformation From DVDs to FLV Files</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effortless-transfer-of-icloud-contacts-to-your-iphone-a-step-by-step-guide/"><u>Effortless Transfer of iCloud Contacts to Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fake-face-creators-top-picks-for-online-identity-design/"><u>Fake Face Creators Top Picks for Online Identity Design</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-edge-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Edge 2023?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-securely-transfer-data-from-windows-server-2012-r2-to-external-usb-storage-a-guide-with-three-proven-methods/"><u>How to Securely Transfer Data From Windows Server 2012 R2 to External USB Storage - A Guide with Three Proven Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/restoring-a-missing-directory-on-windows-10-a-manual-approach/"><u>Restoring a Missing Directory on Windows 10 - A Manual Approach</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-rides-essential-steps-for-easy-hawku-repairs/"><u>Reviving Rides: Essential Steps for Easy Hawku Repairs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simple-steps-to-successfully-copy-windows-operating-system-onto-an-ssd-drive-on-your-lenovo-laptop/"><u>Simple Steps to Successfully Copy Windows Operating System Onto an SSD Drive on Your Lenovo Laptop</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-to-advanced-file-search-techniques-in-windows-10/"><u>Ultimate Guide to Advanced File Search Techniques in Windows 10</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-seamlessly-moving-your-iphone-pictures-onto-a-windows-10-or-11-computer/"><u>Ultimate Guide: Seamlessly Moving Your iPhone Pictures Onto a Windows 10 or 11 Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-more-memory-a-guide-on-eliminating-redundant-data-for-extra-disk-capacity-featuring-movavi-insights/"><u>Unlock More Memory: A Guide on Eliminating Redundant Data for Extra Disk Capacity, Featuring Movavi Insights</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728505997153-windows-server-2012-r2/"><u>Windows Server 2012 R2 復原點再生技術與步驟</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-review-transform-your-images-with-facetune/"><u>[New] 2024 Approved Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-crystal-clear-comparison-rating-the-best-8k-tvs-of-year-for-2024/"><u>[Updated] Crystal Clear Comparison Rating the Best 8K TVs of Year for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-snapshot-success-mastering-the-art-of-xbox-one-captures-for-2024/"><u>[Updated] Snapshot Success Mastering the Art of Xbox One Captures for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/building-your-own-digital-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Building Your Own Digital Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-online-with-the-big-four-social-networks-facebook-twitter-instagram-and-youtube/"><u>Connect Online with the Big Four Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-visual-space-with-exclusive-deadly-class-designs-from-yl-softwares-wallpaper-catalog/"><u>Elevate Your Visual Space with Exclusive Deadly Class Designs From YL Software's Wallpaper Catalog</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/getting-acquainted-with-your-new-lenovo-nook-a-hands-on-journey/"><u>Getting Acquainted With Your New Lenovo Nook – A Hands-On Journey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-inside-facetune-an-authoritative-review-for-improved-images/"><u>In 2024, Inside Facetune An Authoritative Review for Improved Images</u></a></li>
+<li><a href="https://fox-place.techidaily.com/limited-offer-enhance-your-set-with-dextrose-and-karaoke-mix-just-49-extra/"><u>Limited Offer: Enhance Your Set with Dextrose and Karaoke Mix, Just $49 Extra!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262323472-next-generation-of-intel-cpus-could-face-hotter-running-challenges-says-industry-insider-arrow-lake-series-concerned/"><u>Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pairing-perfection-a-tutorial-for-attaching-a-subwoofer-to-a-samsung-soundbar-system/"><u>Pairing Perfection: A Tutorial for Attaching a Subwoofer to a Samsung Soundbar System</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook-for-2024/"><u>The Art of Hashtagging Strategies for Maximum Impact on Facebook for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-tools-for-boosting-your-pcs-performance-expert-recommendations/"><u>Top Tools for Boosting Your PC's Performance: Expert Recommendations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yls-ultimate-strategy-for-buying-and-selling-bitcoin-with-ease-insights-from-the-experts-at-yl-software/"><u>YL's Ultimate Strategy for Buying and Selling Bitcoin with Ease – Insights From the Experts at YL Software</u></a></li>
 </ul></div>
 
