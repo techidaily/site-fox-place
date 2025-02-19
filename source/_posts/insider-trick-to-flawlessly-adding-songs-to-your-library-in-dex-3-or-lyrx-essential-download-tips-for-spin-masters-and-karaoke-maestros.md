@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2025-02-03T23:53:41.227Z
-updated: 2025-02-08T19:57:38.065Z
+date: 2025-02-14T21:21:15.903Z
+updated: 2025-02-19T00:07:30.638Z
 tags:
   - product
 categories:
@@ -25,19 +25,23 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Nest and Set
 
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -48,10 +52,6 @@ Now, let’s tweak Chrome to make your life easier:
 * Hit “Settings” and scroll down to “Show advanced settings”.
 * Find the “Downloads” section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 4: Direct and Download
 
 Here’s where you make the choice:
@@ -60,7 +60,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigate-10-top-free-web-explorers-for-remote-collaboration/"><u>[New] 2024 Approved Navigate 10 Top Free Web Explorers for Remote Collaboration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tiny-content-overview-made-easy/"><u>[New] 2024 Approved Tiny Content Overview Made Easy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tracking-the-financial-success-of-carryminati-ajey/"><u>[New] 2024 Approved Tracking the Financial Success of CarryMinati (Ajey)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-free-top-12-best-idle-games-you-can-try-on-pc/"><u>[New] In 2024, FREE Top 12 Best Idle Games You Can Try on PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-giggles-and-grins-topical-humor-guides-for-everyone/"><u>[Updated] 2024 Approved Giggles and Grins Topical Humor Guides for Everyone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/can-you-fix-a-faulty-graphics-processor-unit-gpu-expert-advice-from-yl-computing-and-software-solutions/"><u>Can You Fix a Faulty Graphics Processor Unit (GPU)? Expert Advice From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dealing-with-audio-malfunctions-on-your-desktop-effective-solutions-by-yl-software-experts/"><u>Dealing with Audio Malfunctions on Your Desktop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effizientes-dvd-backup-konvertierung-von-dvd-zu-iso-und-umgekehrt-mit-winx-dvd-duplicator/"><u>Effizientes DVD Backup: Konvertierung Von DVD Zu ISO Und Umgekehrt Mit WinX DVD Duplicator</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ensuring-optimal-performance-confirm-your-gpu-drivers-are-up-to-date-on-windows-tips-by-yl-computing/"><u>Ensuring Optimal Performance: Confirm Your GPU Drivers Are Up-to-Date on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-p40-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel P40 by Name | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/master-your-screen-easy-steps-to-modify-display-settings-with-yls-control-panel-tips/"><u>Master Your Screen: Easy Steps to Modify Display Settings with YL's Control Panel Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/maximize-your-singing-experience-discover-the-benefits-of-a-karaoke-cloud-pro-membership/"><u>Maximize Your Singing Experience: Discover the Benefits of a Karaoke Cloud Pro Membership</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-update-your-scanners-driver-in-windows-with-help-from-yl-software-solutions/"><u>Quick Guide: How to Update Your Scanner's Driver in Windows with Help From YL Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-the-rising-conflict-over-ai-rights/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: The Rising Conflict over AI Rights</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-personalizing-your-mouse-preferences-with-windows-control-panel-tips-from-yl-software/"><u>Step-by-Step Guide: Personalizing Your Mouse Preferences with Windows Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-chinese-cultural-revolution-explained-historical-significance-and-effects-a-study-from-yl-software/"><u>The Chinese Cultural Revolution Explained: Historical Significance and Effects - A Study From YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-for-setting-up-your-wd-ses-external-hard-drive-on-pcs-post-2011/"><u>Ultimate Tutorial for Setting Up Your WD SES External Hard Drive on PCs Post-2011</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-generative-ai-search-techniques-and-their-corporate-users/"><u>Unveiling the Secrets of Generative AI Search Techniques & Their Corporate Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] 2024 Approved Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-premium-zoom-audio-quality-with-simple-adjustments/"><u>[New] Unleash Premium Zoom Audio Quality with Simple Adjustments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unbeatable-online-and-desktop-gif-maker-options/"><u>[Updated] 2024 Approved Unbeatable Online & Desktop GIF Maker Options</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[Updated] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premier-sound-pivot-for-podcast-masters/"><u>[Updated] In 2024, Premier Sound Pivot for Podcast Masters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>[Updated] Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://fox-place.techidaily.com/aomei-backupperpc/"><u>AOMEI Backupperをコマンドプロンプトで利用したPCのバックアップ手順</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/r-bliss-savor-your-complimentary-set-of-designs/"><u>Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728492877111-clonezilla/"><u>Clonezillaで失敗するときの回復方法</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-steps-to-moving-your-operating-system-from-hdd-to-solid-state-drive/"><u>Comprehensive Steps to Moving Your Operating System From HDD to Solid State Drive</u></a></li>
+<li><a href="https://fox-place.techidaily.com/error-unable-to-locate-webpage-encountered-a-missing-page-issue/"><u>Error: Unable to Locate Webpage – Encountered a Missing Page Issue</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fixing-the-problem-overcoming-rdp-lock-ups-on-windows-server-2019/"><u>Fixing the Problem: Overcoming RDP Lock-Ups on Windows Server 2019</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-sharing-your-screen-in-skype-work-sessions/"><u>In 2024, The Ultimate Guide to Sharing Your Screen in Skype Work Sessions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/les-plus-performants-programmes-de-clonage-cle-usb-vers-ssd-pour-windows-10-et-7/"><u>Les Plus Performants Programmes De Clonage Clé USB Vers SSD Pour Windows 10 Et 7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolver-el-error-de-falta-de-espacio-en-su-disco-duro-para-windows-11-8-o-7/"><u>Resolver El Error De Falta De Espacio en Su Disco Duro Para Windows 11, 8 O 7</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-rapides-pour-recuperer-lespace-disque-sur-une-cle-usb-avec-windows-1011/"><u>Solutions Rapides Pour Récupérer L'espace Disque Sur Une Clé USB Avec Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/troubleshooting-common-issues-when-uploading-to-apple/"><u>Troubleshooting Common Issues When Uploading to Apple</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-transferring-windows-files-seamlessly-to-your-samsung-ssd/"><u>Ultimate Guide: Transferring Windows Files Seamlessly to Your Samsung SSD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/verlustfreies-dvd-rippen-mit-originaler-qualitat-die-ultimative-anleitung/"><u>Verlustfreies DVD-Rippen Mit Originaler Qualität - Die Ultimative Anleitung</u></a></li>
 </ul></div>
 

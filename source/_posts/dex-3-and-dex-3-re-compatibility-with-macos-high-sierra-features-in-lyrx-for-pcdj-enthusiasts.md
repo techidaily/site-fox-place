@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2025-02-04T21:58:05.140Z
-updated: 2025-02-08T22:44:22.796Z
+date: 2025-02-17T01:36:10.862Z
+updated: 2025-02-19T02:36:08.337Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 _**PCDJ enables you to #MixEverything**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,24 +58,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-review-transform-your-images-with-facetune/"><u>[New] 2024 Approved Comprehensive Review Transform Your Images with Facetune</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-crystal-clear-comparison-rating-the-best-8k-tvs-of-year-for-2024/"><u>[Updated] Crystal Clear Comparison Rating the Best 8K TVs of Year for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-snapshot-success-mastering-the-art-of-xbox-one-captures-for-2024/"><u>[Updated] Snapshot Success Mastering the Art of Xbox One Captures for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/assessing-your-pcs-audio-hardware-a-guide-to-sound-card-compatibility-explore-tech-solutions/"><u>Assessing Your PC's Audio Hardware: A Guide to Sound Card Compatibility - Explore Tech Solutions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/building-your-own-digital-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Building Your Own Digital Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-online-with-the-big-four-social-networks-facebook-twitter-instagram-and-youtube/"><u>Connect Online with the Big Four Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-visual-space-with-exclusive-deadly-class-designs-from-yl-softwares-wallpaper-catalog/"><u>Elevate Your Visual Space with Exclusive Deadly Class Designs From YL Software's Wallpaper Catalog</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-consequences-a-detailed-analysis-of-the-taiping-rebellions-aftermath-yl-computing/"><u>Exploring the Consequences: A Detailed Analysis of the Taiping Rebellion's Aftermath - YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/getting-acquainted-with-your-new-lenovo-nook-a-hands-on-journey/"><u>Getting Acquainted With Your New Lenovo Nook – A Hands-On Journey</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-inside-facetune-an-authoritative-review-for-improved-images/"><u>In 2024, Inside Facetune An Authoritative Review for Improved Images</u></a></li>
-<li><a href="https://fox-place.techidaily.com/limited-offer-enhance-your-set-with-dextrose-and-karaoke-mix-just-49-extra/"><u>Limited Offer: Enhance Your Set with Dextrose and Karaoke Mix, Just $49 Extra!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262323472-next-generation-of-intel-cpus-could-face-hotter-running-challenges-says-industry-insider-arrow-lake-series-concerned/"><u>Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pairing-perfection-a-tutorial-for-attaching-a-subwoofer-to-a-samsung-soundbar-system/"><u>Pairing Perfection: A Tutorial for Attaching a Subwoofer to a Samsung Soundbar System</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adjusting-your-pcs-configuration-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Configuration on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook-for-2024/"><u>The Art of Hashtagging Strategies for Maximum Impact on Facebook for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-tools-for-boosting-your-pcs-performance-expert-recommendations/"><u>Top Tools for Boosting Your PC's Performance: Expert Recommendations</u></a></li>
-<li><a href="https://fox-place.techidaily.com/visual-tutorial-setlist-strategies-vs-crafting-your-playlist-for-successful-dj-performances/"><u>Visual Tutorial: Setlist Strategies Vs. Crafting Your Playlist for Successful DJ Performances</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yls-ultimate-strategy-for-buying-and-selling-bitcoin-with-ease-insights-from-the-experts-at-yl-software/"><u>YL's Ultimate Strategy for Buying and Selling Bitcoin with Ease – Insights From the Experts at YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-explore-engaging-exchange-zones/"><u>[Updated] 2024 Approved Explore Engaging Exchange Zones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/camera-shake-in-photographyvideo-what-you-need-to-know/"><u>Camera Shake In Photography/Video | What You Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-googles-latest-nest-hub-why-no-camera-yet/"><u>Comprehensive Review of Google's Latest Nest Hub - Why No Camera Yet?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/entsperren-sie-die-icloud-aktivierungsbeschrankung-schlussel-zur-passwortfreien-losung/"><u>Entsperren Sie Die iCloud-Aktivierungsbeschränkung - Schlüssel Zur Passwortfreien Lösung!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-tips-for-complete-laptop-fix-and-revival-techniques/"><u>Essential Tips for Complete Laptop Fix and Revival Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecti-essential-apps-for-iphone-slide-show-creation/"><u>In 2024, Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/potential-pitfalls-in-virtual-realms/"><u>Potential Pitfalls in Virtual Realms</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-move-your-applications-seamlessly-between-pcs-using-windows-11/"><u>Quick Guide: How to Move Your Applications Seamlessly Between PCs Using Windows 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-methods-for-converting-your-ide-hard-drive-or-ssd-to-a-sata-device-in-various-windows-operating-systems/"><u>Simple Methods for Converting Your IDE Hard Drive or SSD to a SATA Device in Various Windows Operating Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-hp-error-code-0xc000021a-identifying-causes-and-effective-solutions/"><u>Understanding HP Error Code 0xC000021A: Identifying Causes & Effective Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-creative-potential-without-spending-for-2024/"><u>Unlocking Your Creative Potential Without Spending for 2024</u></a></li>
 </ul></div>
 

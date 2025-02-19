@@ -1,7 +1,7 @@
 ---
 title: 1. Quick DJ Lessons with Jay Brannan on Mixing Techniques | PCDJ Hour
-date: 2025-02-03T00:09:40.626Z
-updated: 2025-02-08T23:50:01.081Z
+date: 2025-02-11T21:15:32.342Z
+updated: 2025-02-18T22:13:26.073Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Jay Brannan's "_**DJ Tips In Under A Minute**_" segments are great. Short, sweet
 **Stay informed! Please subscribe to our newsletter in the left side bar of the blog home page — _We'll email you with exclusive PCDJ news, product updates and giveaways!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -45,17 +45,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djtipsinunderaminute-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-insiders-techniques-for-google-voice-recordings/"><u>[New] 2024 Approved The Insider's Techniques for Google Voice Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevating-your-contents-reach-without-breaching-laws-for-2024/"><u>[Updated] Elevating Your Content's Reach Without Breaching Laws for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-ultimate-xtube-video-grabber-convert-and-save-from-xtube-in-multiple-formats-mp4-avi-wmv-mov/"><u>1. Ultimate XTube Video Grabber: Convert and Save From xTube in Multiple Formats (MP4, AVI, WMV, MOV)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-unlock-exclusive-educational-content-free-downloads-from-discovery-ed/"><u>1. Unlock Exclusive Educational Content: Free Downloads From Discovery Ed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>2024 Approved Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/compatibility-check-windows-defender-for-mac-devices-by-yl-software/"><u>Compatibility Check: Windows Defender for Mac Devices by YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-captivating-viewers-with-animated-text-on-instagram-stories/"><u>In 2024, Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-meizu-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Meizu</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transforming-your-flipbuilder-menus-aesthetics-altering-background-colors-easily/"><u>Transforming Your FlipBuilder Menu's Aesthetics: Altering Background Colors Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unexpected-fluid-discovery-iphone-charging-dilemma-and-how-to-fix-it/"><u>Unexpected Fluid Discovery: IPhone Charging Dilemma and How to Fix It</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-impact-of-new-instagrams-algorithms-on-users/"><u>[New] 2024 Approved Impact of New Instagram's Algorithms on Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-8-vr-equipment-companion-guide/"><u>2024 Approved Unmatched 8 VR Equipment Companion Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/audio-take-from-twitter-video-sources/"><u>Audio Take From Twitter Video Sources</u></a></li>
+<li><a href="https://fox-place.techidaily.com/can-you-fix-a-faulty-graphics-processor-unit-gpu-expert-advice-from-yl-computing-and-software-solutions/"><u>Can You Fix a Faulty Graphics Processor Unit (GPU)? Expert Advice From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cold-chronicles-the-2022-winter-olympics-in-china/"><u>Cold Chronicles The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fix-for-sudden-audio-gaps-in-obs-captures-for-2024/"><u>Fix for Sudden Audio Gaps in OBS Captures for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dynamic-topic-suggestions-for-streamers/"><u>In 2024, Dynamic Topic Suggestions for Streamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-mastering-color-correction-and-grading/"><u>In 2024, Ultimate Guide Mastering Color Correction & Grading</u></a></li>
+<li><a href="https://fox-place.techidaily.com/insider-trick-to-flawlessly-adding-songs-to-your-library-in-dex-3-or-lyrx-essential-download-tips-for-spin-masters-and-karaoke-maestros/"><u>Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-your-screen-easy-steps-to-modify-display-settings-with-yls-control-panel-tips/"><u>Master Your Screen: Easy Steps to Modify Display Settings with YL's Control Panel Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximize-your-singing-experience-discover-the-benefits-of-a-karaoke-cloud-pro-membership/"><u>Maximize Your Singing Experience: Discover the Benefits of a Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-10-elite-1080p-gaming-displays/"><u>Top 10 Elite 1080P Gaming Displays</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-accurate-measurements-with-android-device-measure-app/"><u>Ultimate Tips for Accurate Measurements with Android Device Measure App</u></a></li>
 </ul></div>
 

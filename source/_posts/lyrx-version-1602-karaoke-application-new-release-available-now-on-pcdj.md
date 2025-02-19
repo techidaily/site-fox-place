@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2025-02-04T17:35:21.684Z
-updated: 2025-02-09T00:10:00.503Z
+date: 2025-02-12T01:53:09.231Z
+updated: 2025-02-18T21:56:46.118Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,14 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-final-cut-pros-top-10-must-have-plug-ins-for-professionals-for-2024/"><u>[New] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-capture-and-keep-best-five-extensions-for-fb-videos/"><u>[New] In 2024, Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/clonage-vs-sauvegarde-de-disque-strategies-efficaces-pour-proteger-vos-donnees/"><u>Clonage Vs. Sauvegarde De Disque : Stratégies Efficaces Pour Protéger Vos Données</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-crear-una-copia-de-seguridad-de-la-unidad-de-arranque-en-windows-server-201n/"><u>Guía Paso a Paso Para Crear Una Copia De Seguridad De La Unidad De Arranque en Windows Server 201N</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-search-of-next-level-video-streaming-alternatives-for-2024/"><u>In Search of Next-Level Video Streaming Alternatives for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/myrecover-sicher-und-effizient-videoinhalte-aus-einer-entfernten-sd-karte-wiedergewinnen/"><u>MyRecover: Sicher Und Effizient Videoinhalte Aus Einer Entfernten SD-Karte Wiedergewinnen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pioneering-visual-effects-strategic-use-of-luts-in-adobe-projects-for-2024/"><u>Pioneering Visual Effects Strategic Use of LUTs in Adobe Projects for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-into-youtube-discussions-for-2024/"><u>Probing Into YouTube Discussions for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/six-expert-strategies-to-resolve-external-storage-detection-issues-on-windows-11/"><u>Six Expert Strategies to Resolve External Storage Detection Issues on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/irst-steps-on-the-path-equipment-for-beginners-for-2024/"><u>[New] First Steps on the Path Equipment for Beginners for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[Updated] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>[Updated] Select Selections Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728498595114-aomei-backupper/"><u>外部ドライブへのバックアップを始める方法：AOMEI Backupperガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-windows-narrators-legacy-keyboard-shortcuts/"><u>A Complete Guide to Windows Narrator's Legacy Keyboard Shortcuts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/abrufen-versehentlich-geloschter-dokumente-schritt-fur-schritt-anleitung-mit-unterstutzung-durch-die-myrecover-software/"><u>Abrufen Versehentlich Gelöschter Dokumente: Schritt-Für-Schritt-Anleitung Mit Unterstützung Durch Die MyRecover Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-sauver-vos-informations-sur-un-disque-rar-endommage-sans-pertes-de-donnees/"><u>Comment Sauver Vos Informations Sur Un Disque RAR Endommagé Sans Pertes De Données?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effective-solutions-for-fixing-seagate-dashboard-issues/"><u>Effective Solutions for Fixing Seagate Dashboard Issues</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-dactualisation-totale-pour-onedrive-les-etapes-simples-a-suivre/"><u>Guide D’actualisation Totale Pour OneDrive : Les Étapes Simples À Suivre</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-top-ranked-collage-assemblers-unveiled/"><u>In 2024, Android’s Top-Ranked Collage Assemblers Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-zero-5g-2023-turbo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Zero 5G 2023 Turbo FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-apps-to-create-engaging-video-invitations-on-your-smartphone-for-2024/"><u>New Best Apps to Create Engaging Video Invitations on Your Smartphone for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/rescue-your-lost-sounds-effective-techniques-for-recovering-permanently-deleted-music-and-podcasts-across-phones-and-pcs/"><u>Rescue Your Lost Sounds: Effective Techniques for Recovering Permanently Deleted Music and Podcasts Across Phones and PCs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ssdacer/"><u>SSDへのAcerノートブックアップグレード手順：詳細ガイド</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-retrieving-data-from-unresponsive-external-drives/"><u>Ultimate Guide: Retrieving Data From Unresponsive External Drives</u></a></li>
 </ul></div>
 

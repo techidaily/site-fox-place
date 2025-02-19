@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2025-02-06T22:46:12.114Z
-updated: 2025-02-08T23:01:06.965Z
+date: 2025-02-12T01:44:54.240Z
+updated: 2025-02-18T23:43:58.672Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -42,7 +42,7 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
@@ -60,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -71,7 +71,7 @@ The professional DJ features that come with the Numark Party Mix include four cu
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
@@ -79,7 +79,7 @@ The professional DJ features that come with the Numark Party Mix include four cu
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,22 +101,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[New] 2024 Approved How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform/"><u>[Updated] Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-shoppers-guide-for-top-360cams/"><u>[Updated] The Comprehensive Shopper’s Guide for Top 360Cams</u></a></li>
-<li><a href="https://fox-place.techidaily.com/actualisation-de-la-ssd-pour-votre-lenovo-legion-5-suivez-notre-guide-complet/"><u>Actualisation De La SSD Pour Votre Lenovo Legion 5 - Suivez Notre Guide Complet</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comment-aller-de-lavant-avec-un-pc-en-utilisant-le-deuxieme-disque-dur/"><u>Comment Aller De L'avant Avec Un PC en Utilisant Le Deuxième Disque Dur</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-insights-boosting-bank-regulatory-compliance-and-strengthening-institutional-durability/"><u>Digital Insights Boosting Bank Regulatory Compliance & Strengthening Institutional Durability</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-indoor-tv-reception-the-ultimate-guide-to-choosing-the-right-antenna/"><u>Enhancing Indoor TV Reception: The Ultimate Guide to Choosing the Right Antenna</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-mastering-data-restoration-with-the-leading-3-toolsets/"><u>How-To: Mastering Data Restoration with the Leading 3 Toolsets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-media-your-step-by-step-video-tweet/"><u>In 2024, Mastering Media Your Step-by-Step Video Tweet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mold-personal-memes-that-resonate-for-2024/"><u>Mold Personal Memes That Resonate for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-missing-photos-on-your-sd-card-camera-step-by-step-recovery-guide/"><u>Resolving Missing Photos on Your SD Card Camera - Step-by-Step Recovery Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-zoom-playback-issues-ensuring-recorded-sessions-appear-correctly/"><u>Resolving Zoom Playback Issues: Ensuring Recorded Sessions Appear Correctly</u></a></li>
-<li><a href="https://fox-place.techidaily.com/schritt-fur-schritt-guide-fehlende-windows-11-dlls-finden-und-ersetzen/"><u>Schritt-Für-Schritt-Guide: Fehlende Windows 11-DLLs Finden Und Ersetzen</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-8-choices-affordable-open-source-videoconferencing-apps/"><u>Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-replacement-for-syncback-discover-aomei-backupper-compatible-with-windows-111087/"><u>Top Replacement for SyncBack: Discover AOMEI Backupper Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zodiac-wisdom-in-101-whatsapp-bio-ideas/"><u>Zodiac Wisdom in 101 WhatsApp Bio Ideas</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728471179458-e/"><u>このフォルダにロックがかかっており、開く許可が得らeる方法 - トラブルシューティングチャネル</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[New] Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-youtube-interaction-with-emojis/"><u>[New] In 2024, Boosting YouTube Interaction with Emojis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-guide-how-to-obtain-and-use-the-wacom-intuos-pro-driver-on-windows-10/"><u>[Quick Setup Guide]: How to Obtain and Use the Wacom Intuos Pro Driver on Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] 2024 Approved A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb/"><u>[Updated] In 2024, What Actions Can I Take if My Content Is Swiftly Stripped by FB?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/404-not-found-how-to-fix-pages-that-cant-be-located-on-your-website/"><u>404 Not Found: How to Fix Pages That Can't Be Located on Your Website</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-restore-default-configuration-for-a-dell-device-in-windows-operating-systems-xpvista710/"><u>How to Restore Default Configuration for a Dell Device in Windows Operating Systems (XP/Vista/7/10)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/lost-no-more-a-step-by-step-guide-to-retrieve-and-rebuild-vanished-firefox-bookmarks/"><u>Lost No More: A Step-by-Step Guide to Retrieve and Rebuild Vanished Firefox Bookmarks</u></a></li>
+<li><a href="https://fox-place.techidaily.com/pasos-faciles-y-seguros-para-cambiar-tu-sistema-operativo-al-ssd-mas-compacto-una-guia-de-3-etapas/"><u>Pasos Fáciles Y Seguros Para Cambiar Tu Sistema Operativo Al SSD Más Compacto: Una Guía De 3 Etapas</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/premier-asian-tongues-leading-three-countries/"><u>Premier Asian Tongues: Leading Three Countries</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728462475879-ssdwindows-11/"><u>SSDコピーに違いなく、Windows 11専用の最高ソフトウェアを見つけた！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-xlivedll-errors-in-windows-operating-systems/"><u>Step-by-Step Fixes for Missing Xlive.dll Errors in Windows Operating Systems ⚙️</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/understanding-windows-power-management-tools-exploring-their-objectives-and-functions/"><u>Understanding Window's Power Management Tools: Exploring Their Objectives and Functions</u></a></li>
 </ul></div>
 

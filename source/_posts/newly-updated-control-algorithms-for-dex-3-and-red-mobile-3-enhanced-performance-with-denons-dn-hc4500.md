@@ -1,7 +1,7 @@
 ---
 title: "Newly Updated Control Algorithms for DEX 3 and RED Mobile 3: Enhanced Performance with Denon's DN-HC4500"
-date: 2025-02-07T22:03:32.284Z
-updated: 2025-02-08T22:41:35.826Z
+date: 2025-02-14T01:07:51.740Z
+updated: 2025-02-19T00:40:18.966Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,14 +52,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>[Updated] 2024 Approved Transforming Your Videos' First Impression FB Cover Makeover Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-deciphering-the-value-of-free2x-cam-recorders/"><u>[Updated] Deciphering the Value of Free2X Cam Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-endless-creativity-free-youtube-art-resources-for-2024/"><u>[Updated] Endless Creativity FREE YouTube Art Resources for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-share-enjoy-for-2024/"><u>Capture, Share, Enjoy for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/decouvrez-9-astuces-rapides-pour-resoudre-les-problemes-de-lexplorateur-de-fichiers-sous-windows-11/"><u>Découvrez 9 Astuces Rapides Pour Résoudre Les Problèmes De L'Explorateur De Fichiers Sous Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/steps-to-retrieve-information-from-your-iphone-without-a-previous-backup/"><u>Steps to Retrieve Information From Your iPhone Without a Previous Backup</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-tips-and-tricks-how-to-restore-lost-conversations-in-your-wechat-chats/"><u>Ultimate Tips & Tricks: How to Restore Lost Conversations in Your WeChat Chats</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728483711565-windows-11/"><u>Windows 11並擴頻指南: 最有效的兩種同步文件方法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtubes-short-form-content-key-tips-revealed/"><u>[New] In 2024, Mastering YouTube's Short-Form Content Key Tips Revealed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ners-steps-to-broadcast-on-youtube-via-obs-for-2024/"><u>Beginner's Steps to Broadcast on Youtube via OBS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-regular-and-premium-discord-service/"><u>Comparing Regular and Premium Discord Service</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-guide-to-restoring-windows-server-201/"><u>Complete Guide to Restoring Windows Server 201</u></a></li>
+<li><a href="https://fox-place.techidaily.com/copias-de-seguridad-incrementales-y-diferenciales-gratuitas-con-aomei/"><u>Copias De Seguridad Incrementales Y Diferenciales Gratuitas Con AOMEI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/decouvrez-les-meilleures-ecrans-video-uhd-4k-pour-ordinateur-installation-simplifiee-et-avis-des-lecteurs-authentiques/"><u>Découvrez Les Meilleures Ecrans Vidéo UHD 4K Pour Ordinateur : Installation Simplifiée Et Avis Des Lecteurs Authentiques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/failed-to-find-url-encountered-an-unavailable-page-http-error-404/"><u>Failed to Find URL: Encountered an Unavailable Page (HTTP Error #404)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/first-look-unveiling-the-improved-functionality-of-mods-easy-sidecar-scooter/"><u>First Look: Unveiling the Improved Functionality of Mod's Easy Sidecar Scooter</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-recuperar-documentos-desaparecidos-en-windows-1110-y-mas-alla/"><u>Guía Paso a Paso Para Recuperar Documentos Desaparecidos en Windows 11/10 Y Más Allá</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insight-dji-paper-bird-goggles-functionality/"><u>In 2024, Insight DJI Paper Bird Goggles Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-quintessential-scores-in-8-distinct-movie-spheres/"><u>In 2024, Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>In 2024, The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-basics-of-formatting-an-m2-nvme-ssd-via-asus-bios-step-by-step-tutorial/"><u>Mastering the Basics of Formatting an M.2 NVMe SSD via ASUS BIOS Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-steps-to-successfully-copy-windows-operating-system-onto-an-ssd-drive-on-your-lenovo-laptop/"><u>Simple Steps to Successfully Copy Windows Operating System Onto an SSD Drive on Your Lenovo Laptop</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-secure-data-cloning-tools-pour-les-ssds-intel-trouvez-le-meilleur/"><u>Top Secure Data Cloning Tools Pour Les SSDs Intel - Trouvez Le Meilleur!</u></a></li>
 </ul></div>
 
