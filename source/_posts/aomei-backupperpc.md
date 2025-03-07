@@ -1,7 +1,7 @@
 ---
 title: AOMEI Backupperをコマンドプロンプトで利用したPCのバックアップ手順
-date: 2025-01-12T01:12:40.535Z
-updated: 2025-01-14T21:38:24.979Z
+date: 2025-03-05T12:32:09.530Z
+updated: 2025-03-06T18:35:05.056Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f05d7d6cac870afba65fb3588.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -68,10 +64,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -97,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -108,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -141,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,16 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-asmr-for-restful-slumber/"><u>[New] 2024 Approved Mastering ASMR for Restful Slumber</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-funimate-essentials-for-the-avid-gamer/"><u>[New] In 2024, Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/avigating-channel-disabling-pc-and-phone-guide-for-2024/"><u>[New] Navigating Channel Disabling PC & Phone Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-cut-the-noise-get-smooth-beats-with-our-free-analyzers-today-for-2024/"><u>[Updated] Cut the Noise - Get Smooth Beats with Our FREE Analyzers Today for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-securing-sound-speed-increase-in-the-digital-world-of-spotify/"><u>2024 Approved Securing Sound Speed Increase in the Digital World of Spotify</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728484905102-3/"><u>详解磁盘分区阴影复制错误：通过3种方法获得专业指导</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhance-file-organization-in-macos-with-effective-use-of-dropboxs-selective-sync-feature/"><u>Enhance File Organization in macOS with Effective Use of Dropbox's Selective Sync Feature</u></a></li>
-<li><a href="https://fox-place.techidaily.com/error-de-pantalla-azul-como-solucionar-una-pc-con-windows/"><u>Error De Pantalla Azul: Cómo Solucionar Una PC Con Windows</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-la-copia-de-seguridad-binaria-con-aomei-backupper-en-un-mac/"><u>Guía Paso a Paso Para La Copia De Seguridad Binaria Con AOMEI Backupper en Un Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rectifying-gopro-video-warping-a-step-by-step-guide-for-2024/"><u>Rectifying GoPro Video Warping A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-armored-core-vi-wont-boot-up/"><u>Troubleshooting Steps When Armored Core VI Won't Boot Up</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-your-first-step-towards-virtual-connection-facebook-tutorial/"><u>[New] In 2024, Your First Step Towards Virtual Connection (Facebook Tutorial)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-free-mcb-theme-templates-for-2024/"><u>[Updated] Essential Free MCB Theme Templates for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-swap-genders-on-snapchat-facebook-or-instagram-photos/"><u>[Updated] How to Swap Genders on Snapchat, Facebook or Instagram Photos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-speak-out-altering-soundtracks-in-ps4ps5-games-for-2024/"><u>[Updated] Speak Out Altering Soundtracks in PS4/PS5 Games for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-guide-on-converting-dav-video-files-to-avi/"><u>Complete Guide on Converting DAV Video Files to AVI</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-guide-how-to-change-movies-mov-into-graphics-interchange-format-gif/"><u>Effortless Guide: How to Change Movies (MOV) Into Graphics Interchange Format (GIF)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-soundcloud-reader-seamless-offline-access-to-your-favorite-tunes/"><u>Free SoundCloud Reader – Seamless Offline Access to Your Favorite Tunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>In 2024, Unveiling the LG BP350 A Detailed Performance & Design Study</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-20-zero-copyright-pubg-image-collections/"><u>Leading 20 Zero-Copyright PUBG Image Collections</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios/"><u>New 2024 Approved Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-6-unforgettable-instagram-caption-ideas-for-memorable-photos/"><u>Top 6 Unforgettable Instagram Caption Ideas for Memorable Photos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-rated-photo-album-mobile-application-for-android-devices/"><u>Top-Rated Photo Album Mobile Application for Android Devices</u></a></li>
 </ul></div>
 

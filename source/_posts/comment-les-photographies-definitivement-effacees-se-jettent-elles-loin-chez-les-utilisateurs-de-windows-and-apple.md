@@ -1,7 +1,7 @@
 ---
 title: Comment Les Photographies Definitivement Effacées Se Jettent-Elles Loin Chez Les Utilisateurs De Windows & Apple ?
-date: 2025-01-10T20:04:32.626Z
-updated: 2025-01-14T17:19:20.460Z
+date: 2025-03-02T11:18:53.842Z
+updated: 2025-03-07T01:40:46.072Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b7dfcfb6600bfa088b9589e3.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -52,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -84,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -100,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -113,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -179,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -195,17 +167,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,21 +216,14 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-srt-to-text-transformation-a-modern-technique/"><u>[New] Seamless SRT-to-Text Transformation A Modern Technique</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premium-selection-of-budget-friendly-4k-projectors/"><u>[Updated] 2024 Approved Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-brand-identity-inserting-logos-into-flipbook-projects-on-flipbuildercom/"><u>Adding Brand Identity: Inserting Logos Into FlipBook Projects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/adding-personal-touches-how-to-choose-and-apply-frames-for-edited-images-on-flipbuildercom/"><u>Adding Personal Touches: How to Choose and Apply Frames for Edited Images on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-place.techidaily.com/confirming-your-flip-builder-edition-in-whether-output-ebook-acquisitions-flipbuildercom/"><u>Confirming Your Flip Builder Edition in Whether Output eBook Acquisitions [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-flip-book-ebooks-in-minutes-simple-page-turning-effects-on-flipbuilder/"><u>Create Flip Book Ebooks in Minutes - Simple Page-Turning Effects on FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-interactive-exe-flipbooks-with-ease-run-them-on-your-computer-instantly-using-flipbuilder/"><u>Create Interactive EXE Flipbooks with Ease - Run Them on Your Computer Instantly Using FlipBuilder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-program-ended-what-you-need-to-know-now/"><u>Free Windows 11 Upgrade Program Ended: What You Need to Know Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-obtaining-and-installing-epson-xp-430-drivers-for-windows-users/"><u>Guide to Obtaining and Installing Epson XP-430 Drivers for Windows Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-implement-auto-playing-flip-books-on-your-site-with-flipbuilder/"><u>How to Implement Auto-Playing Flip Books on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-smart-8-hd-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Smart 8 HD without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnect-your-lost-logitech-brio-webcam-expert-advice-on-windows-os-upgrade-issue-resolution-fixed/"><u>Reconnect Your Lost Logitech Brio Webcam: Expert Advice on Windows OS Upgrade Issue Resolution [Fixed]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-privacy-the-ultimate-3-step-guide-to-total-iphone-data-deletion/"><u>Secure Your Privacy: The Ultimate 3-Step Guide to Total iPhone Data Deletion</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-the-full-screen-search-challenge-navigating-keyboard-limitations-on-flipbuilder/"><u>Solving the Full Screen Search Challenge: Navigating Keyboard Limitations on FlipBuilder</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s18e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S18e Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-are-reviews-on-merchandise-streamed-for-cash/"><u>[New] 2024 Approved Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-cozy-living-areas-with-daylight/"><u>[Updated] Crafting Cozy Living Areas with Daylight</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discover-unlimited-stories-free-extensions-and-mobile-marvels-for-2024/"><u>[Updated] Discover Unlimited Stories – FREE Extensions & Mobile Marvels for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-computer-speed-and-responsiveness-with-expert-tips-by-yl-software/"><u>Enhancing Computer Speed and Responsiveness with Expert Tips by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-reasons-behind-malfunctioning-sound-cards-insights-from-yl-computing/"><u>Identifying Reasons Behind Malfunctioning Sound Cards: Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-expertise/"><u>Navigating the World of Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-12-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 12 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-place.techidaily.com/updating-your-scanners-drivers-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Scanner's Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yls-guide-to-optimal-image-conversion-tools-revive-your-antique-snapshots-with-ease/"><u>YL's Guide to Optimal Image Conversion Tools: Revive Your Antique Snapshots with Ease!</u></a></li>
 </ul></div>
 

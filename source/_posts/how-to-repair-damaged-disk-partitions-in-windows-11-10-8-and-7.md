@@ -1,7 +1,7 @@
 ---
 title: How to Repair Damaged Disk Partitions in Windows 11, 10, 8, and 7
-date: 2025-01-11T00:31:07.648Z
-updated: 2025-01-14T20:18:23.668Z
+date: 2025-03-02T13:43:15.647Z
+updated: 2025-03-07T11:24:45.231Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6ab330fc24fdad62a19d7e96.jpeg
@@ -50,10 +50,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
@@ -70,17 +66,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -93,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -153,31 +137,15 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -214,10 +182,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -268,24 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>[New] 2024 Approved Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-eliminate-background-noise-from-video-files-freepriced-for-2024/"><u>[New] Eliminate Background Noise From Video Files (Free/Priced) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-hdr-a-step-by-step-journey-to-perfect-shots/"><u>[New] IPhone HDR A Step-by-Step Journey to Perfect Shots</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-screen-capturing-in-todays-remote-meetings/"><u>[New] Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-traversing-youtube-dialogue-pathways/"><u>[Updated] 2024 Approved Traversing YouTube Dialogue Pathways</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-ps4-the-ultimate-guide-to-capturing-your-games/"><u>[Updated] Mastering PS4 The Ultimate Guide to Capturing Your Games</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-resolving-vmware-vsphere-error-restoration-prohibited-due-to-incompatible-system-configuration/"><u>1. 'Resolving VMware vSphere Error: Restoration Prohibited Due to Incompatible System Configuration'</u></a></li>
-<li><a href="https://fox-place.techidaily.com/8-schnelle-fixes-fur-nicht-synchronisierte-icloud-kontakte-auf-iphone-und-mac/"><u>8 Schnelle Fixes Für Nicht Synchronisierte iCloud-Kontakte Auf iPhone Und Mac</u></a></li>
-<li><a href="https://fox-place.techidaily.com/5a6m5pw05pwz56il77ya5aac5l2v5oy95zue5yplusx5o2f55qe5yplusw5byp5py65zkm56yu6k6w5pys55s16isr56gs56kfic0g5q2l6aqk5oyh5y2x/"><u>完整教程：如何挽回受损的台式机和笔记本电脑硬碟 - 步骤指南</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comment-reprendre-en-main-les-fichiers-supprimes-sur-un-appareil-photo-hasselblad-guide-complet/"><u>Comment Reprendre en Main Les Fichiers Supprimés Sur Un Appareil Photo Hasselblad - Guide Complet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oppo-reno-10-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Oppo Reno 10 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-analysis-of-android-based-lightroom-software-for-2024/"><u>Comprehensive Analysis of Android-Based Lightroom Software for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-successfully-reformat-raw-external-hard-drives-expert-tips-and-tricks/"><u>How to Successfully Reformat Raw External Hard Drives - Expert Tips & Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-a14-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy A14 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/install-microsoft-windows-11-sur-un-nouveau-disque-dur-decouvrez-deux-methodes-faciles-a-suivre/"><u>Install Microsoft Windows 11 Sur Un Nouveau Disque Dur : Découvrez Deux Méthodes Faciles À Suivre</u></a></li>
-<li><a href="https://fox-place.techidaily.com/machen-sie-ihre-dateien-in-windows-10-8-und-7-dauerhaft-unlesbar-eine-umfassende-anleitung/"><u>Machen Sie Ihre Dateien in Windows 10, 8 Und 7 Dauerhaft Unlesbar: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://fox-place.techidaily.com/reviving-lost-memories-a-tutorial-for-restoring-erased-pictures-in-discord-on-a-pc/"><u>Reviving Lost Memories: A Tutorial for Restoring Erased Pictures in Discord on a PC</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transferring-images-seamlessly-across-unmatched-systems-using-aomei-backupper/"><u>Transferring Images Seamlessly Across Unmatched Systems Using AOMEI Backupper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-utilization-a-guide-to-data-management/"><u>Windows Utilization: A Guide to Data Management</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-a-captivated-audience-with-strategic-voiceovers/"><u>[New] 2024 Approved Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[New] Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-srt-conversion-tactics-for-pc-and-mac/"><u>2024 Approved Innovative SRT Conversion Tactics for PC and Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7-profitable-uses-of-a-3d-printer-how-you-can-save-money/"><u>7 Profitable Uses of a 3D Printer: How You Can Save Money</u></a></li>
+<li><a href="https://fox-place.techidaily.com/boost-your-web-design-with-over-170-premium-bootstrap-themes-by-creative-tim-get-started-now/"><u>Boost Your Web Design with Over 170 Premium Bootstrap Themes by Creative Tim – Get Started Now!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/consistency-is-key-ensure-that-units-are-consistent-on-both-sides-of-your-scale-ratio-when-performing-calculations/"><u>Consistency Is Key; Ensure that Units Are Consistent on Both Sides of Your Scale Ratio when Performing Calculations.</u></a></li>
+<li><a href="https://fox-place.techidaily.com/creative-rotating-css-card-technique-inspired-by-html5-up/"><u>Creative Rotating CSS Card Technique - Inspired by HTML5 UP</u></a></li>
+<li><a href="https://fox-place.techidaily.com/creative-tims-innovative-laravel-headless-cms-and-json-api-guide/"><u>Creative Tim's Innovative Laravel Headless CMS & JSON API Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-admin-panel-with-the-laravel-livewire-integration-of-material-dashboard-created-by-creative-tim-and-updivision/"><u>Elevate Your Admin Panel with the Laravel Livewire Integration of Material Dashboard, Created by Creative Tim and UPDIVISION</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-web-development-with-nodejs-check-out-3plus-high-quality-premium-themes-and-frameworks-by-creative-tim/"><u>Elevate Your Web Development with Nodejs: Check Out 3+ High-Quality Premium Themes and Frameworks by Creative Tim</u></a></li>
+<li><a href="https://fox-place.techidaily.com/laravel-vue-argon-admin-panel-advanced-management-interface-designed-by-creative-tim-and-updivision/"><u>Laravel Vue Argon Admin Panel: Advanced Management Interface Designed by Creative Tim and UPDIVISION</u></a></li>
+<li><a href="https://fox-place.techidaily.com/no-cost-react-and-mui-dashboard-design-using-soft-interface-inspired-by-creative-tim/"><u>No Cost React & MUI Dashboard Design Using Soft Interface - Inspired by Creative Tim</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-online-privacy-how-to-perform-a-dns-clean-slate-on-windows-1011/"><u>Optimizing Online Privacy: How to Perform a DNS Clean Slate on Windows 10/11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/over-90-premium-user-interface-design-templates-by-creative-tim-download-free/"><u>Over 90 Premium User Interface Design Templates by Creative Tim - Download Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ranking-the-best-mac-for-flawless-gif-saving-for-2024/"><u>Ranking the Best Mac for Flawless GIF Saving for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nubia-z50-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nubia Z50 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-notch-laptop-bargains-in-july-2024-your-ultimate-guide-featuring-insights/"><u>Top Notch Laptop Bargains in July 2024: Your Ultimate Guide - Featuring Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-tier-free-screen-capture-programs-2023-edition-for-2024/"><u>Top-Tier Free Screen Capture Programs – 2023 Edition for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v30-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V30 Pro Phones</u></a></li>
 </ul></div>
 

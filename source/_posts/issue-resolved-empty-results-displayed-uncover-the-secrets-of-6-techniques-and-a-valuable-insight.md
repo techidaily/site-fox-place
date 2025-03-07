@@ -1,7 +1,7 @@
 ---
 title: "Issue Resolved: Empty Results Displayed - Uncover the Secrets of 6 Techniques & a Valuable Insight"
-date: 2025-01-09T22:20:01.707Z
-updated: 2025-01-14T17:58:35.426Z
+date: 2025-03-02T12:11:59.091Z
+updated: 2025-03-07T04:49:12.207Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
@@ -24,10 +24,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
@@ -41,10 +37,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -69,10 +61,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 1**. Öffnen Sie die Windows-Einstellungen, indem Sie die Tasten „**Win + I**“ drücken, und klicken Sie auf die Schaltfläche „**Personalisierung**“.
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
@@ -126,10 +114,6 @@ Sicherer Download
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
 Angesichts der Bedeutung von Sicherheitsmaßnahmen wie regelmäßigen Backups, um Datenverlust zu vermeiden, fragen Sie sich vielleicht, ob es spezielle Software zur Datenverlustprävention für Windows-Computer gibt.
@@ -157,23 +141,11 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -211,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,17 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-explore-top-10-dynamic-picture-background-switchers-for-2024/"><u>[Updated] Explore Top 10 Dynamic Picture-Background Switchers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-compreranly-curated-list-best-free-srt-translators-online/"><u>A Compreranly Curated List Best Free SRT Translators Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/htful-digests-a-list-of-top-food-channels/"><u>Delightful Digests A List of Top Food Channels</u></a></li>
-<li><a href="https://fox-place.techidaily.com/direct-ebook-page-linking-techniques-no-acrobat-pro-edits-needed-discover-how-with-flipbuilder/"><u>Direct eBook Page Linking Techniques: No Acrobat Pro Edits Needed! Discover How with FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/expert-tips-for-minimizing-the-overall-size-of-your-digital-photo-album-in-flipbook-maker-try-it-today-at-flipbuildercom/"><u>Expert Tips for Minimizing the Overall Size of Your Digital Photo Album in Flipbook Maker - Try It Today at [FlipBuilder.com]!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/exploring-the-language-options-in-flipbuilders-menu-bar-what-languages-are-available/"><u>Exploring the Language Options in FlipBuilder's Menu Bar - What Languages Are Available?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-latest-how-do-apples-airpods/"><u>Exploring the Latest: How Do Apple's AirPods</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-can-you-maximize-your-viewing-experience-with-flipbook-on-flipbuildercom/"><u>How Can You Maximize Your Viewing Experience with FlipBook on FlipBuilder.com?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-ucc-is-a-set-of-laws-designed-to-harmonize-commercial-transactions-across-the-united-states/"><u>The UCC Is a Set of Laws Designed to Harmonize Commercial Transactions Across the United States.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ultimate-choices-for-accurate-3ds-simulators-pc-edition-for-2024/"><u>Ultimate Choices for Accurate 3DS Simulators, PC Edition for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-selection-zdnets-pick-for-the-finest-computer-mouse-pads-in-2-groovy-titles-that-maintain-a-similar-meaning-to-the-5-best-mouse-pads-146/"><u>Unveiling the Ultimate Selection: ZDNet's Pick for the Finest Computer Mouse Pads in 2 Groovy Titles that Maintain a Similar Meaning to The 5 Best Mouse Pads of 2022 | ZDNET.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-streamline-creativity-with-1-to-5-mac-editors-for-sierra-users/"><u>[Updated] Streamline Creativity with #1 to #5 Mac Editors for Sierra Users</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-tutorial-on-file-compressiondecompression-using-yl-software-solutions/"><u>Comprehensive Tutorial on File Compression/Decompression Using YL Software Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-walkthrough-on-creating-accessible-video-synopses/"><u>Comprehensive Walkthrough on Creating Accessible Video Synopses</u></a></li>
+<li><a href="https://fox-place.techidaily.com/disabling-boot-up-software-on-your-pc-using-windows-system-configuration-expert-advice-by-yl-software-solutions/"><u>Disabling Boot-Up Software on Your PC Using Windows System Configuration - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/dive-into-fixes-for-your-troublesome-instagram-video-for-2024/"><u>Dive Into Fixes for Your Troublesome Instagram Video for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-defy-2-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Defy 2 support MKV video files?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-the-world-of-digital-scratch-essential-techniques-and-top-software-tools-for-modern-disc-jockeys/"><u>Exploring the World of Digital Scratch: Essential Techniques & Top Software Tools for Modern Disc Jockeys</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-obtain-consent-from-trustedinstaller-before-making-file-adjustments/"><u>How to Obtain Consent From TrustedInstaller Before Making File Adjustments</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-faulty-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Identifying Faulty Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/navigating-your-order-with-mirillis-complete-guide-to-transaction-steps-and-acceptable-currencies/"><u>Navigating Your Order with Mirillis: Complete Guide to Transaction Steps & Acceptable Currencies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-for-your-malfunctioning-graphics-unit-guidance-by-yl-software-experts/"><u>Solutions for Your Malfunctioning Graphics Unit - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-when-your-printer-alerts-low-or-no-ink-tips-from-yl-computings-tech-experts/"><u>Solutions When Your Printer Alerts Low or No Ink - Tips From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-tweaking-your-pcs-hardware-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Tweaking Your PC's Hardware Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028113-9781620557914-the-mirror-of-magic-6th-ed/"><u>The Mirror of Magic (6th ed.) | Free Book</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-laptop-boot-failures-with-tips-from-yl-software-experts/"><u>Troubleshooting Laptop Boot Failures with Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-eliminating-lag-in-sims-4-pc-for-gaming-nirvana-expert-strategies-2n4/"><u>Ultimate Guide to Eliminating Lag in Sims 4 (PC) for Gaming Nirvana - Expert Strategies 2N4!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/unveiling-the-threats-comprehensive-analysis-of-viruses-identified-by-windows-defender-insights-from-yl-computing/"><u>Unveiling the Threats: Comprehensive Analysis of Viruses Identified by Windows Defender - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restoring Deleted or Accidentally Altered Text in Microsoft Word Files (DOCX) on Windows 11"
-date: 2025-01-10T00:57:04.770Z
-updated: 2025-01-14T20:04:07.225Z
+date: 2025-03-03T14:31:12.429Z
+updated: 2025-03-06T23:49:47.790Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc906108c430d8c2e295ba6edd5cf6.jpg
@@ -24,17 +24,9 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -63,10 +55,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -101,10 +89,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -115,10 +99,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Disk with Norton Ghost
 
 1\. Connect your new hard drive to your computer.
@@ -126,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -199,10 +175,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool for computer backup, restore and clone, but you need to pay for it. Fortunately, there’s another choice - AOMEI Backupper Standard. This free alternative offers all-around backup options to protect your data all the time. 
@@ -210,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -273,15 +241,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,16 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-12-essential-websites-for-stunning-fb-profile-pictures/"><u>[New] 2024 Approved 12 Essential Websites for Stunning FB Profile Pictures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-innovative-mini-houses-with-an-oriental-twist/"><u>[New] In 2024, Innovative Mini Houses with an Oriental Twist</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-picks-superior-cloud-space-solutions/"><u>[Updated] In 2024, Top Picks Superior Cloud Space Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/content-platform-wars-direct-engagement-or-wider-distribution-twitch-vs-youtube/"><u>Content Platform Wars Direct Engagement or Wider Distribution? – Twitch Vs YouTube</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customize-components-rules-and-preferences-through-admin-control-panel/"><u>Customize Components' Rules & Preferences Through Admin Control Panel</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-techniques-to-restore-lost-footage-on-your-android-device/"><u>Easy Techniques to Restore Lost Footage on Your Android Device</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effortless-transition-from-pal-to-ntsc-mastering-the-art-of-dvd-format-changes-with-handbrack/"><u>Effortless Transition From PAL to NTSC - Mastering the Art of DVD Format Changes with Handbrack</u></a></li>
-<li><a href="https://fox-place.techidaily.com/enhancing-your-programs-with-advanced-edit-parameter-options/"><u>Enhancing Your Programs with Advanced Edit Parameter Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-5-v-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 5 V Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-and-editing-isapi-filter-options-in-iis-manager/"><u>Understanding and Editing ISAPI Filter Options in IIS Manager</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-your-favorite-tiktok-sound-a-phones-custom-ringtone/"><u>[Updated] Make Your Favorite TikTok Sound a Phone's Custom Ringtone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[Updated] Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-activatingdeactivating-picture-in-picture-youtube-viewing-on-iphone/"><u>2024 Approved Activating/Deactivating Picture In Picture YouTube Viewing on iPhone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/adjusting-screen-resolution-in-windows-11-a-step-by-step-guide-from-yl-computings-expert-team/"><u>Adjusting Screen Resolution in Windows 11 - A Step-by-Step Guide From YL Computing's Expert Team</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-microsoft-surface-pro/"><u>Comprehensive Microsoft Surface Pro</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ensuring-your-scanners-drivers-work-on-windows-a-guide-by-yl-computing/"><u>Ensuring Your Scanner's Drivers Work on Windows: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/explore-a-gallery-of-stunning-christian-grey-desktop-photos-images-and-digital-artwork-curated-by-yl-computing-studio/"><u>Explore a Gallery of Stunning Christian Grey Desktop Photos, Images, and Digital Artwork - Curated by YL Computing Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos-for-2024/"><u>Faces in Flux Perfecting Motion Blur on Human Figures in Photos for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fix-graphic-card-glitches-with-ease-learn-how-at-yl-computing/"><u>Fix Graphic Card Glitches with Ease - Learn How at YL Computing!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-11-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 11 5G FRP?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/identifying-and-solving-motherboard-issues-in-your-computer-expert-advice-from-yl-computing/"><u>Identifying and Solving Motherboard Issues in Your Computer - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a05-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A05? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/kostenlose-dvd-ripping-mit-schutzmechanismen-unter-verwendung-von-vlc-media-player-und-handbrake/"><u>Kostenlose DVD-Ripping Mit Schutzmechanismen Unter Verwendung Von VLC Media Player Und HandBrake</u></a></li>
+<li><a href="https://fox-place.techidaily.com/oliver-and-company-themed-graphics-desktop-wallpapers-by-yl-computing-professional-software-solutions/"><u>Oliver & Company Themed Graphics, Desktop Wallpapers by YL Computing - Professional Software Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/practical-techniques-for-rapid-deletion-of-comments-for-2024/"><u>Practical Techniques for Rapid Deletion of Comments for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-with-ease-tips-from-yl-software/"><u>Step-by-Step Guide: Updating Your PC Wallpaper with Ease - Tips From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubled-by-sound-card-errors-fix-them-now-expert-tips-from-yl-software/"><u>Troubled by Sound Card Errors? Fix Them Now - Expert Tips From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-windows-defender-comprehensive-security-explained-by-yl-computing/"><u>Understanding Windows Defender: Comprehensive Security Explained by YL Computing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-free-dual-screen-video-editing-software-web-and-desktop/"><u>Updated 2024 Approved Top Free Dual-Screen Video Editing Software Web & Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comment Copier Une Carte SD Sur Ordinateur en Sécurité?
-date: 2025-01-11T23:38:00.007Z
-updated: 2025-01-14T17:51:21.458Z
+date: 2025-02-28T02:30:26.701Z
+updated: 2025-03-07T10:12:47.429Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c106634028a5e9ccbf41fc2d01.jpg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -51,14 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -90,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -118,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -138,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -155,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -183,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -198,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,19 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-path-to-cross-media-popularity-via-television-and-fb-live/"><u>[New] The Path to Cross-Media Popularity via Television and FB Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] 2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-restore-lost-watch-icon-on-facebook/"><u>[Updated] Restore Lost Watch Icon on Facebook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies/"><u>2024 Approved Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1628547-9780748111657-becoming-clairvoyant/"><u>Becoming Clairvoyant | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/exceptionally-good-google-play-pass-with-one-glitch/"><u>Exceptionally Good Google Play Pass with One Glitch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-a-strong-introduction-url/"><u>In 2024, Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-theme-management-in-flipbook-pro-essential-guide/"><u>Mastering Theme Management in FlipBook Pro: Essential Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-your-digital-content-adding-a-logo-in-flipbuilder-ebooks/"><u>Personalize Your Digital Content: Adding a Logo in FlipBuilder Ebooks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/revolutionize-sales-material-creation-digital-conversion-of-pdfs-using-flipbuilders-innovative-techflipbuildercom/"><u>Revolutionize Sales Material Creation: Digital Conversion of PDFs Using FlipBuilder's Innovative Tech[/FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-place.techidaily.com/sharing-your-flipbook-ebooks-on-social-media-easy-guide-for-facebook-twitter-and-linkedin-flipbuilder/"><u>Sharing Your FlipBook eBooks on Social Media - Easy Guide for Facebook, Twitter & LinkedIn | FlipBuilder</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-mechanics-of-sharing-with-flipbuilder-insights-and-tips/"><u>The Mechanics of Sharing with FlipBuilder: Insights and Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/transform-your-pdfs-into-engaging-digital-flipbooks-including-precise-page-selection-and-navigation-learn-more-at-flipbuildercom/"><u>Transform Your PDFs Into Engaging Digital Flipbooks, Including Precise Page Selection & Navigation - Learn More at [FlipBuilder.com]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[New] 2024 Approved Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-virtual-paths-to-fitness-ranking-elite-treadmills-for-2024/"><u>[New] Virtual Paths to Fitness Ranking Elite Treadmills for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>[Updated] Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-gt-neo-5-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme GT Neo 5 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/6ziy5q2i5pww5o2u5lii5asx77ya5l255so5pah5lu255ur6keg5zmo5zyo5yplusx5o6n5lil5yig6zmk5pah5lu255qe5lqu5liq5oqa5ben/"><u>防止数据丢失：使用文件监视器在受控下删除文件的五个技巧</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/can-you-fix-a-faulty-graphics-processor-unit-gpu-expert-advice-from-yl-computing-and-software-solutions/"><u>Can You Fix a Faulty Graphics Processor Unit (GPU)? Expert Advice From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-tv-stands-of-202-expert-analysis-by-zdnet/"><u>Discover the Ultimate TV Stands of 202#: Expert Analysis by ZDnet</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ensuring-optimal-performance-confirm-your-gpu-drivers-are-up-to-date-on-windows-tips-by-yl-computing/"><u>Ensuring Optimal Performance: Confirm Your GPU Drivers Are Up-to-Date on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hps-bad-bios-dilemma-automatic-firmware-updates-causing-display-malfunctions-in-probook-laptops/"><u>HP's Bad BIOS Dilemma: Automatic Firmware Updates Causing Display Malfunctions in ProBook Laptops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-pillars-of-profitable-digital-marketing/"><u>In 2024, The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/insider-trick-to-flawlessly-adding-songs-to-your-library-in-dex-3-or-lyrx-essential-download-tips-for-spin-masters-and-karaoke-maestros/"><u>Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-your-screen-easy-steps-to-modify-display-settings-with-yls-control-panel-tips/"><u>Master Your Screen: Easy Steps to Modify Display Settings with YL's Control Panel Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximize-your-singing-experience-discover-the-benefits-of-a-karaoke-cloud-pro-membership/"><u>Maximize Your Singing Experience: Discover the Benefits of a Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://fox-place.techidaily.com/personalize-and-optimize-your-taskbar-on-windows-11-with-tips-from-yl-software-experts/"><u>Personalize and Optimize Your Taskbar on Windows 11 with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-personalizing-your-mouse-preferences-with-windows-control-panel-tips-from-yl-software/"><u>Step-by-Step Guide: Personalizing Your Mouse Preferences with Windows Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-to-avoid-memory-issues-on-your-windows-pc-tips-from-yl-computing/"><u>Top Strategies to Avoid Memory Issues on Your Windows PC - Tips From YL Computing</u></a></li>
 </ul></div>
 

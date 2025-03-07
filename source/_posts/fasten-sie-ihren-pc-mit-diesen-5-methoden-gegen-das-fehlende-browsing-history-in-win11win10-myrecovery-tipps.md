@@ -1,7 +1,7 @@
 ---
 title: Fasten Sie Ihren PC Mit Diesen 5 Methoden Gegen Das Fehlende Browsing History in Win11/Win10 - MyRecovery Tipps
-date: 2025-01-12T20:46:40.207Z
-updated: 2025-01-15T00:06:43.139Z
+date: 2025-03-01T18:32:20.518Z
+updated: 2025-03-07T13:58:16.477Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b98e37e8d331924ca8f4791a.jpg
@@ -50,10 +50,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
@@ -74,17 +70,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -122,10 +110,6 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
@@ -161,10 +145,6 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 ## Zusammenfassung
@@ -199,17 +179,9 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -235,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -246,10 +214,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 [**Freeware Herunterladen**  Win PCs & Server](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -268,24 +232,17 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-budget-friendly-digital-screen-reader/"><u>[Updated] 2024 Approved Best Budget-Friendly Digital Screen Reader</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-jokes-that-rule-top-twenty-on-social-networks/"><u>[Updated] Jokes that Rule Top Twenty on Social Networks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-photoshop-techniques-for-dynamic-realistic-text/"><u>2024 Approved Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-6s-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 6s to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/advanced-xaml-element-search-techniques/"><u>Advanced XAML Element Search Techniques</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-various-virtualization-implementation-models/"><u>Comprehensive Guide to Various Virtualization Implementation Models</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-component-settings-through-edit-property-interface/"><u>Customizing Component Settings Through Edit Property Interface</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-benefits-of-maxoaks-robust-battery-pack-185-wh50000-mah-your-reliable-companero-in-tech-adventures/"><u>Discover the Benefits of MaxOak’s Robust Battery Pack (185 Wh/50,000 mAh) – Your Reliable Companero in Tech Adventures</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-free-heic-image-converter-supports-windows-11-10-8-and/"><u>Download Free HEIC Image Converter: Supports Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-parameters-for-software-setup-and-configuration/"><u>Effective Parameters for Software Setup & Configuration</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-access-and-configure-the-import-wizard-a-step-by-step-guide/"><u>How to Access and Configure the Import Wizard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/how-to-elevate-your-pcdj-skills-for-inclusion-in-top-tier-vendor-rankings/"><u>How to Elevate Your PCDJ Skills for Inclusion in Top-Tier Vendor Rankings</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/innovative-solutions-exceptional-i-services-for-your-success/"><u>Innovative Solutions: Exceptional I Services for Your Success</u></a></li>
-<li><a href="https://fox-place.techidaily.com/seamlessly-project-iphone-display-onto-vizio-tv-ultimate-how-to-tutorial/"><u>Seamlessly Project iPhone Display Onto Vizio TV – Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://fox-place.techidaily.com/utilizing-iscriptfilefromproperty-for-powerful-custom-sharepoint-features/"><u>Utilizing IScriptFileFromProperty for Powerful Custom SharePoint Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-essential-guide-to-aspect-ratio-standards-on-yt/"><u>[Updated] In 2024, The Essential Guide to Aspect Ratio Standards on YT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-marketers-insight-sifting-through-false-social-endorsements/"><u>2024 Approved Marketer’s Insight Sifting Through False Social Endorsements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-windows-10-bluetooth-not-detected-problems-get-connected-now/"><u>Easy Fixes for Windows 10 Bluetooth Not Detected Problems – Get Connected Now!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-tech-adjustments-modifying-system-appearance-via-windows-control-panel-expert-insights-from-yl-software/"><u>Easy Tech Adjustments: Modifying System Appearance via Windows Control Panel – Expert Insights From YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-for-families-navigating-through-gpt-ai-insights/"><u>Guide for Families: Navigating Through GPT, AI Insights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-find-and-install-compatible-device-drivers-on-windows-systems-with-guidance-from-yl-software-experts/"><u>How to Find and Install Compatible Device Drivers on Windows Systems with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-12-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 12 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-poco-f5-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Poco F5 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/intermittent-computer-display-issues-uncover-the-reasons-behind-your-screens-random-blackouts/"><u>Intermittent Computer Display Issues: Uncover the Reasons Behind Your Screen's Random Blackouts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-compatibility-problems-for-3d-apps-on-laptopspcs-by-yl-computing-expert-solutions/"><u>Solving Compatibility Problems for 3D Apps on Laptops/PCs by YL Computing | Expert Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-scanner-issues-why-does-it-jam-and-stop-working-insights-by-yl-computing-specialists/"><u>Troubleshooting Scanner Issues: Why Does It Jam and Stop Working? Insights by YL Computing Specialists</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 & DEX 3 RE Compatibility with MacOS High Sierra: Features in LYRX for PCDJ Enthusiasts"
-date: 2025-02-17T01:36:10.862Z
-updated: 2025-02-19T02:36:08.337Z
+date: 2025-03-06T02:26:14.430Z
+updated: 2025-03-07T03:19:24.745Z
 tags:
   - product
 categories:
@@ -35,10 +35,6 @@ Elevate your DJ game with [DEX 3](https://tools.techidaily.com/pcdj/products/) o
 
 _**PCDJ enables you to #MixEverything**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-09-29 09:48:412018-10-02 12:58:08macOS High Sierra Is Supported In DEX 3, DEX 3 RE And LYRX}
@@ -58,17 +54,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/macoshighsierra-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-explore-engaging-exchange-zones/"><u>[Updated] 2024 Approved Explore Engaging Exchange Zones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/camera-shake-in-photographyvideo-what-you-need-to-know/"><u>Camera Shake In Photography/Video | What You Need to Know</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-googles-latest-nest-hub-why-no-camera-yet/"><u>Comprehensive Review of Google's Latest Nest Hub - Why No Camera Yet?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/entsperren-sie-die-icloud-aktivierungsbeschrankung-schlussel-zur-passwortfreien-losung/"><u>Entsperren Sie Die iCloud-Aktivierungsbeschränkung - Schlüssel Zur Passwortfreien Lösung!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/essential-tips-for-complete-laptop-fix-and-revival-techniques/"><u>Essential Tips for Complete Laptop Fix and Revival Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecti-essential-apps-for-iphone-slide-show-creation/"><u>In 2024, Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/potential-pitfalls-in-virtual-realms/"><u>Potential Pitfalls in Virtual Realms</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-move-your-applications-seamlessly-between-pcs-using-windows-11/"><u>Quick Guide: How to Move Your Applications Seamlessly Between PCs Using Windows 11</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simple-methods-for-converting-your-ide-hard-drive-or-ssd-to-a-sata-device-in-various-windows-operating-systems/"><u>Simple Methods for Converting Your IDE Hard Drive or SSD to a SATA Device in Various Windows Operating Systems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-hp-error-code-0xc000021a-identifying-causes-and-effective-solutions/"><u>Understanding HP Error Code 0xC000021A: Identifying Causes & Effective Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-your-creative-potential-without-spending-for-2024/"><u>Unlocking Your Creative Potential Without Spending for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-your-ultimate-guide-best-mac-screen-recorders/"><u>[New] 2024 Approved Your Ultimate Guide Best Mac Screen Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimize-your-auditory-experience-convert-and-share-via-youtube/"><u>[New] Optimize Your Auditory Experience Convert and Share Via YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-depth-look-at-worlds-best-live-streaming-sites-for-2024/"><u>[Updated] In-Depth Look at World's Best Live Streaming Sites for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/beenden-sie-die-storung-durch-den-blauen-bildschirm-auf-windows-11-mit-sechs-praktischen-fixes/"><u>Beenden Sie Die Störung Durch Den Blauen Bildschirm Auf Windows 11 Mit Sechs Praktischen Fixes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-walkthrough-resolving-error-0x800f0954-on-windows-11/"><u>Comprehensive Walkthrough: Resolving Error 0X800f0954 on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizing-workouts-with-ai-trainers-guide/"><u>Customizing Workouts with AI: Trainers' Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/five-simple-methods-for-moving-pictures-from-pc-to-ipad/"><u>Five Simple Methods for Moving Pictures From PC to iPad</u></a></li>
+<li><a href="https://fox-place.techidaily.com/hassle-free-and-secure-methods-for-cloning-hard-drives-with-hirens-bootcd/"><u>Hassle-Free and Secure Methods for Cloning Hard Drives with Hiren's BootCD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intels-ai-visionary-wei-li-on-democratizing-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Intel's AI Visionary, Wei Li, on Democratizing AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-best.techidaily.com/optimize-your-enterprise-transformation-journey-through-process-intelligence-techniques/"><u>Optimize Your Enterprise Transformation Journey Through Process Intelligence Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/procedes-de-sauvegarde-des-systemes-locaux-pour-windows-11-10-8-et-7-trois-methodes-efficaces/"><u>Procédés De Sauvegarde Des Systèmes Locaux Pour Windows 11, 10, 8 Et 7: Trois Méthodes Efficaces</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-eating-made-simple-design-a-wholesome-food-plan-using-chatgpt/"><u>Smart Eating Made Simple: Design a Wholesome Food Plan Using ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-s18-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo S18 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/wie-man-windows-11-reibungslos-auf-eine-kompaktere-solid-state-festplatte-ubertragen-kann/"><u>Wie Man Windows 11 Reibungslos Auf Eine Kompaktere Solid-State-Festplatte Übertragen Kann</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728465797767-windows-7/"><u>セットアップ情報が見つからず: Windows 7で復元方法を学ぶ</u></a></li>
 </ul></div>
 

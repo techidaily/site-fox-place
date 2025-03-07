@@ -1,7 +1,7 @@
 ---
 title: "Insider Trick to Flawlessly Adding Songs to Your Library in DEX 3 or LYRX: Essential Download Tips for Spin Masters and Karaoke Maestros"
-date: 2025-02-14T21:21:15.903Z
-updated: 2025-02-19T00:07:30.638Z
+date: 2025-03-04T05:38:31.151Z
+updated: 2025-03-07T13:09:36.408Z
 tags:
   - product
 categories:
@@ -24,25 +24,13 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Nest and Set
 
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
 
@@ -59,10 +47,6 @@ Here’s where you make the choice:
 * Click “Change” to pick a new default download spot – this should be the folder you’ve nested in your DJ software.
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 5: Wrap It Up
 
 Finish off by closing the “Settings” tab. You’re all set!
@@ -70,10 +54,6 @@ Finish off by closing the “Settings” tab. You’re all set!
 That’s all there is to it. Now, whenever you find yourself needing to download a new track through Chrome, it will automatically save in your pre-selected, nested folder. Jump back into [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](http://www.lyrxkaraoke.com/), click on your favorites, and voilà, your fresh track awaits, ready to be unleashed on your eager audience.
 
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -94,24 +74,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[New] 2024 Approved Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-premium-zoom-audio-quality-with-simple-adjustments/"><u>[New] Unleash Premium Zoom Audio Quality with Simple Adjustments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unbeatable-online-and-desktop-gif-maker-options/"><u>[Updated] 2024 Approved Unbeatable Online & Desktop GIF Maker Options</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[Updated] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premier-sound-pivot-for-podcast-masters/"><u>[Updated] In 2024, Premier Sound Pivot for Podcast Masters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>[Updated] Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
-<li><a href="https://fox-place.techidaily.com/aomei-backupperpc/"><u>AOMEI Backupperをコマンドプロンプトで利用したPCのバックアップ手順</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/r-bliss-savor-your-complimentary-set-of-designs/"><u>Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728492877111-clonezilla/"><u>Clonezillaで失敗するときの回復方法</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-steps-to-moving-your-operating-system-from-hdd-to-solid-state-drive/"><u>Comprehensive Steps to Moving Your Operating System From HDD to Solid State Drive</u></a></li>
-<li><a href="https://fox-place.techidaily.com/error-unable-to-locate-webpage-encountered-a-missing-page-issue/"><u>Error: Unable to Locate Webpage – Encountered a Missing Page Issue</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fixing-the-problem-overcoming-rdp-lock-ups-on-windows-server-2019/"><u>Fixing the Problem: Overcoming RDP Lock-Ups on Windows Server 2019</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-sharing-your-screen-in-skype-work-sessions/"><u>In 2024, The Ultimate Guide to Sharing Your Screen in Skype Work Sessions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/les-plus-performants-programmes-de-clonage-cle-usb-vers-ssd-pour-windows-10-et-7/"><u>Les Plus Performants Programmes De Clonage Clé USB Vers SSD Pour Windows 10 Et 7</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolver-el-error-de-falta-de-espacio-en-su-disco-duro-para-windows-11-8-o-7/"><u>Resolver El Error De Falta De Espacio en Su Disco Duro Para Windows 11, 8 O 7</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solutions-rapides-pour-recuperer-lespace-disque-sur-une-cle-usb-avec-windows-1011/"><u>Solutions Rapides Pour Récupérer L'espace Disque Sur Une Clé USB Avec Windows 10/11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/troubleshooting-common-issues-when-uploading-to-apple/"><u>Troubleshooting Common Issues When Uploading to Apple</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-transferring-windows-files-seamlessly-to-your-samsung-ssd/"><u>Ultimate Guide: Transferring Windows Files Seamlessly to Your Samsung SSD</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/verlustfreies-dvd-rippen-mit-originaler-qualitat-die-ultimative-anleitung/"><u>Verlustfreies DVD-Rippen Mit Originaler Qualität - Die Ultimative Anleitung</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cutting-through-steps-posting-tiktok-videos-on-twitter-for-2024/"><u>[Updated] Cutting Through Steps Posting TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-revamped-sony-bdp-s6700/"><u>[Updated] Inside the Revamped Sony BDP-S6700</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728509144870-windows-11113/"><u>如何在保存所有数据的同时进行Windows 11/11系统复装：专家提供的3个策略</u></a></li>
+<li><a href="https://fox-place.techidaily.com/clonezilla-alerts-overcoming-the-issue-of-insufficient-target-disk-size/"><u>Clonezilla Alerts - Overcoming the Issue of Insufficient Target Disk Size</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-gaming-with-the-titan-army-p2-groggy180hz-a-detailed-performance-evaluation/"><u>Experience Unmatched Gaming with the Titan Army P2 Groggy180Hz - A Detailed Performance Evaluation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-tips-on-restoring-lost-information-from-defective-memory-cards/"><u>Expert Tips on Restoring Lost Information From Defective Memory Cards</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-scoop-on-free-android-16-upcoming-version-predicted-price-range-and-specs-dont-miss-out/"><u>Get the Scoop on Free Android 16: Upcoming Version, Predicted Price Range & Specs - Don't Miss Out!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-movie-edits-the-best-tools-ranked/"><u>Mastering Movie Edits The Best Tools Ranked</u></a></li>
+<li><a href="https://fox-place.techidaily.com/methoden-zur-rekonstruktion-geloschter-dateien-nach-zeitstempel-schritt-fur-schritt-anleitung/"><u>Methoden Zur Rekonstruktion Gelöschter Dateien Nach Zeitstempel – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-final-cut-pro-x-freezing-and-crashing-issues-2023-update-for-2024/"><u>Resolving Final Cut Pro X Freezing and Crashing Issues (2023 Update) for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-6-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 6</u></a></li>
 </ul></div>
 

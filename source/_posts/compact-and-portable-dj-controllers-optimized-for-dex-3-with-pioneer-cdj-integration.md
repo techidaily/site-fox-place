@@ -1,7 +1,7 @@
 ---
 title: "Compact and Portable DJ Controllers: Optimized for DEX 3 with Pioneer CDJ Integration"
-date: 2025-02-12T01:44:54.240Z
-updated: 2025-02-18T23:43:58.672Z
+date: 2025-03-06T14:24:01.613Z
+updated: 2025-03-07T07:21:58.961Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
 
 1) **Hercules DJControl Starlight**
@@ -40,10 +36,6 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 
   
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
 
@@ -59,10 +51,6 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
   
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) **Numark Party Mix**
 
 The professional DJ features that come with the Numark Party Mix include four cue points with readily accessible pads for effects. DJs can toggle through the Pad Mode and find auto loop functions and create loops on 8, 4, 2 and 1-bar phrases. Add instant effects to tracks and toggle to sampler mode for to control DEX 3’s sampler (only available on DEX 3 Pro, not included with DEX 3 RE). Control your EQ with treble, bass, channel gain and master gain. The Party Mix includes a built-in 2 channel audio interface which means you have all the connections you need to send your mix of music to the speakers, while using your headphones to preview the next track. **Retail: $99.99**
@@ -70,17 +58,9 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -101,18 +81,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[New] Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-youtube-interaction-with-emojis/"><u>[New] In 2024, Boosting YouTube Interaction with Emojis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-setup-guide-how-to-obtain-and-use-the-wacom-intuos-pro-driver-on-windows-10/"><u>[Quick Setup Guide]: How to Obtain and Use the Wacom Intuos Pro Driver on Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] 2024 Approved A Detailed Guide to Advanced Human Interface Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb/"><u>[Updated] In 2024, What Actions Can I Take if My Content Is Swiftly Stripped by FB?</u></a></li>
 <li><a href="https://fox-place.techidaily.com/404-not-found-how-to-fix-pages-that-cant-be-located-on-your-website/"><u>404 Not Found: How to Fix Pages That Can't Be Located on Your Website</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-a05s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy A05s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/aomei-data-keeper-comprehensive-tutorial-videos/"><u>AOMEI Data Keeper: Comprehensive Tutorial Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-macaus-linguistic-mosaic-cantonese-macanese-and-portuguese-languages/"><u>Exploring Macau’s Linguistic Mosaic: Cantonese, Macanese, and Portuguese Languages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-mute-mode-on-pcs-a-step-by-step-guide/"><u>Fixing Mute Mode on PCs: A Step-by-Step Guide</u></a></li>
 <li><a href="https://fox-place.techidaily.com/how-to-restore-default-configuration-for-a-dell-device-in-windows-operating-systems-xpvista710/"><u>How to Restore Default Configuration for a Dell Device in Windows Operating Systems (XP/Vista/7/10)</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-google-pixel-8-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Google Pixel 8 is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-mastery-crafting-joy-via-adobe/"><u>In 2024, Memetic Mastery Crafting Joy via Adobe</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-lava-yuva-2-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Lava Yuva 2 Pro and Browser | Dr.fone</u></a></li>
 <li><a href="https://fox-place.techidaily.com/lost-no-more-a-step-by-step-guide-to-retrieve-and-rebuild-vanished-firefox-bookmarks/"><u>Lost No More: A Step-by-Step Guide to Retrieve and Rebuild Vanished Firefox Bookmarks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/pasos-faciles-y-seguros-para-cambiar-tu-sistema-operativo-al-ssd-mas-compacto-una-guia-de-3-etapas/"><u>Pasos Fáciles Y Seguros Para Cambiar Tu Sistema Operativo Al SSD Más Compacto: Una Guía De 3 Etapas</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/premier-asian-tongues-leading-three-countries/"><u>Premier Asian Tongues: Leading Three Countries</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728499717211-onedrive/"><u>OneDrive同步文件夹移除指南：四种有效方法</u></a></li>
 <li><a href="https://fox-place.techidaily.com/1728462475879-ssdwindows-11/"><u>SSDコピーに違いなく、Windows 11専用の最高ソフトウェアを見つけた！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-xlivedll-errors-in-windows-operating-systems/"><u>Step-by-Step Fixes for Missing Xlive.dll Errors in Windows Operating Systems ⚙️</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/understanding-windows-power-management-tools-exploring-their-objectives-and-functions/"><u>Understanding Window's Power Management Tools: Exploring Their Objectives and Functions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unmasking-instagrams-unnoticed-capabilities/"><u>Unmasking Instagram’s Unnoticed Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repurposing Your Windows cuatekBackup on Different Devices
-date: 2025-01-11T23:58:51.908Z
-updated: 2025-01-14T22:47:10.104Z
+date: 2025-03-02T15:18:57.630Z
+updated: 2025-03-06T17:42:39.952Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4d26d72af2668f6ed0487010.jpg
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -46,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -89,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -108,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,21 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-premier-green-screen-tech-how-to-optimize-usage-for-2024/"><u>[New] Premier Green Screen Tech How to Optimize Usage for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-top-11-list-excellent-audio-devices/"><u>[Updated] 2024 Approved Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevate-engagement-10-effective-facebook-video-tips-for-2024/"><u>[Updated] Elevate Engagement 10 Effective Facebook Video Tips for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mpegaiffmovavi/"><u>自由下載無限制的MPEG到AIFF格式轉移：Movavi電子化節省時間</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-tutorial-booting-into-dfurecovery-mode-for-ios-hardware-fixes/"><u>Complete Tutorial: Booting Into DFU/Recovery Mode for iOS Hardware Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/des-techniques-simplifiees-pour-changer-un-fichier-ts-en-format-mp4/"><u>Des Techniques Simplifiées Pour Changer Un Fichier TS en Format MP4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-language-leaders-googles-palm-2-vs-gpt-4/"><u>Dissecting Language Leaders: Google's PaLM 2 Vs. GPT-4</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dynamic-image-gallery-interactive-slideshows-online/"><u>Dynamic Image Gallery: Interactive Slideshows Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-correcting-problems-with-your-astro-a50-and-command-center-connection-failure/"><u>Guide: Correcting Problems with Your Astro A50 and Command Center Connection Failure</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-preventing-intrusive-promotions-during-web-browsing-in-chrome-mobile-on-android-phones/"><u>Guide: Preventing Intrusive Promotions During Web Browsing in Chrome Mobile on Android Phones</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ios-photo-editing-simplified-comprehensive-tutorial-for-apowersoft-background-eraser-app-users/"><u>IOS Photo Editing Simplified: Comprehensive Tutorial for Apowersoft Background Eraser App Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-sqlite-connections-essential-tips-and-steps-for-setup/"><u>Mastering SQLite Connections: Essential Tips and Steps for Setup</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>New 2024 Approved How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/proficient-approaches-for-tiktok-bios-with-linked-content/"><u>Proficient Approaches for TikTok Bios with Linked Content</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-eliminating-individuals-from-photos-using-photoshop/"><u>Step-by-Step Guide: Eliminating Individuals From Photos Using Photoshop</u></a></li>
-<li><a href="https://fox-place.techidaily.com/why-select-malwarefox-as-your-primary-defense-against-cyber-threats/"><u>Why Select MalwareFox as Your Primary Defense Against Cyber Threats?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-branding-hacks-10-must-use-online-tools-for-2024/"><u>[New] Channel Branding Hacks 10 Must-Use Online Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-practices-for-streaming-athletic-games-real-time/"><u>[New] In 2024, Best Practices for Streaming Athletic Games Real-Time</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-easy-steps-for-tempo-control-in-instagram-videos/"><u>[Updated] 2024 Approved Easy Steps for Tempo Control in Instagram Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-handbook-to-understanding-twitch-interactions-and-chat-dynamics/"><u>Beginner's Handbook to Understanding Twitch Interactions and Chat Dynamics</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-g2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo G2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/boost-your-computers-performance-with-simple-cleanup-methods-guidance-by-yl-software-experts/"><u>Boost Your Computer's Performance with Simple Cleanup Methods - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/enhancing-your-computers-efficiency-boost-cpu-power-with-expert-tips-from-yl-computing/"><u>Enhancing Your Computer's Efficiency: Boost CPU Power with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-local-instance-of-gpt-4-allowed-by-gpt4all-get-set-up-in-minutes/"><u>Free Local Instance of GPT-4 Allowed by GPT4All – Get Set Up in Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-talk-to-action-gpt-driven-advances-in-watch-tech/"><u>From Talk to Action: GPT-Driven Advances in Watch Tech</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-can-i-enhance-graphic-performance-on-my-pc-with-effective-optimization-techniques-tips-and-tricks-from-yl-computing/"><u>How Can I Enhance Graphic Performance on My PC with Effective Optimization Techniques? - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-7-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 7 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/prolonged-scanning-times-unraveling-the-reasons-behind-your-scanners-delays-insights-by-yl-computing/"><u>Prolonged Scanning Times: Unraveling the Reasons Behind Your Scanner's Delays - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-your-pcs-network-connection-problems-expert-tips-from-yl-computing-and-yl-software/"><u>Resolving Your PC's Network Connection Problems: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/steps-to-verify-the-presence-of-latest-system-enhancements-on-your-device-tips-from-yl-software-experts/"><u>Steps to Verify the Presence of Latest System Enhancements on Your Device – Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-complete-document-scans-solutions-by-yl-software-experts/"><u>Troubleshooting Complete Document Scans: Solutions by YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/turn-on-or-off-cortana-feature-in-windows-10-expert-advice-from-yl-software-experts/"><u>Turn On or Off Cortana Feature in Windows 10 – Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-mastery-of-video-segmentation-for-2024/"><u>Unlocking YouTube Mastery of Video Segmentation for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.6.0.2 Karaoke Application - New Release Available Now on PCDJ!
-date: 2025-02-12T01:53:09.231Z
-updated: 2025-02-18T21:56:46.118Z
+date: 2025-03-02T12:15:05.217Z
+updated: 2025-03-07T05:21:53.158Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
 
 LYRX updates have been fast and furious over the last few weeks. This was not entirely unexpected; there have been dramatic changes to our graphics engine code in response to macOS Catalina. When changes to the foundation of your code base are required, as it has been in the case of LYRX 1.6 and higher, you’re always going to find issues that weren’t present in prior iterations.
@@ -32,17 +28,9 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
 
@@ -54,10 +42,6 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 **IMPORTANT NOTE:** If you receive this warning _“lyrx-v1.6.0.2-r2–installer\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -78,22 +62,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/irst-steps-on-the-path-equipment-for-beginners-for-2024/"><u>[New] First Steps on the Path Equipment for Beginners for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[Updated] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>[Updated] Select Selections Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728498595114-aomei-backupper/"><u>外部ドライブへのバックアップを始める方法：AOMEI Backupperガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-windows-narrators-legacy-keyboard-shortcuts/"><u>A Complete Guide to Windows Narrator's Legacy Keyboard Shortcuts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/abrufen-versehentlich-geloschter-dokumente-schritt-fur-schritt-anleitung-mit-unterstutzung-durch-die-myrecover-software/"><u>Abrufen Versehentlich Gelöschter Dokumente: Schritt-Für-Schritt-Anleitung Mit Unterstützung Durch Die MyRecover Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comment-sauver-vos-informations-sur-un-disque-rar-endommage-sans-pertes-de-donnees/"><u>Comment Sauver Vos Informations Sur Un Disque RAR Endommagé Sans Pertes De Données?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-solutions-for-fixing-seagate-dashboard-issues/"><u>Effective Solutions for Fixing Seagate Dashboard Issues</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guide-dactualisation-totale-pour-onedrive-les-etapes-simples-a-suivre/"><u>Guide D’actualisation Totale Pour OneDrive : Les Étapes Simples À Suivre</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-top-ranked-collage-assemblers-unveiled/"><u>In 2024, Android’s Top-Ranked Collage Assemblers Unveiled</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-zero-5g-2023-turbo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Zero 5G 2023 Turbo FRP Bypass</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-best-apps-to-create-engaging-video-invitations-on-your-smartphone-for-2024/"><u>New Best Apps to Create Engaging Video Invitations on Your Smartphone for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/rescue-your-lost-sounds-effective-techniques-for-recovering-permanently-deleted-music-and-podcasts-across-phones-and-pcs/"><u>Rescue Your Lost Sounds: Effective Techniques for Recovering Permanently Deleted Music and Podcasts Across Phones and PCs</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ssdacer/"><u>SSDへのAcerノートブックアップグレード手順：詳細ガイド</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ultimate-guide-retrieving-data-from-unresponsive-external-drives/"><u>Ultimate Guide: Retrieving Data From Unresponsive External Drives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-media-script-synthesizer/"><u>[New] 2024 Approved Media Script Synthesizer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-background-guide-for-online-video-calls/"><u>[New] 2024 Approved The Ultimate Background Guide for Online Video Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-maximizing-your-gaming-with-xbox-screenshots/"><u>[New] Maximizing Your Gaming with Xbox Screenshots</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728500775087-windows-11-nvme-ssd/"><u>如何將 Windows 11 系統成功移植到 NVMe SSD 驅動器</u></a></li>
+<li><a href="https://fox-place.techidaily.com/aomei-jessica/"><u>AOMEI 資料庫最佳化：Jessica 作家介紹及其深度洞察</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-creer-une-image-de-demarrage-clonee-sur-windows-11-pour-une-installation-fiable-et-sans-risque/"><u>Comment Créer Une Image De Démarrage Clonée Sur Windows 11 Pour Une Installation Fiable Et Sans Risque</u></a></li>
+<li><a href="https://fox-place.techidaily.com/como-fazer-seu-proprio-disco-de-instalacao-bootable-para-windows-pre-installed-environment-linux-ou-iso-formatos-usbdvd/"><u>Como Fazer Seu Próprio Disco De Instalação Bootable Para Windows Pre-Installed Environment, Linux Ou ISO Formatos USB/DVD</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211011895-9781761039461-el-despertar-del-tercer-ojo/"><u>El despertar del Tercer Ojo | Free Book</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-aiseesofts-screencasting-features-for-2024/"><u>Essential Guide to Aiseesoft's Screencasting Features for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-etape-par-etape-pour-restaurer-definitivement-les-mails-perdus-sur-outlook/"><u>Guide Étape Par Étape Pour Restaurer Définitivement Les Mails Perdus Sur Outlook.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-gt-3-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme GT 3</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-sleep-solutions-for-the-ultimate-relaxation-experience-before-bedtime/"><u>Innovative Sleep Solutions for the Ultimate Relaxation Experience Before Bedtime</u></a></li>
+<li><a href="https://facebook.techidaily.com/premier-locations-to-scout-for-freelancer-roles/"><u>Premier Locations to Scout for Freelancer Roles</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-tutorial-on-safely-upgrading-your-ssd-while-preserving-all-files/"><u>Step-by-Step Tutorial on Safely Upgrading Your SSD While Preserving All Files</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshoot-and-resolve-non-functional-asus-system-recovery-f9-expert-tips-and-steps/"><u>Troubleshoot and Resolve Non-Functional Asus System Recovery (F9): Expert Tips & Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/waterproof-accessories-for-outdoor-filming-for-2024/"><u>Waterproof Accessories for Outdoor Filming for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728463618500-windows-11/"><u>Windows 11 優良免費複製工具：網上最好選擇用來系統移轉和資料克隆</u></a></li>
 </ul></div>
 
